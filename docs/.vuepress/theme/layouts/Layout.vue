@@ -24,7 +24,7 @@ const innerComponent = computed(() => {
   <div class="site">
     <header class="navbar">
       <div class="navbar-inner">
-        <RouteLink to="/" class="site-name">My Blog</RouteLink>
+        <RouteLink to="/" class="site-name">Zirno_81's Blog</RouteLink>
         <nav class="nav-links">
           <RouteLink to="/">主页</RouteLink>
           <RouteLink to="/archive.html">归档</RouteLink>
@@ -36,7 +36,7 @@ const innerComponent = computed(() => {
       <component :is="innerComponent" />
     </main>
     <footer class="site-footer">
-      <p>&copy; {{ new Date().getFullYear() }} My Blog</p>
+      <p>&copy; {{ new Date().getFullYear() }} Zirno_81's Blog</p>
     </footer>
   </div>
 </template>
