@@ -5,8 +5,8 @@ friends:
     url: https://blog.imyangty.com/
     desc: 大神
   - name: swl
-    url: https://saxwithloli.site/
-    desc: 大神
+    url: https://sxwthll.online/
+    desc: 萨克斯选手🎷
   - name: Murasaki
     url: https://murasaki010.github.io/
     desc: 学RL学的
