@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref, computed } from "vue";
+import { RouteLink } from "vuepress/client";
 import { posts } from "@temp/blog/posts.js";
 
 const currentPage = ref(1);
@@ -46,7 +47,7 @@ function goPage(n: number) {
       <h2 class="archive-month">{{ group.label }}</h2>
       <ul class="archive-list">
         <li v-for="post in group.posts" :key="post.path" class="archive-item">
-          <a :href="post.path" class="archive-title">{{ post.title }}</a>
+          <RouteLink :to="post.path" class="archive-title">{{ post.title }}</RouteLink>
           <span class="archive-date">{{ formatDate(post.date as string) }}</span>
         </li>
       </ul>

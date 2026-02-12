@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import { usePageData } from "vuepress/client";
-import { Content } from "vuepress/client";
+import { usePageData, withBase, Content } from "vuepress/client";
 
 const page = usePageData();
 </script>
@@ -8,7 +7,7 @@ const page = usePageData();
 <template>
   <div class="home-layout">
     <div class="avatar-wrapper">
-      <img class="avatar" src="/avatar.png" alt="avatar" />
+      <img class="avatar" :src="withBase('/avatar.png')" alt="avatar" />
     </div>
     <div class="home-content">
       <Content />

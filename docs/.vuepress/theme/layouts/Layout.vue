@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { usePageFrontmatter, usePageData } from "vuepress/client";
+import { usePageFrontmatter, usePageData, RouteLink } from "vuepress/client";
 import { computed } from "vue";
 import Home from "./Home.vue";
 import Archive from "./Archive.vue";
@@ -24,11 +24,11 @@ const innerComponent = computed(() => {
   <div class="site">
     <header class="navbar">
       <div class="navbar-inner">
-        <a href="/" class="site-name">My Blog</a>
+        <RouteLink to="/" class="site-name">My Blog</RouteLink>
         <nav class="nav-links">
-          <a href="/">主页</a>
-          <a href="/archive.html">归档</a>
-          <a href="/friends.html">友链</a>
+          <RouteLink to="/">主页</RouteLink>
+          <RouteLink to="/archive.html">归档</RouteLink>
+          <RouteLink to="/friends.html">友链</RouteLink>
         </nav>
       </div>
     </header>

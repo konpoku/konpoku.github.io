@@ -4,6 +4,7 @@ import MarkdownItMathjax3 from "markdown-it-mathjax3";
 import theme from "./theme";
 
 export default defineUserConfig({
+  base: "/Simple-Vue-Blog/",
   lang: "zh-CN",
   title: "My Blog",
   description: "一个极简风格的博客",
