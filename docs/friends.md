@@ -1,13 +1,31 @@
 ---
 page: friends
 friends:
-  - name: Vue.js
-    url: https://vuejs.org
-    desc: 渐进式 JavaScript 框架
-  - name: VuePress
-    url: https://v2.vuepress.vuejs.org
-    desc: Vue 驱动的静态网站生成器
-  - name: GitHub
-    url: https://github.com
-    desc: 全球最大的代码托管平台
+  - name: Yangty
+    url: https://blog.imyangty.com/
+    desc: 大神
+  - name: swl
+    url: https://saxwithloli.site/
+    desc: 大神
+  - name: Murasaki
+    url: https://murasaki010.github.io/
+    desc: 学RL学的
+  - name: rosist-sallina
+    url: https://rosist-sallina.github.io/
+    desc: 东海帝王
+  - name: ajssad
+    url: https://ajssad.blogspot.com/
+    desc: 啊啊啊酱可爱
+  - name: 犬戎
+    url: https://inuebisu.cn/
+    desc: 可爱的小犬戎
+  - name: 招财鱼QWQ
+    url: https://www.zcysky.com/
+    desc: 招财鱼招招财
+  - name: tyanyuy3125
+    url: https://illumiart.net/
+    desc: Walking on the manifold.
+  - name: 槲寄生
+    url: https://yadorigi.space/
+    desc: Another choice.
 ---
