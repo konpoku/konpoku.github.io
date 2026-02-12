@@ -7,7 +7,7 @@ const page = usePageData();
 <template>
   <div class="home-layout">
     <div class="avatar-wrapper">
-      <img class="avatar" :src="withBase('/avatar.png')" alt="avatar" />
+      <img class="avatar" :src="withBase('/avatar.jpg')" alt="avatar" />
     </div>
     <div class="home-content">
       <Content />

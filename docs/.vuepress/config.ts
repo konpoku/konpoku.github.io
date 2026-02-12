@@ -6,8 +6,8 @@ import theme from "./theme";
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
-  title: "My Blog",
-  description: "一个极简风格的博客",
+  title: "Zirno_81的博客",
+  description: "而那未曾谋面的故事仍在继续",
   theme,
   bundler: viteBundler(),
   extendsMarkdown: (md) => {
