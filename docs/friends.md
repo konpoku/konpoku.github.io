@@ -1,7 +1,7 @@
 ---
 page: friends
 friends:
-  - name: Yangty
+  - name: YangTY
     url: https://blog.imyangty.com/
     desc: 大神
   - name: swl
