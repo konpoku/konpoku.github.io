@@ -1,9 +1,12 @@
 <script setup lang="ts">
 import { usePageFrontmatter, usePageData } from "vuepress/client";
 import { Content } from "vuepress/client";
+import { useCopyCode } from "../composables/useCopyCode";
 
 const frontmatter = usePageFrontmatter<{ date?: string }>();
 const page = usePageData();
+
+useCopyCode();
 
 function formatDate(date?: string) {
   if (!date) return "";
