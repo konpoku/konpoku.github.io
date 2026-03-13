@@ -20,3 +20,6 @@ debug1: channel 1: connection failed: Connection refused
 ```
 ## 26.03.12 别手动配VLLM/SGLang/Verl/rllm/AReaL/等框架环境
 md这些环境都不帮你装主要依赖的，能用docker尽量用docker，手动配还得自己下flash attention真是逆天
+
+## 26.03.12 使用代理apt update的时候要使用sudo -E
+参考[这个issue](https://github.com/NVIDIA/nvidia-docker/issues/1296#issuecomment-646521766c)，
