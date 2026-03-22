@@ -21,5 +21,15 @@ debug1: channel 1: connection failed: Connection refused
 ## 26.03.12 别手动配VLLM/SGLang/Verl/rllm/AReaL/等框架环境
 md这些环境都不帮你装主要依赖的，能用docker尽量用docker，手动配还得自己下flash attention真是逆天
 
-## 26.03.12 使用代理apt update的时候要使用sudo -E
+## 26.03.13 使用代理apt update的时候要使用sudo -E
 参考[这个issue](https://github.com/NVIDIA/nvidia-docker/issues/1296#issuecomment-646521766c)，
+
+## 26.03.13 docker 配置 nvidia runtime 遇到无法识别问题
+参考[这个issue](https://github.com/Steam-Headless/docker-steam-headless/issues/117)
+
+## 26.03.21 Verl: Profiling
+是不会向指定的output dir输出的，非常邪门，需要到/tmp/ray/session_latest/logs/nsight/
+记得general_profiler和actor/critic都要设置
+
+## 26.03.22 Verl: AssertionError: The device mesh of a tensor should be a root mesh.
+忘记删原有的checkpoint了，十分邪门！
