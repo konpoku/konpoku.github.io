@@ -32,4 +32,10 @@ md这些环境都不帮你装主要依赖的，能用docker尽量用docker，手
 记得general_profiler和actor/critic都要设置
 
 ## 26.03.22 Verl: AssertionError: The device mesh of a tensor should be a root mesh.
-忘记删原有的checkpoint了，十分邪门！
+修改fsdp配置后忘记删原有的checkpoint了，十分邪门！
+
+## 26.03.22 Verl: Shared Mem 爆了
+```
+(SGLangHttpServer pid=1725490, ip=172.16.240.14) [2026-03-22 04:12:17] gpu4:1725805:1727748 [0] misc/shmutils.cc:129 NCCL WARN Error while creating shared memory segment /dev/shm/nccl-919NBf (size 33030528), error: No space left on device (28) [repeated 2x across cluster]
+```
+记得清理一下/dev/shm
