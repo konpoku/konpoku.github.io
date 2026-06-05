@@ -28,4 +28,7 @@ friends:
   - name: 槲寄生
     url: https://yadorigi.space/
     desc: Another choice.
+  - name: rubatotree
+    url: https://rubatotree.github.io/blog/
+    desc: 可爱小雾鸣
 ---
