@@ -33,5 +33,5 @@ friends:
     desc: 可爱小雾鸣
   - name: 芳芳
     url: https://richardf123.github.io/
-    desc: 〇〇大道北
+    desc: 红磡大道南
 ---
