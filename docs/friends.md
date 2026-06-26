@@ -28,7 +28,7 @@ friends:
   - name: 槲寄生
     url: https://yadorigi.space/
     desc: Another choice.
-  - name: rubatotree
+  - name: Umbrella Coffee
     url: https://rubatotree.github.io/blog/
     desc: 可爱小雾鸣
   - name: 芳芳
