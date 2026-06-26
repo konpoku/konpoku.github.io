@@ -31,4 +31,7 @@ friends:
   - name: rubatotree
     url: https://rubatotree.github.io/blog/
     desc: 可爱小雾鸣
+  - name: 芳芳
+    url: https://richardf123.github.io/
+    desc: 〇〇大道北
 ---
