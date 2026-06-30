@@ -1,46 +1,37 @@
 ---
 page: home
+profile:
+  name: "赵禹晋"
+  englishName: "Yujin Zhao"
+  role: "Undergraduate Student"
+  affiliation: "Dept. of EE, THU"
+  location: "Beijing, China"
+  email: "bsy998244353@gmail.com"
+  avatar: "/avatar.jpg"
+  bio: "我主要关注机器学习系统、大模型训推优化。我是[清华电子系学生科协](https://github.com/eesast)现任副主席。"
+interests:
+  - "机器学习系统：解决训练、推理与工程化部署中的效率问题。"
+  - "大模型软硬件协同优化：探索软硬件联合优化以提升大模型的训练和推理效率。"
+  - "Agent 系统：探索大模型主导的自动系统。"
+education:
+  - period: "2023 - Present"
+    title: "B.Eng. Candidate"
+    org: " THU Dept. of EE"
+    desc: "主修电子信息；兴趣集中在Computer System & Architecture。"
+internships:
+  - period: "2026.07 - Present"
+    title: "Research Intern"
+    org: "ByteDance Seed"
+    desc: "即将入职"
+  - period: "2026.05 - 2026.06"
+    title: "Engineering Intern"
+    org: "清程极智 Chitu.ai"
+    desc: "大模型推理系统组，参与赤兔推理引擎的研发和优化。"
+  - period: "2025.09 - 2025.12"
+    title: "Research Intern"
+    org: "Microsoft Research Asia"
+    desc: "网络基础设施组，参与大模型推理集合通信相关研究。"
 ---
 
-这里是Zirno_81的博客，主要用来分享课程笔记和技术上的事情。
 
-放一首诗在这里吧
-
-
-
-相信未来 ◎ 食指<br>
-<br>
-当蜘蛛网无情地查封了我的炉台，<br>
-当灰烬的余烟叹息着贫困的悲哀，<br>
-我依然固执地铺平失望的灰烬，<br>
-用美丽的雪花写下：相信未来。<br>
-<br>
-当我的紫葡萄化为深秋的露水，<br>
-当我的鲜花依偎在别人的情怀，<br>
-我依然固执地用凝霜的枯藤，<br>
-在凄凉的大地上写下：相信未来。<br>
-<br>
-我要用手指那涌向天边的排浪，<br>
-我要用手掌那托起太阳的大海，<br>
-摇曳着曙光那支温暖漂亮的笔杆，<br>
-用孩子的笔体写下：相信未来。<br>
-<br>
-我之所以坚定地相信未来，<br>
-是我相信未来人们的眼睛——<br>
-她有拨开历史风尘的睫毛，<br>
-她有看透岁月篇章的瞳孔。<br>
-<br>
-不管人们对于我们腐烂的皮肉，<br>
-那些迷途的惆怅，失败的苦痛，<br>
-是寄予感动的热泪，深切的同情，<br>
-还是给以轻蔑的微笑，辛辣的嘲讽。<br>
-<br>
-我坚信人们对于我们的脊骨，<br>
-那无数次地探索、迷途、失败和成功，<br>
-一定会给予热情、客观、公正的评定，<br>
-是的，我焦急地等待着他们的评定。<br>
-<br>
-朋友，坚定地相信未来吧，<br>
-相信不屈不挠的努力，<br>
-相信战胜死亡的年轻，<br>
-相信未来，热爱生命。
+还是要找点有意思的事情做。
