@@ -621,6 +621,44 @@ a:hover {
     border-radius: 4px;
 }
 
+/* Tables */
+.post-content .table-wrapper {
+    margin-bottom: 16px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow-x: auto;
+}
+
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.post-content thead th {
+    background: var(--blue-subtle);
+    border-bottom: 1px solid var(--blue-border);
+    font-weight: 600;
+    color: var(--text);
+}
+
+.post-content th,
+.post-content td {
+    padding: 10px 14px;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--border-light);
+}
+
+.post-content tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.post-content tbody tr:hover {
+    background: var(--bg-code);
+}
+
 .post-content a {
     color: var(--blue);
     border-bottom: 1px solid transparent;
@@ -743,5 +781,10 @@ div[class*="language-"]:hover .copy-btn {
 
     .friends-grid {
         grid-template-columns: 1fr;
+    }
+
+    .post-content th,
+    .post-content td {
+        padding: 8px 10px;
     }
 }
