@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="20px" viewBox="0 0 40 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>wave-sine-2x</title>
+    <g id="wave-sine-2x" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Group" transform="translate(1.000000, 2.000000)" fill-rule="nonzero" stroke="#000000" stroke-width="1.77777778">
+            <path d="M0,8 C1.70208333,2.9 3.04791667,0 4.75,0 C6.72916667,0 7.99583333,3.7 9.5,8 C11.0041667,12 11.6770833,16 14.25,16 C16.6645833,16 17.8520833,11.3 19,8" id="sine"></path>
+            <path d="M19,8 C20.7020833,2.9 22.0479167,0 23.75,0 C25.7291667,0 26.9958333,3.7 28.5,8 C30.0041667,12 30.6770833,16 33.25,16 C35.6645833,16 36.8520833,11.3 38,8" id="sine"></path>
+        </g>
+    </g>
+</svg>

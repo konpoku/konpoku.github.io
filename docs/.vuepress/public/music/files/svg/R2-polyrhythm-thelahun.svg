@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="238px" viewBox="0 0 1200 238" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R2-polyrhythm-thelahun</title>
+    <g id="R2-polyrhythm-thelahun" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="beatcell1" fill="#EBEBEB" x="186.044895" y="22.7299425" width="119.868078" height="44.9504807"></rect>
+        <rect id="beatcell3" fill="#EBEBEB" x="310.908039" y="22.7299425" width="119.868078" height="44.9504807"></rect>
+        <rect id="beatcell5" fill="#EBEBEB" x="435.769683" y="22.7299425" width="119.868078" height="44.9504807"></rect>
+        <rect id="beatcell7" fill="#EBEBEB" x="560.632827" y="22.7299425" width="119.868078" height="44.9504807"></rect>
+        <g id="column" transform="translate(187.500000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(312.000000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(438.000000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(562.500000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(687.000000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(811.500000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(937.500000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(1062.000000, 75.000000)">
+            <rect id="cell34" fill="#FA6400" x="0" y="0" width="118.5" height="57" rx="3"></rect>
+            <line x1="59.25" y1="6.75" x2="59.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="89.25" y1="6.75" x2="89.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="29.25" y1="6.75" x2="29.25" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(186.000000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(295.500000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(403.500000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(513.000000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(622.500000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(732.000000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(841.500000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(951.000000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(1062.000000, 136.500000)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="105" height="57" rx="3"></rect>
+            <line x1="60.75" y1="6.75" x2="60.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="75.75" y1="6.75" x2="75.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="90.75" y1="6.75" x2="90.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="30.75" y1="6.75" x2="30.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="15.75" y1="6.75" x2="15.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+            <line x1="45.75" y1="6.75" x2="45.75" y2="50.25" id="Path-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(1170.000000, 136.500000)" fill="#5CB300">
+            <path d="M3,0 L6.70142886,0 C8.35828311,1.02790844e-15 9.70142886,1.34314575 9.70142886,3 C9.70142886,3.54373184 9.55365536,4.07724106 9.27390764,4.54348727 L7.5,7.5 L7.5,7.5 L12,15 L7.5,21.375 L12,28.5 L7.5,35.25 L12,42.75 L7.5,48.75 L9.58006015,52.5634436 C10.3734483,54.0179886 9.83747483,55.8402985 8.38292982,56.6336867 C7.94226402,56.8740499 7.4483304,57 6.94637343,57 L3,57 C1.34314575,57 2.02906125e-16,55.6568542 0,54 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="cell34"></path>
+        </g>
+        <rect id="TH3" fill="#DCDCDC" x="23.7238906" y="22.7299425" width="156.07821" height="44.9504807"></rect>
+        <rect id="TH5" fill="#DCDCDC" x="23.7238906" y="75.1061441" width="156.07821" height="57.4367253"></rect>
+        <text id="小節" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="19.5" font-weight="500">
+            <tspan x="79.5" y="51.5">小節</tspan>
+        </text>
+        <rect id="TH6" fill="#DCDCDC" x="23.7238906" y="137.974196" width="156.07821" height="57.4367253"></rect>
+        <text id="ギター2" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="19.5" font-weight="500">
+            <tspan x="91.308" y="173.436725">吉他2</tspan>
+        </text>
+        <g id="29-electric-guitar-outline" transform="translate(34.500038, 144.000000)" stroke="#000000" stroke-linejoin="round" stroke-width="1.5">
+            <polygon id="Path" stroke-linecap="round" points="31.4999618 5.25 30.7499618 4.5 30.7499618 3 31.4999618 2.25 32.9999618 2.25 33.7499618 3 33.7499618 4.5 32.9999618 5.25"></polygon>
+            <polygon id="Path" stroke-linecap="round" points="35.9999618 3 35.2499618 2.25 35.2499618 0.75 35.9999618 0 37.4999618 0 38.2499618 0.75 38.2499618 2.25 37.4999618 3"></polygon>
+            <path d="M17.0459618,23.694 C16.9657118,22.61175 17.0384618,21.084 17.6219618,19.22475 C18.0502118,17.8605 17.1269618,16.37325 15.7034618,16.23675 C14.8694618,16.1565 13.8817118,16.51575 12.8414618,17.84625 C12.8414618,17.84625 10.7452118,24.7335 7.12046178,25.704 C5.45546178,26.15025 3.84221178,26.8095 2.56571178,27.96825 C0.515211776,29.82975 -1.27128822,32.91675 1.20521178,37.33425 C2.06771178,38.87175 3.26246178,40.2 4.65521178,41.28 C5.06321178,41.5965 5.52671178,41.92875 6.03371178,42.24975 C11.0377118,45.411 17.6767118,42.3405 18.2287118,36.447 C18.2347118,36.387 18.2399618,36.3255 18.2444618,36.264 C18.4552118,33.4635 20.1337118,30.94875 22.7729618,29.98875 C23.0362118,29.89275 23.3122118,29.80425 23.6024618,29.72475 C24.3689618,29.51325 24.9029618,28.72875 24.6704618,27.96825 C24.4589618,27.27675 23.6639618,26.74575 21.3269618,27.39225 C21.3269618,27.39225 20.2582118,27.73125 18.9524618,26.958 C17.8072118,26.27925 17.1434618,25.0215 17.0459618,23.694 L17.0459618,23.694 Z" id="Path"></path>
+            <path d="M30.8054618,6.93075 L17.0219618,23.04075 C17.0234618,23.27175 17.0309618,23.493 17.0459618,23.694 C17.1434618,25.0215 17.8072118,26.27925 18.9524618,26.958 C19.0702118,27.027 19.1827118,27.078 19.2959618,27.1305 L33.9787118,10.122 C32.1629618,10.26675 30.7537118,8.6265 30.8054618,6.93075 L30.8054618,6.93075 Z M28.6327118,16.31475 L25.4767118,13.15875 L28.6327118,16.31475 Z M25.6844618,19.73025 L22.5427118,16.5885 L25.6844618,19.73025 Z M19.6079618,20.01825 L22.7362118,23.14575 L19.6079618,20.01825 Z M15.7574618,27.0075 L8.94671178,33.81825 L15.7574618,27.0075 Z M7.35596178,32.22675 L14.9159618,24.666 L7.35596178,32.22675 Z M17.3482118,28.59825 L10.5374618,35.409 L17.3482118,28.59825 Z M10.0064618,39.294 L3.64271178,32.93025 L5.76446178,30.636 L12.1289618,36.99975 L10.0064618,39.294 L10.0064618,39.294 Z" id="Stroke-496" stroke-linecap="round"></path>
+            <path d="M43.2554618,1.14825 C43.0424618,0.50775 42.5137118,-0.1035 41.2499618,0.015 C41.2499618,0.015 39.9914618,0.12225 38.2282118,0.72825 L38.2499618,0.75 L38.2499618,2.25 L37.4999618,3 L35.9999618,3 L35.2499618,2.25 L35.2499618,2.097 C34.7534618,2.3865 34.2517118,2.71875 33.7499618,3.0945 L33.7499618,4.5 L32.9999618,5.25 L31.4999618,5.25 L31.4549618,5.205 C29.6392118,7.4385 31.8337118,10.92525 34.6559618,9.99825 C35.0129618,9.88125 35.3752118,9.70575 35.7307118,9.45375 C36.2249618,9.1035 36.5752118,8.58375 36.7582118,8.00625 C36.9494618,7.404 37.0777118,6.52575 37.9717118,5.69325 C38.4239618,5.27325 39.3877118,4.9185 40.1294618,4.61475 C40.7084618,4.37775 41.7742118,4.51725 42.6734618,3.5445 C43.2689618,2.901 43.5314618,1.98 43.2554618,1.14825 L43.2554618,1.14825 Z" id="Stroke-508"></path>
+        </g>
+        <text id="ギター1" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="19.5" font-weight="500">
+            <tspan x="91.308" y="111.936725">吉他1</tspan>
+        </text>
+        <g id="29-electric-guitar-outline" transform="translate(34.500038, 82.500000)" stroke="#000000" stroke-linejoin="round" stroke-width="1.5">
+            <polygon id="Path" stroke-linecap="round" points="31.4999618 5.25 30.7499618 4.5 30.7499618 3 31.4999618 2.25 32.9999618 2.25 33.7499618 3 33.7499618 4.5 32.9999618 5.25"></polygon>
+            <polygon id="Path" stroke-linecap="round" points="35.9999618 3 35.2499618 2.25 35.2499618 0.75 35.9999618 0 37.4999618 0 38.2499618 0.75 38.2499618 2.25 37.4999618 3"></polygon>
+            <path d="M17.0459618,23.694 C16.9657118,22.61175 17.0384618,21.084 17.6219618,19.22475 C18.0502118,17.8605 17.1269618,16.37325 15.7034618,16.23675 C14.8694618,16.1565 13.8817118,16.51575 12.8414618,17.84625 C12.8414618,17.84625 10.7452118,24.7335 7.12046178,25.704 C5.45546178,26.15025 3.84221178,26.8095 2.56571178,27.96825 C0.515211776,29.82975 -1.27128822,32.91675 1.20521178,37.33425 C2.06771178,38.87175 3.26246178,40.2 4.65521178,41.28 C5.06321178,41.5965 5.52671178,41.92875 6.03371178,42.24975 C11.0377118,45.411 17.6767118,42.3405 18.2287118,36.447 C18.2347118,36.387 18.2399618,36.3255 18.2444618,36.264 C18.4552118,33.4635 20.1337118,30.94875 22.7729618,29.98875 C23.0362118,29.89275 23.3122118,29.80425 23.6024618,29.72475 C24.3689618,29.51325 24.9029618,28.72875 24.6704618,27.96825 C24.4589618,27.27675 23.6639618,26.74575 21.3269618,27.39225 C21.3269618,27.39225 20.2582118,27.73125 18.9524618,26.958 C17.8072118,26.27925 17.1434618,25.0215 17.0459618,23.694 L17.0459618,23.694 Z" id="Path"></path>
+            <path d="M30.8054618,6.93075 L17.0219618,23.04075 C17.0234618,23.27175 17.0309618,23.493 17.0459618,23.694 C17.1434618,25.0215 17.8072118,26.27925 18.9524618,26.958 C19.0702118,27.027 19.1827118,27.078 19.2959618,27.1305 L33.9787118,10.122 C32.1629618,10.26675 30.7537118,8.6265 30.8054618,6.93075 L30.8054618,6.93075 Z M28.6327118,16.31475 L25.4767118,13.15875 L28.6327118,16.31475 Z M25.6844618,19.73025 L22.5427118,16.5885 L25.6844618,19.73025 Z M19.6079618,20.01825 L22.7362118,23.14575 L19.6079618,20.01825 Z M15.7574618,27.0075 L8.94671178,33.81825 L15.7574618,27.0075 Z M7.35596178,32.22675 L14.9159618,24.666 L7.35596178,32.22675 Z M17.3482118,28.59825 L10.5374618,35.409 L17.3482118,28.59825 Z M10.0064618,39.294 L3.64271178,32.93025 L5.76446178,30.636 L12.1289618,36.99975 L10.0064618,39.294 L10.0064618,39.294 Z" id="Stroke-496" stroke-linecap="round"></path>
+            <path d="M43.2554618,1.14825 C43.0424618,0.50775 42.5137118,-0.1035 41.2499618,0.015 C41.2499618,0.015 39.9914618,0.12225 38.2282118,0.72825 L38.2499618,0.75 L38.2499618,2.25 L37.4999618,3 L35.9999618,3 L35.2499618,2.25 L35.2499618,2.097 C34.7534618,2.3865 34.2517118,2.71875 33.7499618,3.0945 L33.7499618,4.5 L32.9999618,5.25 L31.4999618,5.25 L31.4549618,5.205 C29.6392118,7.4385 31.8337118,10.92525 34.6559618,9.99825 C35.0129618,9.88125 35.3752118,9.70575 35.7307118,9.45375 C36.2249618,9.1035 36.5752118,8.58375 36.7582118,8.00625 C36.9494618,7.404 37.0777118,6.52575 37.9717118,5.69325 C38.4239618,5.27325 39.3877118,4.9185 40.1294618,4.61475 C40.7084618,4.37775 41.7742118,4.51725 42.6734618,3.5445 C43.2689618,2.901 43.5314618,1.98 43.2554618,1.14825 L43.2554618,1.14825 Z" id="Stroke-508"></path>
+        </g>
+        <polygon id="_13" fill="#000000" points="242.48057 37.7867008 242.48057 54.651158 245.507238 54.651158 245.507238 35.0201058 240.682549 35.0201058 239.034364 37.7867008"></polygon>
+        <path d="M369.328328,51.9208929 L372.41493,48.3302057 C375.891103,44.3274724 376.73018,42.8264474 376.73018,40.7073534 C376.73018,37.3521211 373.913281,34.7621172 370.287272,34.7621172 C368.039747,34.7621172 366.211759,35.7039368 365.043045,37.4109848 C364.383771,38.4116681 364.084101,39.294624 363.904299,40.9722401 L366.901,40.9722401 C367.020868,39.8832612 367.20067,39.3829196 367.590241,38.8237142 C368.189582,37.9701902 369.238427,37.4698485 370.377173,37.4698485 C372.295062,37.4698485 373.793413,38.8825779 373.793413,40.7073534 C373.793413,41.9729234 373.074204,43.1207661 370.257305,46.4759984 L363.334926,54.7169198 L376.760147,54.7169198 L376.760147,51.9208929 L369.328328,51.9208929 Z" id="_21" fill="#000000"></path>
+        <path d="M494.371274,45.5930425 C495.749757,45.6224744 496.379064,45.7402018 496.948437,46.0639523 C497.847447,46.5937258 498.386853,47.6532729 498.386853,48.918843 C498.386853,50.9202096 496.978404,52.332939 495.000581,52.332939 C493.951736,52.332939 492.902891,51.891461 492.273583,51.1556645 C491.854045,50.6847547 491.70421,50.2727086 491.554375,49.3897528 L488.647575,49.3897528 C488.767443,50.7141866 488.917278,51.3616875 489.366783,52.1269159 C490.415629,53.9516914 492.483352,55.0406703 494.91068,55.0406703 C498.686524,55.0406703 501.353587,52.5683939 501.353587,49.0071385 C501.353587,46.9174763 500.514511,45.2987239 498.896293,44.3569043 C500.334709,43.356221 501.053917,41.9729234 501.053917,40.1775798 C501.053917,36.9989387 498.62659,34.7621172 495.120449,34.7621172 C492.932858,34.7621172 491.194771,35.5567774 490.235827,37.0283706 C489.666453,37.8524627 489.426717,38.5588274 489.157014,40.0892842 L492.153715,40.0892842 C492.363484,39.2063284 492.483352,38.8237142 492.753055,38.4705318 C493.232528,37.8230308 494.071604,37.4404166 495.060515,37.4404166 C496.858536,37.4404166 498.11715,38.6176911 498.11715,40.2953073 C498.11715,41.6786048 497.308041,42.7381519 496.079394,42.9736068 C495.629888,43.0619023 495.420119,43.0619023 494.371274,43.0619023 L494.371274,45.5930425 Z" id="_31" fill="#000000"></path>
+        <path d="M625.466056,49.2425934 L625.466056,33.6437064 L612.640176,51.9208929 L622.439388,51.9208929 L622.439388,54.7169198 L625.466056,54.7169198 L625.466056,51.9208929 L627.593714,51.9208929 L627.593714,49.2425934 L625.466056,49.2425934 Z M622.439388,49.2425934 L617.824469,49.2425934 L622.439388,42.6792881 L622.439388,49.2425934 Z" id="_41" fill="#000000"></path>
+        <rect id="beatcell9" fill="#EBEBEB" x="685.495971" y="23.5663329" width="119.868078" height="44.1477935"></rect>
+        <rect id="beatcell11" fill="#EBEBEB" x="810.357615" y="23.5663329" width="119.868078" height="44.1477935"></rect>
+        <rect id="beatcell13" fill="#EBEBEB" x="935.220759" y="23.5663329" width="119.868078" height="44.1477935"></rect>
+        <rect id="beatcell15" fill="#EBEBEB" x="1060.0839" y="23.5663329" width="119.868078" height="44.1477935"></rect>
+        <text id="5" font-family="Futura-Med, Futura" font-size="30" font-weight="400" fill="#000000">
+            <tspan x="736.995" y="53.5">5</tspan>
+        </text>
+        <text id="6" font-family="Futura-Med, Futura" font-size="30" font-weight="400" fill="#000000">
+            <tspan x="859.995" y="53.5">6</tspan>
+        </text>
+        <text id="7" font-family="Futura-Med, Futura" font-size="30" font-weight="400" fill="#000000">
+            <tspan x="982.995" y="53.5">7</tspan>
+        </text>
+        <text id="8" font-family="Futura-Med, Futura" font-size="30" font-weight="400" fill="#000000">
+            <tspan x="1105.995" y="53.5">8</tspan>
+        </text>
+        <path id="Line-2" d="M1058.5,199.684211 L1065.5,213.684211 L1059.5,213.684 L1059.5,225.315789 L1057.5,225.315789 L1057.5,213.684 L1051.5,213.684211 L1058.5,199.684211 Z" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

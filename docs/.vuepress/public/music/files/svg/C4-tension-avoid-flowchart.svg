@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="620px" height="720px" viewBox="0 0 620 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C4-tension-avoid-flowchart</title>
+    <g id="C4-tension-avoid-flowchart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="168.375" y1="289.125" x2="168.375" y2="354.125" id="Path-13" stroke="#222222"></line>
+        <polygon id="Path-14" fill="#222222" points="54 241.856419 168.751925 186 287 239.96596 168.751925 291"></polygon>
+        <polygon id="Path-14" fill="#222222" points="54 546.388385 168.751925 490 287 544.479922 168.751925 596"></polygon>
+        <rect id="Rectangle" stroke="#222222" x="354" y="500" width="240" height="84"></rect>
+        <rect id="Rectangle" stroke="#222222" x="34" y="354" width="272" height="84"></rect>
+        <rect id="Rectangle" stroke="#222222" x="32" y="39" width="272" height="84"></rect>
+        <text id="3rd・7thの半音上に位置する-ノンコ" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="59.16" y="78">位于3rd、7th上方半音处</tspan>
+            <tspan x="57" y="98">和弦外音即为避用音</tspan>
+        </text>
+        <text id="ドミナントセブンス?" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="94.064" y="245">属七和弦？</tspan>
+        </text>
+        <line x1="168.5" y1="439" x2="168.5" y2="490" id="Path-13" stroke="#222222"></line>
+        <line x1="278.5" y1="544.5" x2="354.5" y2="544.5" id="Path-13" stroke="#222222"></line>
+        <text id="IIm7?" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="147.6" y="549">IIm7?</tspan>
+        </text>
+        <text id="追加で13thがアヴォイド-(保守的な見" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="382.252" y="540">额外将13th视作避用音</tspan>
+            <tspan x="420.004" y="560">(保守见解)</tspan>
+        </text>
+        <text id="YES" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="300.236" y="233">YES</tspan>
+        </text>
+        <text id="終了" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="377" y="246">終了</tspan>
+        </text>
+        <text id="終了" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="153" y="699">終了</tspan>
+        </text>
+        <text id="Q1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="77.1" y="206">Q1</tspan>
+        </text>
+        <text id="Q2" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="77.1" y="512">Q2</tspan>
+        </text>
+        <text id="YES-Copy" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="300.236" y="537">YES</tspan>
+        </text>
+        <text id="NO" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="179.228" y="329">NO</tspan>
+        </text>
+        <text id="NO" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="179.228" y="635">NO</tspan>
+        </text>
+        <text id="コードトーンの半音上に位置する-ノンコー" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="50" y="393">位于和弦音上方半音（小二度）</tspan>
+            <tspan x="42" y="413">和弦外音全都是避用音</tspan>
+        </text>
+        <line x1="282" y1="240.5" x2="355" y2="240.5" id="Path-13" stroke="#222222"></line>
+        <line x1="168.375" y1="123.125" x2="168.375" y2="188.125" id="Path-13" stroke="#222222"></line>
+        <polygon id="Triangle" fill="#222222" transform="translate(359.500000, 240.500000) rotate(-270.000000) translate(-359.500000, -240.500000) " points="359.5 232 368 249 351 249"></polygon>
+        <polygon id="Triangle" fill="#222222" transform="translate(168.500000, 666.500000) rotate(-180.000000) translate(-168.500000, -666.500000) " points="168.5 658 177 675 160 675"></polygon>
+        <line x1="168.375" y1="595.125" x2="168.375" y2="660.125" id="Path-13" stroke="#222222"></line>
+        <text id="終了" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="455" y="699">終了</tspan>
+        </text>
+        <polygon id="Triangle" fill="#222222" transform="translate(470.500000, 666.500000) rotate(-180.000000) translate(-470.500000, -666.500000) " points="470.5 658 479 675 462 675"></polygon>
+        <line x1="470.5" y1="584.5" x2="470.375" y2="660.125" id="Path-13" stroke="#222222"></line>
+        <text id="スタート" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="136" y="30">开始</tspan>
+        </text>
+    </g>
+</svg>

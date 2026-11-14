@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="370px" viewBox="0 0 480 370" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-blk-as-terminal</title>
+    <g id="c8-blk-as-terminal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path-80" stroke="#FF6633" stroke-width="20" stroke-linecap="square" fill-rule="nonzero" points="246.5 170.5 246.5 224.5 294.5 273.5 294.5 382"></polyline>
+        <line x1="223" y1="170.5" x2="223" y2="307.5" id="Path-80" stroke="#FFBF00" stroke-width="20" stroke-linecap="square" fill-rule="nonzero"></line>
+        <polyline id="Path-80" stroke="#2CB285" stroke-width="20" stroke-linecap="square" fill-rule="nonzero" transform="translate(79.500000, 229.750000) rotate(-270.000000) translate(-79.500000, -229.750000) " points="20.25 148.25 20.25 202.25 138.75 311.25"></polyline>
+        <polyline id="Path-80" stroke="#58C322" stroke-width="20" stroke-linecap="square" fill-rule="nonzero" transform="translate(321.750000, 68.250000) scale(-1, -1) translate(-321.750000, -68.250000) " points="344 -12 344 21.5 299.5 51.5 299.5 148.5"></polyline>
+        <polyline id="Path-80" stroke="#365AFF" stroke-width="20" stroke-linecap="square" fill-rule="nonzero" transform="translate(226.500000, 120.500000) scale(1, -1) translate(-226.500000, -120.500000) " points="246.5 86.5 246.5 131 206.5 154.5"></polyline>
+        <polyline id="Path-80" stroke="#5C3DF5" stroke-width="20" stroke-linecap="square" fill-rule="nonzero" points="269.5 174 269.5 215.5 385.5 332.5"></polyline>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="248" cy="224.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="223.5" cy="224.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="223.5" cy="263.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="294.5" cy="321.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="31.5" cy="251.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="107" cy="172.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="299.5" cy="116.5" r="7"></circle>
+        <circle id="ミニ駅" fill="#FFFFFF" fill-rule="nonzero" cx="344.5" cy="31.5" r="7"></circle>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="156" y="148.5" width="187.5" height="43.5" rx="21.75"></rect>
+        <text id="Blackadder" font-family="Arial-BoldMT, Arial" font-size="27" font-weight="bold" letter-spacing="0.000337500009" fill="#FFFFFF">
+            <tspan x="176.711691" y="179.5">Blackadder</tspan>
+        </text>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="306.5" y="70.5" width="75" height="29" rx="14.5"></rect>
+        <text id="aug" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" letter-spacing="0.000224999996" fill="#FFFFFF">
+            <tspan x="327.999174" y="89.5">aug</tspan>
+        </text>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="146" y="66" width="113" height="29" rx="14.5"></rect>
+        <text id="Chromatic" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" letter-spacing="0.000224999996" fill="#FFFFFF">
+            <tspan x="157.991175" y="86">Chromatic</tspan>
+        </text>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="252.5" y="262" width="113" height="29" rx="14.5"></rect>
+        <text id="Dominant" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" letter-spacing="0.000224999996" fill="#FFFFFF">
+            <tspan x="267.501541" y="282.5">Dominant</tspan>
+        </text>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="17" y="199" width="100" height="29" rx="14.5"></rect>
+        <text id="Halfdim" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" letter-spacing="0.000224999996" fill="#FFFFFF">
+            <tspan x="33.9962828" y="219.5">Halfdim</tspan>
+        </text>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="190.5" y="304.5" width="67" height="29" rx="14.5"></rect>
+        <text id="aug6" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" letter-spacing="0.000224999996" fill="#FFFFFF">
+            <tspan x="202.993691" y="324.5">aug6</tspan>
+        </text>
+        <rect id="Station" fill="#333333" fill-rule="nonzero" x="329" y="317.5" width="113" height="29" rx="14.5"></rect>
+        <text id="Wholetone" font-family="Arial-BoldMT, Arial" font-size="18" font-weight="bold" letter-spacing="0.000224999996" fill="#FFFFFF">
+            <tspan x="339.505823" y="338">Wholetone</tspan>
+        </text>
+    </g>
+</svg>

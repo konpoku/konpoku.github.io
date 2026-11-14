@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="455px" height="180px" viewBox="0 0 455 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R2-Env-Tip</title>
+    <g id="R2-Env-Tip" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" stroke="#34323A" stroke-width="5.59012876" points="167.520386 74.2178112 316.542918 104.022532 167.520386 133.827253 18.4978541 104.022532 167.520386 74.2178112"></polygon>
+        <line x1="27.1587983" y1="104.022532" x2="307.883047" y2="104.022532" id="Path" stroke="#34323A" stroke-width="5.59012876"></line>
+        <line x1="167.520386" y1="137.030043" x2="167.520386" y2="167.69206" id="Path" stroke="#34323A" stroke-width="5.59012876"></line>
+        <line x1="167.520386" y1="40.1652361" x2="167.520386" y2="70.8283262" id="Path" stroke="#34323A" stroke-width="5.59012876"></line>
+        <path d="M341.5,-38 C347.022847,-38 351.5,-33.5228475 351.5,-28 L351.5,-18 C351.5,-15.5491832 350.618347,-13.3042875 349.154905,-11.5651751 C355.271725,30.6418006 352.954077,137.344593 348.939842,172 L334.061403,172 C329.873791,139.292821 328.128395,26.7940251 333.840432,-11.575994 C332.379613,-13.3094843 331.5,-15.5520198 331.5,-18 L331.5,-28 C331.5,-33.5228475 335.977153,-38 341.5,-38 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero" transform="translate(341.553390, 67.000000) rotate(-96.000000) translate(-341.553390, -67.000000) "></path>
+        <line x1="239" y1="88.25" x2="252.75" y2="90.75" id="Path-11" stroke="#FA6400" stroke-width="7.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <text id="Tip" fill="#34323A" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="37.2553648" font-style="italic" font-weight="bold">
+            <tspan x="226" y="40">Tip</tspan>
+        </text>
+    </g>
+</svg>

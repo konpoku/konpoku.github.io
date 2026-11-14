@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="525px" height="240px" viewBox="0 0 525 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>1-3_minor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1-3_minor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="36.9410086 135.831235 36.973828 23 8 23 8 217 49 217 49 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="87.8977636 135.623199 87.9300958 23 64 23 64 135.623199 53 135.623199 53 217 97 217 97 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="136.119361 135.623199 136.151693 23 114.666198 23 114.666198 135.623199 100 135.623199 100 217 144 217 144 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(169.000000, 120.000000) scale(-1, 1) translate(-169.000000, -120.000000) " points="175.628711 135.831235 175.662925 23 147 23 147 217 191 217 191 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="223.799919 135.831235 223.832578 23 195 23 195 217 237 217 237 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="275.94125 135.623199 275.973422 23 250.945757 23 250.945757 135.623199 240 135.623199 240 217 285 217 285 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(310.000000, 120.000000) scale(-1, 1) translate(-310.000000, -120.000000) " points="315.400162 135.831235 315.432822 23 289 23 289 217 331 217 331 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(449.000000, 120.000000) scale(-1, 1) translate(-449.000000, -120.000000) " points="454.400162 135.831235 454.432822 23 428 23 428 217 470 217 470 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="35" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="85" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="135" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="223" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="275" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="363.941009 135.831235 363.973828 23 335 23 335 217 376 217 376 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="414.897764 135.623199 414.930096 23 391 23 391 135.623199 380 135.623199 380 217 424 217 424 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="362" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="412" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(494.000000, 120.000000) scale(-1, 1) translate(-494.000000, -120.000000) " points="499.400162 135.831235 499.432822 23 473 23 473 217 515 217 515 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="457" y="22" width="31" height="115"></rect>
+        <circle id="Circle" fill="#58C322" cx="448.5" cy="199.5" r="12.5"></circle>
+        <circle id="Circle" fill="#58C322" fill-rule="nonzero" cx="121.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="167.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="215.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="261.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="307.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="353.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="399.5" cy="198.5" r="12.5"></circle>
+    </g>
+</svg>

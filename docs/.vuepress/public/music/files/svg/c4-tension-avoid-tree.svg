@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1185px" height="380px" viewBox="0 0 1185 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c4-tension-avoid-tree</title>
+    <defs>
+        <path d="M14.976,15.488 C14.976,6.528 18.432,2.56 26.112,2.56 L44.432,2.56 L44.432,0 L26.112,0 C16.896,0 12.16,5.248 12.16,15.488 L12.16,49.408 C12.16,57.472 8.704,61.184 1.28,61.184 L0,61.184 L0,64.128 L1.28,64.128 C8.704,64.128 12.16,67.968 12.16,75.904 L12.16,109.824 C12.16,120.064 17.024,125.44 26.112,125.44 L44.432,125.44 L44.432,122.88 L26.112,122.88 C18.688,122.88 14.976,118.528 14.976,109.824 L14.976,75.904 C14.976,68.224 12.16,64.128 6.144,62.72 C12.16,61.312 14.976,57.216 14.976,49.408 L14.976,15.488 Z" id="path-1"></path>
+        <path d="M14.976,15.488 C14.976,6.528 18.432,2.56 26.112,2.56 L44.432,2.56 L44.432,0 L26.112,0 C16.896,0 12.16,5.248 12.16,15.488 L12.16,49.408 C12.16,57.472 8.704,61.184 1.28,61.184 L0,61.184 L0,64.128 L1.28,64.128 C8.704,64.128 12.16,67.968 12.16,75.904 L12.16,109.824 C12.16,120.064 17.024,125.44 26.112,125.44 L44.432,125.44 L44.432,122.88 L26.112,122.88 C18.688,122.88 14.976,118.528 14.976,109.824 L14.976,75.904 C14.976,68.224 12.16,64.128 6.144,62.72 C12.16,61.312 14.976,57.216 14.976,49.408 L14.976,15.488 Z" id="path-2"></path>
+        <path d="M14.976,15.488 C14.976,6.528 18.432,2.56 26.112,2.56 L54.432,2.56 L54.432,0 L26.112,0 C16.896,0 12.16,5.248 12.16,15.488 L12.16,49.408 C12.16,57.472 8.704,61.184 1.28,61.184 L0,61.184 L0,64.128 L1.28,64.128 C8.704,64.128 12.16,67.968 12.16,75.904 L12.16,109.824 C12.16,120.064 17.024,125.44 26.112,125.44 L54.432,125.44 L54.432,122.88 L26.112,122.88 C18.688,122.88 14.976,118.528 14.976,109.824 L14.976,75.904 C14.976,68.224 12.16,64.128 6.144,62.72 C12.16,61.312 14.976,57.216 14.976,49.408 L14.976,15.488 Z" id="path-3"></path>
+    </defs>
+    <g id="c4-tension-avoid-tree" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F3F3F3" fill-rule="nonzero" x="140" y="-4" width="301" height="445"></rect>
+        <rect id="Rectangle" fill="#F3F3F3" fill-rule="nonzero" x="730" y="-4" width="455" height="445"></rect>
+        <rect id="Rectangle" fill="#EBEAEA" fill-rule="nonzero" x="0" y="-4" width="140" height="445"></rect>
+        <rect id="Rectangle" fill="#EBEAEA" fill-rule="nonzero" x="440" y="-4" width="290" height="445"></rect>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="170" y="262" width="238" height="50" rx="6"></rect>
+        <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="173" y="139" width="233" height="50" rx="6"></rect>
+        <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="467" y="79" width="176" height="50" rx="6"></rect>
+        <rect id="Rectangle" fill="#5C3DF5" fill-rule="nonzero" x="772" y="263" width="275" height="50" rx="6"></rect>
+        <g id="Group" transform="translate(771.000000, 139.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="393" height="50" rx="6"></rect>
+            <text id="アヴェイラブル・テンション" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+                <tspan x="12" y="35">可用引申音 (Available Tension)</tspan>
+            </text>
+        </g>
+        <g id="{" transform="translate(117.682667, 160.640000)" fill-rule="nonzero">
+            <g id="Path">
+                <use fill="#AAAAAA" xlink:href="#path-1"></use>
+                <use fill="#000000" xlink:href="#path-1"></use>
+            </g>
+        </g>
+        <g id="{" transform="translate(418.114667, 101.640000)" fill-rule="nonzero">
+            <g id="Path">
+                <use fill="#AAAAAA" xlink:href="#path-2"></use>
+                <use fill="#000000" xlink:href="#path-2"></use>
+            </g>
+        </g>
+        <g id="{" transform="translate(710.114667, 162.640000)" fill-rule="nonzero">
+            <g id="Path">
+                <use fill="#AAAAAA" xlink:href="#path-3"></use>
+                <use fill="#000000" xlink:href="#path-3"></use>
+            </g>
+        </g>
+        <text id="スケール外の音" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="188" y="297">音阶外音</tspan>
+        </text>
+        <text id="スケール内の音" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="188" y="174">音阶内音</tspan>
+        </text>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="21" y="198" width="90" height="50" rx="6"></rect>
+        <text id="12音" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="31.064" y="233">12音</tspan>
+        </text>
+        <text id="コードトーン" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="470" y="115">和弦音 (Chord Tone)</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="467" y="199" width="236" height="50" rx="6"></rect>
+        <text id="ノンコードトーン" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="472" y="235">和弦外音</tspan>
+        </text>
+        <text id="アヴォイド・ノート" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="782.5" y="297">避用音 (Avoid Note)</tspan>
+        </text>
+        <text id="①スケールの構成音か" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-0.520833321">
+            <tspan x="150.304167" y="40">①是否为音阶构成音</tspan>
+        </text>
+        <text id="②コード内の音か" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-0.520833321">
+            <tspan x="454.083333" y="40">②是否为和弦内音</tspan>
+        </text>
+        <text id="③安定感や機能を阻害しないか" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-0.520833321">
+            <tspan x="747.5" y="40">③是否妨碍稳定感或功能</tspan>
+        </text>
+    </g>
+</svg>

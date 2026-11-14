@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1048.44,-2017.51)">
+        <g id="avatar_circle-kraft" transform="matrix(0.756633,0,0,0.806452,-1513.74,-3678.45)">
+            <rect x="3386.3" y="7063" width="198.247" height="186" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="3386.3" y="7063" width="198.247" height="186"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.05116,0,0,0.996329,-317.298,757.157)">
+                    <ellipse cx="3617.62" cy="6422.34" rx="94.299" ry="93.343" style="fill:rgb(238,235,88);"/>
+                    <clipPath id="_clip2">
+                        <ellipse cx="3617.62" cy="6422.34" rx="94.299" ry="93.343"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(0.951326,0,0,1.00368,303.369,-751.434)">
+                            <g transform="matrix(1.41605,0,0,1.32857,3299.89,7009.54)">
+                                <g id="赤シャツ">
+                                    <g id="シャツ" transform="matrix(4.67,0,0,41.0625,-648.92,-11353.5)">
+                                        <rect x="156" y="280" width="20" height="4" style="fill:rgb(198,38,30);"/>
+                                    </g>
+                                    <g id="シャツ1" serif:id="シャツ" transform="matrix(4.02423,0,0,43.5625,-535.265,-12063.5)">
+                                        <rect x="156" y="280" width="20" height="4" style="fill:rgb(198,38,30);"/>
+                                    </g>
+                                    <g id="シャツ2" serif:id="シャツ" transform="matrix(1.9475,0,0,41.0817,-224.21,-11358.9)">
+                                        <path d="M176,280L156,280L156,284L176,284L176,282.611L170.737,282.612L170.737,281.671L176,281.673L176,280Z" style="fill:rgb(198,38,30);fill-opacity:0.1;"/>
+                                    </g>
+                                    <g id="えり" transform="matrix(0.227414,0,0,1.54329,74.8734,-303.269)">
+                                        <rect x="156" y="280" width="20" height="4" style="fill:rgb(198,38,30);"/>
+                                    </g>
+                                    <g id="えり1" serif:id="えり" transform="matrix(0.465,0,0,1.54329,67.46,-303.269)">
+                                        <rect x="156" y="280" width="20" height="4" style="fill:rgb(198,38,30);"/>
+                                    </g>
+                                    <g id="腕" transform="matrix(0.7175,0,0,10.6375,-46.68,-2824.5)">
+                                        <rect x="156" y="280" width="20" height="4" style="fill:rgb(179,41,33);"/>
+                                    </g>
+                                    <g id="腕1" serif:id="腕" transform="matrix(0.7175,0,0,41,61.07,-11335.7)">
+                                        <rect x="156" y="280" width="20" height="4" style="fill:rgb(179,41,33);"/>
+                                    </g>
+                                </g>
+                                <g id="首" transform="matrix(1.29228,0,0,3.12142,-85.738,-757.632)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(237,188,155);"/>
+                                </g>
+                                <g id="シャツ3" serif:id="シャツ" transform="matrix(1.25509,0,0,12.062,-80.8952,-3248.52)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(198,38,30);"/>
+                                </g>
+                                <g id="シャツ4" serif:id="シャツ" transform="matrix(1.27345,0,0,10.25,-84.1275,-2726.08)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(198,38,30);"/>
+                                </g>
+                                <g id="シャツ5" serif:id="シャツ" transform="matrix(0.302938,0,0,1.34954,65.4162,-254.417)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(212,33,23);"/>
+                                </g>
+                                <g id="シャツ6" serif:id="シャツ" transform="matrix(0.4575,0,0,1.34954,63.2133,-254.417)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(212,33,23);"/>
+                                </g>
+                                <g id="タイ" transform="matrix(0.312501,0,0,1.5375,72.9283,-298.55)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(14,21,23);"/>
+                                </g>
+                                <g id="タイ1" serif:id="タイ" transform="matrix(0.62146,0,0,17.3433,21.6022,-4718.03)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(14,21,23);"/>
+                                </g>
+                            </g>
+                            <g id="耳" transform="matrix(0.836504,0,0,5.10107,3385.78,5689.58)">
+                                <path d="M176,280.769C176,280.345 173.76,280 171,280L156,280L156,284L168,284C172.415,284 176,283.448 176,282.769L176,280.769Z" style="fill:rgb(247,203,181);"/>
+                            </g>
+                            <g id="肌-whole" serif:id="肌 whole" transform="matrix(4.30737,0,0,20.2101,2765.89,1431.95)">
+                                <path d="M176,280L157,280C156.448,280 156,280.09 156,280.2L156,283C156,283.552 158.24,284 161,284L168,284C172.415,284 176,283.283 176,282.4L176,280Z" style="fill:rgb(247,203,181);"/>
+                            </g>
+                            <g id="あご" transform="matrix(2.22711,0,-1.07582e-14,6.73322,3104.02,5262.91)">
+                                <path d="M176,280L156,280L156,283C156,283.552 157.444,284 159.222,284L172.778,284C174.556,284 176,283.552 176,283L176,280Z" style="fill:rgb(247,203,181);"/>
+                            </g>
+                            <g transform="matrix(2.9428,0,0,1.68375,2987.72,6953.98)">
+                                <path d="M158.168,94.539C159.065,94.79 160.624,96.114 160.747,96.772C160.901,97.596 161.116,98.746 160.844,98.363C160.385,97.72 160.1,96.924 159.384,96.783C158.501,96.609 156.115,95.646 155.047,95.917C154.511,96.053 154.776,97.29 154.275,97.493C153.757,97.704 153.908,96.256 153.913,96.035C153.92,95.746 154.641,93.733 155.257,93.779C156.156,93.845 157.329,94.304 158.168,94.539Z" style="fill:url(#_Linear3);"/>
+                            </g>
+                            <g transform="matrix(-3.52596,0,0,1.68375,4035.93,6953.98)">
+                                <path d="M158.697,94.424C159.538,95.051 160.624,96.114 160.747,96.772C160.901,97.596 161.116,98.746 160.844,98.363C160.385,97.72 160.278,97.213 159.596,96.783C158.549,96.124 156.506,95.288 155.437,95.559C154.902,95.695 154.72,97.54 154.219,97.744C153.702,97.954 153.777,96.329 153.782,96.109C153.789,95.819 154.668,93.18 155.284,93.226C156.183,93.292 157.961,93.876 158.697,94.424Z" style="fill:url(#_Linear4);"/>
+                            </g>
+                            <g id="黒目" transform="matrix(0.792987,5.88646e-17,2.59436e-15,1.73704,3348.27,6633.47)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(13,20,25);fill-opacity:0.8;"/>
+                            </g>
+                            <g id="白目" transform="matrix(0.341175,2.51004e-17,1.79451e-15,1.1908,3422.45,6786.36)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(105,177,204);"/>
+                            </g>
+                            <g id="黒目1" serif:id="黒目" transform="matrix(0.792987,5.88646e-17,2.70789e-15,1.81306,3319.58,6612.01)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(13,20,25);fill-opacity:0.8;"/>
+                            </g>
+                            <g id="白目1" serif:id="白目" transform="matrix(0.363974,2.67778e-17,1.87303e-15,1.24291,3389.87,6771.65)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(105,177,204);"/>
+                            </g>
+                            <g id="ヘアー" transform="matrix(1.09837,0,0,7.27633,3332.74,5048.63)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);"/>
+                            </g>
+                            <g id="ヘアー1" serif:id="ヘアー" transform="matrix(0.709562,0,0,7.97043,3401.17,4854.28)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);"/>
+                            </g>
+                            <g id="ヘアー2" serif:id="ヘアー" transform="matrix(2.90605,0,0,4.78226,3001.51,5738.04)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);"/>
+                            </g>
+                            <g id="ヘアー3" serif:id="ヘアー" transform="matrix(0.709562,0,0,1.59409,3329.97,6643.48)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);"/>
+                            </g>
+                            <g id="ヘアー4" serif:id="ヘアー" transform="matrix(0.506707,0,0,3.29541,3358.8,6166.97)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);"/>
+                            </g>
+                            <g id="ヘアー5" serif:id="ヘアー" transform="matrix(0.354781,0,0,3.18817,3392.41,6190.76)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);"/>
+                            </g>
+                            <g id="ヘアー6" serif:id="ヘアー" transform="matrix(0.388813,0,0,3.18817,3443.43,6212.44)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(22,21,20);fill-opacity:0.5;"/>
+                            </g>
+                            <g transform="matrix(-0.392557,0,0,0.312823,3551.07,7085.34)">
+                                <path d="M183.366,222.871C188.558,223.584 196.333,228.591 214.5,222.754C216.891,221.986 219.522,224.384 222.551,223.511C225.265,224.371 228.784,223.227 231.043,222.738C237.778,221.279 232.837,227.182 251.578,223.708" style="fill:none;stroke:rgb(207,45,37);stroke-width:7.26px;"/>
+                            </g>
+                            <g transform="matrix(1.32165,-0,-0,1.24,3384.71,7054.52)">
+                                <use xlink:href="#_Image5" x="52.476" y="80.267" width="18.196px" height="13.431px" transform="matrix(0.957669,0,0,0.959377,0,0)"/>
+                            </g>
+                            <g id="はな" transform="matrix(-0.631298,0,0,1.46852,3565.52,6970.2)">
+                                <rect x="158.119" y="116" width="9.056" height="3" style="fill:rgb(244,196,163);"/>
+                            </g>
+                            <g id="はな1" serif:id="はな" transform="matrix(-1.54808,0,0,2.11396,3715.84,6891.9)">
+                                <rect x="158.119" y="116" width="9.056" height="3" style="fill:rgb(244,196,163);"/>
+                            </g>
+                            <g id="はな2" serif:id="はな" transform="matrix(-0.782699,0,0,1.59375,3590.84,6947.86)">
+                                <rect x="158.119" y="116" width="9.056" height="3" style="fill:rgb(244,196,163);"/>
+                            </g>
+                            <g id="はな3" serif:id="はな" transform="matrix(-0.459665,0,0,2.63377,3538.28,6819.32)">
+                                <rect x="158.119" y="116" width="9.056" height="3" style="fill:rgb(245,199,169);"/>
+                            </g>
+                            <g id="はな4" serif:id="はな" transform="matrix(-0.459665,0,0,1.46183,3538.28,6951.34)">
+                                <rect x="158.119" y="116" width="9.056" height="3" style="fill:rgb(246,204,176);"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.31869,0,0,5.12468,153.682,96.8578)"><stop offset="0" style="stop-color:black;stop-opacity:0.7"/><stop offset="0.58" style="stop-color:rgb(14,10,9);stop-opacity:0.7"/><stop offset="0.77" style="stop-color:rgb(48,35,29);stop-opacity:0.7"/><stop offset="0.94" style="stop-color:rgb(85,61,51);stop-opacity:0.7"/><stop offset="1" style="stop-color:rgb(184,134,112);stop-opacity:0.7"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.31869,0,0,5.12468,153.682,96.8578)"><stop offset="0" style="stop-color:black;stop-opacity:0.7"/><stop offset="0.58" style="stop-color:rgb(14,10,9);stop-opacity:0.7"/><stop offset="0.77" style="stop-color:rgb(48,35,29);stop-opacity:0.7"/><stop offset="0.94" style="stop-color:rgb(85,61,51);stop-opacity:0.7"/><stop offset="1" style="stop-color:rgb(184,134,112);stop-opacity:0.7"/></linearGradient>
+        <image id="_Image5" width="19px" height="14px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAOCAYAAADNGCeJAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABsElEQVQ4jX2TXWpUQRCFv6ruOz8aAwFfBOMGxH1kCe7DVbkDV+CLj+4gExB8MQyjuXO7q44PmUwmk5+GoqGr6nCqqc945iyHYs/lAG5a6Pht3/Dt9L0BfI/R794us2ml/kD03KoAPvhgl9n0eXiji/WV9mI7IV+plQXuDnattD9KJvTIwVsrnJlrJHMt5UefxcX6SvXAYT2jzB3qhOprMyqFkYdaM0wLg2LkmUp7ZWo7Q1HvXF0r6hyfJVoaNlQwmUjZgzGroYrJRSRs59i/X+r5zmrcOcMxM3CDEqZBwgNKMSyEJVLFtFOOgFahO3jFDDDffZ4aikTtBrUQbSR7QttK0VFPiAllQt/l+g2KgBjJBPZ/pmtld/PtX0SIaQvDpLQJlcMxl1gWLDtqiSbM21pKDPZiP2KMT2WuSYo1WRvyUSpbyQAHGMw0E1qaBxCneB9R/Ixtftn8vnV2sb7ScigAuVLXiXlulLbAfSSt3QoymGnB7UqcmGujzHOr+to393u2H+F+6+0oDo+OYk/DI2SOBJ+q0eF9iFU5KqSnGIq/xOW++ZjPF2F+DvanIAf4D+bUDiWxNF2rAAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>

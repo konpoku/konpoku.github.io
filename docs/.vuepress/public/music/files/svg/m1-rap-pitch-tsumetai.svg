@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="500px" viewBox="0 0 860 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-rap-pitch-tsumetai</title>
+    <defs>
+        <rect id="path-1" x="0" y="2.59697449" width="98" height="439"></rect>
+        <filter x="-41.8%" y="-8.4%" width="183.7%" height="118.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.355441434 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-3"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-5"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-7"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-9"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-11"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-13"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-15"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0,-4 L48,-4 C49.1045695,-4 50,-3.1045695 50,-2 L50,14 C50,15.1045695 49.1045695,16 48,16 L0,16 L0,16 L0,-4 Z" id="path-17"></path>
+        <filter x="-38.0%" y="-85.0%" width="176.0%" height="290.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.295912591   0 0 0 0 0.292794457   0 0 0 0 0.292794457  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.403982736 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="m1-rap-pitch-tsumetai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PianoRoll1" transform="translate(35.000000, 28.500000)">
+            <rect id="Whole-BG" fill="#EFEEF1" x="0" y="1" width="799" height="440"></rect>
+            <g id="黒鍵BG" opacity="0.1" transform="translate(58.000000, 62.134228)" fill="#2E3A42">
+                <rect id="Kuro-BG" x="0" y="0.365772101" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="60.3657721" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="101.365772" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="160.365772" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="200.365772" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="240.365772" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="300.365772" width="741" height="20"></rect>
+                <rect id="Kuro-BG" x="0" y="340.365772" width="741" height="20"></rect>
+            </g>
+            <g id="H" transform="translate(0.000000, 59.596974)" stroke="#B3B3B3" stroke-width="1.76">
+                <line x1="0" y1="1.90302551" x2="798" y2="1.90302551" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="21.9030255" x2="798" y2="21.9030255" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="41.9030255" x2="798" y2="41.9030255" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="61.9030255" x2="798" y2="61.9030255" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="81.9030255" x2="798" y2="81.9030255" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="101.903026" x2="798" y2="101.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="122.903026" x2="798" y2="122.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="141.903026" x2="798" y2="141.903026" id="Horizon"></line>
+                <line x1="0" y1="161.903026" x2="798" y2="161.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="182.903026" x2="798" y2="182.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="202.903026" x2="798" y2="202.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="222.903026" x2="798" y2="222.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="242.903026" x2="798" y2="242.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="262.903026" x2="798" y2="262.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="282.903026" x2="798" y2="282.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="302.903026" x2="798" y2="302.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="322.903026" x2="798" y2="322.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="342.903026" x2="798" y2="342.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="362.903026" x2="798" y2="362.903026" id="Horizon" opacity="0.297991071"></line>
+                <line x1="0" y1="381.903026" x2="798" y2="381.903026" id="Horizon"></line>
+            </g>
+            <g id="Shiro-Key">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Kuro-Key" transform="translate(0.000000, 61.134228)">
+                <line x1="0" y1="1.46274659" x2="100" y2="1.46274659" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="21.4627466" x2="100" y2="21.4627466" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="41.4627466" x2="100" y2="41.4627466" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="61.4627466" x2="100" y2="61.4627466" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="81.4627466" x2="100" y2="81.4627466" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="101.462747" x2="100" y2="101.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="121.462747" x2="100" y2="121.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="141.462747" x2="100" y2="141.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="161.462747" x2="100" y2="161.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="181.462747" x2="100" y2="181.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="201.462747" x2="100" y2="201.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="221.462747" x2="100" y2="221.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="241.462747" x2="100" y2="241.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="261.462747" x2="100" y2="261.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="281.462747" x2="100" y2="281.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="301.462747" x2="100" y2="301.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="321.462747" x2="100" y2="321.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="341.462747" x2="100" y2="341.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="361.462747" x2="100" y2="361.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <line x1="0" y1="381.462747" x2="100" y2="381.462747" id="Ebony-Sep" stroke="#B3B3B3" stroke-width="1.76" opacity="0.297991071"></line>
+                <g id="Kuro" transform="translate(0.000000, 1.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 301.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 341.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 61.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-9"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 101.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-11"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 161.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-13"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 201.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-15"></use>
+                </g>
+                <g id="Kuro" transform="translate(0.000000, 241.462747)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                    <use fill="#4D4D4D" fill-rule="evenodd" xlink:href="#path-17"></use>
+                </g>
+            </g>
+            <rect id="Ruler-BG" fill="#AAAAAA" x="0" y="1" width="799" height="40"></rect>
+        </g>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" opacity="0.502043968" x="133" y="269" width="701" height="22"></rect>
+        <circle id="Oval" fill="#FFBF00" fill-rule="nonzero" cx="119" cy="281" r="10"></circle>
+        <polyline id="Path-34" stroke="#FF6633" stroke-width="10" stroke-linecap="square" fill-rule="nonzero" points="209.552918 281.5 263.863558 281 285.70188 224.025174 344.803631 228 359.46357 281.5 406.817118 283"></polyline>
+        <text id="つ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#FF6633">
+            <tspan x="220" y="264">つ</tspan>
+        </text>
+        <text id="①" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FF6633">
+            <tspan x="163" y="291">①</tspan>
+        </text>
+        <text id="②" fill="#3D7AF5" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500">
+            <tspan x="507" y="333">②</tspan>
+        </text>
+        <text id="い" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#FF6633">
+            <tspan x="383" y="264">い</tspan>
+        </text>
+        <text id="めた" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#FF6633">
+            <tspan x="290" y="204">冷</tspan>
+        </text>
+        <text id="照準" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#D7A100">
+            <tspan x="95" y="263">照準</tspan>
+        </text>
+        <polyline id="Path-34" stroke="#3D7AF5" stroke-width="10" stroke-linecap="square" fill-rule="nonzero" points="558.59266 321.551233 612.903299 321 635.607553 280.764267 699.321198 281 725.572153 378.786725 754.982293 383.881198"></polyline>
+        <text id="つ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#3D7AF5">
+            <tspan x="559.039741" y="304">つ</tspan>
+        </text>
+        <text id="めた" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#3D7AF5">
+            <tspan x="643.039741" y="267">冷</tspan>
+        </text>
+        <text id="い" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#3D7AF5">
+            <tspan x="735.039741" y="367">い</tspan>
+        </text>
+    </g>
+</svg>

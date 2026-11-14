@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="880px" height="300px" viewBox="0 0 880 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-frequency</title>
+    <g id="p-frequency" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="880" height="300"></rect>
+        <path id="axis" d="M730.000257,149.013245 L749.007052,158.499642 L730.013857,168.01324 L730.008,160.013 L50.0010737,160.5 L48.5010741,160.501073 L48.4989267,157.501074 L49.9989263,157.5 L730.005,157.013 L730.000257,149.013245 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <text id="時間(秒)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="759.632" y="168">時間(秒)</tspan>
+        </text>
+        <text id="1" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="32" font-weight="500">
+            <tspan x="677.608" y="133">1</tspan>
+        </text>
+        <text id="圧" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="31" y="67">圧</tspan>
+        </text>
+        <path id="axis" d="M45.5,74 L55,93 L47,93 L47,229 L44,229 L44,93 L36,93 L45.5,74 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <g id="sines" transform="translate(49.000000, 98.000000)" fill-rule="nonzero" stroke="#58C322" stroke-linecap="square" stroke-width="6">
+            <path d="M0,60 C7.16666667,21.75 12.8333333,0 20,0 C28.3333333,0 33.6666667,27.75 40,60 C46.3333333,90 49.1666667,120 60,120 C70.1666667,120 75.1666667,84.75 80,60" id="sine"></path>
+            <path d="M80,60 C87.1666667,21.75 92.8333333,0 100,0 C108.333333,0 113.666667,27.75 120,60 C126.333333,90 129.166667,120 140,120 C150.166667,120 155.166667,84.75 160,60" id="sine"></path>
+            <path d="M160,60 C167.166667,21.75 172.833333,0 180,0 C188.333333,0 193.666667,27.75 200,60 C206.333333,90 209.166667,120 220,120 C230.166667,120 235.166667,84.75 240,60" id="sine"></path>
+            <path d="M240,60 C247.166667,21.75 252.833333,0 260,0 C268.333333,0 273.666667,27.75 280,60 C286.333333,90 289.166667,120 300,120 C310.166667,120 315.166667,84.75 320,60" id="sine"></path>
+            <path d="M320,60 C327.166667,21.75 332.833333,0 340,0 C348.333333,0 353.666667,27.75 360,60 C366.333333,90 369.166667,120 380,120 C390.166667,120 395.166667,84.75 400,60" id="sine"></path>
+            <path d="M400,60 C407.166667,21.75 412.833333,0 420,0 C428.333333,0 433.666667,27.75 440,60 C446.333333,90 449.166667,120 460,120 C470.166667,120 475.166667,84.75 480,60" id="sine"></path>
+            <path d="M480,60 C487.166667,21.75 492.833333,0 500,0 C508.333333,0 513.666667,27.75 520,60 C526.333333,90 529.166667,120 540,120 C550.166667,120 555.166667,84.75 560,60" id="sine"></path>
+            <path d="M560,60 C567.166667,21.75 572.833333,0 580,0 C588.333333,0 593.666667,27.75 600,60 C606.333333,90 609.166667,120 620,120 C630.166667,120 635.166667,84.75 640,60" id="sine"></path>
+        </g>
+        <line x1="689.5" y1="147.5" x2="689.5" y2="169.5" id="Path-34" stroke="#AAAAAA" stroke-width="4" stroke-linecap="square" fill-rule="nonzero"></line>
+        <polyline id="Path-35" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero" points="49 232 49 244.5 129 244.5 129 232"></polyline>
+        <text id="1周期" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="53.456" y="275">1周期</tspan>
+        </text>
+        <line x1="50" y1="229" x2="50" y2="161" id="Path-36" stroke="#000000" stroke-linecap="square" stroke-dasharray="7,7" fill-rule="nonzero"></line>
+        <line x1="129" y1="226" x2="129" y2="158" id="Path-36" stroke="#000000" stroke-linecap="square" stroke-dasharray="7,7" fill-rule="nonzero"></line>
+    </g>
+</svg>

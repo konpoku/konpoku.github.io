@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="509px" height="90px" viewBox="0 0 509 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-seventhchords-minor-major-7th</title>
+    <g id="c1-seventhchords-minor-major-7th" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="181" y="11" width="95" height="40"></rect>
+        <text id="長7度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="200.168" y="40">長7度</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="56" y="11" width="95" height="40"></rect>
+        <text id="短3度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="75.168" y="40">短3度</tspan>
+        </text>
+        <text id="③" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="20" y="41">③</tspan>
+        </text>
+        <text id="=" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="286.41" y="39">=</tspan>
+        </text>
+        <text id="Δ7" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="377.032" y="41">Δ7</tspan>
+        </text>
+        <text id="m" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="347.86" y="41">m</tspan>
+        </text>
+        <text id="“マイナー・メジャーセブンス”" font-family="HiraginoSans-W6, Hiragino Sans" font-size="14" font-weight="500" fill="#000000">
+            <tspan x="289.392" y="74">“小大七和弦”</tspan>
+        </text>
+        <text id="×" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="156.41" y="39">×</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830px" height="133px" viewBox="0 0 830 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-cycle-lyrics-and-prog-1-ja</title>
+    <g id="c1-cycle-lyrics-and-prog-1-ja" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="32.5" y="70" width="183.75" height="40"></rect>
+        <text id="進行1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="91.7980957" y="98.25">進行</tspan>
+            <tspan x="141.798096" y="98.25" font-family="Arial-BoldMT, Arial" font-weight="bold">1</tspan>
+        </text>
+        <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="32.5" y="23.75" width="183.75" height="40"></rect>
+        <text id="歌詞1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="91.7980957" y="52">歌詞</tspan>
+            <tspan x="141.798096" y="52" font-family="Arial-BoldMT, Arial" font-weight="bold">1</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="220" y="70" width="183.75" height="40"></rect>
+        <text id="進行1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="279.298096" y="98.25">進行</tspan>
+            <tspan x="329.298096" y="98.25" font-family="Arial-BoldMT, Arial" font-weight="bold">1</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="220" y="23.75" width="183.75" height="40"></rect>
+        <text id="歌詞2" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="279.298096" y="52">歌詞</tspan>
+            <tspan x="329.298096" y="52" font-family="Arial-BoldMT, Arial" font-weight="bold">2</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="407.5" y="70" width="183.75" height="40"></rect>
+        <text id="進行1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="466.798096" y="98.25">進行</tspan>
+            <tspan x="516.798096" y="98.25" font-family="Arial-BoldMT, Arial" font-weight="bold">1</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF5500" fill-rule="nonzero" x="407.5" y="23.75" width="183.75" height="40"></rect>
+        <text id="歌詞3" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="466.798096" y="52">歌詞</tspan>
+            <tspan x="516.798096" y="52" font-family="Arial-BoldMT, Arial" font-weight="bold">3</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="595" y="70" width="183.75" height="40"></rect>
+        <text id="進行1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="654.298096" y="98.25">進行</tspan>
+            <tspan x="704.298096" y="98.25" font-family="Arial-BoldMT, Arial" font-weight="bold">1</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="595" y="23.75" width="183.75" height="40"></rect>
+        <text id="歌詞4" font-family="HiraginoSans-W6, Hiragino Sans" font-size="25" font-weight="500" fill="#FFFFFF">
+            <tspan x="654.298096" y="52">歌詞</tspan>
+            <tspan x="704.298096" y="52" font-family="Arial-BoldMT, Arial" font-weight="bold">4</tspan>
+        </text>
+        <path id="Line-10" d="M798.319444,111.125 L815.319444,119.375 L798.319444,127.625 L798.319,120.625 L19.375,120.625 L19.375,118.125 L798.319,118.125 L798.319444,111.125 Z" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

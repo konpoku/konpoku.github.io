@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="350px" viewBox="0 0 560 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-blk-possibilities</title>
+    <defs>
+        <linearGradient x1="102.948055%" y1="42.4754756%" x2="0%" y2="57.5245244%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.948055%" y1="47.7522633%" x2="0%" y2="52.2477367%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.948055%" y1="49.6006325%" x2="0%" y2="50.3993675%" id="linearGradient-3">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.948055%" y1="41.3194444%" x2="0%" y2="58.6805556%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="119.87341%" y1="50.4497079%" x2="-1.88886234%" y2="48.6563332%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.706566871" offset="43.0698208%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.948055%" y1="49.2057834%" x2="0%" y2="50.7942166%" id="linearGradient-6">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="c8-blk-possibilities" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-linecap="square" fill-rule="nonzero" cx="79" cy="136" r="16"></circle>
+        <circle id="Oval" stroke="#000000" stroke-linecap="square" fill-rule="nonzero" cx="119" cy="102" r="16"></circle>
+        <circle id="Oval" stroke="#000000" stroke-linecap="square" fill-rule="nonzero" cx="87" cy="54" r="16"></circle>
+        <circle id="Oval" stroke="#000000" stroke-linecap="square" fill-rule="nonzero" cx="63" cy="204" r="16"></circle>
+        <circle id="Oval" stroke="#000000" stroke-linecap="square" fill-rule="nonzero" cx="102" cy="255" r="16"></circle>
+        <circle id="Oval" stroke="#000000" stroke-linecap="square" fill-rule="nonzero" cx="95" cy="303" r="16"></circle>
+        <path d="M111,296 C179.51946,248.755759 259.581207,224.093869 343,206" id="Path-76" stroke="url(#linearGradient-1)" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M118,248 C220.17218,210.776316 329.047397,190.296735 434,181" id="Path-76" stroke="url(#linearGradient-2)" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path id="Path-76" d="M484.27548,162.952438 L493.499311,166.973751 L484.747962,171.940028 L484.537,167.945 L480.552208,168.160076 C332.444262,176.166927 170.127616,190.540368 81.7588905,204.079843 L79.0769182,204.494048 L78.58287,204.570966 L78.4290337,203.58287 L78.9230818,203.505952 C166.698999,189.840154 330.848332,175.251741 480.498074,167.161542 L484.485,166.947 L484.27548,162.952438 Z" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+        <path d="M103,61 C135.225954,81.7881782 180.073735,100.647082 211,106" id="Path-76" stroke="url(#linearGradient-4)" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M135,106 C221.310877,129.746763 309.398499,152.704776 417,167" id="Path-76" stroke="url(#linearGradient-5)" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M95,138 C180.33164,155.819643 259.079795,162.838956 337,168.5" id="Path-76" stroke="url(#linearGradient-6)" stroke-linecap="square" fill-rule="nonzero"></path>
+        <text id="×" font-family="HiraginoSans-W4, Hiragino Sans" font-size="17" font-weight="normal" fill="#000000">
+            <tspan x="207" y="110">×</tspan>
+        </text>
+        <text id="×" font-family="HiraginoSans-W4, Hiragino Sans" font-size="17" font-weight="normal" fill="#000000">
+            <tspan x="409" y="170">×</tspan>
+        </text>
+        <text id="×" font-family="HiraginoSans-W4, Hiragino Sans" font-size="17" font-weight="normal" fill="#000000">
+            <tspan x="330" y="172">×</tspan>
+        </text>
+        <text id="×" font-family="HiraginoSans-W4, Hiragino Sans" font-size="17" font-weight="normal" fill="#000000">
+            <tspan x="421" y="186">×</tspan>
+        </text>
+        <text id="◎" font-family="HiraginoSans-W4, Hiragino Sans" font-size="17" font-weight="normal" fill="#000000">
+            <tspan x="498" y="173">◎</tspan>
+        </text>
+        <text id="×" font-family="HiraginoSans-W4, Hiragino Sans" font-size="17" font-weight="normal" fill="#000000">
+            <tspan x="340" y="211">×</tspan>
+        </text>
+    </g>
+</svg>

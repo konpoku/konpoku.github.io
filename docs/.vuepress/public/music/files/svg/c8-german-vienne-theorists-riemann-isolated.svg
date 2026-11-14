@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="865px" height="340px" viewBox="0 0 865 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-german-vienne-theorists-riemann-isolated</title>
+    <g id="c8-german-vienne-theorists-riemann-isolated" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-324" transform="translate(23.000000, 29.000000)">
+            <line x1="99" y1="191.5" x2="813" y2="191.5" id="Stroke-304" stroke="#B8B8B8" stroke-width="0.5"></line>
+            <line x1="99" y1="153.5" x2="813" y2="153.5" id="Stroke-306" stroke="#B8B8B8" stroke-width="0.5"></line>
+            <line x1="0.5" y1="116.5" x2="813" y2="115.5" id="Stroke-308" stroke="#000000"></line>
+            <line x1="99" y1="76.5" x2="813" y2="76.5" id="Stroke-310" stroke="#B8B8B8" stroke-width="0.5"></line>
+            <line x1="99" y1="38.5" x2="813" y2="38.5" id="Stroke-312" stroke="#B8B8B8" stroke-width="0.5"></line>
+            <line x1="99" y1="0.5" x2="813" y2="0.5" id="Stroke-314" stroke="#B8B8B8" stroke-width="0.5"></line>
+            <line x1="99" y1="231.5" x2="813" y2="231.5" id="Stroke-304" stroke="#B8B8B8" stroke-width="0.5"></line>
+        </g>
+        <path d="M482,-67 L491,-53 L484,-53.001 L484,666 L480,666 L480,-53.001 L473,-53 L482,-67 Z" id="Axis" fill="#000000" transform="translate(482.000000, 299.500000) rotate(-270.000000) translate(-482.000000, -299.500000) "></path>
+        <text id="1750" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="103.203125" y="330">1750</tspan>
+        </text>
+        <text id="1950" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="777.203125" y="330">1950</tspan>
+        </text>
+        <text id="1850" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="435.203125" y="330">1850</tspan>
+        </text>
+        <text id="1800" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="270.203125" y="330">1800</tspan>
+        </text>
+        <rect id="Rectangle" fill="#000000" x="795" y="289" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#000000" x="455" y="289" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#000000" x="285" y="289" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#000000" x="115" y="289" width="4" height="21"></rect>
+        <text id="1900" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="606.203125" y="330">1900</tspan>
+        </text>
+        <rect id="Rectangle" fill="#000000" x="625" y="289" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#FF8000" x="226" y="204" width="209" height="35"></rect>
+        <text id="Weber" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="236" y="228">Weber</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" x="114" y="243" width="209" height="35"></rect>
+        <text id="Vogler" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="123" y="267">Vogler</tspan>
+        </text>
+        <rect id="Rectangle" fill="#5C3DF5" x="246" y="88" width="255" height="35"></rect>
+        <text id="Sechter" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="256" y="111">Sechter</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" x="451" y="166" width="240" height="35"></rect>
+        <text id="Riemann" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="462" y="189">Riemann</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3DB8F5" x="531" y="11" width="273" height="35"></rect>
+        <text id="Schoenberg" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="541" y="34">Schoenberg</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3D7AF5" x="518" y="49" width="240" height="35"></rect>
+        <text id="Schenker" font-family="Arial-BoldItalicMT, Arial" font-size="16" font-style="italic" font-weight="bold" fill="#FFFFFF">
+            <tspan x="528" y="72">Schenker</tspan>
+        </text>
+        <g id="austria-flag" transform="translate(20.000000, 57.000000)" fill-rule="nonzero">
+            <rect id="_x32_" fill="#ED2939" x="0.125" y="0.125" width="75" height="50"></rect>
+            <rect id="_x31_" fill="#FFFFFF" x="0.125" y="16.7915" width="75" height="16.66675"></rect>
+        </g>
+        <g id="germany-flag" transform="translate(20.000000, 179.000000)" fill-rule="nonzero">
+            <rect id="_x33_" fill="#000000" x="0.125" y="0.125" width="75" height="45"></rect>
+            <rect id="_x32_" fill="#DD0000" x="0.125" y="15.125" width="75" height="30"></rect>
+            <rect id="_x31_" fill="#FFCE00" x="0.125" y="30.125" width="75" height="15"></rect>
+        </g>
+        <polyline id="Path-10" stroke="#FF334E" stroke-width="2" points="135.853663 243 135.853663 221 225.853663 221"></polyline>
+        <polyline id="Path-10" stroke="#FF334E" stroke-width="2" points="270 88 270 67 518 67"></polyline>
+        <polyline id="Path-10" stroke="#FF334E" stroke-width="2" points="270 88 270 29 530 29"></polyline>
+        <text id="❤︎" font-family="Menlo-Regular, Menlo" font-size="56" font-weight="normal" fill="#FF334E">
+            <tspan x="164" y="236">❤︎</tspan>
+        </text>
+        <text id="❤︎" font-family="Menlo-Regular, Menlo" font-size="56" font-weight="normal" fill="#FF334E">
+            <tspan x="253" y="181">❤︎</tspan>
+        </text>
+        <text id="❤︎" font-family="Menlo-Regular, Menlo" font-size="56" font-weight="normal" fill="#FF334E">
+            <tspan x="356" y="81">❤︎</tspan>
+        </text>
+        <text id="❤︎" font-family="Menlo-Regular, Menlo" font-size="56" font-weight="normal" fill="#FF334E">
+            <tspan x="390" y="45">❤︎</tspan>
+        </text>
+        <line x1="270" y1="204" x2="270" y2="123" id="Path-11" stroke="#FF334E" stroke-width="2"></line>
+    </g>
+</svg>

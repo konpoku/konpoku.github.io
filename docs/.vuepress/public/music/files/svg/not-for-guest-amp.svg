@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 640 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="not-for-guest-audio">
+        <path id="Rectangle" d="M640,21C640,18.24 637.76,16 635,16L5,16C2.24,16 0,18.24 0,21L0,131C0,133.76 2.24,136 5,136L635,136C637.76,136 640,133.76 640,131L640,21Z" style="fill:rgb(137,137,137);fill-opacity:0.9;"/>
+        <path id="Rectangle1" serif:id="Rectangle" d="M91,52C91,50.344 89.656,49 88,49L17,49C15.344,49 14,50.344 14,52L14,122C14,123.656 15.344,125 17,125L88,125C89.656,125 91,123.656 91,122L91,52Z" style="fill:rgb(233,233,233);"/>
+        <path id="Rectangle2" serif:id="Rectangle" d="M251,52C251,50.344 249.656,49 248,49L104,49C102.344,49 101,50.344 101,52L101,62C101,63.656 102.344,65 104,65L248,65C249.656,65 251,63.656 251,62L251,52Z" style="fill:rgb(233,233,233);"/>
+        <path id="Rectangle3" serif:id="Rectangle" d="M178,72C178,70.344 176.656,69 175,69L104,69C102.344,69 101,70.344 101,72L101,78C101,79.656 102.344,81 104,81L175,81C176.656,81 178,79.656 178,78L178,72Z" style="fill:rgb(233,233,233);"/>
+        <path id="Rectangle4" serif:id="Rectangle" d="M582,117C582,115.896 581.104,115 580,115L127,115C125.896,115 125,115.896 125,117C125,118.104 125.896,119 127,119L580,119C581.104,119 582,118.104 582,117Z" style="fill:rgb(233,233,233);"/>
+        <g id="music" transform="matrix(1,0,0,1,14.1915,31)">
+            <text x="0px" y="0px" style="font-family:'HelveticaNowText-Bold', 'Helvetica Now Text', sans-serif;font-weight:700;font-size:11px;fill:white;">MUSIC</text>
+        </g>
+        <path id="Path" d="M114.262,115.708L103.262,109.205C102.369,108.677 101,109.19 101,110.496L101,123.498C101,124.67 102.272,125.376 103.262,124.789L114.262,118.289C115.243,117.711 115.246,116.286 114.262,115.708Z" style="fill:rgb(233,233,233);fill-rule:nonzero;"/>
+    </g>
+</svg>

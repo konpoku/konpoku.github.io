@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="219px" height="300px" viewBox="0 0 219 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>shiroma-persona</title>
+    <desc>Created with Sketch.</desc>
+    <g id="shiroma-persona" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-0.750000, -1.500000)">
+            <g id="BG" transform="translate(8.246800, 260.249647)" fill="#0A0A0A" fill-opacity="0.05">
+                <ellipse id="Oval" cx="105.002864" cy="18.7499813" rx="104.999749" ry="18.7499813"></ellipse>
+            </g>
+            <g id="スカート-影" transform="translate(78.735000, 228.750000)" fill="#0E1517" fill-opacity="0.5">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="7.5"></rect>
+            </g>
+            <g id="脚" transform="translate(83.235000, 217.498020)" fill="#592A22">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="56.24976"></rect>
+            </g>
+            <g id="脚1" transform="translate(132.001950, 217.498020)" fill="#592A22">
+                <rect id="Rectangle" x="0" y="0" width="11.23305" height="56.24976"></rect>
+            </g>
+            <g id="靴" transform="translate(137.000000, 264.500000) scale(-1, 1) translate(-137.000000, -264.500000) translate(130.000000, 247.500000)" fill="#85756E">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="33.75"></rect>
+            </g>
+            <g id="靴1" transform="translate(135.482750, 284.250000) scale(-1, 1) translate(-135.482750, -284.250000) translate(128.482750, 281.250000)" fill="#85756E">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="5.25"></rect>
+            </g>
+            <g id="靴2" transform="translate(90.750000, 279.750000) scale(-1, 1) translate(-90.750000, -279.750000) translate(83.250000, 273.750000)" fill="#85756E">
+                <rect id="Rectangle" x="0" y="0" width="15" height="11.25"></rect>
+            </g>
+            <g id="靴3" transform="translate(89.500000, 261.500000) scale(-1, 1) translate(-89.500000, -261.500000) translate(83.000000, 244.500000)" fill="#85756E">
+                <rect id="Rectangle" x="0" y="0" width="12.75" height="33.75"></rect>
+            </g>
+            <g id="Group" transform="translate(71.983050, 82.500000)" fill="#EAEBE0">
+                <g id="スカート" transform="translate(11.173200, 71.250000)">
+                    <rect id="Rectangle" x="0" y="0" width="63.7668" height="52.5"></rect>
+                </g>
+                <g id="スカート1" transform="translate(3.750000, 94.500000)">
+                    <rect id="Rectangle" x="0" y="0" width="71.25" height="18"></rect>
+                </g>
+                <g id="スカート2" transform="translate(0.000000, 112.500375)">
+                    <polygon id="Path" points="78 0 0 0 0 33.75 54.6 33.75 54.6 30.0411914 78 30.0411914"></polygon>
+                </g>
+                <g id="ワンピース" transform="translate(11.250000, 0.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="60" height="75"></rect>
+                </g>
+                <g id="ワンピース1" transform="translate(11.250000, -0.001980)">
+                    <rect id="Rectangle" x="0" y="0" width="60" height="63.74976"></rect>
+                </g>
+            </g>
+            <g id="腕" transform="translate(99.749970, 108.000000)" fill="#F0F0EA">
+                <rect id="Rectangle" x="0" y="0" width="11.259525" height="16.5"></rect>
+            </g>
+            <g id="腕1" transform="translate(90.750000, 106.125000)" fill="#F4F4F0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="31.875"></rect>
+            </g>
+            <g id="腕2" transform="translate(79.490445, 120.000000)" fill="#F1F1EA">
+                <rect id="Rectangle" x="0" y="0" width="11.259525" height="18"></rect>
+            </g>
+            <g id="腕3" transform="translate(90.000000, 132.750000) rotate(90.000000) translate(-90.000000, -132.750000) translate(84.000000, 126.750000)" fill="#F1F1EA">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="12"></rect>
+            </g>
+            <g id="Group" transform="translate(99.755040, 124.500000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="5.24046" height="7.5"></rect>
+            </g>
+            <g id="Group" transform="translate(105.005040, 120.750375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="5.99046" height="3.75"></rect>
+            </g>
+            <g id="肌" transform="translate(99.750000, 99.750000)" fill="#FFC59D">
+                <rect id="Rectangle" x="0" y="0" width="12.75" height="12.75"></rect>
+            </g>
+            <g id="シワ" transform="translate(83.218050, 221.249625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="26.26695" height="3.75"></rect>
+            </g>
+            <g id="シワ1" transform="translate(139.485000, 176.249625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="3.75"></rect>
+            </g>
+            <g id="シワ2" transform="translate(131.985000, 206.249625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="15" height="3.75"></rect>
+            </g>
+            <g id="シワ3" transform="translate(141.751950, 215.249625)" fill="#FFFFFF" fill-opacity="0.8">
+                <rect id="Rectangle" x="0" y="0" width="9.73305" height="2.25"></rect>
+            </g>
+            <g id="シワ4" transform="translate(120.750000, 217.499625)" fill="#FFFFFF" fill-opacity="0.8">
+                <rect id="Rectangle" x="0" y="0" width="22.5" height="2.25"></rect>
+            </g>
+            <g id="シワ5" transform="translate(83.250000, 219.749625)" fill="#FFFFFF" fill-opacity="0.8">
+                <rect id="Rectangle" x="0" y="0" width="37.5" height="2.25"></rect>
+            </g>
+            <g id="シワ6" transform="translate(74.250000, 221.999625)" fill="#FFFFFF" fill-opacity="0.8">
+                <rect id="Rectangle" x="0" y="0" width="9" height="2.25"></rect>
+            </g>
+            <g id="シワ7" transform="translate(72.000000, 219.749625)" fill="#FFFFFF" fill-opacity="0.8">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="2.25"></rect>
+            </g>
+            <g id="シワ8" transform="translate(124.485000, 183.749625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="15" height="3.75"></rect>
+            </g>
+            <g id="シワ9" transform="translate(123.750000, 116.249625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="3.75"></rect>
+            </g>
+            <g id="シワ10" transform="translate(128.250000, 142.500000)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="15"></rect>
+            </g>
+            <g id="シワ11" transform="translate(94.500000, 165.000000)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="15"></rect>
+            </g>
+            <g id="シワ12" transform="translate(98.250000, 142.500000)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="22.5"></rect>
+            </g>
+            <g id="シワ13" transform="translate(109.501950, 213.749625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="22.48305" height="3.75"></rect>
+            </g>
+            <g id="シワ14" transform="translate(94.500000, 191.249625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="30" height="3.75"></rect>
+            </g>
+            <g id="Group" transform="translate(75.751950, 177.000000)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="7.48305" height="18"></rect>
+            </g>
+            <g id="Group" transform="translate(72.000000, 194.999625)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="33.75"></rect>
+            </g>
+            <g id="シワ15" transform="translate(128.251950, 219.750375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="25.48305" height="5.25"></rect>
+            </g>
+            <g id="シワ16" transform="translate(83.187000, 221.999625)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="44.838" height="6.75"></rect>
+            </g>
+            <g id="シワ17" transform="translate(69.750000, 223.500375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="5.25"></rect>
+            </g>
+            <g id="Group" transform="translate(0.733050, 107.250000)">
+                <g id="しっぽ" transform="translate(63.765000, 76.499625)" fill="#F1AB31">
+                    <rect id="Rectangle" x="0" y="0" width="11.25" height="11.25"></rect>
+                </g>
+                <g id="しっぽ1" transform="translate(31.500000, 69.000000)" fill="#F1AB31">
+                    <rect id="Rectangle" x="0" y="0" width="39.75" height="7.5"></rect>
+                </g>
+                <g id="しっぽ2" transform="translate(24.765000, 62.968755)" fill="#F1AB31">
+                    <rect id="Rectangle" x="0" y="0" width="6.75" height="13.53144"></rect>
+                </g>
+                <g id="しっぽ3" transform="translate(6.765000, 56.999745)" fill="#F1AB31">
+                    <rect id="Rectangle" x="0" y="0" width="24.75" height="5.96856"></rect>
+                </g>
+                <g id="しっぽ4" transform="translate(6.771300, 41.114982)" fill="#F1AB31">
+                    <rect id="Rectangle" x="0" y="0" width="6.0237" height="17.992416"></rect>
+                </g>
+                <g id="しっぽ5" transform="translate(0.015000, 18.750000)" fill="#F1AB31">
+                    <rect id="Rectangle" x="0" y="0" width="18.75" height="24"></rect>
+                </g>
+                <g id="しっぽ6" transform="translate(0.015000, 0.000000)" fill="#F6F7D4">
+                    <rect id="Rectangle" x="0" y="0" width="6" height="18.75"></rect>
+                </g>
+                <g id="しっぽ7" transform="translate(12.788700, 0.000000)" fill="#F6F7D4">
+                    <rect id="Rectangle" x="0" y="0" width="5.9763" height="18.75"></rect>
+                </g>
+            </g>
+            <g id="Group" transform="translate(83.250000, 212.250000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="16.5"></rect>
+            </g>
+            <g id="Group" transform="translate(87.000000, 204.750000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="6" height="7.5"></rect>
+            </g>
+            <g id="Group" transform="translate(88.500000, 197.250000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="7.5"></rect>
+            </g>
+            <g id="Group" transform="translate(111.000000, 219.500000) scale(-1, 1) translate(-111.000000, -219.500000) translate(105.000000, 210.000000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="18.75"></rect>
+            </g>
+            <g id="Group" transform="translate(111.750000, 206.500000) scale(-1, 1) translate(-111.750000, -206.500000) translate(108.750000, 202.500000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="6" height="7.5"></rect>
+            </g>
+            <g id="Group" transform="translate(111.750000, 199.000000) scale(-1, 1) translate(-111.750000, -199.000000) translate(110.250000, 195.000000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="3" height="7.5"></rect>
+            </g>
+            <g id="Group" transform="translate(129.000000, 215.500000) scale(-1, 1) translate(-129.000000, -215.500000) translate(123.000000, 208.500000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="13.5"></rect>
+            </g>
+            <g id="Group" transform="translate(129.750000, 205.500000) scale(-1, 1) translate(-129.750000, -205.500000) translate(126.750000, 202.500000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="6" height="6"></rect>
+            </g>
+            <g id="Group" transform="translate(129.750000, 200.250375) scale(-1, 1) translate(-129.750000, -200.250375) translate(128.250000, 197.250375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="3" height="5.25"></rect>
+            </g>
+            <g id="Group" transform="translate(150.750000, 213.500375) scale(-1, 1) translate(-150.750000, -213.500375) translate(147.750000, 207.000375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="6" height="12.75"></rect>
+            </g>
+            <g id="Group" transform="translate(149.000000, 204.749625) scale(-1, 1) translate(-149.000000, -204.749625) translate(146.500000, 201.749625)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="4.5" height="5.25"></rect>
+            </g>
+            <g id="Group" transform="translate(148.500000, 199.750000) scale(-1, 1) translate(-148.500000, -199.750000) translate(147.000000, 197.250000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="3" height="4.5"></rect>
+            </g>
+            <g id="Group" transform="translate(141.498150, 176.331861)" fill="#2999C1" fill-opacity="0.05">
+                <rect id="Rectangle" x="0" y="0" width="6.38685" height="13.047168"></rect>
+            </g>
+            <g id="肌1" transform="translate(155.250000, 165.000000)" fill="#F8BA91">
+                <rect id="Rectangle" x="0" y="0" width="15" height="15"></rect>
+            </g>
+            <g id="腕4" transform="translate(75.750000, 112.500000)" fill="#CFCFBF">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="14.25"></rect>
+            </g>
+            <g id="腕5" transform="translate(68.250000, 90.000000)" fill="#DDDED2">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="30"></rect>
+            </g>
+            <g id="腕6" transform="translate(68.250000, 90.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="22.5"></rect>
+            </g>
+            <g id="腕7" transform="translate(79.500000, 82.500000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="30"></rect>
+            </g>
+            <g id="腕8" transform="translate(143.250000, 82.500000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="30"></rect>
+            </g>
+            <g id="腕9" transform="translate(72.740445, 112.500000)" fill="#EEEEE6">
+                <rect id="Rectangle" x="0" y="0" width="11.259525" height="33.75"></rect>
+            </g>
+            <g id="腕10" transform="translate(147.000000, 90.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="9" height="41.25"></rect>
+            </g>
+            <g id="腕11" transform="translate(152.250000, 108.750000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="33.75"></rect>
+            </g>
+            <g id="腕12" transform="translate(152.250000, 127.500000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="37.5"></rect>
+            </g>
+            <g id="腕13" transform="translate(159.750000, 135.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="9" height="7.5"></rect>
+            </g>
+            <g id="腕14" transform="translate(162.750000, 141.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="30"></rect>
+            </g>
+            <g id="Group" transform="translate(171.000000, 167.750375) scale(-1, 1) translate(-171.000000, -167.750375) translate(168.000000, 164.250375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="6" height="6.75"></rect>
+            </g>
+            <g id="Group" transform="translate(162.750000, 159.750000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="5.25" height="11.25"></rect>
+            </g>
+            <g id="Group" transform="translate(152.250000, 157.500000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="10.5" height="7.5"></rect>
+            </g>
+            <g id="Group" transform="translate(147.000000, 131.250375)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="5.25" height="3.75"></rect>
+            </g>
+            <g id="Group" transform="translate(96.005040, 132.000000)" fill="#F15031">
+                <rect id="Rectangle" x="0" y="0" width="5.99046" height="6"></rect>
+            </g>
+            <g id="Group" transform="translate(84.000000, 138.000000)" fill="#DB4F37">
+                <rect id="Rectangle" x="0" y="0" width="12" height="4.5"></rect>
+            </g>
+            <g id="Group" transform="translate(72.744960, 141.750000)" fill="#DB4F37">
+                <rect id="Rectangle" x="0" y="0" width="11.25954" height="4.5"></rect>
+            </g>
+            <g id="首" transform="translate(116.750000, 59.353000) scale(-1, 1) translate(-116.750000, -59.353000) translate(105.250000, 35.853000)" fill="#E7A376">
+                <rect id="Rectangle" x="0" y="0" width="22.5" height="46.8129"></rect>
+            </g>
+            <g id="えり" transform="translate(109.250000, 82.500000) scale(-1, 1) translate(-109.250000, -82.500000) translate(105.250000, 75.000000)" fill="#E7E7E7">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="15"></rect>
+            </g>
+            <g id="えり1" transform="translate(124.250000, 82.500000) scale(-1, 1) translate(-124.250000, -82.500000) translate(120.250000, 75.000000)" fill="#E7E7E7">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="15"></rect>
+            </g>
+            <g id="えり2" transform="translate(116.750000, 90.000000) scale(-1, 1) translate(-116.750000, -90.000000) translate(112.750000, 82.500000)" fill="#E7E7E7">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="15"></rect>
+            </g>
+            <g id="えり3" transform="translate(116.750000, 86.661400) scale(-1, 1) translate(-116.750000, -86.661400) translate(112.750000, 82.661400)" fill="#E7E7E7">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="7.33872"></rect>
+            </g>
+            <g id="ヘアー" transform="translate(132.026340, 52.581500) scale(-1, 1) translate(-132.026340, -52.581500) translate(123.026340, 22.081500)" fill="#8E6B30">
+                <rect id="Rectangle" x="0" y="0" width="17.27595" height="60.4092"></rect>
+            </g>
+            <g id="肌2" transform="translate(115.138920, 53.658900) scale(-1, 1) translate(-115.138920, -53.658900) translate(95.638920, 38.658900)" fill="#FFC59D">
+                <path d="M38.3211,0 L0,0 L0,27.903894 C0,28.7116383 0.657206865,29.37252 1.46769813,29.37252 L38.3211,29.37252 L38.3211,0 Z" id="Path"></path>
+            </g>
+            <g id="め" transform="translate(111.233299, 42.860800) scale(-1, 1) translate(-111.233299, -42.860800) translate(107.733299, 38.860800)" fill="#131010" fill-opacity="0.7">
+                <rect id="Rectangle" x="0" y="0" width="6.210795" height="7.63989"></rect>
+            </g>
+            <g id="め1" transform="translate(131.232750, 42.860800) scale(-1, 1) translate(-131.232750, -42.860800) translate(128.232750, 38.860800)" fill="#131010" fill-opacity="0.7">
+                <rect id="Rectangle" x="0" y="0" width="6" height="7.63989"></rect>
+            </g>
+            <g id="ヘアー1" transform="translate(144.500000, 51.750000) scale(-1, 1) translate(-144.500000, -51.750000) translate(140.500000, 29.250000)" fill="#D5D6C4" fill-opacity="0.9">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="45"></rect>
+            </g>
+            <g id="ヘアー2" transform="translate(144.500000, 52.250000) scale(-1, 1) translate(-144.500000, -52.250000) translate(140.500000, 42.750000)" fill="#B8842A" fill-opacity="0.6">
+                <rect id="Rectangle" x="0" y="0" width="7.5" height="18.75"></rect>
+            </g>
+            <g id="ヘアー3" transform="translate(97.232750, 75.750000) scale(-1, 1) translate(-97.232750, -75.750000) translate(85.732750, 68.250000)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="22.5" height="14.25"></rect>
+            </g>
+            <g id="ヘアー4" transform="translate(92.250000, 50.000000) scale(-1, 1) translate(-92.250000, -50.000000) translate(78.750000, 25.500000)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="27" height="48.75"></rect>
+            </g>
+            <g id="ヘアー5" transform="translate(124.035929, 37.620250) scale(-1, 1) translate(-124.035929, -37.620250) translate(117.035929, 32.120250)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="13.018695" height="10.36065"></rect>
+            </g>
+            <g id="ヘアー6" transform="translate(115.361911, 34.244200) scale(-1, 1) translate(-115.361911, -34.244200) translate(111.861911, 27.244200)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="6.406005" height="13.47831"></rect>
+            </g>
+            <g id="ヘアー7" transform="translate(134.502661, 40.348500) scale(-1, 1) translate(-134.502661, -40.348500) translate(131.002661, 35.848500)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="6.406005" height="8.28735"></rect>
+            </g>
+            <g id="ヘアー8" transform="translate(112.768990, 27.250000) scale(-1, 1) translate(-112.768990, -27.250000) translate(95.768990, 15.750000)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="33.45045" height="22.5"></rect>
+            </g>
+            <g id="ヘアー9" transform="translate(132.526010, 28.245800) scale(-1, 1) translate(-132.526010, -28.245800) translate(124.026010, 20.245800)" fill="#B8842A">
+                <rect id="Rectangle" x="0" y="0" width="16.0533" height="15.59844"></rect>
+            </g>
+            <g id="ヘアー10" transform="translate(115.250000, 24.000000) scale(-1, 1) translate(-115.250000, -24.000000) translate(108.250000, 22.500000)" fill="#966F2D">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="3"></rect>
+            </g>
+            <g id="ヘアー11" transform="translate(128.750000, 27.000000) scale(-1, 1) translate(-128.750000, -27.000000) translate(121.750000, 25.500000)" fill="#966F2D">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="3"></rect>
+            </g>
+            <g id="ヘアー12" transform="translate(102.750000, 31.500000) scale(-1, 1) translate(-102.750000, -31.500000) translate(96.750000, 30.000000)" fill="#966F2D">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="3"></rect>
+            </g>
+            <g id="ヘアー13" transform="translate(134.526223, 15.503600) scale(-1, 1) translate(-134.526223, -15.503600) translate(128.026223, 7.503600)" fill="#E2E2D6">
+                <rect id="Rectangle" x="0" y="0" width="12.025965" height="15.24498"></rect>
+            </g>
+            <g id="ほっぺ" transform="translate(94.024723, 47.726950) scale(-1, 1) translate(-94.024723, -47.726950) translate(87.524723, 45.226950)" fill="#FF6633">
+                <rect id="Rectangle" x="0" y="0" width="12.580965" height="4.30521"></rect>
+            </g>
+            <g id="ほっぺ1" transform="translate(94.024723, 50.920450) scale(-1, 1) translate(-94.024723, -50.920450) translate(87.524723, 48.420450)" fill="#FF6633" fill-opacity="0.5">
+                <rect id="Rectangle" x="0" y="0" width="12.580965" height="4.30521"></rect>
+            </g>
+            <g id="ほっぺ2" transform="translate(139.390066, 52.031950) scale(-1, 1) translate(-139.390066, -52.031950) translate(134.390066, 49.531950)" fill="#FF6633" fill-opacity="0.5">
+                <rect id="Rectangle" x="0" y="0" width="9.45153" height="4.30521"></rect>
+            </g>
+            <g id="腕15" transform="translate(86.250000, 15.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="22.5"></rect>
+            </g>
+            <g id="腕16" transform="translate(93.750000, 7.500000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="15" height="22.5"></rect>
+            </g>
+            <g id="腕17" transform="translate(108.750000, 0.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="22.5"></rect>
+            </g>
+            <g id="腕18" transform="translate(122.250000, 9.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="13.5" height="16.5"></rect>
+            </g>
+            <g id="腕19" transform="translate(135.749979, 16.500000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="7.518555" height="19.5"></rect>
+            </g>
+            <g id="腕20" transform="translate(86.250000, 71.250000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="11.25"></rect>
+            </g>
+            <g id="腕21" transform="translate(86.250000, 15.000000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="5.625" height="67.5"></rect>
+            </g>
+            <g id="腕22" transform="translate(75.000000, 25.500000)" fill="#EAEBE0">
+                <rect id="Rectangle" x="0" y="0" width="11.25" height="52.5"></rect>
+            </g>
+            <g id="肌3" transform="translate(103.500000, 50.625000)" fill="#2999C1">
+                <rect id="Rectangle" x="0" y="0" width="2.25" height="49.125"></rect>
+            </g>
+            <polygon id="Path" fill="#1FB8F5" points="104.25 33 114.77625 33 114.77625 40.5 108.77625 40.5 108.77625 47.25 116.25 47.25 116.25 43.5 114.77625 43.5 114.77625 34.5 120.02625 34.5 120.02625 36.75 124.5 36.75 124.5 34.5 129.75 34.5 129.75 43.5 126.75 43.5 126.75 47.25 135.75 47.25 135.75 40.5 129.75 40.5 129.75 33 145.5 33 145.5 37.5 142.52625 37.5 142.52625 40.5 140.25 40.5 140.25 47.25 142.48275 47.25 142.48275 51 140.25 51 135.75 51 131.25 51 131.25 53.25 124.5 53.25 124.5 57 118.5 57 118.5 53.25 111.75 53.25 111.75 51 108.77625 51 104.25 51 102 51 102 47.25 104.25 47.25 104.25 40.5 102 40.5 102 37.5 95.25 37.5 95.25 33"></polygon>
+            <g id="Group" transform="translate(115.676002, 60.750000)" stroke="#E38474" stroke-opacity="0.7" stroke-width="1.5">
+                <path d="M0.41904324,0.55425 C1.10289853,2.229 1.25305569,2.26725 6.43173173,2.2905 C10.4301026,2.30925 10.862532,1.7355 11.3106755,0.38175" id="Path"></path>
+            </g>
+            <g id="肌4" transform="translate(155.250000, 165.000000)" fill="#F8BA91">
+                <rect id="Rectangle" x="0" y="0" width="6.75" height="3.75"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

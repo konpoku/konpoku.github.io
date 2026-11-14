@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="260px" viewBox="0 0 530 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3-II_make_Gmixolydianscale</title>
+    <defs>
+        <circle id="path-1" cx="376.5" cy="119.5" r="12.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="25" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="3-II_make_Gmixolydianscale" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="36.9410086 135.831235 36.973828 23 8 23 8 217 49 217 49 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="87.8977636 135.623199 87.9300958 23 64 23 64 135.623199 53 135.623199 53 217 97 217 97 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="136.119361 135.623199 136.151693 23 114.666198 23 114.666198 135.623199 100 135.623199 100 217 144 217 144 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(169.000000, 120.000000) scale(-1, 1) translate(-169.000000, -120.000000) " points="175.628711 135.831235 175.662925 23 147 23 147 217 191 217 191 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="223.799919 135.831235 223.832578 23 195 23 195 217 237 217 237 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="275.94125 135.623199 275.973422 23 250.945757 23 250.945757 135.623199 240 135.623199 240 217 285 217 285 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(310.000000, 120.000000) scale(-1, 1) translate(-310.000000, -120.000000) " points="315.400162 135.831235 315.432822 23 289 23 289 217 331 217 331 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(449.000000, 120.000000) scale(-1, 1) translate(-449.000000, -120.000000) " points="454.400162 135.831235 454.432822 23 428 23 428 217 470 217 470 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="35" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="85" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="135" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="223" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="275" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="363.941009 135.831235 363.973828 23 335 23 335 217 376 217 376 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="414.897764 135.623199 414.930096 23 391 23 391 135.623199 380 135.623199 380 217 424 217 424 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="362" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="412" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(495.000000, 120.000000) scale(-1, 1) translate(-495.000000, -120.000000) " points="500.400162 135.831235 500.432822 23 474 23 474 217 516 217 516 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="458" y="22" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FFBF00" cx="168.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="122.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="215.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="309.5" cy="196.5" r="12.5"></circle>
+        <use id="Circle" stroke="#FFBF00" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="4,4" xlink:href="#path-1"></use>
+        <circle id="Circle" fill="#FFBF00" cx="401.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="262.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="75.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FF6633" cx="356.5" cy="196.5" r="12.5"></circle>
+        <path id="Line" d="M372.617544,135.985089 L374.514911,136.617544 L374.198683,137.566228 L364.625,166.284 L370.317972,168.182028 L359.25,179.25 L357.036406,163.754839 L362.728,165.652 L372.617544,135.985089 Z" fill="#FF6633" fill-rule="nonzero"></path>
+    </g>
+</svg>

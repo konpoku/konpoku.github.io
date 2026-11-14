@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="420px" viewBox="0 0 810 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2-6_tsdt</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF6633" offset="0%"></stop>
+            <stop stop-color="#FFBF00" offset="50.7099873%"></stop>
+            <stop stop-color="#58C322" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="2-6_tsdt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-324" transform="translate(41.000000, 87.000000)" stroke="#B8B8B8" stroke-width="0.5">
+            <line x1="0" y1="191.5" x2="662" y2="191.5" id="Stroke-304"></line>
+            <line x1="0" y1="153.5" x2="662" y2="153.5" id="Stroke-306"></line>
+            <line x1="0" y1="115.5" x2="662" y2="115.5" id="Stroke-308"></line>
+            <line x1="0" y1="76.5" x2="662" y2="76.5" id="Stroke-310"></line>
+            <line x1="0" y1="38.5" x2="662" y2="38.5" id="Stroke-312"></line>
+            <line x1="0" y1="0.5" x2="662" y2="0.5" id="Stroke-314"></line>
+        </g>
+        <path d="M391,-39 L400,-25 L393,-25 L393,674 L389,674 L389,-25 L382,-25 L391,-39 Z" id="Axis" fill="#000000" transform="translate(391.000000, 317.500000) rotate(-270.000000) translate(-391.000000, -317.500000) "></path>
+        <path d="M42,51 L51,64 L44,64 L44,327 L40,327 L40,64 L33,64 L42,51 Z" id="Axis" fill="#000000"></path>
+        <text id="時間" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+            <tspan x="753" y="324">時間</tspan>
+        </text>
+        <text id="緊張" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+            <tspan x="22" y="42">緊張</tspan>
+        </text>
+        <rect id="Rectangle-Copy" fill="#58C322" x="113" y="336" width="90" height="60" rx="7.5"></rect>
+        <polyline id="Path-11" stroke="url(#linearGradient-1)" stroke-width="4" points="158 317 307 202.598958 457 87 610 316.101562"></polyline>
+        <circle id="Oval" fill="#58C322" cx="158" cy="317" r="12"></circle>
+        <circle id="Oval" fill="#58C322" cx="610" cy="317" r="12"></circle>
+        <circle id="Oval" fill="#FFBF00" cx="307" cy="202" r="12"></circle>
+        <circle id="Oval" fill="#FF5500" cx="457" cy="88" r="12"></circle>
+        <g id="CS-Root" transform="translate(145.000000, 354.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M16.1896842,24 L16.1896842,4.02 L21.8776842,4.02 L21.8776842,-0.012 L5.53368421,-0.012 L5.53368421,4.02 L11.2576842,4.02 L11.2576842,24 L16.1896842,24 Z" id="Combined-Shape"></path>
+        </g>
+        <rect id="Rectangle-Copy" fill="#FF5500" x="408" y="334" width="90" height="60" rx="7.5"></rect>
+        <g id="CS-Root" transform="translate(440.000000, 352.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M11.7976842,24 C15.2536842,24 18.1336842,23.028 20.1136842,21.228 C22.5616842,19.032 23.9296842,15.576 23.9296842,11.724 C23.9296842,7.944 22.5976842,4.812 20.1496842,2.652 C18.0256842,0.78 15.3976842,-0.012 11.5096842,-0.012 L4.70568421,-0.012 L4.70568421,24 L11.7976842,24 Z M10.5736842,19.932 L9.63768421,19.932 L9.63768421,3.984 L11.4376842,3.984 C16.0096842,3.984 18.9256842,7.08 18.9256842,11.868 C18.9256842,14.532 17.9536842,16.8 16.2256842,18.276 C14.8216842,19.464 13.2016842,19.932 10.5736842,19.932 Z" id="Combined-Shape"></path>
+        </g>
+        <rect id="Rectangle-Copy" fill="#FFBF00" x="258" y="335" width="90" height="60" rx="7.5"></rect>
+        <g id="CS-Root" transform="translate(290.000000, 353.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M13.5616842,24.468 C18.5296842,24.468 21.8416842,21.552 21.8416842,17.16 C21.8416842,15.324 21.1936842,13.704 19.9336842,12.516 C18.8896842,11.508 17.5576842,10.824 14.9296842,9.852 C13.1656842,9.204 12.7696842,9.024 12.1216842,8.664 C11.1496842,8.124 10.6456842,7.368 10.6456842,6.396 C10.6456842,4.884 11.8336842,3.876 13.5976842,3.876 C15.5416842,3.876 16.5496842,4.848 16.7296842,6.864 L21.6976842,6.864 C21.3016842,2.256 18.2776842,-0.48 13.5976842,-0.48 C8.88168421,-0.48 5.67768421,2.436 5.67768421,6.792 C5.67768421,10.464 7.54968421,12.444 12.8056842,14.316 C14.6776842,15 15.1096842,15.18 15.7216842,15.648 C16.3336842,16.116 16.6936842,16.8 16.6936842,17.556 C16.6936842,18.996 15.3256842,20.112 13.5256842,20.112 C11.6536842,20.112 10.2496842,18.924 10.2496842,17.304 L10.2496842,16.98 L5.46168421,16.98 C5.42568421,21.588 8.52168421,24.468 13.5616842,24.468 Z" id="Combined-Shape"></path>
+        </g>
+        <rect id="Rectangle-Copy" fill="#58C322" x="563" y="336" width="90" height="60" rx="7.5"></rect>
+        <g id="CS-Root" transform="translate(595.000000, 354.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M16.1896842,24 L16.1896842,4.02 L21.8776842,4.02 L21.8776842,-0.012 L5.53368421,-0.012 L5.53368421,4.02 L11.2576842,4.02 L11.2576842,24 L16.1896842,24 Z" id="Combined-Shape"></path>
+        </g>
+        <path id="Line" d="M232.378194,357.741041 L251.499958,366.993507 L232.624926,376.739438 L232.52,368.74 L212.519479,368.999874 L211.019605,369.019352 L210.980648,366.019605 L212.480521,366.000126 L232.482,365.74 L232.378194,357.741041 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <path id="Line" d="M381.378194,357.741041 L400.499958,366.993507 L381.624926,376.739438 L381.52,368.74 L361.519479,368.999874 L360.019605,369.019352 L359.980648,366.019605 L361.480521,366.000126 L381.482,365.74 L381.378194,357.741041 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <path id="Line" d="M530.378194,357.741041 L549.499958,366.993507 L530.624926,376.739438 L530.52,368.74 L510.519479,368.999874 L509.019605,369.019352 L508.980648,366.019605 L510.480521,366.000126 L530.482,365.74 L530.378194,357.741041 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+    </g>
+</svg>

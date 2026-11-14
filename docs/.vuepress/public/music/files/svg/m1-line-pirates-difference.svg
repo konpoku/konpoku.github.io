@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="575px" height="189px" viewBox="0 0 575 189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-pirates-difference</title>
+    <g id="m1-line-pirates-difference" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(27.000000, 30.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="46" cy="59" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="72" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="122" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 79 46 59 76 49 127 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(197.000000, 30.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="46" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="72" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="127" cy="29" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 49 46 39 76 29 127 29"></polyline>
+        </g>
+        <g id="Group" transform="translate(367.000000, 30.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="46" cy="19" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="72" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="127" cy="39" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 29 46 19 76 39 127 39"></polyline>
+        </g>
+        <path id="Path-28" d="M135,47 L159,59 L135,71 L135,61 L78.543,61 L28.0140403,90.7238684 L26.2901718,91.7379087 L24.2620913,88.2901718 L25.9859597,87.2761316 L76.9859597,57.2761316 L77.4553834,57 L135,57 L135,47 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Path-28" d="M310,29 L334,41 L310,53 L310,43 L253.462,43 L202.880314,67.7958414 L201.084473,68.6761559 L199.323844,65.084473 L201.119686,64.2041586 L252.119686,39.2041586 L252.536169,39 L310,39 L310,29 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Path-28" d="M413.012056,17.6301334 L414.081515,18.317643 L455.588,45 L486,45 L486,35 L510,47 L486,59 L486,49 L454.412596,49 L453.918485,48.682357 L412.988,22.37 L379.064343,43.6932731 L377.37107,44.7576162 L375.242384,41.37107 L376.935657,40.3067269 L411.935657,18.3067269 L413.012056,17.6301334 Z" fill="#000000" fill-rule="nonzero"></path>
+        <text id="異なるカーブ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="389" y="162">不同的轮廓曲线</tspan>
+        </text>
+    </g>
+</svg>

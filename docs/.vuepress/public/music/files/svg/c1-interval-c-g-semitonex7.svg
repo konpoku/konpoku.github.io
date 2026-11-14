@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="685px" height="235px" viewBox="0 0 685 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-interval-c-g-semitonex7</title>
+    <defs>
+        <circle id="path-1" cx="67.5" cy="120.5" r="15"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle id="path-3" cx="91.5" cy="197.5" r="15"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <circle id="path-5" cx="119.5" cy="120.5" r="15"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <circle id="path-7" cx="139.5" cy="196.5" r="15"></circle>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <circle id="path-9" cx="183.5" cy="196.5" r="15"></circle>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <circle id="path-11" cx="206.5" cy="120.5" r="15"></circle>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="c1-interval-c-g-semitonex7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="191.941009 135.831235 191.973828 23 163 23 163 217 204 217 204 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="242.897764 135.623199 242.930096 23 219 23 219 135.623199 208 135.623199 208 217 252 217 252 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="291.119361 135.623199 291.151693 23 269.666198 23 269.666198 135.623199 255 135.623199 255 217 299 217 299 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(324.000000, 120.000000) scale(-1, 1) translate(-324.000000, -120.000000) " points="330.628711 135.831235 330.662925 23 302 23 302 217 346 217 346 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="378.799919 135.831235 378.832578 23 350 23 350 217 392 217 392 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="430.94125 135.623199 430.973422 23 405.945757 23 405.945757 135.623199 395 135.623199 395 217 440 217 440 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(465.000000, 120.000000) scale(-1, 1) translate(-465.000000, -120.000000) " points="470.400162 135.831235 470.432822 23 444 23 444 217 486 217 486 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(604.000000, 120.000000) scale(-1, 1) translate(-604.000000, -120.000000) " points="609.400162 135.831235 609.432822 23 583 23 583 217 625 217 625 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="190" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="240" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="290" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="378" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="430" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="52.7999189 135.831235 52.8325783 23 24 23 24 217 66 217 66 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="104.94125 135.623199 104.973422 23 79.9457569 23 79.9457569 135.623199 69 135.623199 69 217 114 217 114 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(139.000000, 120.000000) scale(-1, 1) translate(-139.000000, -120.000000) " points="144.400162 135.831235 144.432822 23 118 23 118 217 160 217 160 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="52" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="104" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="518.941009 135.831235 518.973828 23 490 23 490 217 531 217 531 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="569.897764 135.623199 569.930096 23 546 23 546 135.623199 535 135.623199 535 217 579 217 579 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="517" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="567" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(650.000000, 120.000000) scale(-1, 1) translate(-650.000000, -120.000000) " points="655.400162 135.831235 655.432822 23 629 23 629 217 671 217 671 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="613" y="22" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FF6633" fill-rule="nonzero" cx="42.5" cy="198.5" r="15"></circle>
+        <use id="Circle" stroke="#AAAAAA" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="CS-Root" transform="translate(61.000000, 115.000000)" fill="#AAAAAA">
+            <path d="M8.0347609,11 L8.0347609,-0.207314286 L3.92047519,1.93211429 L3.92047519,3.89051429 L5.91178947,2.8208 L5.91178947,11 L8.0347609,11 Z" id="Combined-Shape"></path>
+        </g>
+        <use id="Circle" stroke="#AAAAAA" mask="url(#mask-4)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-3"></use>
+        <g id="CS-Root" transform="translate(85.000000, 192.000000)" fill="#AAAAAA">
+            <path d="M9.17030376,11 L9.17030376,9.14034286 L6.05990376,9.14034286 L8.11704662,6.12868571 C9.08801805,4.69691429 9.46653233,3.77531429 9.46653233,2.77142857 C9.46653233,1.07634286 8.10058947,-0.141485714 6.17510376,-0.141485714 C4.0027609,-0.141485714 2.68618947,1.27382857 2.70264662,3.59428571 L4.64458947,3.59428571 C4.66104662,3.03474286 4.6939609,2.83725714 4.8091609,2.54102857 C4.99018947,2.06377143 5.45098947,1.76754286 6.04344662,1.76754286 C6.80047519,1.76754286 7.3435609,2.27771429 7.3435609,2.98537143 C7.3435609,3.512 7.17898947,3.8576 6.33967519,5.14125714 L2.5051609,11 L9.17030376,11 Z" id="Combined-Shape"></path>
+        </g>
+        <use id="Circle" stroke="#AAAAAA" mask="url(#mask-6)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-5"></use>
+        <g id="CS-Root" transform="translate(113.000000, 115.000000)" fill="#AAAAAA">
+            <path d="M5.91178947,11.2139429 C8.01830376,11.2139429 9.56527519,9.63405714 9.56527519,7.49462857 C9.56527519,5.63497143 8.41327519,4.33485714 6.63590376,4.18674286 L9.68047519,0.0889142857 L2.99887519,0.0889142857 L2.99887519,1.8992 L6.15864662,1.8992 L3.6571609,5.24 L4.84207519,6.24388571 C5.1547609,6.0464 5.46744662,5.96411429 5.8459609,5.96411429 C6.83338947,5.96411429 7.54104662,6.67177143 7.54104662,7.64274286 C7.54104662,8.59725714 6.80047519,9.32137143 5.86241805,9.32137143 C5.05601805,9.32137143 4.48001805,8.8112 4.3483609,7.95542857 L2.45578947,8.02125714 C2.55453233,8.84411429 2.68618947,9.272 3.01533233,9.76571429 C3.62424662,10.6873143 4.6939609,11.2139429 5.91178947,11.2139429 Z" id="Combined-Shape"></path>
+        </g>
+        <use id="Circle" stroke="#AAAAAA" mask="url(#mask-8)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-7"></use>
+        <g id="CS-Root" transform="translate(133.000000, 191.000000)" fill="#AAAAAA">
+            <path d="M8.67658947,11 L8.67658947,8.74537143 L9.68047519,8.74537143 L9.68047519,6.93508571 L8.67658947,6.93508571 L8.67658947,-0.00982857143 L6.47133233,-0.00982857143 L2.6203609,6.98445714 L2.6203609,8.74537143 L6.6523609,8.74537143 L6.6523609,11 L8.67658947,11 Z M6.6523609,6.93508571 L4.3483609,6.93508571 L6.6523609,2.85371429 L6.6523609,6.93508571 Z" id="Combined-Shape"></path>
+        </g>
+        <use id="Circle" stroke="#AAAAAA" mask="url(#mask-10)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-9"></use>
+        <g id="CS-Root" transform="translate(177.000000, 191.000000)" fill="#AAAAAA">
+            <path d="M6.05990376,11.2139429 C8.1499609,11.2139429 9.66401805,9.66697143 9.66401805,7.49462857 C9.66401805,5.53622857 8.29807519,4.05508571 6.47133233,4.05508571 C5.99407519,4.05508571 5.63201805,4.13737143 5.12184662,4.35131429 L5.12184662,1.99794286 L8.79178947,1.99794286 L8.79178947,0.0889142857 L3.1963609,0.0889142857 L3.1963609,6.58948571 L4.5787609,6.58948571 C4.97373233,6.06285714 5.40161805,5.84891429 5.97761805,5.84891429 C6.89921805,5.84891429 7.60687519,6.58948571 7.60687519,7.544 C7.60687519,8.49851429 6.89921805,9.22262857 5.99407519,9.22262857 C5.25350376,9.22262857 4.77624662,8.84411429 4.4635609,8.02125714 L2.6203609,8.71245714 C2.91658947,9.48594286 3.13053233,9.81508571 3.52550376,10.2265143 C4.18378947,10.8683429 5.07247519,11.2139429 6.05990376,11.2139429 Z" id="Combined-Shape"></path>
+        </g>
+        <use id="Circle" stroke="#AAAAAA" mask="url(#mask-12)" stroke-width="2" stroke-dasharray="4,4" fill-rule="nonzero" xlink:href="#path-11"></use>
+        <g id="CS-Root" transform="translate(200.000000, 115.000000)" fill="#AAAAAA">
+            <path d="M6.0763609,11.2139429 C8.10058947,11.2139429 9.72984662,9.58468571 9.72984662,7.56045714 C9.72984662,5.76662857 8.3803609,4.3184 6.68527519,4.3184 C6.50424662,4.3184 6.37258947,4.33485714 6.10927519,4.41714286 L8.92344662,0.0889142857 L6.52070376,0.0889142857 L3.78881805,4.40068571 C2.91658947,5.78308571 2.58744662,6.68822857 2.58744662,7.69211429 C2.58744662,9.69988571 4.10150376,11.2139429 6.0763609,11.2139429 Z M6.14218947,9.23908571 C5.25350376,9.23908571 4.5787609,8.56434286 4.5787609,7.6592 C4.5787609,6.77051429 5.28641805,6.06285714 6.1915609,6.06285714 C7.06378947,6.06285714 7.73853233,6.75405714 7.73853233,7.6592 C7.73853233,8.53142857 7.03087519,9.23908571 6.14218947,9.23908571 Z" id="Combined-Shape"></path>
+        </g>
+        <circle id="Circle" fill="#FF6633" fill-rule="nonzero" cx="230.5" cy="198.5" r="15"></circle>
+        <g id="Group" transform="translate(225.000000, 193.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="CS-Root">
+                <path d="M5.36870376,11 L9.68047519,0.0889142857 L3.1963609,0.0889142857 L3.1963609,1.99794286 L6.73464662,1.99794286 L3.17990376,11 L5.36870376,11 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

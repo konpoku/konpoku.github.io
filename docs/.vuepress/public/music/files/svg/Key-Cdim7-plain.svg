@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="250px" viewBox="0 0 355 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Key-Cdim7-plain</title>
+    <g id="Key-Cdim7-plain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="48.7999189 145.831235 48.8325783 33 20 33 20 227 62 227 62 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="100.94125 145.623199 100.973422 33 75.9457569 33 75.9457569 145.623199 65 145.623199 65 227 110 227 110 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(135.000000, 130.000000) scale(-1, 1) translate(-135.000000, -130.000000) " points="140.400162 145.831235 140.432822 33 114 33 114 227 156 227 156 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(274.000000, 130.000000) scale(-1, 1) translate(-274.000000, -130.000000) " points="279.400162 145.831235 279.432822 33 253 33 253 227 295 227 295 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="48" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="100" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="188.941009 145.831235 188.973828 33 160 33 160 227 201 227 201 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="239.897764 145.623199 239.930096 33 216 33 216 145.623199 205 145.623199 205 227 249 227 249 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="187" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="237" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(320.000000, 130.000000) scale(-1, 1) translate(-320.000000, -130.000000) " points="325.400162 145.831235 325.432822 33 299 33 299 227 341 227 341 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="283" y="32" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FF8000" cx="274" cy="205" r="15"></circle>
+        <circle id="Circle" fill="#FF8000" cx="41" cy="205" r="15"></circle>
+        <circle id="Circle" fill="#FF8000" cx="115" cy="129" r="15"></circle>
+        <circle id="Circle" fill="#FF8000" cx="202" cy="128" r="15"></circle>
+    </g>
+</svg>

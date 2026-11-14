@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 661 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3069.5,-1971.5)">
+        <g id="R2-10cells_3322" transform="matrix(0.82625,0,0,0.75,3069.5,1971.5)">
+            <rect x="0" y="0" width="800" height="320" style="fill:none;"/>
+            <g transform="matrix(1.21029,0,0,1.33333,-15.7337,53.3333)">
+                <g transform="matrix(0.340741,0,0,1.24324,151.096,-24.3243)">
+                    <g id="cell">
+                        <rect id="cell1" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,201.096,-24.3243)">
+                    <g id="cell2" serif:id="cell">
+                        <rect id="cell3" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,251.096,-24.3243)">
+                    <g id="cell4" serif:id="cell">
+                        <rect id="cell5" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,301.096,-24.3243)">
+                    <g id="cell6" serif:id="cell">
+                        <rect id="cell7" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,351.096,-24.3243)">
+                    <g id="cell8" serif:id="cell">
+                        <rect id="cell9" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,401.096,-24.3243)">
+                    <g id="cell10" serif:id="cell">
+                        <rect id="cell11" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,451.096,-24.3243)">
+                    <g id="cell12" serif:id="cell">
+                        <rect id="cell13" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,501.096,-24.3243)">
+                    <g id="cell14" serif:id="cell">
+                        <rect id="cell15" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,551.096,-24.3243)">
+                    <g id="cell16" serif:id="cell">
+                        <rect id="cell17" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.340741,0,0,1.24324,601.096,-24.3243)">
+                    <g id="cell18" serif:id="cell">
+                        <rect id="cell19" serif:id="cell" x="32" y="100" width="135" height="37" style="fill:rgb(242,242,242);"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1.12064,0,0,1.2973,-11.6546,-49.7297)">
+                <g id="TH">
+                    <rect id="TH1" serif:id="TH" x="32" y="100" width="135" height="37" style="fill:rgb(220,220,220);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.12064,0,0,1.2973,-11.6546,-103.063)">
+                <g id="TH2" serif:id="TH">
+                    <rect id="TH3" serif:id="TH" x="32" y="100" width="135" height="37" style="fill:rgb(220,220,220);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.12064,0,0,1.2973,-11.6546,3.6036)">
+                <g id="TH4" serif:id="TH">
+                    <rect id="TH5" serif:id="TH" x="32" y="100" width="135" height="37" style="fill:rgb(220,220,220);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.12064,0,0,1.65766,-11.6546,20.9009)">
+                <g id="TH-Tall" serif:id="TH Tall">
+                    <rect id="TH6" serif:id="TH" x="32" y="100" width="135" height="37" style="fill:rgb(220,220,220);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.864491,0,0,1.02564,108.753,-13.3998)">
+                <g id="weak">
+                    <ellipse id="strong" cx="185" cy="224" rx="14" ry="13" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.864491,0,0,1.02564,169.267,-13.3998)">
+                <g id="weak1" serif:id="weak">
+                    <ellipse id="strong1" serif:id="strong" cx="185" cy="224" rx="14" ry="13" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.864491,0,0,1.02564,350.81,-13.3998)">
+                <g id="weak2" serif:id="weak">
+                    <ellipse id="strong2" serif:id="strong" cx="185" cy="224" rx="14" ry="13" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.864491,0,0,1.02564,289.086,-13.3998)">
+                <g id="weak3" serif:id="weak">
+                    <ellipse id="strong3" serif:id="strong" cx="185" cy="224" rx="14" ry="13" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.864491,0,0,1.02564,471.839,-13.3998)">
+                <g id="weak4" serif:id="weak">
+                    <ellipse id="strong4" serif:id="strong" cx="185" cy="224" rx="14" ry="13" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.864491,0,0,1.02564,592.868,-13.3998)">
+                <g id="weak5" serif:id="weak">
+                    <ellipse id="strong5" serif:id="strong" cx="185" cy="224" rx="14" ry="13" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,-42.3044,-194.851)">
+                <g id="o-u">
+                    <text id="o-u1" serif:id="o-u" x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:24px;">表裏</text>
+                </g>
+            </g>
+            <g transform="matrix(4.44669,0,0,1.2973,38.0389,-103.063)">
+                <g id="barcell">
+                    <rect id="barcell1" serif:id="barcell" x="32" y="100" width="135" height="37" style="fill:rgb(235,235,235);"/>
+                </g>
+            </g>
+            <g id="beatcell2" transform="matrix(1.21029,0,0,1.04348,-15.7337,28.9855)">
+                <g id="cell20" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,151.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g id="cell21" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,201.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,78.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">表</text>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,129.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">裏</text>
+                </g>
+            </g>
+            <g id="beatcell21" serif:id="beatcell2" transform="matrix(1.21029,0,0,1.04348,105.295,28.9855)">
+                <g id="cell22" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,151.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g id="cell23" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,201.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,78.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">表</text>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,129.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">裏</text>
+                </g>
+            </g>
+            <g id="beatcell22" serif:id="beatcell2" transform="matrix(1.21029,0,0,1.04348,226.324,28.9855)">
+                <g id="cell24" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,151.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g id="cell25" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,201.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,78.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">表</text>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,129.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">裏</text>
+                </g>
+            </g>
+            <g id="beatcell23" serif:id="beatcell2" transform="matrix(1.21029,0,0,1.04348,347.352,28.9855)">
+                <g id="cell26" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,151.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g id="cell27" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,201.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,78.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">表</text>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,129.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">裏</text>
+                </g>
+            </g>
+            <g id="beatcell24" serif:id="beatcell2" transform="matrix(1.21029,0,0,1.04348,468.381,28.9855)">
+                <g id="cell28" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,151.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g id="cell29" serif:id="cell" transform="matrix(0.340741,0,0,1.24324,201.096,-24.3243)">
+                    <rect x="32" y="100" width="135" height="37" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,78.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">表</text>
+                </g>
+                <g transform="matrix(1,0,0,1.27778,129.7,-216.497)">
+                    <text x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">裏</text>
+                </g>
+            </g>
+            <g transform="matrix(0.860649,0,0,1.2973,152.792,-49.7297)">
+                <g id="beatcell">
+                    <rect id="beatcell1" serif:id="beatcell" x="32" y="100" width="135" height="37" style="fill:rgb(235,235,235);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.860649,0,0,1.2973,273.821,-49.7297)">
+                <g id="beatcell3" serif:id="beatcell">
+                    <rect id="beatcell4" serif:id="beatcell" x="32" y="100" width="135" height="37" style="fill:rgb(235,235,235);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.860649,0,0,1.2973,394.85,-49.7297)">
+                <g id="beatcell5" serif:id="beatcell">
+                    <rect id="beatcell6" serif:id="beatcell" x="32" y="100" width="135" height="37" style="fill:rgb(235,235,235);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.860649,0,0,1.2973,515.878,-49.7297)">
+                <g id="beatcell7" serif:id="beatcell">
+                    <rect id="beatcell8" serif:id="beatcell" x="32" y="100" width="135" height="37" style="fill:rgb(235,235,235);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.860649,0,0,1.2973,636.907,-49.7297)">
+                <g id="beatcell9" serif:id="beatcell">
+                    <rect id="beatcell10" serif:id="beatcell" x="32" y="100" width="135" height="37" style="fill:rgb(235,235,235);"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,-3700.45,-1656.67)">
+                <path d="M3659.5,1315.06L3654.39,1315.06L3653.57,1317.81C3653.69,1317.8 3653.81,1317.79 3653.92,1317.78C3654.03,1317.77 3654.13,1317.77 3654.23,1317.77C3655.84,1317.77 3657.16,1318.31 3658.19,1319.4C3659.23,1320.48 3659.75,1321.87 3659.75,1323.56C3659.75,1325.31 3659.16,1326.75 3657.99,1327.88C3656.81,1329.01 3655.33,1329.57 3653.55,1329.57C3651.35,1329.57 3649.62,1328.54 3648.35,1326.48L3650.24,1324.88C3650.76,1325.77 3651.29,1326.39 3651.82,1326.76C3652.35,1327.12 3653,1327.3 3653.76,1327.3C3654.77,1327.3 3655.61,1326.95 3656.29,1326.24C3656.97,1325.52 3657.31,1324.64 3657.31,1323.61C3657.31,1322.55 3656.97,1321.68 3656.3,1321.01C3655.63,1320.32 3654.78,1319.97 3653.78,1319.97C3652.65,1319.97 3651.68,1320.46 3650.86,1321.44L3650.04,1321.44L3652.65,1312.72L3659.5,1312.72L3659.5,1315.06Z" style="fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,350.62,-304.351)">
+                <g id="_1" serif:id="1">
+                    <path id="_11" serif:id="1" d="M104.498,259.566L104.498,273.318L106.922,273.318L106.922,257.31L103.058,257.31L101.738,259.566L104.498,259.566Z"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,107.352,-249.684)">
+                <g id="_12" serif:id="1">
+                    <path id="_13" serif:id="1" d="M104.498,259.566L104.498,273.318L106.922,273.318L106.922,257.31L103.058,257.31L101.738,259.566L104.498,259.566Z"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,230.799,-249.612)">
+                <g id="_2" serif:id="2">
+                    <path id="_21" serif:id="2" d="M104.09,271.038L106.562,268.11C109.346,264.846 110.018,263.622 110.018,261.894C110.018,259.158 107.762,257.046 104.858,257.046C103.058,257.046 101.594,257.814 100.658,259.206C100.13,260.022 99.89,260.742 99.746,262.11L102.146,262.11C102.242,261.222 102.386,260.814 102.698,260.358C103.178,259.662 104.018,259.254 104.93,259.254C106.466,259.254 107.666,260.406 107.666,261.894C107.666,262.926 107.09,263.862 104.834,266.598L99.29,273.318L110.042,273.318L110.042,271.038L104.09,271.038Z"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,351.828,-249.612)">
+                <g id="_3" serif:id="3">
+                    <path id="_31" serif:id="3" d="M104.234,265.878C105.338,265.902 105.842,265.998 106.298,266.262C107.018,266.694 107.45,267.558 107.45,268.59C107.45,270.222 106.322,271.374 104.738,271.374C103.898,271.374 103.058,271.014 102.554,270.414C102.218,270.03 102.098,269.694 101.978,268.974L99.65,268.974C99.746,270.054 99.866,270.582 100.226,271.206C101.066,272.694 102.722,273.582 104.666,273.582C107.69,273.582 109.826,271.566 109.826,268.662C109.826,266.958 109.154,265.638 107.858,264.87C109.01,264.054 109.586,262.926 109.586,261.462C109.586,258.87 107.642,257.046 104.834,257.046C103.082,257.046 101.69,257.694 100.922,258.894C100.466,259.566 100.274,260.142 100.058,261.39L102.458,261.39C102.626,260.67 102.722,260.358 102.938,260.07C103.322,259.542 103.994,259.23 104.786,259.23C106.226,259.23 107.234,260.19 107.234,261.558C107.234,262.686 106.586,263.55 105.602,263.742C105.242,263.814 105.074,263.814 104.234,263.814L104.234,265.878Z"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,472.857,-249.612)">
+                <g id="_4" serif:id="4">
+                    <path id="_41" serif:id="4" d="M109.226,268.854L109.226,256.134L98.954,271.038L106.802,271.038L106.802,273.318L109.226,273.318L109.226,271.038L110.93,271.038L110.93,268.854L109.226,268.854ZM106.802,268.854L103.106,268.854L106.802,263.502L106.802,268.854Z"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,-25.7186,-249.438)">
+                <g id="beat">
+                    <text id="beat1" serif:id="beat" x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:24px;">拍</text>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,-37.8215,-302.771)">
+                <g id="bar">
+                    <text id="bar1" serif:id="bar" x="93.302px" y="273.318px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:24px;">小節</text>
+                </g>
+            </g>
+            <g transform="matrix(0.901412,0,0,1.33333,-2720.09,-2254)">
+                <path d="M3221,1882L3221,1895L3413,1895L3413,1882" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,142.448,-62.9455)">
+                <g id="_32" serif:id="3">
+                    <path id="_33" serif:id="3" d="M104.234,265.878C105.338,265.902 105.842,265.998 106.298,266.262C107.018,266.694 107.45,267.558 107.45,268.59C107.45,270.222 106.322,271.374 104.738,271.374C103.898,271.374 103.058,271.014 102.554,270.414C102.218,270.03 102.098,269.694 101.978,268.974L99.65,268.974C99.746,270.054 99.866,270.582 100.226,271.206C101.066,272.694 102.722,273.582 104.666,273.582C107.69,273.582 109.826,271.566 109.826,268.662C109.826,266.958 109.154,265.638 107.858,264.87C109.01,264.054 109.586,262.926 109.586,261.462C109.586,258.87 107.642,257.046 104.834,257.046C103.082,257.046 101.69,257.694 100.922,258.894C100.466,259.566 100.274,260.142 100.058,261.39L102.458,261.39C102.626,260.67 102.722,260.358 102.938,260.07C103.322,259.542 103.994,259.23 104.786,259.23C106.226,259.23 107.234,260.19 107.234,261.558C107.234,262.686 106.586,263.55 105.602,263.742C105.242,263.814 105.074,263.814 104.234,263.814L104.234,265.878Z"/>
+                </g>
+            </g>
+            <g transform="matrix(0.901412,0,0,1.33333,-2539.76,-2254)">
+                <path d="M3221,1882L3221,1895L3413,1895L3413,1882" style="fill:none;stroke:black;stroke-width:1.13px;"/>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,322.781,-62.9455)">
+                <g id="_34" serif:id="3">
+                    <path id="_35" serif:id="3" d="M104.234,265.878C105.338,265.902 105.842,265.998 106.298,266.262C107.018,266.694 107.45,267.558 107.45,268.59C107.45,270.222 106.322,271.374 104.738,271.374C103.898,271.374 103.058,271.014 102.554,270.414C102.218,270.03 102.098,269.694 101.978,268.974L99.65,268.974C99.746,270.054 99.866,270.582 100.226,271.206C101.066,272.694 102.722,273.582 104.666,273.582C107.69,273.582 109.826,271.566 109.826,268.662C109.826,266.958 109.154,265.638 107.858,264.87C109.01,264.054 109.586,262.926 109.586,261.462C109.586,258.87 107.642,257.046 104.834,257.046C103.082,257.046 101.69,257.694 100.922,258.894C100.466,259.566 100.274,260.142 100.058,261.39L102.458,261.39C102.626,260.67 102.722,260.358 102.938,260.07C103.322,259.542 103.994,259.23 104.786,259.23C106.226,259.23 107.234,260.19 107.234,261.558C107.234,262.686 106.586,263.55 105.602,263.742C105.242,263.814 105.074,263.814 104.234,263.814L104.234,265.878Z"/>
+                </g>
+            </g>
+            <g transform="matrix(0.59884,0,0,1.33333,-1263.81,-2254)">
+                <path d="M3221,1882L3221,1895L3413,1895L3413,1882" style="fill:none;stroke:black;stroke-width:1.27px;"/>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,595.096,-62.9455)">
+                <g id="_22" serif:id="2">
+                    <path id="_23" serif:id="2" d="M104.09,271.038L106.562,268.11C109.346,264.846 110.018,263.622 110.018,261.894C110.018,259.158 107.762,257.046 104.858,257.046C103.058,257.046 101.594,257.814 100.658,259.206C100.13,260.022 99.89,260.742 99.746,262.11L102.146,262.11C102.242,261.222 102.386,260.814 102.698,260.358C103.178,259.662 104.018,259.254 104.93,259.254C106.466,259.254 107.666,260.406 107.666,261.894C107.666,262.926 107.09,263.862 104.834,266.598L99.29,273.318L110.042,273.318L110.042,271.038L104.09,271.038Z"/>
+                </g>
+            </g>
+            <g transform="matrix(0.59884,0,0,1.33333,-1384.84,-2254)">
+                <path d="M3221,1882L3221,1895L3413,1895L3413,1882" style="fill:none;stroke:black;stroke-width:1.27px;"/>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,474.067,-62.9455)">
+                <g id="_24" serif:id="2">
+                    <path id="_25" serif:id="2" d="M104.09,271.038L106.562,268.11C109.346,264.846 110.018,263.622 110.018,261.894C110.018,259.158 107.762,257.046 104.858,257.046C103.058,257.046 101.594,257.814 100.658,259.206C100.13,260.022 99.89,260.742 99.746,262.11L102.146,262.11C102.242,261.222 102.386,260.814 102.698,260.358C103.178,259.662 104.018,259.254 104.93,259.254C106.466,259.254 107.666,260.406 107.666,261.894C107.666,262.926 107.09,263.862 104.834,266.598L99.29,273.318L110.042,273.318L110.042,271.038L104.09,271.038Z"/>
+                </g>
+            </g>
+            <g transform="matrix(1.21029,0,0,1.33333,-3725.87,-2715.33)">
+                <text x="3106.43px" y="2207.17px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:22px;">重音 (Accent)</text>
+            </g>
+            <g transform="matrix(0.336152,-1.35563,1.21272,0.364969,-605.134,375.555)">
+                <g id="Smash">
+                    <path id="Smash1" serif:id="Smash" d="M276.5,574.002L280.222,584.03L288.273,581.092L285.486,589.578L295,593.501L285.486,597.424L288.273,605.91L280.222,602.972L276.5,613L272.778,602.972L264.727,605.91L267.514,597.424L258,593.501L267.514,589.578L264.727,581.092L272.778,584.03L276.5,574.002Z" style="fill:rgb(241,80,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.336152,-1.35563,1.21272,0.364969,-423.591,375.555)">
+                <g id="Smash2" serif:id="Smash">
+                    <path id="Smash3" serif:id="Smash" d="M276.5,574.002L280.222,584.03L288.273,581.092L285.486,589.578L295,593.501L285.486,597.424L288.273,605.91L280.222,602.972L276.5,613L272.778,602.972L264.727,605.91L267.514,597.424L258,593.501L267.514,589.578L264.727,581.092L272.778,584.03L276.5,574.002Z" style="fill:rgb(241,80,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.336152,-1.35563,1.21272,0.364969,-243.258,376.889)">
+                <g id="Smash4" serif:id="Smash">
+                    <path id="Smash5" serif:id="Smash" d="M276.5,574.002L280.222,584.03L288.273,581.092L285.486,589.578L295,593.501L285.486,597.424L288.273,605.91L280.222,602.972L276.5,613L272.778,602.972L264.727,605.91L267.514,597.424L258,593.501L267.514,589.578L264.727,581.092L272.778,584.03L276.5,574.002Z" style="fill:rgb(241,80,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.336152,-1.35563,1.21272,0.364969,-121.019,376.889)">
+                <g id="Smash6" serif:id="Smash">
+                    <path id="Smash7" serif:id="Smash" d="M276.5,574.002L280.222,584.03L288.273,581.092L285.486,589.578L295,593.501L285.486,597.424L288.273,605.91L280.222,602.972L276.5,613L272.778,602.972L264.727,605.91L267.514,597.424L258,593.501L267.514,589.578L264.727,581.092L272.778,584.03L276.5,574.002Z" style="fill:rgb(241,80,49);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

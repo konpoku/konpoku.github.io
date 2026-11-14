@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="260px" viewBox="0 0 580 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-blk-02610</title>
+    <g id="c8-blk-02610" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="61.8978092 145.743416 61.9351157 20.2793697 29 20.2793697 29 236 76.9761069 236 76.9761069 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="121.597469 145.512088 121.63373 20.2793697 93.4258486 20.2793697 93.4258486 145.512088 81.0892362 145.512088 81.0892362 236 131.807297 236 131.807297 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" transform="translate(159.905917, 128.139685) scale(-1, 1) translate(-159.905917, -128.139685) " points="166.074459 145.743416 166.111765 20.2793697 135.917863 20.2793697 135.917863 236 183.89397 236 183.89397 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="220.907168 145.743416 220.944474 20.2793697 188.009358 20.2793697 188.009358 236 234.614858 236 234.614858 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="277.866186 145.512088 277.902447 20.2793697 251.0646 20.2793697 251.0646 145.512088 238.727988 145.512088 238.727988 236 288.074437 236 288.074437 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="332.695381 145.512088 332.731642 20.2793697 308.63544 20.2793697 308.63544 145.512088 292.187149 145.512088 292.187149 236 341.533599 236 341.533599 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" transform="translate(370.774645, 128.139685) scale(-1, 1) translate(-370.774645, -128.139685) " points="378.346539 145.743416 378.385622 20.2793697 345.644317 20.2793697 345.644317 236 395.904973 236 395.904973 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="432.003839 145.743416 432.041146 20.2793697 399.10603 20.2793697 399.10603 236 447.082137 236 447.082137 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" points="491.703499 145.512088 491.73976 20.2793697 463.531879 20.2793697 463.531879 145.512088 451.195266 145.512088 451.195266 236 501.913326 236 501.913326 145.512088"></polygon>
+        <polygon id="Path" stroke="#232222" stroke-width="1.5" fill="#FFFFFF" transform="translate(530.011947, 128.139685) scale(-1, 1) translate(-530.011947, -128.139685) " points="536.180489 145.743416 536.217795 20.2793697 506.023893 20.2793697 506.023893 236 554 236 554 145.512088"></polygon>
+        <rect id="Rectangle" fill="#474747" x="60.8860412" y="18" width="35.468356" height="130.009929"></rect>
+        <rect id="Rectangle" fill="#474747" x="119.827565" y="18" width="35.468356" height="130.009929"></rect>
+        <rect id="Rectangle" fill="#474747" x="216.523537" y="18" width="35.468356" height="130.009929"></rect>
+        <rect id="Rectangle" fill="#474747" x="274.722685" y="18" width="35.468356" height="130.009929"></rect>
+        <rect id="Rectangle" fill="#474747" x="330.925478" y="18" width="35.468356" height="130.009929"></rect>
+        <rect id="Rectangle" fill="#474747" x="430.989621" y="18" width="35.468356" height="130.009929"></rect>
+        <rect id="Rectangle" fill="#474747" x="489.933595" y="18" width="35.468356" height="130.009929"></rect>
+        <ellipse id="Oval" fill="#F14D08" transform="translate(293.549484, 129.309348) scale(-1, 1) translate(-293.549484, -129.309348) " cx="293.549484" cy="129.309348" rx="13.7078902" ry="13.4150444"></ellipse>
+        <ellipse id="Oval" fill="#F14D08" transform="translate(424.382978, 217.316069) scale(-1, 1) translate(-424.382978, -217.316069) " cx="424.382978" cy="217.316069" rx="13.7078902" ry="13.4150444"></ellipse>
+        <ellipse id="Oval" fill="#F14D08" transform="translate(234.721201, 130.029688) scale(-1, 1) translate(-234.721201, -130.029688) " cx="234.721201" cy="130.029688" rx="13.7078902" ry="13.4150444"></ellipse>
+        <ellipse id="Oval" fill="#F14D08" transform="translate(532.035108, 217.036103) scale(-1, 1) translate(-532.035108, -217.036103) " cx="532.035108" cy="217.036103" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="0" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="228.938352" y="137">0</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(264.136981, 217.029688) scale(-1, 1) translate(-264.136981, -217.029688) " cx="264.136981" cy="217.029688" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="1" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="258.354132" y="224">1</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(315.552761, 217.029688) scale(-1, 1) translate(-315.552761, -217.029688) " cx="315.552761" cy="217.029688" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="3" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="309.769912" y="224">3</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(348.552761, 129.199599) scale(-1, 1) translate(-348.552761, -129.199599) " cx="348.552761" cy="129.199599" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="4" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="342.769912" y="136.169911">4</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(448.968542, 129.199599) scale(-1, 1) translate(-448.968542, -129.199599) " cx="448.968542" cy="129.199599" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="7" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="443.185693" y="136.169911">7</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(507.384322, 129.199599) scale(-1, 1) translate(-507.384322, -129.199599) " cx="507.384322" cy="129.199599" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="9" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="501.601473" y="136.169911">9</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(370.552761, 217.029688) scale(-1, 1) translate(-370.552761, -217.029688) " cx="370.552761" cy="217.029688" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="5" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="364.769912" y="224">5</tspan>
+        </text>
+        <ellipse id="Oval" fill-opacity="0.327032343" fill="#AAAAAA" transform="translate(476.968542, 217.029688) scale(-1, 1) translate(-476.968542, -217.029688) " cx="476.968542" cy="217.029688" rx="13.7078902" ry="13.4150444"></ellipse>
+        <text id="8" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="471.185693" y="224">8</tspan>
+        </text>
+        <text id="2" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="287.938352" y="137">2</tspan>
+        </text>
+        <text id="6" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="0.00025" fill="#FFFFFF">
+            <tspan x="418.938352" y="224">6</tspan>
+        </text>
+        <text id="10" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" letter-spacing="-1" fill="#FFFFFF">
+            <tspan x="520.376953" y="224">10</tspan>
+        </text>
+    </g>
+</svg>

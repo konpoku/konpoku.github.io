@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="570px" viewBox="0 0 810 570" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-koukai-large</title>
+    <g id="m1-line-koukai-large" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(117.000000, 29.000000)" fill-rule="nonzero">
+            <path d="M4,0 L169,0 L169,0 L169,100 L4,100 C1.790861,100 2.705415e-16,98.209139 0,96 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#58C322"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(287.000000, 29.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(457.000000, 29.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(627.000000, 29.000000)" fill-rule="nonzero">
+            <path d="M0,0 L151,0 C153.209139,-4.05812251e-16 155,1.790861 155,4 L155,96 C155,98.209139 153.209139,100 151,100 L0,100 L0,100 L0,0 Z" id="Rectangle" fill="#58C322"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <line x1="21" y1="31" x2="61" y2="31" id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+        </g>
+        <g id="Group" transform="translate(117.000000, 149.000000)" fill-rule="nonzero">
+            <path d="M4,0 L169,0 L169,0 L169,100 L4,100 C1.790861,100 2.705415e-16,98.209139 0,96 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FFBF00"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(287.000000, 149.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(457.000000, 149.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(627.000000, 149.000000)" fill-rule="nonzero">
+            <path d="M0,0 L151,0 C153.209139,-4.05812251e-16 155,1.790861 155,4 L155,96 C155,98.209139 153.209139,100 151,100 L0,100 L0,100 L0,0 Z" id="Rectangle" fill="#FFBF00"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <line x1="21" y1="31" x2="61" y2="31" id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+        </g>
+        <g id="Group" transform="translate(117.000000, 269.000000)" fill-rule="nonzero">
+            <path d="M4,0 L169,0 L169,0 L169,100 L4,100 C1.790861,100 2.705415e-16,98.209139 0,96 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FFBF00"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(287.000000, 269.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(457.000000, 269.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(627.000000, 269.000000)" fill-rule="nonzero">
+            <path d="M0,0 L151,0 C153.209139,-4.05812251e-16 155,1.790861 155,4 L155,96 C155,98.209139 153.209139,100 151,100 L0,100 L0,100 L0,0 Z" id="Rectangle" fill="#FFBF00"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <line x1="21" y1="31" x2="61" y2="31" id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+        </g>
+        <g id="Group" transform="translate(117.000000, 389.000000)" fill-rule="nonzero">
+            <path d="M4,0 L169,0 L169,0 L169,100 L4,100 C1.790861,100 2.705415e-16,98.209139 0,96 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FFBF00"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(287.000000, 389.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="169" height="100"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="79" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="111" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 31 71 79 111 69 141 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(457.000000, 389.000000)" fill="#FF5500" fill-rule="nonzero">
+            <path d="M0,0 L321,0 C323.209139,-4.05812251e-16 325,1.790861 325,4 L325,96 C325,98.209139 323.209139,100 321,100 L0,100 L0,100 L0,0 Z" id="Rectangle"></path>
+        </g>
+        <g id="Group" transform="translate(468.000000, 398.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#FFFFFF" cx="10" cy="10" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="60" cy="20" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="100" cy="40" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="130" cy="55" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="170" cy="66" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="230" cy="74" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="260" cy="80" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="10 10 60 20 100 40 130 55 170 66 230 74 260 80 291 80"></polyline>
+        </g>
+        <text id="解消" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="592" y="534">解消</tspan>
+        </text>
+        <text id="提示" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="34" y="90">提示</tspan>
+        </text>
+        <text id="展開" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="25" y="330">展開</tspan>
+        </text>
+        <polyline id="Path-21" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="97 149 53 149 53 288"></polyline>
+        <polyline id="Path-22" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="53 348 53 489 110 489"></polyline>
+        <polyline id="Path-23" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="457 497 457 523 578 523"></polyline>
+        <polyline id="Path-24" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="658 523 782 523 782 497"></polyline>
+    </g>
+</svg>

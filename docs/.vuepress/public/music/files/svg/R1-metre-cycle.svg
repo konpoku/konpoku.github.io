@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1115px" height="218px" viewBox="0 0 1115 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R1-metre-cycle</title>
+    <g id="R1-metre-cycle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M87.371,37.146 C87.168,37.064 82.312,35.148 76.556,35.148 C73.122,35.148 70.086,35.835 67.531,37.19 C65.269,38.392 62.199,39 58.407,39 C53.099,39 47.865,37.788 46,37.307 L46,35 C46,34.447 45.553,34 45,34 C44.447,34 44,34.447 44,35 L44,38 L44.008,38.04 L44,38.074 L44,93 C44,93.553 44.447,94 45,94 C45.553,94 46,93.553 46,93 L46,69.373 C48.273,69.937 53.243,71 58.407,71 C62.529,71 65.914,70.313 68.469,68.958 C70.731,67.757 73.452,67.148 76.556,67.148 C81.913,67.148 86.583,68.984 86.629,69.003 C86.938,69.127 87.286,69.089 87.56,68.901 C87.835,68.716 88,68.406 88,68.074 L88,38.074 C88,37.665 87.751,37.298 87.371,37.146" id="Fill-267" fill="#5CB300" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="31" y="94" width="401" height="70" rx="5"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="142" y="98" width="2" height="64"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="234" y="98" width="2" height="64"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="326" y="98" width="2" height="64"></rect>
+        <circle id="Oval" fill="#5CB300" fill-rule="nonzero" cx="70" cy="128" r="24"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="169" cy="128" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="261" cy="128" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="353" cy="128" r="16"></circle>
+        <text id="1" font-family="Arial-Black, Arial Black" font-size="38" font-weight="700" fill="#FFFFFF">
+            <tspan x="56" y="142">1</tspan>
+        </text>
+        <text id="2" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="160" y="138">2</tspan>
+        </text>
+        <text id="3" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="252" y="138">3</tspan>
+        </text>
+        <text id="4" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="343" y="138">4</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="437" y="94" width="401" height="70" rx="5"></rect>
+        <rect id="Beat2" fill="#FFFFFF" fill-rule="nonzero" x="548" y="98" width="2" height="64"></rect>
+        <rect id="Beat3" fill="#FFFFFF" fill-rule="nonzero" x="640" y="98" width="2" height="64"></rect>
+        <rect id="Beat4" fill="#FFFFFF" fill-rule="nonzero" x="732" y="98" width="2" height="64"></rect>
+        <circle id="Oval" fill="#5CB300" fill-rule="nonzero" cx="476" cy="128" r="24"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="575" cy="128" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="667" cy="128" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="759" cy="128" r="16"></circle>
+        <text id="1" font-family="Arial-Black, Arial Black" font-size="38" font-weight="700" fill="#FFFFFF">
+            <tspan x="462" y="142">1</tspan>
+        </text>
+        <text id="2" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="566" y="138">2</tspan>
+        </text>
+        <text id="3" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="658" y="138">3</tspan>
+        </text>
+        <text id="4" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="749" y="138">4</tspan>
+        </text>
+        <g id="Group" transform="translate(843.000000, 94.000000)">
+            <path d="M5,0 L172.486548,0 C175.247972,1.77635684e-15 177.486548,2.23857625 177.486548,5 C177.486548,5.85248442 177.268585,6.69081247 176.853367,7.43534157 L173.75,13 L173.75,13 L181,23.75 L173.75,34 L181,46.25 L173.75,57 L176.853367,62.5646584 C178.198369,64.9763862 177.333617,68.0218174 174.921889,69.3668194 C174.17736,69.7820375 173.339032,70 172.486548,70 L5,70 C2.23857625,70 -2.66453526e-15,67.7614237 0,65 L0,5 C0,2.23857625 2.23857625,-1.77635684e-15 5,0 Z" id="Rectangle" fill="#CCCCCC" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="111" y="4" width="2" height="64"></rect>
+            <circle id="Oval" fill="#5CB300" fill-rule="nonzero" cx="39" cy="34" r="24"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="138" cy="34" r="16"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="230" cy="34" r="16"></circle>
+            <text id="1" font-family="Arial-Black, Arial Black" font-size="38" font-weight="700" fill="#FFFFFF">
+                <tspan x="25" y="48">1</tspan>
+            </text>
+            <text id="2" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+                <tspan x="129" y="44">2</tspan>
+            </text>
+        </g>
+        <text id="…" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="39" font-weight="bold">
+            <tspan x="1035" y="134">…</tspan>
+        </text>
+        <path d="M489.371,37.146 C489.168,37.064 484.312,35.148 478.556,35.148 C475.122,35.148 472.086,35.835 469.531,37.19 C467.269,38.392 464.199,39 460.407,39 C455.099,39 449.865,37.788 448,37.307 L448,35 C448,34.447 447.553,34 447,34 C446.447,34 446,34.447 446,35 L446,38 L446.008,38.04 L446,38.074 L446,93 C446,93.553 446.447,94 447,94 C447.553,94 448,93.553 448,93 L448,69.373 C450.273,69.937 455.243,71 460.407,71 C464.529,71 467.914,70.313 470.469,68.958 C472.731,67.757 475.452,67.148 478.556,67.148 C483.913,67.148 488.583,68.984 488.629,69.003 C488.938,69.127 489.286,69.089 489.56,68.901 C489.835,68.716 490,68.406 490,68.074 L490,38.074 C490,37.665 489.751,37.298 489.371,37.146" id="Fill-267" fill="#5CB300" fill-rule="nonzero"></path>
+        <path d="M894.371,37.146 C894.168,37.064 889.312,35.148 883.556,35.148 C880.122,35.148 877.086,35.835 874.531,37.19 C872.269,38.392 869.199,39 865.407,39 C860.099,39 854.865,37.788 853,37.307 L853,35 C853,34.447 852.553,34 852,34 C851.447,34 851,34.447 851,35 L851,38 L851.008,38.04 L851,38.074 L851,93 C851,93.553 851.447,94 852,94 C852.553,94 853,93.553 853,93 L853,69.373 C855.273,69.937 860.243,71 865.407,71 C869.529,71 872.914,70.313 875.469,68.958 C877.731,67.757 880.452,67.148 883.556,67.148 C888.913,67.148 893.583,68.984 893.629,69.003 C893.938,69.127 894.286,69.089 894.56,68.901 C894.835,68.716 895,68.406 895,68.074 L895,38.074 C895,37.665 894.751,37.298 894.371,37.146" id="Fill-267" fill="#5CB300" fill-rule="nonzero"></path>
+    </g>
+</svg>

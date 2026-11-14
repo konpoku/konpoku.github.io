@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1075px" height="400px" viewBox="0 0 1075 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-stay</title>
+    <g id="m1-line-stay" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 141.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="254" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="101" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="131" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="161" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 49 101 49 131 39 161 29 216 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(535.000000, 141.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="254" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="101" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="131" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="161" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 49 101 49 131 39 161 29 216 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(271.000000, 141.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="254" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="101" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="131" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="161" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 29 101 69 131 29 161 39 216 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(799.000000, 141.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FF5500" x="0" y="0" width="254" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="101" cy="19" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="121" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="141" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="161" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="186" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="231" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="51" cy="69" r="10"></circle>
+            <line x1="21" y1="49" x2="51" y2="69" id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="101 19 161 49 186 49 231 39"></polyline>
+        </g>
+        <text id="A-(提示)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="78.658" y="289">A (提示)</tspan>
+        </text>
+        <text id="A’-(変形)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="331.878" y="289">A’ (変形)</tspan>
+        </text>
+        <text id="前半" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="243" y="51">前半</tspan>
+        </text>
+        <text id="後半" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="751" y="51">後半</tspan>
+        </text>
+        <text id="A-(再提示)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="590.658" y="289">A (再提示)</tspan>
+        </text>
+        <text id="X-(解消)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="849.616" y="289">X (解消)</tspan>
+        </text>
+        <path d="M28,300 C103,361 711,361 779,300" id="Path-30" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M17,76.75 C66.6338216,138.083333 468.998668,138.083333 514,76.75" id="Path-30" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" transform="translate(265.500000, 99.750000) scale(1, -1) translate(-265.500000, -99.750000) "></path>
+        <path d="M537,76.75 C584.13715,138.083333 966.262317,138.083333 1009,76.75" id="Path-30" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" transform="translate(773.000000, 99.750000) scale(1, -1) translate(-773.000000, -99.750000) "></path>
+        <path d="M789,300 C820.322957,346.666667 969.583658,346.666667 999,300" id="Path-30" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+    </g>
+</svg>

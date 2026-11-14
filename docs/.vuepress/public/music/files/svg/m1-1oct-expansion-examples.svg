@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="990px" height="700px" viewBox="0 0 990 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-1oct-expansion-examples</title>
+    <g id="m1-1oct-expansion-examples" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="990" height="700"></rect>
+        <g id="Segments-Template" transform="translate(22.5, 23)">
+            <line x1="61.5" y1="402" x2="931.5" y2="402" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="432" x2="931.5" y2="432" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="462" x2="931.5" y2="462" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="492" x2="931.5" y2="492" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="522" x2="931.5" y2="522" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="372" x2="931.5" y2="372" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="192" x2="931.5" y2="192" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="222" x2="931.5" y2="222" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="252" x2="931.5" y2="252" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="282" x2="931.5" y2="282" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="312" x2="931.5" y2="312" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="70.5" x2="931.5" y2="70.5" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="40.5" x2="931.5" y2="40.5" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="100.5" x2="931.5" y2="100.5" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="61.5" y1="162" x2="931.5" y2="162" id="Path-35" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="54" y1="432" x2="924" y2="432" id="border" stroke="#000000" stroke-width="3" stroke-linecap="square" stroke-dasharray="6,12" fill-rule="nonzero"></line>
+            <line x1="54" y1="342" x2="924" y2="342" id="do" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="54" y1="222" x2="924" y2="222" id="border" stroke="#000000" stroke-width="3" stroke-linecap="square" stroke-dasharray="6,12" fill-rule="nonzero"></line>
+            <line x1="54" y1="132" x2="924" y2="132" id="do" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="53.25" y1="552.75" x2="923.25" y2="552.75" id="Line" stroke="#000000" stroke-width="4.5" stroke-linecap="square" fill-rule="nonzero"></line>
+            <path id="Line" d="M61.000679,-0.999999846 L74.238455,26.0059956 L63.238,26 L62.9999998,552.751019 L62.9989812,555.001018 L58.4989817,554.998981 L58.5000002,552.748981 L58.738,25.998 L47.7384577,25.9939992 L61.000679,-0.999999846 Z" fill="#000000" fill-rule="nonzero"></path>
+            <line x1="181.5" y1="553.5" x2="181.5" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="303" y1="553.5" x2="303" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="423" y1="553.5" x2="423" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="543" y1="553.5" x2="543" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="664.5" y1="553.5" x2="664.5" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="786" y1="553.5" x2="786" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="907.5" y1="553.5" x2="907.5" y2="132" id="Path" stroke="#000000" stroke-width="1.5" opacity="0.254070464" stroke-linecap="square" fill-rule="nonzero"></line>
+            <g id="Degree" transform="translate(12.2996, 538.7249)" fill="#000000">
+                <path d="M8.52,21.9 C9.96,21.42 11.46,21.18 13.47,21.06 L13.71,20.01 L13.59,20.01 C12.66,20.01 12.36,19.8 12.36,19.17 C12.36,18.75 12.45,18.21 12.87,16.2 L15.12,5.73 C15.66,3.3 16.2,1.35 16.56,0.39 L15.99,-1.42108547e-14 C14.82,0.6 11.94,1.53 10.89,1.65 L10.68,2.7 C11.82,2.7 12.12,2.88 12.12,3.54 C12.12,3.9 12,4.62 11.67,6.12 L10.92,9.63 C9.96,8.94 9.09,8.67 7.92,8.67 C3.72,8.67 -3.55271368e-15,12.78 -3.55271368e-15,17.43 C-3.55271368e-15,20.16 1.5,21.84 3.9,21.84 C5.31,21.84 6.6,21.33 8.67,19.95 C8.49,20.4 8.4,20.7 8.13,21.33 L8.52,21.9 Z M6.21,19.62 C4.59,19.62 3.63,18.36 3.63,16.32 C3.63,13.05 5.82,10.05 8.16,10.05 C9.45,10.05 10.29,10.83 10.29,12 C10.29,12.39 10.17,13.08 9.93,14.19 L9.03,18.48 C7.95,19.32 7.17,19.62 6.21,19.62 Z M22.230375,21.84 C27.030375,21.84 31.050375,18.15 31.050375,13.8 C31.050375,10.68 28.800375,8.61 25.440375,8.61 C20.580375,8.61 16.500375,12.3 16.500375,16.68 C16.500375,19.8 18.750375,21.84 22.230375,21.84 Z M22.830375,20.61 C21.060375,20.61 20.130375,19.26 20.130375,16.71 C20.130375,12.81 22.140375,9.87 24.780375,9.87 C26.520375,9.87 27.480375,11.22 27.480375,13.71 C27.480375,17.64 25.500375,20.61 22.830375,20.61 Z"></path>
+            </g>
+            <g id="Degree" transform="translate(12.2996, 328.7249)" fill="#000000">
+                <path d="M8.52,21.9 C9.96,21.42 11.46,21.18 13.47,21.06 L13.71,20.01 L13.59,20.01 C12.66,20.01 12.36,19.8 12.36,19.17 C12.36,18.75 12.45,18.21 12.87,16.2 L15.12,5.73 C15.66,3.3 16.2,1.35 16.56,0.39 L15.99,-1.42108547e-14 C14.82,0.6 11.94,1.53 10.89,1.65 L10.68,2.7 C11.82,2.7 12.12,2.88 12.12,3.54 C12.12,3.9 12,4.62 11.67,6.12 L10.92,9.63 C9.96,8.94 9.09,8.67 7.92,8.67 C3.72,8.67 -3.55271368e-15,12.78 -3.55271368e-15,17.43 C-3.55271368e-15,20.16 1.5,21.84 3.9,21.84 C5.31,21.84 6.6,21.33 8.67,19.95 C8.49,20.4 8.4,20.7 8.13,21.33 L8.52,21.9 Z M6.21,19.62 C4.59,19.62 3.63,18.36 3.63,16.32 C3.63,13.05 5.82,10.05 8.16,10.05 C9.45,10.05 10.29,10.83 10.29,12 C10.29,12.39 10.17,13.08 9.93,14.19 L9.03,18.48 C7.95,19.32 7.17,19.62 6.21,19.62 Z M22.230375,21.84 C27.030375,21.84 31.050375,18.15 31.050375,13.8 C31.050375,10.68 28.800375,8.61 25.440375,8.61 C20.580375,8.61 16.500375,12.3 16.500375,16.68 C16.500375,19.8 18.750375,21.84 22.230375,21.84 Z M22.830375,20.61 C21.060375,20.61 20.130375,19.26 20.130375,16.71 C20.130375,12.81 22.140375,9.87 24.780375,9.87 C26.520375,9.87 27.480375,11.22 27.480375,13.71 C27.480375,17.64 25.500375,20.61 22.830375,20.61 Z"></path>
+            </g>
+            <g id="Degree" transform="translate(12.2996, 118.7249)" fill="#000000">
+                <path d="M8.52,21.9 C9.96,21.42 11.46,21.18 13.47,21.06 L13.71,20.01 L13.59,20.01 C12.66,20.01 12.36,19.8 12.36,19.17 C12.36,18.75 12.45,18.21 12.87,16.2 L15.12,5.73 C15.66,3.3 16.2,1.35 16.56,0.39 L15.99,1.42108547e-14 C14.82,0.6 11.94,1.53 10.89,1.65 L10.68,2.7 C11.82,2.7 12.12,2.88 12.12,3.54 C12.12,3.9 12,4.62 11.67,6.12 L10.92,9.63 C9.96,8.94 9.09,8.67 7.92,8.67 C3.72,8.67 -3.55271368e-15,12.78 -3.55271368e-15,17.43 C-3.55271368e-15,20.16 1.5,21.84 3.9,21.84 C5.31,21.84 6.6,21.33 8.67,19.95 C8.49,20.4 8.4,20.7 8.13,21.33 L8.52,21.9 Z M6.21,19.62 C4.59,19.62 3.63,18.36 3.63,16.32 C3.63,13.05 5.82,10.05 8.16,10.05 C9.45,10.05 10.29,10.83 10.29,12 C10.29,12.39 10.17,13.08 9.93,14.19 L9.03,18.48 C7.95,19.32 7.17,19.62 6.21,19.62 Z M22.230375,21.84 C27.030375,21.84 31.050375,18.15 31.050375,13.8 C31.050375,10.68 28.800375,8.61 25.440375,8.61 C20.580375,8.61 16.500375,12.3 16.500375,16.68 C16.500375,19.8 18.750375,21.84 22.230375,21.84 Z M22.830375,20.61 C21.060375,20.61 20.130375,19.26 20.130375,16.71 C20.130375,12.81 22.140375,9.87 24.780375,9.87 C26.520375,9.87 27.480375,11.22 27.480375,13.71 C27.480375,17.64 25.500375,20.61 22.830375,20.61 Z"></path>
+            </g>
+            <g id="Degree" transform="translate(22.8147, 215.7501)" fill="#000000">
+                <path d="M2.7,9.9225 C5.265,9.9225 7.29,8.3025 7.29,6.2325 C7.29,5.22 6.7275,4.5 5.2875,3.7125 C4.2525,3.15 3.8025,2.7 3.8025,2.2275 C3.8025,1.485 4.545,0.8775 5.445,0.8775 C6.4125,0.8775 6.9525,1.53 6.9525,2.7225 L7.7625,2.6325 L8.0325,0.54 C7.1775,0.2025 6.435,0.045 5.58,0.045 C3.1275,0.045 1.305,1.53 1.305,3.5325 C1.305,4.5675 1.935,5.355 3.3525,6.0975 C4.32,6.615 4.7925,7.0875 4.7925,7.5375 C4.7925,8.37 3.915,9.045 2.835,9.045 C1.6425,9.045 1.1475,8.4375 1.08,6.84 L0.225,6.9525 L5.32907052e-15,9.3825 C0.9675,9.765 1.755,9.9225 2.7,9.9225 Z M13.5677813,9.9225 C17.1677813,9.9225 20.1827813,7.155 20.1827813,3.8925 C20.1827813,1.5525 18.4952813,1.24344979e-14 15.9752813,1.24344979e-14 C12.3302813,1.24344979e-14 9.27028125,2.7675 9.27028125,6.0525 C9.27028125,8.3925 10.9577813,9.9225 13.5677813,9.9225 Z M14.0177813,9 C12.6902813,9 11.9927813,7.9875 11.9927813,6.075 C11.9927813,3.15 13.5002813,0.945 15.4802813,0.945 C16.7852813,0.945 17.5052813,1.9575 17.5052813,3.825 C17.5052813,6.7725 16.0202813,9 14.0177813,9 Z"></path>
+            </g>
+            <g id="Degree" transform="translate(22.8147, 427.2501)" fill="#000000">
+                <path d="M2.7,9.9225 C5.265,9.9225 7.29,8.3025 7.29,6.2325 C7.29,5.22 6.7275,4.5 5.2875,3.7125 C4.2525,3.15 3.8025,2.7 3.8025,2.2275 C3.8025,1.485 4.545,0.8775 5.445,0.8775 C6.4125,0.8775 6.9525,1.53 6.9525,2.7225 L7.7625,2.6325 L8.0325,0.54 C7.1775,0.2025 6.435,0.045 5.58,0.045 C3.1275,0.045 1.305,1.53 1.305,3.5325 C1.305,4.5675 1.935,5.355 3.3525,6.0975 C4.32,6.615 4.7925,7.0875 4.7925,7.5375 C4.7925,8.37 3.915,9.045 2.835,9.045 C1.6425,9.045 1.1475,8.4375 1.08,6.84 L0.225,6.9525 L5.32907052e-15,9.3825 C0.9675,9.765 1.755,9.9225 2.7,9.9225 Z M13.5677813,9.9225 C17.1677813,9.9225 20.1827813,7.155 20.1827813,3.8925 C20.1827813,1.5525 18.4952813,4.08562073e-14 15.9752813,4.08562073e-14 C12.3302813,4.08562073e-14 9.27028125,2.7675 9.27028125,6.0525 C9.27028125,8.3925 10.9577813,9.9225 13.5677813,9.9225 Z M14.0177813,9 C12.6902813,9 11.9927813,7.9875 11.9927813,6.075 C11.9927813,3.15 13.5002813,0.945 15.4802813,0.945 C16.7852813,0.945 17.5052813,1.9575 17.5052813,3.825 C17.5052813,6.7725 16.0202813,9 14.0177813,9 Z"></path>
+            </g>
+        </g>
+        <text id="Dynamite*" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="588.1875" y="601.5">Dynamite*</tspan>
+        </text>
+        <text id="*Dynamiteは終盤に転調しているの" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#AAAAAA">
+            <tspan x="444.4" y="680.5">*《Dynamite》在尾声部分发生了转调，因此绝对音高范围还要再宽一个全音。</tspan>
+        </text>
+        <text id="Make-You-Happy" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="801.3925" y="601.5">Make You Happy</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#58C322" stroke-width="1.5" fill-opacity="0.448097069" fill="#58C322" fill-rule="nonzero" x="565.75" y="245.75" width="120" height="207.5"></rect>
+        <rect id="Rectangle" stroke="#FF5500" stroke-width="2.25" fill-opacity="0.501557037" fill="#FF5500" fill-rule="nonzero" x="566.125" y="213.125" width="119.25" height="30.75"></rect>
+        <path id="Line-8" d="M627.75,219.583333 L633.5,231.583333 L628.5,231.583 L628.5,245 L627,245 L627,231.583 L622,231.583333 L627.75,219.583333 Z" transform="translate(627.75, 232.25) scale(1, -1) translate(-627.75, -232.25)" fill="#FF5500" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M627.751597,366.750003 L637.190846,385.780257 L629.19,385.754 L628.999992,445.504792 L628.9952,447.004785 L625.995215,446.9952 L626.000008,445.495208 L626.19,385.745 L618.190943,385.719554 L627.751597,366.750003 Z" fill="#36A300" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M627.75,263.25 L637.25,282.25 L629.25,282.25 L629.25,355.25 L626.25,355.25 L626.25,282.25 L618.25,282.25 L627.75,263.25 Z" transform="translate(627.75, 308.75) scale(1, -1) translate(-627.75, -308.75)" fill="#36A300" fill-rule="nonzero"></path>
+        <rect id="Rectangle" stroke="#58C322" stroke-width="1.5" fill-opacity="0.448097069" fill="#58C322" fill-rule="nonzero" x="809.25" y="245.75" width="120" height="207.5"></rect>
+        <rect id="Rectangle" stroke="#FF5500" stroke-width="2.25" fill-opacity="0.501557037" fill="#FF5500" fill-rule="nonzero" x="809.625" y="213.125" width="119.25" height="30.75"></rect>
+        <path id="Line-8" d="M870.25,219.583333 L876,231.583333 L871,231.583 L871,245 L869.5,245 L869.5,231.583 L864.5,231.583333 L870.25,219.583333 Z" transform="translate(870.25, 232.25) scale(1, -1) translate(-870.25, -232.25)" fill="#FF5500" fill-rule="nonzero"></path>
+        <rect id="Rectangle" stroke="#FF5500" stroke-width="2.25" fill-opacity="0.501557037" fill="#FF5500" fill-rule="nonzero" x="809.625" y="455.125" width="119.25" height="30.75"></rect>
+        <rect id="Rectangle" stroke="#FF5500" stroke-width="2.25" fill-opacity="0.501557037" fill="#FF5500" fill-rule="nonzero" x="85.625" y="368.125" width="119.25" height="55.75"></rect>
+        <rect id="Rectangle" stroke="#58C322" stroke-width="1.5" fill-opacity="0.448097069" fill="#58C322" fill-rule="nonzero" x="85.25" y="155.75" width="120" height="207.5"></rect>
+        <path id="Line-8" d="M144.375,164.25 L153.875,183.25 L145.875,183.25 L145.875,233.75 L142.875,233.75 L142.875,183.25 L134.875,183.25 L144.375,164.25 Z" fill="#36A300" fill-rule="nonzero"></path>
+        <text id="Sing-Out!" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="110.74" y="603">Sing Out!</tspan>
+        </text>
+        <path id="Line-8" d="M144.882092,375.583371 L150.504114,387.643859 L145.504,387.59 L145.249958,411.507978 L145.241979,412.257936 L143.742064,412.241979 L143.750042,411.492022 L144.004,387.574 L139.004765,387.521525 L144.882092,375.583371 Z" fill="#FF5500" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M144.5,264 L154,283 L146,282.999 L146,354.5 L143,354.5 L143,282.999 L135,283 L144.5,264 Z" transform="translate(144.5, 308.75) scale(1, -1) translate(-144.5, -308.75)" fill="#36A300" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M870.25,461.583333 L876,473.583333 L871,473.583 L871,487 L869.5,487 L869.5,473.583 L864.5,473.583333 L870.25,461.583333 Z" transform="translate(870.25, 474.25) scale(1, -1) translate(-870.25, -474.25)" fill="#FF5500" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M870.251597,366.750003 L879.690846,385.780257 L871.69,385.754 L871.499992,445.504792 L871.4952,447.004785 L868.495215,446.9952 L868.500008,445.495208 L868.69,385.745 L860.690943,385.719554 L870.251597,366.750003 Z" fill="#36A300" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M870.25,263.25 L879.75,282.25 L871.75,282.25 L871.75,355.25 L868.75,355.25 L868.75,282.25 L860.75,282.25 L870.25,263.25 Z" transform="translate(870.25, 308.75) scale(1, -1) translate(-870.25, -308.75)" fill="#36A300" fill-rule="nonzero"></path>
+        <text id="桜の木になろう" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500" fill="#000000">
+            <tspan x="339" y="603">变成樱花树</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#FF5500" stroke-width="2.25" fill-opacity="0.501557037" fill="#FF5500" fill-rule="nonzero" x="327.125" y="93.125" width="119.25" height="58.75"></rect>
+        <rect id="Rectangle" stroke="#58C322" stroke-width="1.5" fill-opacity="0.448097069" fill="#58C322" fill-rule="nonzero" x="326.75" y="155.75" width="120" height="207.5"></rect>
+        <path id="Line-8" d="M386.875,164.25 L396.375,183.25 L388.375,183.25 L388.375,233.75 L385.375,233.75 L385.375,183.25 L377.375,183.25 L386.875,164.25 Z" fill="#36A300" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M387.25,103.75 L387.25,133.166 L392.25,133.166667 L386.5,145.166667 L380.75,133.166667 L385.75,133.166 L385.75,103.75 L387.25,103.75 Z" fill="#FF5500" fill-rule="nonzero"></path>
+        <path id="Line-8" d="M387,264 L396.5,283 L388.5,282.999 L388.5,354.5 L385.5,354.5 L385.5,282.999 L377.5,283 L387,264 Z" transform="translate(387, 308.75) scale(1, -1) translate(-387, -308.75)" fill="#36A300" fill-rule="nonzero"></path>
+        <text id="(外2セグ＋下)" fill="#888888" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500">
+            <tspan x="98.07" y="627">(外向双区间＋下方)</tspan>
+        </text>
+        <text id="(外2セグ＋上)" fill="#888888" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500">
+            <tspan x="340.07" y="627">(外向双区间＋上方)</tspan>
+        </text>
+        <text id="(内2セグ＋上)" fill="#888888" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500">
+            <tspan x="580.07" y="627">(内向双区间＋上方)</tspan>
+        </text>
+        <text id="(内2セグ＋上下)" fill="#888888" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="15" font-weight="500">
+            <tspan x="812.57" y="627">(内向双区间＋上下方)</tspan>
+        </text>
+    </g>
+</svg>

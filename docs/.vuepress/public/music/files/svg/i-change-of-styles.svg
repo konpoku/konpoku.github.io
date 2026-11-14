@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="620px" height="310px" viewBox="0 0 620 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-change-of-styles</title>
+    <g id="i-change-of-styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F5F5F5" x="25" y="27" width="240" height="220" rx="4"></rect>
+        <rect id="Rectangle" fill="#F5F5F5" x="365" y="27" width="240" height="220" rx="4"></rect>
+        <polyline id="Path-3" stroke="#FF5500" stroke-width="6" stroke-linecap="square" fill-rule="nonzero" points="396 97 433.956909 97 438.79133 77.760691 452.783839 77.760691 452.783839 67.760691 469.84791 67.760691 469.84791 77.760691 484.108563 77.760691 486 96.1859594 502.099037 96.1859594 503.691878 110.185959 535.230349 110.185959 536.629781 97 550.027587 97 551.213118 87 562.507033 87 564.051365 77 576 77"></polyline>
+        <polyline id="Path-3" stroke="#FF5500" stroke-width="6" stroke-linecap="square" fill-rule="nonzero" points="56 97 93.9569085 97 98.7913305 77.760691 112.783839 77.760691 112.783839 67.760691 129.84791 67.760691 129.84791 77.760691 144.108563 77.760691 146 96.1859594 162.099037 96.1859594 163.691878 110.185959 195.230349 110.185959 196.629781 97 210.027587 97 211.213118 87 222.507033 87 224.051365 77 236 77"></polyline>
+        <polyline id="Path-3" stroke="#FFBF00" stroke-width="6" stroke-linecap="square" fill-rule="nonzero" points="56 109.425268 93.9569085 109.425268 98.7913305 120.185959 144.108563 120.185959 146 128.611228 162.099037 128.611228 163.691878 142.611228 195.230349 142.611228 196.629781 129.425268 210.027587 129.425268 211.213118 119.425268 222.507033 119.425268 224.051365 109.425268 236 109.425268"></polyline>
+        <polyline id="Path-3" stroke="#58C322" stroke-width="6" stroke-linecap="square" fill-rule="nonzero" points="56 142.611228 68.892309 142.611228 70.4314373 152.596294 82.2257427 152.611228 83.7802608 162.611228 97.1441089 162.611228 98.7913305 173.371919 144.108563 173.371919 146 185.797187 162.099037 185.797187 162.099037 165.797187 174.657867 165.797187 176.244728 175.797187 185.430437 175.797187 186.644216 185.519692 196.351908 185.797187 198.051365 192.611228 236 192.611228"></polyline>
+        <polyline id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero" points="56 172.611228 68.892309 172.611228 70.4314373 182.596294 82.2257427 182.611228 83.7802608 192.611228 97.1441089 192.611228 98.7913305 203.371919 144.108563 203.371919 146 215.704208 162.099037 215.704208 162.099037 225.797187 174.657867 225.797187 176.244728 215.704208 185.430437 215.704208 186.644216 203.65844 196.351908 203.65844 198.051365 215.704208 236 215.704208"></polyline>
+        <line x1="396" y1="133" x2="433.956909" y2="132.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="443.347697" y1="143" x2="481.304606" y2="142.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="490.695394" y1="143" x2="528.652303" y2="142.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="538.043091" y1="153" x2="576" y2="152.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="396" y1="164" x2="433.956909" y2="163.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="443.347697" y1="164" x2="481.304606" y2="163.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="490.695394" y1="164" x2="528.652303" y2="163.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="538.043091" y1="174" x2="576" y2="173.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="396" y1="185" x2="433.956909" y2="184.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="443.347697" y1="175" x2="481.304606" y2="174.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="490.695394" y1="185" x2="528.652303" y2="184.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="538.043091" y1="205" x2="576" y2="204.76765" id="Path-3" stroke="#3D7AF5" stroke-width="6" stroke-linecap="square" fill-rule="nonzero"></line>
+        <path id="Line" d="M325.5,129.5 L349.5,141.5 L325.5,153.5 L325.5,143.5 L280.5,143.5 L280.5,139.5 L325.5,139.5 L325.5,129.5 Z" fill="#000000" fill-rule="nonzero"></path>
+        <text id="「旋律の掛け合い」" font-family="HiraginoSans-W5, Hiragino Sans" font-size="24" font-weight="400" fill="#0C0C0C">
+            <tspan x="37" y="287">“旋律的交织呼应”</tspan>
+        </text>
+        <text id="「メロディと伴奏」" font-family="HiraginoSans-W5, Hiragino Sans" font-size="24" font-weight="400" fill="#0C0C0C">
+            <tspan x="377" y="287">“旋律与伴奏”</tspan>
+        </text>
+    </g>
+</svg>

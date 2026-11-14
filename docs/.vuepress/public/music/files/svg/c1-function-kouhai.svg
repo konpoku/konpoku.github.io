@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="780px" height="190px" viewBox="0 0 780 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-function-kouhai</title>
+    <g id="c1-function-kouhai" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-324" transform="translate(37.000000, 32.000000)" stroke="#B8B8B8" stroke-width="0.5">
+            <line x1="0" y1="38.5" x2="714" y2="38.5" id="Stroke-304"></line>
+            <line x1="0" y1="0.5" x2="714" y2="0.5" id="Stroke-306"></line>
+            <line x1="0" y1="78.5" x2="714" y2="78.5" id="Stroke-304"></line>
+        </g>
+        <path d="M397,-217 L406,-203 L399,-203.001 L399,516 L395,516 L395,-203.001 L388,-203 L397,-217 Z" id="Axis" fill="#000000" transform="translate(397.000000, 149.500000) rotate(-270.000000) translate(-397.000000, -149.500000) "></path>
+        <text id="1600" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="18.203125" y="180">1600</tspan>
+        </text>
+        <text id="2000" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="692.203125" y="180">2000</tspan>
+        </text>
+        <text id="1800" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="350.203125" y="180">1800</tspan>
+        </text>
+        <text id="1700" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="185.203125" y="180">1700</tspan>
+        </text>
+        <rect id="Rectangle" fill="#000000" x="710" y="139" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#000000" x="370" y="139" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#000000" x="200" y="139" width="4" height="21"></rect>
+        <rect id="Rectangle" fill="#000000" x="30" y="139" width="4" height="21"></rect>
+        <text id="1900" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold" fill="#888888">
+            <tspan x="521.203125" y="180">1900</tspan>
+        </text>
+        <rect id="Rectangle" fill="#000000" x="540" y="139" width="4" height="21"></rect>
+        <text id="コード理論の発展期" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#58C322">
+            <tspan x="149" y="86">和弦理论的发展期</tspan>
+        </text>
+        <text id="機能論の提唱" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#FF6633">
+            <tspan x="484" y="78">功能和声论的提出</tspan>
+        </text>
+        <circle id="Oval" fill="#FF6633" cx="531.5" cy="149.5" r="7.5"></circle>
+        <rect id="Rectangle" fill="#58C322" x="187" y="146" width="78" height="7"></rect>
+        <path id="Line" d="M532.5,90.5 L532.5,126.5 L538.5,126.5 L531.5,140.5 L524.5,126.5 L530.5,126.5 L530.5,90.5 L532.5,90.5 Z" fill="#FF6633" fill-rule="nonzero"></path>
+        <path id="Line" d="M227,90.5 L227,126.5 L233,126.5 L226,140.5 L219,126.5 L225,126.5 L225,90.5 L227,90.5 Z" fill="#58C322" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="260px" viewBox="0 0 700 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-tentai-sabi-lyric</title>
+    <g id="m1-line-tentai-sabi-lyric" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(11.000000, 21.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="130" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="84" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="64" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="126" cy="74" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 84 71 64 126 74 187 74"></polyline>
+        </g>
+        <g id="Group" transform="translate(181.000000, 21.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="43" height="130" rx="4"></rect>
+            <rect id="Rectangle" fill="#FFBF00" x="46" y="0" width="119" height="130" rx="4"></rect>
+            <rect id="Rectangle" fill="#FFBF00" x="348" y="0" width="43" height="130" rx="4"></rect>
+            <rect id="Rectangle" fill="#FFBF00" x="394" y="0" width="119" height="130" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="74" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="64" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="126" cy="54" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="0 74 21 74 71 64 126 54 146 54"></polyline>
+        </g>
+        <g id="Group" transform="translate(356.000000, 21.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="130" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="64" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="94" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="126" cy="74" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 64 71 94 126 74"></polyline>
+        </g>
+        <g id="Group" transform="translate(482.000000, 75.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#FFFFFF" cx="65" cy="30" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="115" cy="20" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="170" cy="10" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="0 20 65 30 115 20 170 10 190 10"></polyline>
+        </g>
+        <line x1="225.5" y1="8.47239264" x2="225" y2="162" id="Path-31" stroke="#000000" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <line x1="351.5" y1="8.47239264" x2="351" y2="162" id="Path-31" stroke="#000000" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <text id="触" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="23" y="198">触</tspan>
+        </text>
+        <text id="れ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="73" y="198">れ</tspan>
+        </text>
+        <text id="よう" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="118" y="198">想要</tspan>
+        </text>
+        <text id="と" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="191" y="198">と</tspan>
+        </text>
+        <text id="手" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="241" y="198">手</tspan>
+        </text>
+        <text id="を" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="301" y="198">把</tspan>
+        </text>
+        <line x1="573.5" y1="8.47239264" x2="573" y2="162" id="Path-31" stroke="#000000" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <text id="伸" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="371" y="198">伸</tspan>
+        </text>
+        <text id="ば" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="421" y="198">说</tspan>
+        </text>
+        <text id="し" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="476" y="198">し</tspan>
+        </text>
+        <text id="て" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="539" y="198">て</tspan>
+        </text>
+        <text id="み" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="589" y="198">み</tspan>
+        </text>
+        <text id="た" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="649" y="198">た</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="168" y="44" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="168" y="58" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="168" y="72" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="168" y="106" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="168" y="120" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="168" y="134" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="513" y="44" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="513" y="58" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="513" y="72" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="513" y="106" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="513" y="120" width="23" height="4"></rect>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="513" y="134" width="23" height="4"></rect>
+        <polyline id="Path-32" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="14 157 14 171 214 171 214 157"></polyline>
+        <polyline id="Path-32" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="231 157 231 171 343 171 343 157"></polyline>
+        <polyline id="Path-32" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="362 157 362 171 562 171 562 157"></polyline>
+        <polyline id="Path-32" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="579 157 579 171 686 171 686 157"></polyline>
+        <text id="BUMP-OF-CHICKEN.&quot;プラネ" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold">
+            <tspan x="241" y="249">BUMP OF CHICKEN."</tspan>
+            <tspan x="403.851562" y="249" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">星象仪</tspan>
+            <tspan x="514.731562" y="249">" (2005). </tspan>
+            <tspan x="581.903437" y="249" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">作詞</tspan>
+            <tspan x="613.903437" y="249">:</tspan>
+            <tspan x="619.231562" y="249" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">藤原基央</tspan>
+        </text>
+    </g>
+</svg>

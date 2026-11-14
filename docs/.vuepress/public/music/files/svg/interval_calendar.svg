@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 401 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-6816.74,-6727.99)">
+        <g id="interval_calendar" transform="matrix(0.34457,0,0,0.269046,4474.21,4917.85)">
+            <rect x="6798.42" y="6727.99" width="1163.57" height="822.012" style="fill:none;"/>
+            <g id="_282---Click-Calendar--Flat-" serif:id="282---Click-Calendar-(Flat)" transform="matrix(5.90272,0,0,7.55967,6913.13,7399.13)">
+                <g id="Fill-1083" transform="matrix(1,0,0,1,-14.75,-78.6667)">
+                    <rect x="0" y="13" width="56" height="39" style="fill:rgb(237,240,241);"/>
+                </g>
+                <g id="Fill-1084" transform="matrix(1,0,0,1,-14.75,-78.6667)">
+                    <path d="M41,0L0,0L0,13L56,13L56,0L41,0" style="fill:rgb(241,80,49);"/>
+                </g>
+            </g>
+            <g transform="matrix(2.90217,0,0,3.71684,-13090.4,-18819.1)">
+                <text x="6887.16px" y="6973.39px" style="font-family:'Helvetica';font-size:48px;fill:rgb(76,73,65);">8<tspan x="6914.34px 6928.15px " y="6973.39px 6973.39px ">/1</tspan></text>
+            </g>
+            <g id="Fill-10831" serif:id="Fill-1083" transform="matrix(5.90272,0,0,7.55967,7209.15,6804.44)">
+                <rect x="0" y="13" width="56" height="39" style="fill:rgb(237,240,241);"/>
+            </g>
+            <g id="Fill-10841" serif:id="Fill-1084" transform="matrix(5.90272,0,0,7.55967,7209.15,6804.44)">
+                <path d="M41,0L0,0L0,13L56,13L56,0L41,0" style="fill:rgb(241,80,49);"/>
+            </g>
+            <g transform="matrix(2.90217,0,0,3.71684,-12710.2,-18819.1)">
+                <text x="6887.16px" y="6973.39px" style="font-family:'Helvetica';font-size:48px;fill:rgb(76,73,65);">8<tspan x="6914.34px 6928.15px " y="6973.39px 6973.39px ">/2</tspan></text>
+            </g>
+            <g id="Fill-10832" serif:id="Fill-1083" transform="matrix(5.90272,0,0,7.55967,7586.43,6804.44)">
+                <rect x="0" y="13" width="56" height="39" style="fill:rgb(237,240,241);"/>
+            </g>
+            <g id="Fill-10842" serif:id="Fill-1084" transform="matrix(5.90272,0,0,7.55967,7586.43,6804.44)">
+                <path d="M41,0L0,0L0,13L56,13L56,0L41,0" style="fill:rgb(241,80,49);"/>
+            </g>
+            <g transform="matrix(2.90217,0,0,3.71684,-12332.9,-18819.1)">
+                <text x="6887.16px" y="6973.39px" style="font-family:'Helvetica';font-size:48px;fill:rgb(76,73,65);">8<tspan x="6914.34px 6928.15px " y="6973.39px 6973.39px ">/3</tspan></text>
+            </g>
+            <g transform="matrix(2.90217,0,0,3.71684,-12984.9,-18278.8)">
+                <path d="M6828.23,6862.5L6828.23,6886.17L7199.69,6886.17L7199.69,6862.5" style="fill:none;stroke:rgb(4,4,3);stroke-width:1.5px;stroke-dasharray:9,6,0,0;"/>
+            </g>
+            <g transform="matrix(2.90217,0,0,3.71684,-12820.9,-18323.7)">
+                <text x="6911.99px" y="6945.24px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:36px;fill:rgb(4,4,3);">3</text>
+                <text x="6932.38px" y="6945.24px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:36px;fill:rgb(4,4,3);">日<tspan x="6968.74px " y="6945.24px ">間</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>

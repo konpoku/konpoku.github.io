@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580px" height="300px" viewBox="0 0 580 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m4-tension-categorize-3</title>
+    <g id="m4-tension-categorize-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="43.9410086 155.831235 43.973828 43 15 43 15 237 56 237 56 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="94.8977636 155.623199 94.9300958 43 71 43 71 155.623199 60 155.623199 60 237 104 237 104 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="143.119361 155.623199 143.151693 43 121.666198 43 121.666198 155.623199 107 155.623199 107 237 151 237 151 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(176.000000, 140.000000) scale(-1, 1) translate(-176.000000, -140.000000) " points="182.628711 155.831235 182.662925 43 154 43 154 237 198 237 198 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="230.799919 155.831235 230.832578 43 202 43 202 237 244 237 244 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="282.94125 155.623199 282.973422 43 257.945757 43 257.945757 155.623199 247 155.623199 247 237 292 237 292 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(317.000000, 140.000000) scale(-1, 1) translate(-317.000000, -140.000000) " points="322.400162 155.831235 322.432822 43 296 43 296 237 338 237 338 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(456.000000, 140.000000) scale(-1, 1) translate(-456.000000, -140.000000) " points="461.400162 155.831235 461.432822 43 435 43 435 237 477 237 477 155.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="42" y="42" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="92" y="42" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="142" y="42" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="230" y="42" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="282" y="42" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="370.941009 155.831235 370.973828 43 342 43 342 237 383 237 383 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="421.897764 155.623199 421.930096 43 398 43 398 155.623199 387 155.623199 387 237 431 237 431 155.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="369" y="42" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="419" y="42" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(502.000000, 140.000000) scale(-1, 1) translate(-502.000000, -140.000000) " points="507.400162 155.831235 507.432822 43 481 43 481 237 523 237 523 155.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(547.000000, 140.000000) scale(-1, 1) translate(-547.000000, -140.000000) " points="568 43 552.432822 43 526 43 526 237 568 237 568 155.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="465" y="42" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FFBF00" cx="317" cy="218" r="15"></circle>
+        <circle id="Circle" fill="#58C322" cx="362" cy="218" r="15"></circle>
+        <circle id="Circle" fill="#58C322" cx="81" cy="218" r="15"></circle>
+        <circle id="Circle" fill="#58C322" cx="270" cy="218" r="15"></circle>
+        <path d="M224.736486,205.038851 L237.290127,227.007722 C237.838147,227.966757 237.504953,229.188466 236.545919,229.736486 C236.243723,229.909169 235.901695,230 235.553641,230 L210.446359,230 C209.34179,230 208.446359,229.104569 208.446359,228 C208.446359,227.651946 208.53719,227.309918 208.709873,227.007722 L221.263514,205.038851 C221.811534,204.079816 223.033243,203.746623 223.992278,204.294643 C224.30234,204.471821 224.559308,204.728788 224.736486,205.038851 Z" id="Triangle" fill="#5C3DF5" fill-rule="nonzero"></path>
+        <path d="M407.868243,249.519425 L414.145063,260.503861 C414.419073,260.983379 414.252477,261.594233 413.772959,261.868243 C413.621862,261.954585 413.450847,262 413.27682,262 L400.72318,262 C400.170895,262 399.72318,261.552285 399.72318,261 C399.72318,260.825973 399.768595,260.654959 399.854937,260.503861 L406.131757,249.519425 C406.405767,249.039908 407.016621,248.873311 407.496139,249.147321 C407.65117,249.235911 407.779654,249.364394 407.868243,249.519425 Z" id="Triangle" fill="#5C3DF5" fill-rule="nonzero"></path>
+        <circle id="Circle" fill="#58C322" cx="173" cy="218" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="245" cy="139" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="298" cy="139" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="384" cy="139" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="108" cy="139" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="158" cy="139" r="15"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="128" cy="218" r="15"></circle>
+        <text id="C-major-scale、G7にて" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-0.520833321">
+            <tspan x="14.3274999" y="29">在C大调音阶、G7处</tspan>
+        </text>
+        <circle id="Circle" fill="#58C322" cx="23.5" cy="256.5" r="7.5"></circle>
+        <text id="コードトーン" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="35" y="262">和弦音 (Chord Tone)</tspan>
+        </text>
+        <circle id="Circle" fill="#FFBF00" cx="158.5" cy="256.5" r="7.5"></circle>
+        <text id="アヴェイラブル・テンション" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="171" y="262">可用引申音 (Available Tension)</tspan>
+        </text>
+        <text id="アヴォイド" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="421" y="262">避用音 (Avoid)</tspan>
+        </text>
+        <circle id="Circle" fill="#AAAAAA" cx="23.5" cy="283.5" r="7.5"></circle>
+        <text id="スケール外の音" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="36" y="289">音阶外音</tspan>
+        </text>
+    </g>
+</svg>

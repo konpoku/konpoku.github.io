@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3000px" height="1240px" viewBox="0 0 3000 1240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-transition-types</title>
+    <g id="c8-transition-types" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M569.5,601 L583,622 L572,621.999 L572,1318 L568,1318 L568,621.999 L556,622 L569.5,601 Z" id="Axis" fill="#AAAAAA" transform="translate(569.500000, 959.500000) rotate(-270.000000) translate(-569.500000, -959.500000) "></path>
+        <path d="M209.5,228 L223,249 L212,249 L212,962 L208,962 L208,249 L196,249 L209.5,228 Z" id="Axis" fill="#AAAAAA"></path>
+        <g id="lines" opacity="0.196661086" transform="translate(212.000000, 258.000000)" fill="#AAAAAA">
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 301.000000) rotate(-270.000000) translate(-350.000000, -301.000000) " points="349 -48.5 351 -48.5 351 650.5 349 650.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 251.000000) rotate(-270.000000) translate(-350.000000, -251.000000) " points="349 -98.5 351 -98.5 351 600.5 349 600.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 201.000000) rotate(-270.000000) translate(-350.000000, -201.000000) " points="349 -148.5 351 -148.5 351 550.5 349 550.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 151.000000) rotate(-270.000000) translate(-350.000000, -151.000000) " points="349 -198.5 351 -198.5 351 500.5 349 500.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 101.000000) rotate(-270.000000) translate(-350.000000, -101.000000) " points="349 -248.5 351 -248.5 351 450.5 349 450.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 51.000000) rotate(-270.000000) translate(-350.000000, -51.000000) " points="349 -298.5 351 -298.5 351 400.5 349 400.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 1.000000) rotate(-270.000000) translate(-350.000000, -1.000000) " points="349 -348.5 351 -348.5 351 350.5 349 350.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 651.000000) rotate(-270.000000) translate(-350.000000, -651.000000) " points="349 301.5 351 301.5 351 1000.5 349 1000.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 351.000000) rotate(-270.000000) translate(-350.000000, -351.000000) " points="349 1.5 351 1.5 351 700.5 349 700.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 601.000000) rotate(-270.000000) translate(-350.000000, -601.000000) " points="349 251.5 351 251.5 351 950.5 349 950.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 551.000000) rotate(-270.000000) translate(-350.000000, -551.000000) " points="349 201.5 351 201.5 351 900.5 349 900.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 501.000000) rotate(-270.000000) translate(-350.000000, -501.000000) " points="349 151.5 351 151.5 351 850.5 349 850.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 451.000000) rotate(-270.000000) translate(-350.000000, -451.000000) " points="349 101.5 351 101.5 351 800.5 349 800.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 401.000000) rotate(-270.000000) translate(-350.000000, -401.000000) " points="349 51.5 351 51.5 351 750.5 349 750.5"></polygon>
+        </g>
+        <g id="lines" opacity="0.196661086" transform="translate(562.000000, 609.000000) rotate(-270.000000) translate(-562.000000, -609.000000) translate(212.000000, 308.000000)" fill="#AAAAAA">
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 251.000000) rotate(-270.000000) translate(-350.000000, -251.000000) " points="349 -98.5 351 -98.5 351 600.5 349 600.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 301.000000) rotate(-270.000000) translate(-350.000000, -301.000000) " points="349 -48.5 351 -48.5 351 650.5 349 650.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 201.000000) rotate(-270.000000) translate(-350.000000, -201.000000) " points="349 -148.5 351 -148.5 351 550.5 349 550.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 151.000000) rotate(-270.000000) translate(-350.000000, -151.000000) " points="349 -198.5 351 -198.5 351 500.5 349 500.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 101.000000) rotate(-270.000000) translate(-350.000000, -101.000000) " points="349 -248.5 351 -248.5 351 450.5 349 450.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 51.000000) rotate(-270.000000) translate(-350.000000, -51.000000) " points="349 -298.5 351 -298.5 351 400.5 349 400.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 1.000000) rotate(-270.000000) translate(-350.000000, -1.000000) " points="349 -348.5 351 -348.5 351 350.5 349 350.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 601.000000) rotate(-270.000000) translate(-350.000000, -601.000000) " points="349 251.5 351 251.5 351 950.5 349 950.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 551.000000) rotate(-270.000000) translate(-350.000000, -551.000000) " points="349 201.5 351 201.5 351 900.5 349 900.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 501.000000) rotate(-270.000000) translate(-350.000000, -501.000000) " points="349 151.5 351 151.5 351 850.5 349 850.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 451.000000) rotate(-270.000000) translate(-350.000000, -451.000000) " points="349 101.5 351 101.5 351 800.5 349 800.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 401.000000) rotate(-270.000000) translate(-350.000000, -401.000000) " points="349 51.5 351 51.5 351 750.5 349 750.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 351.000000) rotate(-270.000000) translate(-350.000000, -351.000000) " points="349 1.5 351 1.5 351 700.5 349 700.5"></polygon>
+        </g>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="211.5" cy="756.5" r="16.5"></circle>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="863.5" cy="756.5" r="16.5"></circle>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="862.5" cy="259.5" r="16.5"></circle>
+        <line x1="863" y1="276.5" x2="863" y2="740" id="Path-65" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></line>
+        <path d="M2426.5,601 L2440,622 L2429,621.999 L2429,1318 L2425,1318 L2425,621.999 L2413,622 L2426.5,601 Z" id="Axis" fill="#AAAAAA" transform="translate(2426.500000, 959.500000) rotate(-270.000000) translate(-2426.500000, -959.500000) "></path>
+        <path d="M2066.5,228 L2080,249 L2069,249 L2069,962 L2065,962 L2065,249 L2053,249 L2066.5,228 Z" id="Axis" fill="#AAAAAA"></path>
+        <g id="lines" opacity="0.196661086" transform="translate(2069.000000, 258.000000)" fill="#AAAAAA">
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 301.000000) rotate(-270.000000) translate(-350.000000, -301.000000) " points="349 -48.5 351 -48.5 351 650.5 349 650.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 251.000000) rotate(-270.000000) translate(-350.000000, -251.000000) " points="349 -98.5 351 -98.5 351 600.5 349 600.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 201.000000) rotate(-270.000000) translate(-350.000000, -201.000000) " points="349 -148.5 351 -148.5 351 550.5 349 550.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 151.000000) rotate(-270.000000) translate(-350.000000, -151.000000) " points="349 -198.5 351 -198.5 351 500.5 349 500.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 101.000000) rotate(-270.000000) translate(-350.000000, -101.000000) " points="349 -248.5 351 -248.5 351 450.5 349 450.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 51.000000) rotate(-270.000000) translate(-350.000000, -51.000000) " points="349 -298.5 351 -298.5 351 400.5 349 400.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 1.000000) rotate(-270.000000) translate(-350.000000, -1.000000) " points="349 -348.5 351 -348.5 351 350.5 349 350.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 651.000000) rotate(-270.000000) translate(-350.000000, -651.000000) " points="349 301.5 351 301.5 351 1000.5 349 1000.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 351.000000) rotate(-270.000000) translate(-350.000000, -351.000000) " points="349 1.5 351 1.5 351 700.5 349 700.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 601.000000) rotate(-270.000000) translate(-350.000000, -601.000000) " points="349 251.5 351 251.5 351 950.5 349 950.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 551.000000) rotate(-270.000000) translate(-350.000000, -551.000000) " points="349 201.5 351 201.5 351 900.5 349 900.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 501.000000) rotate(-270.000000) translate(-350.000000, -501.000000) " points="349 151.5 351 151.5 351 850.5 349 850.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 451.000000) rotate(-270.000000) translate(-350.000000, -451.000000) " points="349 101.5 351 101.5 351 800.5 349 800.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 401.000000) rotate(-270.000000) translate(-350.000000, -401.000000) " points="349 51.5 351 51.5 351 750.5 349 750.5"></polygon>
+        </g>
+        <g id="lines" opacity="0.196661086" transform="translate(2419.000000, 609.000000) rotate(-270.000000) translate(-2419.000000, -609.000000) translate(2069.000000, 308.000000)" fill="#AAAAAA">
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 251.000000) rotate(-270.000000) translate(-350.000000, -251.000000) " points="349 -98.5 351 -98.5 351 600.5 349 600.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 301.000000) rotate(-270.000000) translate(-350.000000, -301.000000) " points="349 -48.5 351 -48.5 351 650.5 349 650.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 201.000000) rotate(-270.000000) translate(-350.000000, -201.000000) " points="349 -148.5 351 -148.5 351 550.5 349 550.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 151.000000) rotate(-270.000000) translate(-350.000000, -151.000000) " points="349 -198.5 351 -198.5 351 500.5 349 500.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 101.000000) rotate(-270.000000) translate(-350.000000, -101.000000) " points="349 -248.5 351 -248.5 351 450.5 349 450.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 51.000000) rotate(-270.000000) translate(-350.000000, -51.000000) " points="349 -298.5 351 -298.5 351 400.5 349 400.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 1.000000) rotate(-270.000000) translate(-350.000000, -1.000000) " points="349 -348.5 351 -348.5 351 350.5 349 350.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 601.000000) rotate(-270.000000) translate(-350.000000, -601.000000) " points="349 251.5 351 251.5 351 950.5 349 950.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 551.000000) rotate(-270.000000) translate(-350.000000, -551.000000) " points="349 201.5 351 201.5 351 900.5 349 900.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 501.000000) rotate(-270.000000) translate(-350.000000, -501.000000) " points="349 151.5 351 151.5 351 850.5 349 850.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 451.000000) rotate(-270.000000) translate(-350.000000, -451.000000) " points="349 101.5 351 101.5 351 800.5 349 800.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 401.000000) rotate(-270.000000) translate(-350.000000, -401.000000) " points="349 51.5 351 51.5 351 750.5 349 750.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 351.000000) rotate(-270.000000) translate(-350.000000, -351.000000) " points="349 1.5 351 1.5 351 700.5 349 700.5"></polygon>
+        </g>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="2068.5" cy="756.5" r="16.5"></circle>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="2066.5" cy="260.5" r="16.5"></circle>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="2719.5" cy="259.5" r="16.5"></circle>
+        <path d="M1486.5,601 L1500,622 L1489,621.999 L1489,1318 L1485,1318 L1485,621.999 L1473,622 L1486.5,601 Z" id="Axis" fill="#AAAAAA" transform="translate(1486.500000, 959.500000) rotate(-270.000000) translate(-1486.500000, -959.500000) "></path>
+        <path d="M1126.5,228 L1140,249 L1129,249 L1129,962 L1125,962 L1125,249 L1113,249 L1126.5,228 Z" id="Axis" fill="#AAAAAA"></path>
+        <g id="lines" opacity="0.196661086" transform="translate(1129.000000, 258.000000)" fill="#AAAAAA">
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 301.000000) rotate(-270.000000) translate(-350.000000, -301.000000) " points="349 -48.5 351 -48.5 351 650.5 349 650.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 251.000000) rotate(-270.000000) translate(-350.000000, -251.000000) " points="349 -98.5 351 -98.5 351 600.5 349 600.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 201.000000) rotate(-270.000000) translate(-350.000000, -201.000000) " points="349 -148.5 351 -148.5 351 550.5 349 550.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 151.000000) rotate(-270.000000) translate(-350.000000, -151.000000) " points="349 -198.5 351 -198.5 351 500.5 349 500.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 101.000000) rotate(-270.000000) translate(-350.000000, -101.000000) " points="349 -248.5 351 -248.5 351 450.5 349 450.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 51.000000) rotate(-270.000000) translate(-350.000000, -51.000000) " points="349 -298.5 351 -298.5 351 400.5 349 400.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 1.000000) rotate(-270.000000) translate(-350.000000, -1.000000) " points="349 -348.5 351 -348.5 351 350.5 349 350.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 651.000000) rotate(-270.000000) translate(-350.000000, -651.000000) " points="349 301.5 351 301.5 351 1000.5 349 1000.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 351.000000) rotate(-270.000000) translate(-350.000000, -351.000000) " points="349 1.5 351 1.5 351 700.5 349 700.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 601.000000) rotate(-270.000000) translate(-350.000000, -601.000000) " points="349 251.5 351 251.5 351 950.5 349 950.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 551.000000) rotate(-270.000000) translate(-350.000000, -551.000000) " points="349 201.5 351 201.5 351 900.5 349 900.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 501.000000) rotate(-270.000000) translate(-350.000000, -501.000000) " points="349 151.5 351 151.5 351 850.5 349 850.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 451.000000) rotate(-270.000000) translate(-350.000000, -451.000000) " points="349 101.5 351 101.5 351 800.5 349 800.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 401.000000) rotate(-270.000000) translate(-350.000000, -401.000000) " points="349 51.5 351 51.5 351 750.5 349 750.5"></polygon>
+        </g>
+        <g id="lines" opacity="0.196661086" transform="translate(1479.000000, 609.000000) rotate(-270.000000) translate(-1479.000000, -609.000000) translate(1129.000000, 308.000000)" fill="#AAAAAA">
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 251.000000) rotate(-270.000000) translate(-350.000000, -251.000000) " points="349 -98.5 351 -98.5 351 600.5 349 600.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(349.500000, 300.000000) rotate(-270.000000) translate(-349.500000, -300.000000) " points="348.5 -49.5 350.5 -49.5 350.5 649.5 348.5 649.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 201.000000) rotate(-270.000000) translate(-350.000000, -201.000000) " points="349 -148.5 351 -148.5 351 550.5 349 550.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 151.000000) rotate(-270.000000) translate(-350.000000, -151.000000) " points="349 -198.5 351 -198.5 351 500.5 349 500.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 101.000000) rotate(-270.000000) translate(-350.000000, -101.000000) " points="349 -248.5 351 -248.5 351 450.5 349 450.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 51.000000) rotate(-270.000000) translate(-350.000000, -51.000000) " points="349 -298.5 351 -298.5 351 400.5 349 400.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 1.000000) rotate(-270.000000) translate(-350.000000, -1.000000) " points="349 -348.5 351 -348.5 351 350.5 349 350.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 601.000000) rotate(-270.000000) translate(-350.000000, -601.000000) " points="349 251.5 351 251.5 351 950.5 349 950.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 551.000000) rotate(-270.000000) translate(-350.000000, -551.000000) " points="349 201.5 351 201.5 351 900.5 349 900.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 501.000000) rotate(-270.000000) translate(-350.000000, -501.000000) " points="349 151.5 351 151.5 351 850.5 349 850.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 451.000000) rotate(-270.000000) translate(-350.000000, -451.000000) " points="349 101.5 351 101.5 351 800.5 349 800.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 401.000000) rotate(-270.000000) translate(-350.000000, -401.000000) " points="349 51.5 351 51.5 351 750.5 349 750.5"></polygon>
+            <polygon id="Rectangle" opacity="0.498325893" transform="translate(350.000000, 351.000000) rotate(-270.000000) translate(-350.000000, -351.000000) " points="349 1.5 351 1.5 351 700.5 349 700.5"></polygon>
+        </g>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="1128.5" cy="756.5" r="16.5"></circle>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="1479.5" cy="558.5" r="16.5"></circle>
+        <circle id="Oval" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" cx="1779.5" cy="259.5" r="16.5"></circle>
+        <path d="M1145,759.865083 C1486,760.945354 1481,759.865083 1479,580" id="Path-65" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M1756.49905,261.59737 C1628,261.59737 1481,429.976031 1479.99865,536.59737" id="Path-65" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></path>
+        <line x1="2067" y1="740" x2="2067" y2="279" id="Path-65" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="2703" y1="261.5" x2="2085" y2="259.5" id="Path-65" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></line>
+        <text id="横軸：時間経過-縦軸：後方文脈の強度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="32" font-weight="500" fill="#AAAAAA">
+            <tspan x="24" y="52">横軸：時間経過</tspan>
+            <tspan x="24" y="89">纵轴：后文语境的强度</tspan>
+        </text>
+        <text id="トランジション:-なし" font-family="HiraginoSans-W6, Hiragino Sans" font-size="48" font-weight="500" fill="#000000">
+            <tspan x="307" y="1087">过渡：无</tspan>
+        </text>
+        <text id="固有音を使わない" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#AAAAAA">
+            <tspan x="393" y="1170">不使用固有音</tspan>
+        </text>
+        <text id="固有音を途中から出す" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#AAAAAA">
+            <tspan x="1306" y="1170">从中途开始引入固有音</tspan>
+        </text>
+        <text id="固有音を最初から出す" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#AAAAAA">
+            <tspan x="2264" y="1170">从一开始就引入固有音</tspan>
+        </text>
+        <text id="トランジション:-段階的" font-family="HiraginoSans-W6, Hiragino Sans" font-size="48" font-weight="500" fill="#000000">
+            <tspan x="1226" y="1087">过渡：逐步</tspan>
+        </text>
+        <text id="ピボットコード内での文脈遷移パターン" font-family="HiraginoSans-W3, Hiragino Sans" font-size="56" font-weight="300" fill="#000000">
+            <tspan x="982" y="93">枢纽和弦内的语境转换模式</tspan>
+        </text>
+        <text id="トランジション:-即時" font-family="HiraginoSans-W6, Hiragino Sans" font-size="48" font-weight="500" fill="#000000">
+            <tspan x="2189" y="1087">过渡：即时</tspan>
+        </text>
+        <line x1="228" y1="759.5" x2="847" y2="759.5" id="Path-65" stroke="#FF6633" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></line>
+    </g>
+</svg>

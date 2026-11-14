@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-677.007,-1671.42)">
+        <g id="avatar_circle.-darkmajo" transform="matrix(0.756633,0,0,0.806452,-1885.18,-4024.54)">
+            <rect x="3386.3" y="7063" width="198.247" height="186" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="3386.3" y="7063" width="198.247" height="186"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.05116,0,0,0.996329,-317.298,757.157)">
+                    <ellipse cx="3617.62" cy="6422.34" rx="94.299" ry="93.343" style="fill:rgb(194,212,213);"/>
+                    <clipPath id="_clip2">
+                        <ellipse cx="3617.62" cy="6422.34" rx="94.299" ry="93.343"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(0.951326,0,0,1.00368,301.854,-760.027)">
+                            <g id="杖" transform="matrix(-1.23262,0,0,2.6599,5144.59,6576.02)">
+                                <g id="脚" transform="matrix(-0.8,0,0,0.973244,2104,-535.652)">
+                                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(73,62,44);"/>
+                                </g>
+                                <g id="脚1" transform="matrix(-1.2,0,0,0.0802676,2469,153.913)">
+                                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,42,34);"/>
+                                </g>
+                                <g id="脚2" transform="matrix(-2.5,0,0,0.0267559,3600,202.609)">
+                                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(73,62,44);"/>
+                                </g>
+                                <g id="脚3" transform="matrix(-1.2,0,0,0.0167224,2469,208.261)">
+                                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(63,54,38);"/>
+                                </g>
+                                <g id="脚4" transform="matrix(2,0,0,-0.0367893,-335,241.739)">
+                                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(55,49,37);"/>
+                                </g>
+                                <g id="脚5" transform="matrix(-1.8,0,0,0.100334,2979,130)">
+                                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(73,62,44);"/>
+                                </g>
+                            </g>
+                            <g transform="matrix(-1.23262,0,0,1.15648,3799.62,6986.57)">
+                                <g id="ワンピース" transform="matrix(20,1.8527e-30,2.17113e-31,1.5625,-23714,-797.25)">
+                                    <rect x="1196" y="628" width="4" height="64" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="ワンピース1" transform="matrix(20,1.8527e-30,1.84546e-31,1.32812,-23714,-650.062)">
+                                    <rect x="1196" y="628" width="4" height="64" style="fill:rgb(35,45,48);"/>
+                                </g>
+                            </g>
+                            <g id="セーター" transform="matrix(-1.23262,0,0,1.15648,3799.62,6986.57)">
+                                <g id="腕" transform="matrix(0.5,4.63175e-32,6.60025e-31,4.75,118.023,-1106)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕1" transform="matrix(0.75,6.94763e-32,2.1885e-30,15.75,69.0226,-4216)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕2" transform="matrix(0.75,6.94763e-32,1.44462e-30,10.3965,103.095,-2691.76)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(45,59,63);"/>
+                                </g>
+                                <g id="腕3" transform="matrix(0.75,6.94763e-32,1.04214e-30,7.5,69.0226,-1906)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕4" transform="matrix(0.25,2.31588e-32,1.38953e-30,10,162.023,-2616)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕5" transform="matrix(0.25,2.31588e-32,1.38953e-30,10,247.023,-2616)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕6" transform="matrix(0.750635,6.95351e-32,8.68453e-31,6.25,63.9108,-1526)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕7" transform="matrix(0.6,5.5581e-32,1.73691e-30,12.5,197.423,-3306)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                                <g id="腕8" transform="matrix(0.75,6.94763e-32,1.56322e-30,11.25,181.023,-2931)">
+                                    <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+                                </g>
+                            </g>
+                            <g id="アウター.28.暗.29." transform="matrix(0.321833,-2.28856e-32,-2.09337e-30,11.5648,3489.03,4007.48)">
+                                <rect x="156" y="280" width="20" height="4" style="fill-opacity:0.05;"/>
+                            </g>
+                            <g id="肌" transform="matrix(-1.04773,9.10607e-32,-7.27923e-31,4.91503,3674.62,5849.58)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,197,157);"/>
+                            </g>
+                            <g transform="matrix(-5.2609,-4.84299e-31,2.52665e-32,0.180699,9803.31,7128.82)">
+                                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+                            </g>
+                            <g transform="matrix(-2.46133,-2.26581e-31,2.02132e-32,0.14456,6464.88,7146.89)">
+                                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+                            </g>
+                            <g id="首" transform="matrix(1.84893,-1.60695e-31,-2.67264e-30,18.046,3183.28,2074.55)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,163,118);"/>
+                            </g>
+                            <g id="えり" transform="matrix(0.616311,-5.35651e-32,-8.5638e-31,5.78238,3400.22,5568.73)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+                            </g>
+                            <g id="えり1" transform="matrix(0.616311,-5.35651e-32,-8.5638e-31,5.78238,3375.57,5568.73)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+                            </g>
+                            <g id="えり2" transform="matrix(0.616311,-5.35651e-32,-8.5638e-31,5.78238,3387.89,5580.29)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+                            </g>
+                            <g id="えり3" transform="matrix(0.616311,-5.35651e-32,-4.18982e-31,2.82902,3387.89,6407.48)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+                            </g>
+                            <g id="ヘアー" transform="matrix(1.41965,-1.23385e-31,-3.44889e-30,23.2873,3229.25,585.758)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(142,107,48);"/>
+                            </g>
+                            <g id="肌1" transform="matrix(3.14903,-2.7369e-31,-1.67694e-30,11.3229,2969.96,3961.35)">
+                                <path d="M176,280L156,280L156,283.8C156,283.91 156.343,284 156.766,284L176,284L176,280Z" style="fill:rgb(255,197,157);"/>
+                            </g>
+                            <g id="め" transform="matrix(0.510371,8.44102e-17,1.97425e-15,2.94511,3414.31,6307.44)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+                            </g>
+                            <g id="め1" transform="matrix(0.493049,8.15454e-17,1.97425e-15,2.94511,3384.96,6307.44)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+                            </g>
+                            <g id="ヘアー1" transform="matrix(0.616311,-5.35651e-32,-2.56914e-30,17.3472,3342.29,2260.05)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(26,33,38);fill-opacity:0.9;"/>
+                            </g>
+                            <g id="ヘアー2" transform="matrix(0.616311,-5.35651e-32,-1.07048e-30,7.22798,3342.29,5114.23)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);fill-opacity:0.6;"/>
+                            </g>
+                            <g id="ヘアー3" transform="matrix(1.84893,-1.60695e-31,-8.13561e-31,5.49326,3215.35,5639.27)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー4" transform="matrix(2.21872,-1.92834e-31,-2.78324e-30,18.7927,3162.57,1849.5)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー5" transform="matrix(1.06981,-9.29798e-32,-5.91511e-31,3.99395,3300.24,6003.37)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー6" transform="matrix(0.526412,-4.57517e-32,-7.69504e-31,5.19579,3405.02,5659.34)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー7" transform="matrix(0.526412,-4.57517e-32,-4.73141e-31,3.19471,3373.56,6232.91)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー8" transform="matrix(2.74879,-2.38904e-31,-1.28457e-30,8.67358,3040.4,4667.83)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー9" transform="matrix(1.31918,-1.14653e-31,-8.90547e-31,6.01308,3244.92,5419.71)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+                            </g>
+                            <g id="ヘアー10" transform="matrix(1.10936,-9.64172e-32,-1.71276e-31,1.15648,3308.51,6783.03)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+                            </g>
+                            <g id="ヘアー11" transform="matrix(1.10936,-9.64172e-32,-1.71276e-31,1.15648,3286.33,6787.65)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+                            </g>
+                            <g id="ヘアー12" transform="matrix(0.924467,-8.03477e-32,-1.71276e-31,1.15648,3359.54,6794.59)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+                            </g>
+                            <g id="ヘアー13" transform="matrix(0.988232,-8.58897e-32,-8.70366e-31,5.87682,3296.55,5438.2)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="ほっぺ" transform="matrix(1.03384,-8.98534e-32,-2.45794e-31,1.65963,3356,6677.19)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);"/>
+                            </g>
+                            <g id="ほっぺ1" transform="matrix(1.03384,-8.98534e-32,-2.45794e-31,1.65963,3356,6682.12)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);fill-opacity:0.5;"/>
+                            </g>
+                            <g id="ほっぺ2" transform="matrix(0.776679,-6.7503e-32,-2.45794e-31,1.65963,3324.02,6683.83)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);fill-opacity:0.5;"/>
+                            </g>
+                            <g id="腕9" transform="matrix(-0.924467,8.03477e-32,-1.28457e-30,8.67358,3684.96,4666.68)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕10" transform="matrix(-1.23262,1.0713e-31,-1.28457e-30,8.67358,3720.7,4655.11)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕11" transform="matrix(-1.10936,9.64172e-32,-1.28457e-30,8.67358,3676.82,4643.55)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕12" transform="matrix(-1.10936,9.64172e-32,-1.02766e-30,6.93886,3654.63,5140.83)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕13" transform="matrix(-0.617836,5.36977e-32,-1.11329e-30,7.5171,3555.77,4992.8)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕14" transform="matrix(-0.924467,8.03477e-32,-6.42285e-31,4.33679,3684.96,5967.71)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕15" transform="matrix(-0.708758,6.15999e-32,-3.85371e-30,26.0207,3656.24,-190.526)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g id="腕16" transform="matrix(-0.924467,8.03477e-32,-2.99733e-30,20.2383,3703.45,1444.73)">
+                                <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+                            </g>
+                            <g transform="matrix(-0.956522,0,0,1.15648,3726.73,6986.57)">
+                                <path d="M245.72,155.739C246.895,157.972 247.153,158.023 256.051,158.054C262.921,158.079 263.664,157.314 264.434,155.509" style="fill:none;stroke:rgb(227,132,116);stroke-opacity:0.7;stroke-width:2.4px;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

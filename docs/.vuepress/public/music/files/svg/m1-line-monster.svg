@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="515px" viewBox="0 0 440 515" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-monster</title>
+    <g id="m1-line-monster" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(141.000000, 16.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="290" height="110" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="26" cy="74" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="66" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="116" cy="34" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="156" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="186" cy="54" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="256" cy="74" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="26 74 66 44 116 34 156 44 186 54 216 44 256 74"></polyline>
+        </g>
+        <g id="Group" transform="translate(141.000000, 136.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="290" height="110" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="26" cy="74" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="66" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="116" cy="34" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="156" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="186" cy="54" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="44" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="26 74 66 44 116 34 156 44 186 54 216 44 256 54"></polyline>
+        </g>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="383" y="199">★</tspan>
+        </text>
+        <g id="Group" transform="translate(141.000000, 256.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="290" height="110" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="116" cy="34" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="156" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="186" cy="54" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="44" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="25 93 66 54 116 34 156 44 186 54 216 44 256 24"></polyline>
+        </g>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="383" y="289">★</tspan>
+        </text>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="152" y="360">★</tspan>
+        </text>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="197" y="316">★</tspan>
+        </text>
+        <g id="Group" transform="translate(111.000000, 378.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="320" height="110" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="146" cy="34" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="186" cy="44" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="216" cy="54" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="246" cy="44" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="25 64 83 44 146 34 186 44 216 54 246 44 286 14"></polyline>
+        </g>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="383" y="401">★</tspan>
+        </text>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="122" y="452">★</tspan>
+        </text>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="152" y="442">★</tspan>
+        </text>
+        <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+            <tspan x="180" y="432">★</tspan>
+        </text>
+        <line x1="247" y1="6" x2="247" y2="503" id="Path-25" stroke="#000000" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <line x1="368" y1="6" x2="368" y2="503" id="Path-25" stroke="#000000" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <text id="提示" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="34" y="80">提示</tspan>
+        </text>
+        <text id="展開" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="25" y="330">展開</tspan>
+        </text>
+        <polyline id="Path-21" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="85.4210526 139 53 139 53 278"></polyline>
+        <polyline id="Path-22" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="53 348 53 489 95 489"></polyline>
+    </g>
+</svg>

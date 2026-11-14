@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="700px" viewBox="0 0 800 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>function_orbit</title>
+    <g id="function_orbit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-width="2" cx="400" cy="371" r="220"></circle>
+        <circle id="Oval" stroke="#AAAAAA" stroke-width="2.4" cx="400" cy="371" r="264"></circle>
+        <rect id="Rectangle-Copy" fill="#58C322" x="340" y="90" width="120" height="80" rx="10"></rect>
+        <g id="CS-A" transform="translate(390.080000, 113.984000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M14.208,32.016 L14.208,5.376 L21.792,5.376 L21.792,-7.10542736e-15 L1.42108547e-14,-7.10542736e-15 L1.42108547e-14,5.376 L7.632,5.376 L7.632,32.016 L14.208,32.016 Z" id="Combined-Shape"></path>
+        </g>
+        <rect id="Rectangle-Copy" fill="#FFBF00" x="130" y="440" width="120" height="80" rx="10"></rect>
+        <g id="CS-A" transform="translate(178.983586, 463.360000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M10.8004141,33.264 C17.4244141,33.264 21.8404141,29.376 21.8404141,23.52 C21.8404141,21.072 20.9764141,18.912 19.2964141,17.328 C17.9044141,15.984 16.1284141,15.072 12.6244141,13.776 C10.2724141,12.912 9.74441409,12.672 8.88041409,12.192 C7.58441409,11.472 6.91241409,10.464 6.91241409,9.168 C6.91241409,7.152 8.49641409,5.808 10.8484141,5.808 C13.4404141,5.808 14.7844141,7.104 15.0244141,9.792 L21.6484141,9.792 C21.1204141,3.648 17.0884141,4.26325641e-14 10.8484141,4.26325641e-14 C4.56041409,4.26325641e-14 0.288414094,3.888 0.288414094,9.696 C0.288414094,14.592 2.78441409,17.232 9.79241409,19.728 C12.2884141,20.64 12.8644141,20.88 13.6804141,21.504 C14.4964141,22.128 14.9764141,23.04 14.9764141,24.048 C14.9764141,25.968 13.1524141,27.456 10.7524141,27.456 C8.25641409,27.456 6.38441409,25.872 6.38441409,23.712 L6.38441409,23.28 L0.000414094278,23.28 C-0.0475859057,29.424 4.08041409,33.264 10.8004141,33.264 Z" id="Combined-Shape"></path>
+        </g>
+        <rect id="Rectangle-Copy" fill="#FF5500" x="550" y="441" width="120" height="80" rx="10"></rect>
+        <g id="CS-A" transform="translate(598.976000, 464.984000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M9.456,32.016 C14.064,32.016 17.904,30.72 20.544,28.32 C23.808,25.392 25.632,20.784 25.632,15.648 C25.632,10.608 23.856,6.432 20.592,3.552 C17.76,1.056 14.256,2.13162821e-14 9.072,2.13162821e-14 L0,2.13162821e-14 L0,32.016 L9.456,32.016 Z M7.824,26.592 L6.576,26.592 L6.576,5.328 L8.976,5.328 C15.072,5.328 18.96,9.456 18.96,15.84 C18.96,19.392 17.664,22.416 15.36,24.384 C13.488,25.968 11.328,26.592 7.824,26.592 Z" id="Combined-Shape"></path>
+        </g>
+        <polygon id="Triangle" fill="#AAAAAA" transform="translate(166.000000, 250.000000) rotate(-330.000000) translate(-166.000000, -250.000000) " points="166 240 176 260 156 260"></polygon>
+        <polygon id="Triangle" fill="#AAAAAA" transform="translate(408.000000, 635.000000) rotate(-90.000000) translate(-408.000000, -635.000000) " points="408 625 418 645 398 645"></polygon>
+        <polygon id="Triangle" fill="#AAAAAA" transform="translate(630.000000, 241.000000) rotate(-210.000000) translate(-630.000000, -241.000000) " points="630 231 640 251 620 251"></polygon>
+        <polygon id="Triangle" fill="#000000" transform="translate(540.000000, 202.000000) rotate(-45.000000) translate(-540.000000, -202.000000) " points="540 192 550 212 530 212"></polygon>
+        <polygon id="Triangle" fill="#000000" transform="translate(620.000000, 365.000000) rotate(-360.000000) translate(-620.000000, -365.000000) " points="620 355 630 375 610 375"></polygon>
+        <polygon id="Triangle" fill="#000000" transform="translate(405.000000, 591.000000) rotate(-270.000000) translate(-405.000000, -591.000000) " points="405 581 415 601 395 601"></polygon>
+        <polygon id="Triangle" fill="#000000" transform="translate(212.000000, 257.000000) rotate(-150.000000) translate(-212.000000, -257.000000) " points="212 247 222 267 202 267"></polygon>
+        <text id="穏やかな着地" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#AAAAAA">
+            <tspan x="23" y="223">平缓着陆</tspan>
+        </text>
+        <text id="急激な緊張" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#AAAAAA">
+            <tspan x="655" y="223">急剧紧张</tspan>
+        </text>
+        <text id="強力な着地" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="468" y="309">强力着陆</tspan>
+        </text>
+        <text id="穏やかな浮遊" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="211" y="309">平缓悬浮</tspan>
+        </text>
+        <text id="緊張の高まり" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="329" y="543">紧张感加剧</tspan>
+        </text>
+        <text id="緊張の抑制" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#AAAAAA">
+            <tspan x="341" y="674">抑制紧张</tspan>
+        </text>
+        <g id="Group" transform="translate(356.000000, 25.000000)">
+            <path d="M90,2.38969758 C90,1.07183174 88.9283105,0 87.6106195,0 L2.38938053,0 C1.06925388,0 0,1.07183174 0,2.38969758 L0,38.6103024 C0,39.9281683 1.06925388,41 2.38938053,41 L87.6106195,41 C88.9283105,41 90,39.9281683 90,38.6103024 L90,2.38969758 Z" id="Path" fill="#E5E4E3"></path>
+            <polygon id="Triangle" fill="#E5E4E3" fill-rule="nonzero" transform="translate(45.000000, 49.000000) scale(1, -1) translate(-45.000000, -49.000000) " points="45 41 58 57 32 57"></polygon>
+            <text id="安定" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="17.5" font-weight="500">
+                <tspan x="25.7193182" y="26.7404737">安定</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(655.000000, 514.000000)">
+            <path d="M90,22.3896976 C90,21.0718317 88.9283105,20 87.6106195,20 L2.38938053,20 C1.06925388,20 0,21.0718317 0,22.3896976 L0,58.6103024 C0,59.9281683 1.06925388,61 2.38938053,61 L87.6106195,61 C88.9283105,61 90,59.9281683 90,58.6103024 L90,22.3896976 Z" id="Path" fill="#E5E4E3"></path>
+            <polygon id="Triangle" fill="#E5E4E3" fill-rule="nonzero" points="18.25 0 38 21 21.5 21"></polygon>
+            <text id="不安定" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="17.5" font-weight="500">
+                <tspan x="18.9693182" y="46.7404737">不安定</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(56.000000, 514.000000)">
+            <path d="M102,22.3896976 C102,21.0718317 100.785419,20 99.2920354,20 L2.7079646,20 C1.21182106,20 0,21.0718317 0,22.3896976 L0,58.6103024 C0,59.9281683 1.21182106,61 2.7079646,61 L99.2920354,61 C100.785419,61 102,59.9281683 102,58.6103024 L102,22.3896976 Z" id="Path" fill="#E5E4E3"></path>
+            <polygon id="Triangle" fill="#E5E4E3" fill-rule="nonzero" points="69.75 0 67 21 50.5 21"></polygon>
+            <text id="やや不安定" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="17.5" font-weight="500">
+                <tspan x="7.46931818" y="46.7404737">略显不稳定</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

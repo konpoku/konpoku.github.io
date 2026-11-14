@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="340px" viewBox="0 0 540 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-manekin-contrast</title>
+    <g id="m1-line-manekin-contrast" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(17.000000, 51.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="506" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="42" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="102" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="151" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="211" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="271" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="351" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="410" cy="59" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="42 29 101.839572 29 153.700535 39 211.545455 39 271.385027 50 351.171123 50 415 59"></polyline>
+        </g>
+        <g id="Group" transform="translate(17.000000, 181.000000)" fill-rule="nonzero">
+            <path d="M4,0 L351,0 L351,0 L344,15 L351,30 L344,53 L353,69 L344,85 L351,100 L4,100 C1.790861,100 2.705415e-16,98.209139 0,96 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FF5500"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="42" cy="59" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="102" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="151" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="211" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="271" cy="29" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="42 59 101.806452 49 153.63871 39 211.451613 39 271.258065 30 331 30"></polyline>
+        </g>
+        <path id="Line-5" d="M49.6534097,51.3575472 L51.6479313,51.5054784 L418.713,78.73 L419.453329,68.7576953 L442.5,82.5 L417.678153,92.6919543 L418.418,82.719 L51.3520687,55.4945216 L49.3575472,55.3465903 L49.6534097,51.3575472 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line-5" d="M418.014387,221.216385 L443,231 L420.18174,245.118322 L419.278,235.159 L51.6806128,268.491828 L49.6887847,268.672441 L49.3275592,264.688785 L51.3193872,264.508172 L418.917,231.175 L418.014387,221.216385 Z" fill="#000000" fill-rule="nonzero"></path>
+        <text id="モチーフは下がる" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="167.8" y="40">动机下行</tspan>
+        </text>
+        <text id="リクイデーションは上がる" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="127" y="311">消解部上行</tspan>
+        </text>
+    </g>
+</svg>

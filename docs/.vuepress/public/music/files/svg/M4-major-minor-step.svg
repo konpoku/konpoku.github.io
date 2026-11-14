@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="260px" viewBox="0 0 720 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>M4-major-minor-step</title>
+    <desc>Created with Sketch.</desc>
+    <g id="M4-major-minor-step" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path-4" stroke="#73CC33" stroke-width="2" points="45 121 125.063442 121 235.651071 82 305.206186 121 385.269627 121 495.857256 82 595.936558 82 676 121"></polyline>
+        <polyline id="Path-5" stroke="#101010" stroke-width="2" points="46 133 125.5 133 195.5 173 305.5 134 385.5 134 455.5 171.32766 559.433419 171.32766 676 133"></polyline>
+        <circle id="Oval" fill="#AAAAAA" cx="45" cy="127" r="24"></circle>
+        <text id="ド" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="33.49985" y="136">Do</tspan>
+        </text>
+        <circle id="Oval" fill="#AAAAAA" cx="675" cy="127" r="24"></circle>
+        <text id="ド" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="663.49985" y="136">Do</tspan>
+        </text>
+        <circle id="Oval" fill="#AAAAAA" cx="125" cy="127" r="24"></circle>
+        <text id="レ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="113.49985" y="136">Re</tspan>
+        </text>
+        <circle id="Oval" fill="#AAAAAA" cx="305" cy="127" r="24"></circle>
+        <text id="ファ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" letter-spacing="-4.58333333">
+            <tspan x="287.166667" y="135">Fa</tspan>
+        </text>
+        <circle id="Oval" fill="#AAAAAA" cx="385" cy="127" r="24"></circle>
+        <text id="ソ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="-5">
+            <tspan x="374" y="135">Sol</tspan>
+        </text>
+        <circle id="Oval" fill="#73CC33" cx="235" cy="77" r="24"></circle>
+        <circle id="Oval" stroke="#FFBF00" stroke-width="2" cx="235" cy="77" r="30"></circle>
+        <circle id="Oval" stroke="#FFBF00" stroke-width="2" cx="305" cy="127" r="30"></circle>
+        <circle id="Oval" stroke="#FFBF00" stroke-width="2" cx="385" cy="127" r="30"></circle>
+        <circle id="Oval" stroke="#FFBF00" stroke-width="2" cx="455" cy="177" r="30"></circle>
+        <text id="ミ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="223.49985" y="86">Mi</tspan>
+        </text>
+        <circle id="Oval" fill="#101010" cx="195" cy="177" r="24"></circle>
+        <text id="ミ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="180.9997" y="187">Mi</tspan>
+        </text>
+        <path d="M205.866622,169.885779 C205.866622,169.885779 205.866622,170.657099 205.866622,172.200111 C206.866153,171.211544 207.98809,170.705376 209.232072,170.681238 C210.009605,170.681238 210.675959,171.031061 211.231496,171.729966 C211.720035,172.380965 211.97535,173.104008 211.997803,173.899838 C212.019894,174.526698 211.875396,175.249741 211.564673,176.069338 C211.453493,176.406907 211.209043,176.768614 210.831321,177.154089 C210.542689,177.443752 210.242829,177.744927 209.931743,178.058357 C208.28795,179.359983 206.644156,180.673864 205,182 L205,164 L205.866622,164 L205.866622,169.885779 Z M208.565718,172.99557 C208.299176,172.658001 207.954773,172.489403 207.532507,172.489403 C206.999424,172.489403 206.566294,172.814716 206.233117,173.465715 C205.988666,173.971882 205.866622,175.165442 205.866622,177.045651 L205.866622,180.155813 C205.888713,180.251996 206.510885,179.661529 207.732413,178.383671 C208.399129,177.708905 208.832259,176.913074 209.032166,175.996923 C209.120892,175.635587 209.165436,175.27388 209.165436,174.912172 C209.165436,174.116714 208.96553,173.47797 208.565718,172.99557" id="flat" fill="#FFFFFF"></path>
+        <circle id="Oval" fill="#73CC33" cx="495" cy="77" r="24"></circle>
+        <text id="ラ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="483.49985" y="86">La</tspan>
+        </text>
+        <circle id="Oval" fill="#101010" cx="455" cy="177" r="24"></circle>
+        <text id="ラ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="440.9997" y="187">La</tspan>
+        </text>
+        <path d="M465.866622,169.885779 C465.866622,169.885779 465.866622,170.657099 465.866622,172.200111 C466.866153,171.211544 467.98809,170.705376 469.232072,170.681238 C470.009605,170.681238 470.675959,171.031061 471.231496,171.729966 C471.720035,172.380965 471.97535,173.104008 471.997803,173.899838 C472.019894,174.526698 471.875396,175.249741 471.564673,176.069338 C471.453493,176.406907 471.209043,176.768614 470.831321,177.154089 C470.542689,177.443752 470.242829,177.744927 469.931743,178.058357 C468.28795,179.359983 466.644156,180.673864 465,182 L465,164 L465.866622,164 L465.866622,169.885779 Z M468.565718,172.99557 C468.299176,172.658001 467.954773,172.489403 467.532507,172.489403 C466.999424,172.489403 466.566294,172.814716 466.233117,173.465715 C465.988666,173.971882 465.866622,175.165442 465.866622,177.045651 L465.866622,180.155813 C465.888713,180.251996 466.510885,179.661529 467.732413,178.383671 C468.399129,177.708905 468.832259,176.913074 469.032166,175.996923 C469.120892,175.635587 469.165436,175.27388 469.165436,174.912172 C469.165436,174.116714 468.96553,173.47797 468.565718,172.99557" id="flat" fill="#FFFFFF"></path>
+        <circle id="Oval" fill="#73CC33" cx="595" cy="77" r="24"></circle>
+        <text id="シ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="583.49985" y="86">Si</tspan>
+        </text>
+        <circle id="Oval" fill="#101010" cx="555" cy="177" r="24"></circle>
+        <text id="シ" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" letter-spacing="0.0003">
+            <tspan x="540.9997" y="187">Si</tspan>
+        </text>
+        <path d="M565.866622,169.885779 C565.866622,169.885779 565.866622,170.657099 565.866622,172.200111 C566.866153,171.211544 567.98809,170.705376 569.232072,170.681238 C570.009605,170.681238 570.675959,171.031061 571.231496,171.729966 C571.720035,172.380965 571.97535,173.104008 571.997803,173.899838 C572.019894,174.526698 571.875396,175.249741 571.564673,176.069338 C571.453493,176.406907 571.209043,176.768614 570.831321,177.154089 C570.542689,177.443752 570.242829,177.744927 569.931743,178.058357 C568.28795,179.359983 566.644156,180.673864 565,182 L565,164 L565.866622,164 L565.866622,169.885779 Z M568.565718,172.99557 C568.299176,172.658001 567.954773,172.489403 567.532507,172.489403 C566.999424,172.489403 566.566294,172.814716 566.233117,173.465715 C565.988666,173.971882 565.866622,175.165442 565.866622,177.045651 L565.866622,180.155813 C565.888713,180.251996 566.510885,179.661529 567.732413,178.383671 C568.399129,177.708905 568.832259,176.913074 569.032166,175.996923 C569.120892,175.635587 569.165436,175.27388 569.165436,174.912172 C569.165436,174.116714 568.96553,173.47797 568.565718,172.99557" id="flat" fill="#FFFFFF"></path>
+        <text id="Major-Line" font-family="Helvetica-Oblique, Helvetica" font-size="24" font-style="italic" font-weight="normal" letter-spacing="0.0003" fill="#73CC33">
+            <tspan x="149.471156" y="35">Major Line</tspan>
+        </text>
+        <text id="Minor-Line" font-family="Helvetica-Oblique, Helvetica" font-size="24" font-style="italic" font-weight="normal" letter-spacing="0.0003" fill="#101010">
+            <tspan x="149.471156" y="239">Minor Line</tspan>
+        </text>
+        <polygon id="Triangle" fill="#FFBF00" transform="translate(426.000000, 155.000000) rotate(128.000000) translate(-426.000000, -155.000000) " points="426 148 435 162 417 162"></polygon>
+        <path d="M259,94.7268312 L281.694947,107.740971" id="Path-7" stroke="#FFBF00" stroke-width="3"></path>
+        <path d="M409,146 L431.694947,159.01414" id="Path-7" stroke="#FFBF00" stroke-width="3"></path>
+        <path d="M335.5,127.5 L354.5,127.5" id="Path-7" stroke="#FFBF00" stroke-width="3"></path>
+    </g>
+</svg>

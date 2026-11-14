@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="270px" viewBox="0 0 900 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>M5-harmonize-combination</title>
+    <desc>Created with Sketch.</desc>
+    <g id="M5-harmonize-combination" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="193" y1="122.5" x2="253" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="193" cy="122" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="253" cy="122" r="12"></circle>
+        <line x1="327" y1="122.5" x2="387" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="327" y1="122.5" x2="357" y2="72.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="387" y1="122.5" x2="357" y2="72.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="327" cy="122" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="357" cy="72" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="387" cy="122" r="12"></circle>
+        <line x1="461" y1="122.5" x2="521" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="464" y1="120.5" x2="519" y2="62.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="516" y1="118.5" x2="461" y2="60.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="461" y1="62.5" x2="521" y2="62.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="461" y1="62.5" x2="461" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="521" y1="62.5" x2="521" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="461" cy="122" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="461" cy="62" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="521" cy="62" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="521" cy="122" r="12"></circle>
+        <line x1="605" y1="122.5" x2="665" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="613" y1="120.5" x2="685" y2="70.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="613" y1="120.5" x2="640" y2="32.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="665" y1="121.5" x2="595" y2="70.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="665" y1="121.5" x2="640" y2="32.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <text id="2音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="205" y="190">2音</tspan>
+        </text>
+        <text id="音数：" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="105" y="190">音数：</tspan>
+        </text>
+        <text id="ネットワーク-:" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="25" y="250">网络：</tspan>
+        </text>
+        <text id="1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="215" y="248">1</tspan>
+        </text>
+        <text id="3" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="350" y="248">3</tspan>
+        </text>
+        <text id="6" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="485" y="248">6</tspan>
+        </text>
+        <text id="10" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="623" y="248">10</tspan>
+        </text>
+        <text id="15" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="787" y="248">15</tspan>
+        </text>
+        <text id="3音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="340" y="190">3音</tspan>
+        </text>
+        <text id="4音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="472" y="190">4音</tspan>
+        </text>
+        <text id="5音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="621" y="190">5音</tspan>
+        </text>
+        <text id="6音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#0C0C0C">
+            <tspan x="786" y="190">6音</tspan>
+        </text>
+        <line x1="682" y1="70.5" x2="595" y2="70.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="593" y1="74.5" x2="613" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="685" y1="74.5" x2="665" y2="122.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="595" y1="72.5" x2="640" y2="30.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="685" y1="72.5" x2="640" y2="30.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="615" cy="122" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="595" cy="72" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="640" cy="32" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="685" cy="72" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="665" cy="122" r="12"></circle>
+        <line x1="759" y1="112.5" x2="803" y2="138.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="849" y1="112.5" x2="803" y2="138.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="759" y1="112.5" x2="849" y2="60.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="759" y1="111.5" x2="804" y2="25.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="803" y1="146.5" x2="848" y2="60.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="849" y1="111.5" x2="759" y2="60.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="849" y1="112.5" x2="804" y2="27.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="804" y1="137.5" x2="804" y2="27.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="807" y1="145.5" x2="762" y2="60.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="849" y1="112.5" x2="759" y2="112.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="846" y1="60.5" x2="759" y2="60.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="759" y1="60.5" x2="759" y2="112.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="849" y1="64.5" x2="849" y2="112.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="759" y1="62.5" x2="803" y2="27.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <line x1="849" y1="62.5" x2="804" y2="27.5" id="Path-12" stroke="#979797" stroke-width="2"></line>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="759" cy="112" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="759" cy="62" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="804" cy="27" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="804" cy="137" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="849" cy="62" r="12"></circle>
+        <circle id="Oval" stroke="#979797" fill="#D8D8D8" cx="849" cy="112" r="12"></circle>
+    </g>
+</svg>

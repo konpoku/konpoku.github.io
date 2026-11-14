@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="630px" height="180px" viewBox="0 0 630 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R2-polyrhythm-43-86</title>
+    <g id="R2-polyrhythm-43-86" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="barcell1" fill="#EBEBEB" x="124" y="17" width="247" height="30"></rect>
+        <rect id="barcell3" fill="#EBEBEB" x="372" y="17" width="247" height="30"></rect>
+        <rect id="beatcell1" fill="#EBEBEB" x="124" y="50" width="39" height="30"></rect>
+        <rect id="beatcell3" fill="#EBEBEB" x="207" y="50" width="39" height="30"></rect>
+        <rect id="beatcell5" fill="#EBEBEB" x="290" y="50" width="39" height="30"></rect>
+        <rect id="beatcell1" fill="#EBEBEB" x="165" y="50" width="39" height="30"></rect>
+        <rect id="beatcell3" fill="#EBEBEB" x="248" y="50" width="39" height="30"></rect>
+        <rect id="beatcell5" fill="#EBEBEB" x="332" y="50" width="39" height="30"></rect>
+        <g id="column" transform="translate(123.029850, 84.070513)">
+            <rect id="cell34" fill="#FA6400" x="0.970149885" y="0.929486964" width="80" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(206.029850, 84.070513)">
+            <rect id="cell34" fill="#FA6400" x="0.970149885" y="0.929486964" width="80" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(289.029850, 84.070513)">
+            <rect id="cell34" fill="#FA6400" x="0.970149885" y="0.929486964" width="80" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(371.029850, 84.070513)">
+            <rect id="cell34" fill="#FA6400" x="0.970149885" y="0.929486964" width="80" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(454.029850, 84.070513)">
+            <rect id="cell34" fill="#FA6400" x="0.970149885" y="0.929486964" width="80" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(537.029850, 84.070513)">
+            <rect id="cell34" fill="#FA6400" x="0.970149885" y="0.929486964" width="80" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(123.029850, 125.070513)">
+            <rect id="cell34" fill="#5CB300" x="0.970149885" y="0.929486964" width="120" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+            <line x1="82.4701499" y1="5.42948696" x2="82.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(249.029850, 125.070513)">
+            <rect id="cell34" fill="#5CB300" x="0.970149885" y="0.929486964" width="120" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+            <line x1="82.4701499" y1="5.42948696" x2="82.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(371.029850, 125.070513)">
+            <rect id="cell34" fill="#5CB300" x="0.970149885" y="0.929486964" width="120" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+            <line x1="82.4701499" y1="5.42948696" x2="82.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <g id="column" transform="translate(497.029850, 125.070513)">
+            <rect id="cell34" fill="#5CB300" x="0.970149885" y="0.929486964" width="120" height="38" rx="2"></rect>
+            <line x1="40.4701499" y1="5.42948696" x2="40.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+            <line x1="82.4701499" y1="5.42948696" x2="82.4701499" y2="34.429487" id="Path-2" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        </g>
+        <text id="ズ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="134" y="110">咚</tspan>
+        </text>
+        <text id="ン" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="173" y="110">n</tspan>
+        </text>
+        <text id="チャ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" letter-spacing="-3" fill="#FFFFFF">
+            <tspan x="212" y="110">嚓</tspan>
+        </text>
+        <text id="ッ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="257" y="110">·</tspan>
+        </text>
+        <text id="チャ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" letter-spacing="-3" fill="#FFFFFF">
+            <tspan x="295" y="110">嚓</tspan>
+        </text>
+        <text id="ッ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="340" y="110">·</tspan>
+        </text>
+        <text id="ズ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="383" y="110">咚</tspan>
+        </text>
+        <text id="ン" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="422" y="110">n</tspan>
+        </text>
+        <text id="チャ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" letter-spacing="-3" fill="#FFFFFF">
+            <tspan x="460" y="110">嚓</tspan>
+        </text>
+        <text id="ッ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="506" y="110">·</tspan>
+        </text>
+        <text id="チャ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" letter-spacing="-3" fill="#FFFFFF">
+            <tspan x="543" y="110">嚓</tspan>
+        </text>
+        <text id="ッ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="589" y="110">·</tspan>
+        </text>
+        <text id="ズ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="134" y="151">咚</tspan>
+        </text>
+        <text id="ッ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="173" y="151">·</tspan>
+        </text>
+        <text id="ツ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="214" y="151">呲</tspan>
+        </text>
+        <text id="タ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="261" y="152">嗒</tspan>
+        </text>
+        <text id="カ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="301" y="152">咔</tspan>
+        </text>
+        <text id="タ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="342" y="152">嗒</tspan>
+        </text>
+        <text id="ズ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="382" y="151">咚</tspan>
+        </text>
+        <text id="ッ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="421" y="151">·</tspan>
+        </text>
+        <text id="ツ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="462" y="151">呲</tspan>
+        </text>
+        <text id="タ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="509" y="152">嗒</tspan>
+        </text>
+        <text id="カ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="549" y="152">咔</tspan>
+        </text>
+        <text id="タ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#FFFFFF">
+            <tspan x="590" y="152">嗒</tspan>
+        </text>
+        <rect id="TH1" fill="#DCDCDC" x="15.815927" y="16.856574" width="104.05214" height="29.9669871"></rect>
+        <rect id="TH3" fill="#DCDCDC" x="15.815927" y="50.153295" width="104.05214" height="29.9669871"></rect>
+        <rect id="TH5" fill="#DCDCDC" x="15.815927" y="85.0707628" width="104.05214" height="38.2911502"></rect>
+        <text id="カウント" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="40" y="69">数拍 (Count)</tspan>
+        </text>
+        <text id="3/4拍子" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="42.364" y="109">3/4拍子</tspan>
+        </text>
+        <rect id="TH6" fill="#DCDCDC" x="15.815927" y="126.982797" width="104.05214" height="38.2911502"></rect>
+        <text id="6/8拍子" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="42.364" y="150.29115">6/8拍子</tspan>
+        </text>
+        <text id="bar1" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="55" y="36">小節</tspan>
+        </text>
+        <polygon id="_11" fill="#000000" points="246.01401 25.0358429 246.01401 36.2788143 248.031789 36.2788143 248.031789 23.1914461 244.81533 23.1914461 243.716539 25.0358429"></polygon>
+        <polygon id="_13" fill="#000000" points="141.653713 60.1911339 141.653713 71.4341053 143.671492 71.4341053 143.671492 58.3467372 140.455033 58.3467372 139.356243 60.1911339"></polygon>
+        <path d="M183.218885,69.6139286 L185.27662,67.2201371 C187.594069,64.5516483 188.153453,63.550965 188.153453,62.1382356 C188.153453,59.901414 186.27552,58.1747448 183.858182,58.1747448 C182.359831,58.1747448 181.141173,58.8026245 180.36203,59.9406565 C179.922514,60.6077787 179.722734,61.196416 179.602866,62.3148267 L181.600667,62.3148267 C181.680579,61.5888408 181.800447,61.2552797 182.060161,60.8824761 C182.459721,60.3134601 183.158951,59.979899 183.918116,59.979899 C185.196708,59.979899 186.195608,60.9217186 186.195608,62.1382356 C186.195608,62.981949 185.716136,63.7471774 183.838204,65.9839989 L179.223284,71.4779466 L188.173431,71.4779466 L188.173431,69.6139286 L183.218885,69.6139286 Z" id="_21" fill="#000000"></path>
+        <path d="M225.580849,65.3953617 C226.499838,65.4149829 226.919376,65.4934679 227.298958,65.7093015 C227.898298,66.0624839 228.257902,66.7688486 228.257902,67.612562 C228.257902,68.9468064 227.318936,69.888626 226.000387,69.888626 C225.301157,69.888626 224.601927,69.5943074 224.182389,69.1037763 C223.902697,68.7898365 223.802807,68.5151391 223.702917,67.9265018 L221.76505,67.9265018 C221.844962,68.8094577 221.944852,69.241125 222.244522,69.7512773 C222.943752,70.9677943 224.322235,71.6937802 225.940453,71.6937802 C228.457682,71.6937802 230.235725,70.0455959 230.235725,67.6714257 C230.235725,66.2783175 229.676341,65.1991493 228.597528,64.5712695 C229.556473,63.9041473 230.035945,62.981949 230.035945,61.7850532 C230.035945,59.6659591 228.417726,58.1747448 226.0803,58.1747448 C224.621905,58.1747448 223.463181,58.7045183 222.823884,59.6855804 C222.444302,60.2349751 222.284478,60.7058849 222.104676,61.7261895 L224.102477,61.7261895 C224.242323,61.1375523 224.322235,60.8824761 224.502037,60.6470212 C224.821685,60.2153539 225.381069,59.9602778 226.040344,59.9602778 C227.239024,59.9602778 228.0781,60.7451274 228.0781,61.8635382 C228.0781,62.7857365 227.538694,63.4921012 226.719596,63.6490712 C226.419926,63.7079349 226.28008,63.7079349 225.580849,63.7079349 L225.580849,65.3953617 Z" id="_31" fill="#000000"></path>
+        <path d="M269.977371,67.8283956 L269.977371,57.4291376 L261.426784,69.6139286 L267.959592,69.6139286 L267.959592,71.4779466 L269.977371,71.4779466 L269.977371,69.6139286 L271.395809,69.6139286 L271.395809,67.8283956 L269.977371,67.8283956 Z M267.959592,67.8283956 L264.882979,67.8283956 L267.959592,63.4528588 L267.959592,67.8283956 Z" id="_41" fill="#000000"></path>
+        <text id="5" font-family="Futura-Medium, Futura" font-size="18" font-weight="400" fill="#000000">
+            <tspan x="303.445312" y="72">5</tspan>
+        </text>
+        <text id="6" font-family="Futura-Medium, Futura" font-size="18" font-weight="400" fill="#000000">
+            <tspan x="345.445312" y="72">6</tspan>
+        </text>
+        <rect id="beatcell1" fill="#EBEBEB" x="372" y="50" width="39" height="30"></rect>
+        <rect id="beatcell3" fill="#EBEBEB" x="455" y="50" width="39" height="30"></rect>
+        <rect id="beatcell5" fill="#EBEBEB" x="539" y="50" width="39" height="30"></rect>
+        <rect id="beatcell1" fill="#EBEBEB" x="413" y="50" width="39" height="30"></rect>
+        <rect id="beatcell3" fill="#EBEBEB" x="496" y="50" width="39" height="30"></rect>
+        <rect id="beatcell5" fill="#EBEBEB" x="580" y="50" width="39" height="30"></rect>
+        <polygon id="_13" fill="#000000" points="389.653713 60.1911339 389.653713 71.4341053 391.671492 71.4341053 391.671492 58.3467372 388.455033 58.3467372 387.356243 60.1911339"></polygon>
+        <path d="M431.218885,69.6139286 L433.27662,67.2201371 C435.594069,64.5516483 436.153453,63.550965 436.153453,62.1382356 C436.153453,59.901414 434.27552,58.1747448 431.858182,58.1747448 C430.359831,58.1747448 429.141173,58.8026245 428.36203,59.9406565 C427.922514,60.6077787 427.722734,61.196416 427.602866,62.3148267 L429.600667,62.3148267 C429.680579,61.5888408 429.800447,61.2552797 430.060161,60.8824761 C430.459721,60.3134601 431.158951,59.979899 431.918116,59.979899 C433.196708,59.979899 434.195608,60.9217186 434.195608,62.1382356 C434.195608,62.981949 433.716136,63.7471774 431.838204,65.9839989 L427.223284,71.4779466 L436.173431,71.4779466 L436.173431,69.6139286 L431.218885,69.6139286 Z" id="_21" fill="#000000"></path>
+        <path d="M473.580849,65.3953617 C474.499838,65.4149829 474.919376,65.4934679 475.298958,65.7093015 C475.898298,66.0624839 476.257902,66.7688486 476.257902,67.612562 C476.257902,68.9468064 475.318936,69.888626 474.000387,69.888626 C473.301157,69.888626 472.601927,69.5943074 472.182389,69.1037763 C471.902697,68.7898365 471.802807,68.5151391 471.702917,67.9265018 L469.76505,67.9265018 C469.844962,68.8094577 469.944852,69.241125 470.244522,69.7512773 C470.943752,70.9677943 472.322235,71.6937802 473.940453,71.6937802 C476.457682,71.6937802 478.235725,70.0455959 478.235725,67.6714257 C478.235725,66.2783175 477.676341,65.1991493 476.597528,64.5712695 C477.556473,63.9041473 478.035945,62.981949 478.035945,61.7850532 C478.035945,59.6659591 476.417726,58.1747448 474.0803,58.1747448 C472.621905,58.1747448 471.463181,58.7045183 470.823884,59.6855804 C470.444302,60.2349751 470.284478,60.7058849 470.104676,61.7261895 L472.102477,61.7261895 C472.242323,61.1375523 472.322235,60.8824761 472.502037,60.6470212 C472.821685,60.2153539 473.381069,59.9602778 474.040344,59.9602778 C475.239024,59.9602778 476.0781,60.7451274 476.0781,61.8635382 C476.0781,62.7857365 475.538694,63.4921012 474.719596,63.6490712 C474.419926,63.7079349 474.28008,63.7079349 473.580849,63.7079349 L473.580849,65.3953617 Z" id="_31" fill="#000000"></path>
+        <path d="M517.977371,67.8283956 L517.977371,57.4291376 L509.426784,69.6139286 L515.959592,69.6139286 L515.959592,71.4779466 L517.977371,71.4779466 L517.977371,69.6139286 L519.395809,69.6139286 L519.395809,67.8283956 L517.977371,67.8283956 Z M515.959592,67.8283956 L512.882979,67.8283956 L515.959592,63.4528588 L515.959592,67.8283956 Z" id="_41" fill="#000000"></path>
+        <text id="5" font-family="Futura-Medium, Futura" font-size="18" font-weight="400" fill="#000000">
+            <tspan x="552.445312" y="72">5</tspan>
+        </text>
+        <text id="6" font-family="Futura-Medium, Futura" font-size="18" font-weight="400" fill="#000000">
+            <tspan x="593.445312" y="72">6</tspan>
+        </text>
+        <path d="M493.806817,34.4593121 L495.864552,32.0655206 C498.182001,29.3970317 498.741385,28.3963484 498.741385,26.983619 C498.741385,24.7467975 496.863452,23.0201282 494.446114,23.0201282 C492.947763,23.0201282 491.729105,23.648008 490.949962,24.78604 C490.510446,25.4531622 490.310666,26.0417994 490.190798,27.1602102 L492.188599,27.1602102 C492.268511,26.4342243 492.388379,26.1006632 492.648093,25.7278596 C493.047653,25.1588436 493.746883,24.8252825 494.506048,24.8252825 C495.78464,24.8252825 496.78354,25.767102 496.78354,26.983619 C496.78354,27.8273324 496.304068,28.5925608 494.426136,30.8293824 L489.811216,36.32333 L498.761363,36.32333 L498.761363,34.4593121 L493.806817,34.4593121 Z" id="_25" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,105 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="在上一篇文章中我们探讨了“骨架倾向性（Shell Tendency）”，而在接下来的系列文章中，我们将适度降低精度，以“奇偶性（Par…"><meta name="theme-color" content="#fcfcfc"><title>单音的和声化 - SoundQuest</title><link rel="icon" href="../../../../brand/sq-glyph-Q-dark.svg" type="image/svg+xml"><link rel="stylesheet" href="../../../../site.css"><script defer src="../../../../app.js" data-root="../../../../"></script></head><body class="article-page"><a class="skip-link" href="#main">跳至正文</a><header class="site-header"><a class="logo" href="../../../../"><img class="desktop-logo" src="../../../../brand/sq-logo-dark-v2023-3.svg" alt="SoundQuest"><img class="mobile-logo" src="../../../../brand/sq-logo-mobile-2023-125.svg" alt="SoundQuest"></a><nav class="desktop-nav" aria-label="主导航"><div class="nav-dropdown"><a href="../../../"><i class="fa" aria-hidden="true">&#xf277;</i> 音乐理论</a><div class="dropdown"><a href="../../../../category-archive-intro/"><img src="../../../../files/svg/chapter-knob-int.svg" alt="">绪论</a><a href="../../../../category-archive-prerequisite/"><img src="../../../../files/svg/chapter-knob-pre.svg" alt="">预备篇</a><a href="../../../../category-archive-melody/"><img src="../../../../files/svg/chapter-knob-mel.svg" alt="">旋律论</a><a href="../../../../category-archive-chord/"><img src="../../../../files/svg/chapter-knob-cho.svg" alt="">和弦论</a><a href="../../../../category-archive-rhythm/"><img src="../../../../files/svg/chapter-knob-rhy.svg" alt="">节奏论</a></div></div><a href="../../../../index/">术语索引</a><a href="../../../../bookmarks/">我的收藏</a><a href="../../../../archives/">文章归档</a><a href="../../../../about/">关于</a></nav><div class="header-actions"><a class="social-link" href="https://twitter.com/soundquest_jp" aria-label="SoundQuest X">X</a><a class="social-link note-link" href="https://note.com/soundquest/" aria-label="SoundQuest note">n</a><button data-open-search aria-label="搜索"><i class="fa" aria-hidden="true">&#xf002;</i></button><button data-open-menu aria-label="打开导航菜单"><i class="fa" aria-hidden="true">&#xf0c9;</i></button></div></header><div class="menu-shade" data-close-menu></div><aside class="drawer" aria-label="导航菜单" inert><button class="drawer-close" data-close-menu aria-label="关闭导航菜单">×</button><h3><i class="fa" aria-hidden="true">&#xf277;</i> 音乐理论</h3><a href="../../../../category-archive-intro/"><img src="../../../../files/svg/chapter-knob-int.svg" alt="">绪论</a><a href="../../../../category-archive-prerequisite/"><img src="../../../../files/svg/chapter-knob-pre.svg" alt="">预备篇</a><a href="../../../../category-archive-melody/"><img src="../../../../files/svg/chapter-knob-mel.svg" alt="">旋律论</a><a href="../../../../category-archive-chord/"><img src="../../../../files/svg/chapter-knob-cho.svg" alt="">和弦论</a><a href="../../../../category-archive-rhythm/"><img src="../../../../files/svg/chapter-knob-rhy.svg" alt="">节奏论</a><hr><a href="../../../../index/">术语索引</a><a href="../../../../bookmarks/">我的收藏</a><a href="../../../../archives/">文章归档</a><a href="../../../../about/">关于本站</a></aside><dialog class="search-dialog"><form method="dialog"><button aria-label="关闭搜索">×</button></form><label for="site-search">搜索音乐理论</label><input type="search" id="site-search" placeholder="输入关键词，搜索全部 192 篇中文文章…" autocomplete="off"><p class="search-hint">输入文章标题或正文关键词</p><div id="search-results" aria-live="polite"></div></dialog><main id="main"><section class="article-heading page-width"><h1>单音的和声化</h1><div class="article-meta"><time datetime="2026-09-05">2026.09.05</time><a href="../../../../category-archive-melody/">旋律论</a></div><button class="share-button" data-share><i class="fa" aria-hidden="true">&#xf1e0;</i> 分享</button></section><div class="article-layout page-width"><article class="post-content"><div class="post-tags"><a href="../../../../index/?q=旋律论">旋律论</a><a href="../../../../index/?q=旋律与和声互动·配和声艺术">旋律与和声互动·配和声艺术</a><button class="bookmark" data-bookmark="quest/melody/melody-mv5/harmonize-a-tone" aria-pressed="false"><i class="fa" aria-hidden="true">&#xf097;</i> 收藏</button></div><nav class="article-toc" aria-label="本篇目录"><p>目录</p><ul><li class="toc-level-2"><a href="#section-1">1. 和声化的思维回路</a></li><li class="toc-level-3"><a href="#section-2">文件夹思维与标签思维</a></li><li class="toc-level-2"><a href="#section-6">2. 自然音阶检索（Diatonic Search）</a></li><li class="toc-level-3"><a href="#section-8">检索斜杠和弦</a></li><li class="toc-level-2"><a href="#section-9">3. 全根音检索（All Roots Search）</a></li><li class="toc-level-2"><a href="#section-12">4. 单根音检索（Single Root Search）</a></li><li class="toc-level-3"><a href="#section-13">维持偶数骨架</a></li><li class="toc-level-3"><a href="#section-14">转换奇偶性（Parity Switch）</a></li></ul></nav><p>在上一篇文章中我们探讨了“骨架倾向性（<button type="button" class="term" data-definition="在自由派音乐理论体系中，我们将这种“依据和弦内度数赋予旋律的附加属性与角色”，正式命名为“表质 / 外壳音（Shell / 壳音）”。">Shell</button> Tendency）”，而在接下来的系列文章中，我们将适度降低精度，以“奇偶性（Parity）”的二分法为主线展开探讨。</p>
+<p><a href="../../../../files/svg/M5-intervals-to-parity.svg" title="归纳为奇偶性"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-intervals-to-parity.svg" alt="归纳为奇偶性" /></a></p>
+<p>虽然实际上每个音程都具有独特的声学性格，但若在和声化（Harmonize）理论中将每一个音程的细枝末节都面面俱到，理论未免会过于冗长繁琐。同属奇数骨架却个性迥异我们已在第II章讲过，偶数骨架各自的微妙差异也在第IV章详尽剖析。因此，后续探讨建立在无需反复赘述大家便能心领神会的前提之上。</p>
+<h2 id="section-1"><span class="numbering"><img loading="lazy" decoding="async" src="../../../../brand/sq-glyph-Q.svg" alt=""> 1.</span> 和声化的思维回路</h2>
+<p>在实战中，我们通常需要为复杂运动的旋律配上和弦；但作为起跑线，本节首先从<strong>为单个音符进行和声化</strong>开始。</p>
+<p><a href="../../../../files/svg/M5-from-shell-to-chord.svg" title="针对单音的和声化"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-from-shell-to-chord.svg" alt="针对单音的和声化" /></a></p>
+<p>只要掌握了针对单个音符如何配置和弦，举一反三，自然也能为实际连贯的旋律线条配置出优美的和弦进行。</p>
+<h3 id="section-2">文件夹思维与标签思维</h3>
+<p>然而和声化的实战过程是动态多变的，并不存在唯一的标准。有时根音是既定的，有时和声功能是既定的，有时甚至是基于更抽象的“想要更激进一些”为准绳。用第V章的话来说，这里同样存在着多种不同的“<em>指令（Order）</em>”。</p>
+<p>但此时我们会发现，此前在和弦篇中所学到的和弦理论体系，<em>其实不太适应这项任务</em>。因为传统的和弦理论体系是按照“副属和弦”、“同主音小调借用和弦”、“转位和弦”等<strong>基于和弦理论诠释进行分类归纳的</strong>。</p>
+<p><a href="../../../../files/svg/c2-parallel-minor-all.svg" title="从同主音调借用"><img loading="lazy" decoding="async" src="../../../../files/svg/c2-parallel-minor-all.svg" alt="从同主音调借用" /></a></p>
+<p>这些是基础的同主音小调借用和弦，我们看到它们会觉得“啊，原来这些共通的伙伴聚集在一起了”；但实际上它们的<em>根音与功能各不相同</em>，<strong>在和声化（配和弦）的视角下，这7个和弦根本谈不上是同伴</strong>。只有在“在此处想要混入小调氛围”这种特定时机下，我们才会把它们当作一个组合来看待。</p>
+<p>因此，如果脑海中的和弦严格按照理论教科书那样整整齐齐地“分文件夹存放”，在实际进行<em>和声化时反而会形成极不顺畅的思考阻碍</em>。</p>
+<h4 id="section-3">文件夹式的脑内模式</h4>
+<p><a href="../../../../files/svg/M5-organizing-chords-folder.svg" title="文件夹思维"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-organizing-chords-folder.svg" alt="文件夹思维" /></a></p>
+<p>用图像来比喻就是这样：若脑海中的信息整理是“文件夹模式”，当寻找其他和弦时，必须每次一步步返回上级文件夹，非常消耗时间。</p>
+<p>要想行云流水地完成和声化，必须以能够横向、复合化筛选和弦的方式来重新组织和弦。那究竟是什么？没错，就是<strong>标签（Tag）</strong>。</p>
+<h4 id="section-4">标签式的脑内模式</h4>
+<p><a href="../../../../files/svg/M5-organizing-chords-tag.svg" title="标签思维"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-organizing-chords-tag.svg" alt="标签思维" /></a></p>
+<p>乍看之下似乎有些杂乱，但实际上这种模型更接近和声化的理想思维环境：不再按层级严格管理和弦，而是<em>一键调取具备某种特征的和弦的环境</em>。</p>
+<p>只要被打上了规范的“标签”，就能利用“筛选过滤”功能，瞬间检索出符合心意的和弦。</p>
+<p><a href="../../../../files/svg/M5-organizing-chords-filtering.svg" title="过滤筛选"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-organizing-chords-filtering.svg" alt="过滤筛选" /></a></p>
+<p>如果能有这样一个软件该多好……不对，我们的目标是<em>真正在大脑中装备这套系统</em>。根据具体场景，在脑海中迅速自如地进行“仅固定根音”或“限制奇偶性”等条件筛选，这才是最理想的境界。</p>
+<h4 id="section-5">按功能检索</h4>
+<p>在迄今为止的学习过程中，大家掌握得最稳固熟练的筛选方式，莫过于<em>基于功能的检索</em>。</p>
+<p><a href="../../../../files/svg/M5-filter-by-function.svg" title="从功能出发进行和声化"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-filter-by-function.svg" alt="从功能出发进行和声化" /></a></p>
+<p>像这样在确定为主功能（Tonic）之后，再去构思代理和弦或转位形式等变体，是经典的套路做法。然而在这种以和弦为主导的方法论下，想必大家都有过这样的经历：替换了和弦之后却与旋律发生冲突撞车，最终反而不得不修改旋律。为了不再被和弦牵着鼻子走，本文将重点强化<em>在固定旋律前提下的筛选检索能力</em>。</p>
+<h2 id="section-6"><span class="numbering"><img loading="lazy" decoding="async" src="../../../../brand/sq-glyph-Q.svg" alt=""> 2.</span> 自然音阶检索（Diatonic Search）</h2>
+<p>本次作为代表案例，我们尝试<em>为单音“Do”进行和声化</em>。虽然统称为“固定旋律的和声化”，但进一步的构思切入点多种多样。在此我们遵循实战中最高频的操作逻辑展开讲解。</p>
+<p>和声化的起跑线，自然是不带任何临时变音记号的自然音阶和弦世界。首先不做任何加工，直接套用7个自然音阶和弦。</p>
+<p><a href="../../../../files/svg/M5-do-haromonize-T0123.svg" title="T0到3"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-do-haromonize-T0123.svg" alt="T0到3" /></a></p>
+<p>回想“奇偶性与连接系”那一节的内容，从单音充当根音（Rt）的状态起，每次将根音向下移动三度，便能顺次囊括所有的奇数骨架音，强烈推荐这种思考路径。排列开来就会发现：<em>在奇数骨架范围内，不存在属功能（Dominant）和弦</em>。而右侧的三个和弦由于都带有高倾向性骨架音，用它们进行和声化意味着“将 Do 作为张力紧张音来使用”。请千万不要误解为“这些和弦不能用来配和声”！</p>
+<h4 id="section-7">活用高倾向性骨架音</h4>
+<p>为了防止万分之一的概率有人认为“在 VIIø7 之上长时间保持长音 Do 是绝对不行的”，我们特此提供一个实际谱例：</p>
+<p><a href="../../../../files/svg/M5-do-on-vii-available.svg" title="Do on VII 完全可行"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-do-on-vii-available.svg" alt="Do on VII 完全可行" /></a>
+<audio controls preload="none" src="../../../../files/audio3/M5-do-on-vii-available.mp3">您的浏览器不支持音频播放。</audio></p>
+<p>在爵士理论中被视为理论禁忌的半减七和弦长音悬挂，在现实中却是一种极为有效的经典手法。在旋律主导的作曲构思中，首先切忌轻易扼杀各种可能性。</p>
+<h3 id="section-8">检索斜杠和弦</h3>
+<p>言归正传。若将视野拓宽至转位形式或 sus4 等，就能衍生出更多的变体，从而诞生出在以 III 或 V 为根音的状态下依然能够舒适自如地延展 Do 音的选择。</p>
+<p><a href="../../../../files/svg/M5-do-haromonize-Tminus.svg" title="奇偶性转换"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-do-haromonize-Tminus.svg" alt="奇偶性转换" /></a></p>
+<p>在以原本与 Do 相性欠佳的 III、V、VII 为根音、且限定奇偶性为奇数时，上述和弦便是候选。如果这仍无法满足需求，要么走向带有变音记号的调外世界，要么在 sus4 等领域做文章。
+一旦允许使用变音记号，根音的选择范围将成倍激增；如果找到了满意的根音，便可以锁定根音并决定其和弦性质或是否采用斜杠和弦。</p>
+<h2 id="section-9"><span class="numbering"><img loading="lazy" decoding="async" src="../../../../brand/sq-glyph-Q.svg" alt=""> 3.</span> 全根音检索（All Roots Search）</h2>
+<p>既然如此，我们不妨先探索涵盖升号与降号在内的全部根音上的可能性。</p>
+<h4 id="section-10">降号族系</h4>
+<p><a href="../../../../files/svg/M5-do-haromonize-flats.svg" title="降号族系"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-do-haromonize-flats.svg" alt="降号族系" /></a></p>
+<p>在降号族系中具有代表性的和弦如上所示。对于 ♭III 和 ♭VII，如右侧示例所示，只要从斜杠和弦方向寻找，同样能够发掘出奇数骨架的解法。这里虽然融合了和弦篇各处介绍的多种不同技法，但此时完全可以融会贯通。这是打破所谓“理论解释文件夹”的藩篱、纯粹凝视声音本质的时刻。</p>
+<h4 id="section-11">升号族系</h4>
+<p><a href="../../../../files/svg/M5-haromize-do-sharps.svg" title="升号族系"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-haromize-do-sharps.svg" alt="升号族系" /></a></p>
+<p>提到根音带升号的和弦，第IV章中介绍过的“半减七和弦的应用”与“经过减和弦”便浮上水面<abbr class="footnote" tabindex="0" title="减七和弦的等音诠释、记谱法及其伴随的理论处理固然令人头疼，但基本上遵循音阶理论计算度数：在 ♯Io7 的例子中算作‘减八度’，由于八度与一度同余，因而视为奇数奇偶性；♯IIo7 也始终算作‘减七度’属于奇数奇偶性，与等音的‘大六度’严格区分。">[1]</abbr>。</p>
+<p>它们的共同特点是前后的和弦进行选项相对有限，能够切入的时机受到一定约束。但纵观全局便会发现：<strong>只要充分调用和弦篇前四章的全部知识，任何一个音都可以被选作根音</strong>。</p>
+<p>其中甚至包含了“经过减和弦 + 取消变音”这类复合技法，这种高度单凭盲目感性确实极难自发触及：</p>
+<p>IIm7 V7 IΔ7 ♯Io7</p>
+<p><audio controls preload="none" src="../../../../files/audio3/M5-do-on-Iso7.mp3">您的浏览器不支持音频播放。</audio></p>
+<p>这是在 ♯Io7 之上叠置 Do 音的范例<abbr class="footnote" tabindex="0" title="爵士乐理论将其诠释为等音的 Si♯，但在自由派中如第IV章所述，将其视作‘取消变音’。">[2]</abbr>。其独特的浊化色彩极具魅力。</p>
+<h2 id="section-12"><span class="numbering"><img loading="lazy" decoding="async" src="../../../../brand/sq-glyph-Q.svg" alt=""> 4.</span> 单根音检索（Single Root Search）</h2>
+<p>不过在实战中，我们很少会漫无目的地从头到尾排查12个根音；根据前后的气流走势与旋律线条，根音往往大致能锁定在一个狭窄的区间内。在这种情况下，接下来就要运行<strong>固定根音的变体检索</strong>。</p>
+<p>借此机会，我们不妨以缺乏理论知识便难以驾驭和声化的、以 V 为根音的模式来进行推演。</p>
+<h3 id="section-13">维持偶数骨架</h3>
+<p>首先是不采用斜杠和弦，直接直面偶数骨架的不安定感。在此自然要规避加入导音“Si”以拉高和声倾向性的路线，转而思考其他的和弦性质。</p>
+<p><a href="../../../../files/svg/M5-do-on-V-straight.svg" title="直接使用"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-do-on-V-straight.svg" alt="直接使用" /></a><audio controls preload="none" src="../../../../files/audio3/M5-do-on-V-straight.mp3">您的浏览器不支持音频播放。</audio></p>
+<p>强力和弦、sus4、sus2、和弦性质转换小调化——这些都是候选方案。其中最右侧的 Vm7 族系由于三音得到了充实填充，声音显得格外饱满扎实。</p>
+<p>IVΔ7 III7 VIm7 Vm11</p>
+<p><audio controls preload="none" src="../../../../files/audio3/M5-do-on-Vm9.mp3">您的浏览器不支持音频播放。</audio></p>
+<p>听听这声响！在这一进行中，仿佛将熟知的 Vm7-I7 进行融为一体，具有极其迷人的韵味。</p>
+<h3 id="section-14">转换奇偶性（Parity Switch）</h3>
+<p>若希望消除偶数骨架的不安定感、追求沉稳坚实的根基，方向就是将上部和声换成 Do 的同盟，做成斜杠和弦，通过转换奇偶性来大幅降低骨架倾向性。</p>
+<p><a href="../../../../files/svg/M5-do-on-V-ease.svg" title="缓和后使用"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-do-on-V-ease.svg" alt="缓和后使用" /></a><audio controls preload="none" src="../../../../files/audio3/M5-do-on-V-ease.mp3">您的浏览器不支持音频播放。</audio></p>
+<p>其中在流行音乐中最经典的当属左起第3个：IIm7/V。不仅奇偶性转变为奇数，而且从上部分子和声来看，Do 音充当了七音导向音（Guide Tone），听觉上非常丰满富贵。在追求明艳华美、色彩斑斓的现代流行乐中，这绝对是王牌首选。</p>
+<p>稍微激进一点的选择是最右侧的和弦，其构成音之一的 La♭ 与低音形成了<button type="button" class="term" data-definition="衡量音高相对跨度的最小基础原子单位。如“Do 与 Do♯”、“Mi 与 Fa”，指代键盘上紧紧相邻的两个键位、或吉他琴颈上相邻1品（Fret）的音高跨度。">半音</button>冲突，制造出微观的张力。在与旋律无关的底层内部声部掀起了一场小摩擦：</p>
+<p><a href="../../../../files/svg/M5-inner-voice-tendency.svg" title="内部强倾向性"><img loading="lazy" decoding="async" src="../../../../files/svg/M5-inner-voice-tendency.svg" alt="内部强倾向性" /></a></p>
+<p>因此，与通常的 IVmΔ7 不同，它散发着一种带有独特紧迫张力的音响质感。低音的 V 不仅给 Do 换上了新衣裳，连 La♭ 的听感也同时受到了深刻影响。</p>
+<hr />
+<p>和声化时的代表性“检索”方式大体如上。只要能够检索得当，剩下的就是根据前后文逻辑与想要表达的曲思，从中挑选最合心意的答案：</p>
+<ul>
+<li><em>自然音阶检索（Diatonic Search）</em>
+暂且套用7个自然音阶和弦。不仅能获得最标准的基准音响，也是挑选根音的绝佳起跑线。</li>
+<li><em>全根音检索（All Roots Search）</em>
+遍历包含升降号在内的全部根音。在拓展音响宽度的同时，还能微调倾向性。</li>
+<li><em>单根音检索（维持奇偶性）</em>
+固定根音，决定其内部和声。在三音或七音不确定的场景下，可选择性质转换或强力和弦。</li>
+<li><em>单根音检索（转换奇偶性）</em>
+固定根音的前提下，通过做成斜杠和弦将相反奇偶性的和弦纳入检索结果。</li>
+<li><em>单功能检索（Single Function Search）</em>
+不问根音或变音记号，以功能为基准检索性质相近的和弦。</li>
+</ul>
+<p>此外，本文未曾展开的其他检索维度还包括：</p>
+<ul>
+<li><em>单音检索</em>：寻找“包含 Fa♯”等包含特定音符的和弦。</li>
+<li><em>转位检索</em>：确定某个特定和弦后，思考其转位形式。</li>
+<li><em>骨架倾向性检索</em>：设定骨架倾向性的上限/下限进行和弦检索。在明确想要声学上求稳或是制造波澜时非常便利。</li>
+<li><em>所属调检索</em>：根据调性信息检索“属于某某调的和弦”，在转调设计时十分便利。</li>
+</ul>
+<p>理所当然地，也可以将上述维度复合交叉进行检索。</p>
+<h4 id="section-15">从“领会”走向“体悟”</h4>
+<p>和声化的思维过程一旦用文字表述出来，不免显得繁琐甚至有些死板生硬。但正如第I章时一样，这是将和声化彻底转化为肌肉记忆“体悟”的高效必经之路。只要哪怕唯独一次像这样借助可视化的模型建立全局认知，原本混沌杂乱的思维就会浮现出清晰的轮廓。</p>
+<figure class="media-embed video"><iframe loading="lazy" src="https://www.youtube.com/embed/8-7JVqPlUJ4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-CN&amp;autohide=2&amp;start=36&amp;wmode=transparent" title="音乐示例" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><figcaption><a href="https://www.youtube.com/embed/8-7JVqPlUJ4?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=zh-CN&amp;autohide=2&amp;start=36&amp;wmode=transparent" target="_blank" rel="noopener">打开音乐示例 ↗</a></figcaption></figure>
+<p>膝盖微屈、手臂呈L型、用指尖托球、左手只是轻轻辅助……<em>正是因为透彻了解了每一个零件的机制，才能最高效地接近最理想的投篮姿态</em>。
+单根音检索这样走、奇偶性转换那样切、降低倾向性如此办……将和声化的认知流程进行拆解的本篇内容，与此完全同理。只需在短时间内刻意带着思考去实践，终有一天，大脑无需任何刻意运算，也能条件反射般瞬间呼唤出最完美的和声。</p>
+<h4 id="section-16">总结</h4>
+<ul>
+<li>在和声化过程中，比起基于理论诠释的死板分类，更需要“特定根音”、“特定功能”等横向穿透的检索能力。</li>
+<li>和声化的构思切入点多种多样，但以自然音阶和弦为起点，基于根音或奇偶性（骨架倾向性）逐步筛选、最终锁定和弦性质的流程，是最基础的经典范式之一。</li>
+</ul>
+<div class="article-source"><a href="https://soundquest.jp/quest/melody/melody-mv5/harmonize-a-tone/">阅读日文原文 ↗</a><span>中文正文来自 SoundQuest-zh_CN</span></div><nav class="article-pagination" aria-label="文章翻页"><a href="../tendency-of-shells/"><small>← 上一篇</small>详细度数与壳倾向性</a><a href="../harmonize-melodies-1/"><small>下一篇 →</small>和声化 ❶ 三大步骤</a></nav></article><aside class="article-sidebar"><h4>关于本站</h4><p>SoundQuest 是一个庞大的音乐理论知识网站。</p><p>自由音乐理论（Liberal Music Theory）中文镜像</p><h4 class="sidebar-toc-title">目录</h4><p>导论</p><div class="side-categories"><a href="../../../../category-archive-intro/"><img src="../../../../files/svg/chapter-knob-int.svg" alt="">绪论</a><a href="../../../../category-archive-prerequisite/"><img src="../../../../files/svg/chapter-knob-pre.svg" alt="">预备篇</a><a href="../../../../category-archive-melody/"><img src="../../../../files/svg/chapter-knob-mel.svg" alt="">旋律论</a><a href="../../../../category-archive-chord/"><img src="../../../../files/svg/chapter-knob-cho.svg" alt="">和弦论</a><a href="../../../../category-archive-rhythm/"><img src="../../../../files/svg/chapter-knob-rhy.svg" alt="">节奏论</a></div><h4>阅读</h4><a href="../../../../bookmarks/"><i class="fa" aria-hidden="true">&#xf02e;</i> 我的收藏</a><p><a href="../../../../archives/">全部 192 篇中文文章</a></p></aside></div></main><footer class="site-footer"><div></div><div class="footer-brand"><img src="../../../../brand/logo_plugmon_monster.svg" alt="SoundQuest 吉祥物"><p>© yuta yoshimatsu</p><small>SoundQuest 中文镜像</small></div><div class="footer-nav"><a href="../../../">音乐理论</a><a href="../../../../index/">术语索引</a><a href="../../../../about/">关于本站</a><a href="https://soundquest.jp/">日文原站 ↗</a><a href="https://cnb.cool/azumaseren/SoundQuest-zh_CN">中文翻译仓库 ↗</a></div></footer><button class="back-top" aria-label="回到顶部"><i class="fa" aria-hidden="true">&#xf106;</i></button><div role="status" id="toast"></div></body></html>

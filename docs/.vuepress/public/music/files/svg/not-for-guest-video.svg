@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 640 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="not-for-guest-video">
+        <path id="Rectangle" d="M640,21C640,18.24 637.76,16 635,16L5,16C2.24,16 0,18.24 0,21L0,341C0,343.76 2.24,346 5,346L635,346C637.76,346 640,343.76 640,341L640,21Z" style="fill:rgb(137,137,137);fill-opacity:0.9;"/>
+        <path id="Shape" d="M377,180L281,228L281,132L377,180ZM457,68L457,292L201,292L201,68L457,68ZM361,100L393,100L393,84L361,84L361,100ZM313,100L345,100L345,84L313,84L313,100ZM265,100L297,100L297,84L265,84L265,100ZM217,100L249,100L249,84L217,84L217,100ZM249,260L217,260L217,276L249,276L249,260ZM297,260L265,260L265,276L297,276L297,260ZM345,260L313,260L313,276L345,276L345,260ZM393,260L361,260L361,276L393,276L393,260ZM441,260L409,260L409,276L441,276L441,260ZM441,116L217,116L217,244L441,244L441,116ZM441,84L409,84L409,100L441,100L441,84Z" style="fill:rgb(233,233,233);"/>
+    </g>
+</svg>

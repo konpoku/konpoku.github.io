@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="710px" height="645px" viewBox="0 0 710 645" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-diatonic-seventh-interval-stacked-nakama</title>
+    <g id="c1-diatonic-seventh-interval-stacked-nakama" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-324" transform="translate(38.000000, 28.000040)" stroke="#B8B8B8" stroke-width="0.5">
+            <line x1="0" y1="440.5" x2="662" y2="440.5" id="Stroke-304"></line>
+            <line x1="0" y1="400.5" x2="662" y2="400.5" id="Stroke-306"></line>
+            <line x1="0" y1="360.5" x2="662" y2="360.5" id="Stroke-308"></line>
+            <line x1="0" y1="320.5" x2="662" y2="320.5" id="Stroke-310"></line>
+            <line x1="0" y1="280.5" x2="662" y2="280.5" id="Stroke-312"></line>
+            <line x1="0" y1="240.5" x2="662" y2="240.5" id="Stroke-314"></line>
+            <line x1="0" y1="200.5" x2="662" y2="200.5" id="Stroke-316"></line>
+            <line x1="0" y1="160.5" x2="662" y2="160.5" id="Stroke-318"></line>
+            <line x1="0" y1="120.5" x2="662" y2="120.5" id="Stroke-320"></line>
+            <line x1="0" y1="80.5" x2="662" y2="80.5" id="Stroke-316"></line>
+            <line x1="0" y1="40.5" x2="662" y2="40.5" id="Stroke-318"></line>
+            <line x1="0" y1="0.5" x2="662" y2="0.5" id="Stroke-320"></line>
+        </g>
+        <rect id="Axis" fill="#000000" x="25" y="508" width="660" height="4"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="91" y="468" width="55" height="40"></rect>
+        <text id="ド" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="105" y="499">Do</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="91" y="308" width="55" height="40"></rect>
+        <text id="ミ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="105" y="339">Mi</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="91" y="188" width="55" height="40"></rect>
+        <text id="ソ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="104" y="219">Sol</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="91" y="428" width="55" height="40"></rect>
+        <text id="ド" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="103" y="456">Do</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="91" y="388" width="55" height="40"></rect>
+        <text id="レ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="108" y="416">Re</tspan>
+        </text>
+        <g id="Group" transform="translate(123.000000, 436.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="91" y="348" width="55" height="40"></rect>
+        <text id="レ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="103" y="376">Re</tspan>
+        </text>
+        <g id="Group" transform="translate(123.000000, 356.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="91" y="268" width="55" height="40"></rect>
+        <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="100" y="296">Fa</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="91" y="228" width="55" height="40"></rect>
+        <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="97" y="255">Fa</tspan>
+        </text>
+        <g id="Group" transform="translate(129.000000, 235.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group" transform="translate(511.000000, 68.000000)">
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0" y="400" width="55" height="40"></rect>
+            <text id="レ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="14" y="431">Re</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="0" y="120" width="55" height="40"></rect>
+            <text id="ラ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="13" y="151">La</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="360" width="55" height="40"></rect>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="0" y="320" width="55" height="40"></rect>
+            <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="0" y="280" width="55" height="40"></rect>
+            <text id="ファ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" letter-spacing="-6" fill="#FFFFFF">
+                <tspan x="4.5" y="310">Fa</tspan>
+            </text>
+            <text id="レ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+                <tspan x="13" y="388">Re</tspan>
+            </text>
+            <text id="ミ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+                <tspan x="18" y="348">Mi</tspan>
+            </text>
+            <g transform="translate(32.000000, 368.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="0" y="200" width="55" height="40"></rect>
+            <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="16.5" y="228">Sol</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="240" width="55" height="40"></rect>
+            <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="6" y="267">Fa</tspan>
+            </text>
+            <g transform="translate(38.000000, 247.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="160" width="55" height="40"></rect>
+            <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="13.5" y="187">Sol</tspan>
+            </text>
+            <g transform="translate(32.000000, 167.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="85" y="120" width="55" height="40"></rect>
+            <text id="シ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="98" y="151">Si</tspan>
+            </text>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="85" y="200" width="55" height="40"></rect>
+            <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="101.5" y="228">La</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="85" y="160" width="55" height="40"></rect>
+            <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="98.5" y="187">La</tspan>
+            </text>
+            <g transform="translate(117.000000, 167.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="85" y="240" width="55" height="40"></rect>
+            <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="98.5" y="267">Sol</tspan>
+            </text>
+            <g transform="translate(117.000000, 247.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="0" y="40" width="55" height="40"></rect>
+            <text id="シ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="16.5" y="68">Si</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="0" y="0" width="55" height="40"></rect>
+            <text id="ド" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="13" y="31">Do</tspan>
+            </text>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="85" y="80" width="55" height="40"></rect>
+            <text id="ド" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="101.5" y="108">Do</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="85" y="40" width="55" height="40"></rect>
+            <text id="ド" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="98.5" y="67">Do</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="85" y="0" width="55" height="40"></rect>
+            <text id="レ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="99" y="31">Re</tspan>
+            </text>
+            <g transform="translate(117.000000, 47.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="80" width="55" height="40"></rect>
+            <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="13.5" y="107">La</tspan>
+            </text>
+            <g transform="translate(32.000000, 87.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="85" y="400" width="55" height="40"></rect>
+            <text id="ミ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="99" y="431">Mi</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="85" y="280" width="55" height="40"></rect>
+            <text id="ソ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="98" y="311">Sol</tspan>
+            </text>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="85" y="360" width="55" height="40"></rect>
+            <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="94" y="388">Fa</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="85" y="320" width="55" height="40"></rect>
+            <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="91" y="347">Fa</tspan>
+            </text>
+            <g transform="translate(123.000000, 327.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" id="CS-sharp" letter-spacing="0.000225" opacity="0.196460542">
+                <g>
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="182" y="308" width="55" height="40"></rect>
+        <text id="ラ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="195" y="339">La</tspan>
+        </text>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="182" y="468" width="55" height="40"></rect>
+        <text id="ファ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" letter-spacing="-6" fill="#FFFFFF">
+            <tspan x="186.5" y="498">Fa</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="182" y="388" width="55" height="40"></rect>
+        <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="198.5" y="416">Sol</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="182" y="428" width="55" height="40"></rect>
+        <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="188" y="455">Fa</tspan>
+        </text>
+        <g id="Group" transform="translate(220.000000, 435.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="182" y="348" width="55" height="40"></rect>
+        <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="195.5" y="375">Sol</tspan>
+        </text>
+        <g id="Group" transform="translate(214.000000, 355.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="91" y="28" width="55" height="40"></rect>
+        <text id="シ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="104" y="59">Si</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="91" y="108" width="55" height="40"></rect>
+        <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="107.5" y="136">La</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="91" y="68" width="55" height="40"></rect>
+        <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="104.5" y="95">La</tspan>
+        </text>
+        <g id="Group" transform="translate(123.000000, 75.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="91" y="148" width="55" height="40"></rect>
+        <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="104.5" y="175">Sol</tspan>
+        </text>
+        <g id="Group" transform="translate(123.000000, 155.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="182" y="228" width="55" height="40"></rect>
+        <text id="シ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="198.5" y="256">Si</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="182" y="188" width="55" height="40"></rect>
+        <text id="ド" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="195" y="219">Do</tspan>
+        </text>
+        <g id="Group-2" transform="translate(292.000000, 68.000000)">
+            <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="0" y="240" width="55" height="40"></rect>
+            <text id="シ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="13" y="271">Si</tspan>
+            </text>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="0" y="200" width="55" height="40"></rect>
+            <text id="ド" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="16.5" y="228">Do</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="160" width="55" height="40"></rect>
+            <text id="ド" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="13.5" y="187">Do</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="0" y="120" width="55" height="40"></rect>
+            <text id="レ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="14" y="151">Re</tspan>
+            </text>
+            <g id="Group" transform="translate(32.000000, 167.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+                <g id="CS-sharp">
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="0" y="320" width="55" height="40"></rect>
+            <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="16.5" y="348">La</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="280" width="55" height="40"></rect>
+            <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="13.5" y="307">La</tspan>
+            </text>
+            <g id="Group" transform="translate(32.000000, 287.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+                <g id="CS-sharp">
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="360" width="55" height="40"></rect>
+            <text id="ソ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+                <tspan x="13.5" y="387">Sol</tspan>
+            </text>
+            <g id="Group" transform="translate(32.000000, 367.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+                <g id="CS-sharp">
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0" y="400" width="55" height="40"></rect>
+            <text id="ソ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+                <tspan x="13" y="431">Sol</tspan>
+            </text>
+            <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="0" y="80" width="55" height="40"></rect>
+            <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="0" y="40" width="55" height="40"></rect>
+            <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="0" y="0" width="55" height="40"></rect>
+            <text id="ファ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" letter-spacing="-6" fill="#FFFFFF">
+                <tspan x="4.5" y="30">Fa</tspan>
+            </text>
+            <text id="レ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+                <tspan x="13" y="108">Re</tspan>
+            </text>
+            <text id="ミ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+                <tspan x="18" y="68">Mi</tspan>
+            </text>
+            <g id="Group" transform="translate(32.000000, 88.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.253136044">
+                <g id="CS-sharp">
+                    <text id="♯">
+                        <tspan x="-0.0291456869" y="17">♯</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="423" y="468" width="55" height="40"></rect>
+        <text id="ラ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="436" y="499">La</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="423" y="388" width="55" height="40"></rect>
+        <text id="シ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="439.5" y="416">Si</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="423" y="348" width="55" height="40"></rect>
+        <text id="ド" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="436" y="379">Do</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="423" y="188" width="55" height="40"></rect>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="423" y="68" width="55" height="40"></rect>
+        <text id="ソ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="436" y="99">Sol</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="423" y="148" width="55" height="40"></rect>
+        <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="432" y="176">Fa</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="423" y="108" width="55" height="40"></rect>
+        <text id="ファ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="429" y="135">Fa</tspan>
+        </text>
+        <g id="Group" transform="translate(461.000000, 115.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="ミ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="437" y="219">Mi</tspan>
+        </text>
+        <text id="ド" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="531.5" y="415">Do</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="423" y="308" width="55" height="40"></rect>
+        <text id="ド" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="435" y="336">Do</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="423" y="268" width="55" height="40"></rect>
+        <text id="レ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="440" y="296">Re</tspan>
+        </text>
+        <g id="Group" transform="translate(455.000000, 316.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.253136044">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="423" y="228" width="55" height="40"></rect>
+        <text id="レ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="435" y="256">Re</tspan>
+        </text>
+        <g id="Group" transform="translate(455.000000, 236.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.253136044">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="182" y="28" width="55" height="40"></rect>
+        <text id="ミ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#FFFFFF">
+            <tspan x="196" y="59">Mi</tspan>
+        </text>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="182" y="148" width="55" height="40"></rect>
+        <text id="ド" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="194" y="176">Do</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="182" y="108" width="55" height="40"></rect>
+        <text id="レ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="199" y="136">Re</tspan>
+        </text>
+        <g id="Group" transform="translate(214.000000, 156.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.253136044">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="182" y="68" width="55" height="40"></rect>
+        <text id="レ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="194" y="96">Re</tspan>
+        </text>
+        <g id="Group" transform="translate(214.000000, 76.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.253136044">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="423" y="428" width="55" height="40"></rect>
+        <text id="ラ" opacity="0.253136044" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="436.5" y="455">La</tspan>
+        </text>
+        <g id="Group" transform="translate(455.000000, 435.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.253136044">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#AAAAAA" fill-rule="nonzero" x="182" y="268" width="55" height="40"></rect>
+        <text id="ラ" opacity="0.196460542" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-5" fill="#FFFFFF">
+            <tspan x="195.5" y="295">La</tspan>
+        </text>
+        <g id="Group" transform="translate(214.000000, 275.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="18" font-weight="bold" letter-spacing="0.000225" opacity="0.196460542">
+            <g id="CS-sharp">
+                <text id="♯">
+                    <tspan x="-0.0291456869" y="17">♯</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 481.000000)" fill="#888888">
+            <path d="M8.459875,16.22 C10.279875,16.22 11.959875,15.24 12.979875,13.58 C14.099875,11.76 14.819875,9.2 14.819875,7.04 C14.819875,4.42 13.579875,2.94 11.399875,2.94 C9.059875,2.94 7.079875,4.6 6.019875,7.42 C5.439875,8.96 5.099875,10.7 5.099875,12.08 C5.099875,14.76 6.299875,16.22 8.459875,16.22 Z M8.719875,15.38 C7.899875,15.38 7.379875,14.62 7.379875,13.4 C7.379875,10.88 8.179875,7.44 9.219875,5.4 C9.759875,4.34 10.459875,3.78 11.219875,3.78 C12.039875,3.78 12.539875,4.5 12.539875,5.64 C12.539875,8.44 11.659875,12.18 10.539875,14.12 C10.099875,14.9 9.399875,15.38 8.719875,15.38 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 441.000000)" fill="#888888">
+            <path d="M11.819875,16 L11.979875,15.22 L11.719875,15.22 C10.719875,15.22 10.319875,14.98 10.319875,14.4 C10.319875,14.06 10.379875,13.56 10.499875,13.02 L11.899875,6.4 C12.279875,4.68 12.459875,3.92 12.679875,3.18 L12.179875,2.82 C11.059875,3.42 9.839875,3.98 7.939875,4.74 L8.139875,5.52 C9.219875,5.12 9.399875,5.06 9.879875,4.86 C9.859875,5.02 9.839875,5.12 9.799875,5.32 L9.659875,5.92 L8.159875,13.02 C7.739875,14.98 7.539875,15.16 5.859875,15.22 L5.699875,16 C6.839875,15.94 7.539875,15.92 8.779875,15.92 C10.019875,15.92 10.699875,15.94 11.819875,16 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 401.000000)" fill="#888888">
+            <path d="M11.859875,16 C12.579875,14.82 13.099875,14.02 13.739875,13.12 L13.079875,12.86 C12.579875,13.48 12.199875,13.78 11.619875,13.96 C11.1865417,14.0933333 10.9893194,14.1155556 9.36154167,14.1192593 L7.77541219,14.1190383 C7.4583874,14.1173554 7.019875,14.1127273 6.459875,14.1 C7.339875,13.42 7.579875,13.22 9.079875,12.08 C11.239875,10.44 12.219875,9.58 13.019875,8.68 C14.039875,7.54 14.499875,6.5 14.499875,5.44 C14.499875,3.92 13.359875,2.94 11.619875,2.94 C9.759875,2.94 7.979875,4.06 6.499875,6.12 L7.159875,6.48 C8.279875,5.14 9.199875,4.58 10.219875,4.58 C11.159875,4.58 11.819875,5.18 11.819875,6.06 C11.819875,6.82 11.299875,7.88 10.339875,9.04 C8.779875,10.94 6.199875,13.38 3.619875,15.38 L3.739875,16 C3.899875,15.9938462 4.0546679,15.9881657 4.20753089,15.9829586 L4.66360736,15.9687574 C5.34886908,15.9495858 6.06141346,15.94 7.099875,15.94 C8.779875,15.94 9.819875,15.96 11.859875,16 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 361.000000)" fill="#888888">
+            <path d="M7.579875,16.22 C9.519875,16.22 11.199875,15.48 12.299875,14.14 C13.019875,13.28 13.419875,12.22 13.419875,11.22 C13.419875,9.74 12.539875,8.92 10.739875,8.74 C12.899875,8.02 14.039875,6.8 14.039875,5.22 C14.039875,3.86 12.979875,2.94 11.439875,2.94 C9.899875,2.94 8.459875,3.7 7.019875,5.26 L7.599875,5.74 C8.579875,4.74 9.419875,4.28 10.279875,4.28 C11.099875,4.28 11.619875,4.84 11.619875,5.7 C11.619875,6.38 11.299875,7.06 10.759875,7.58 C10.159875,8.16 9.399875,8.44 8.119875,8.54 L7.959875,9.3 C10.039875,9.3 10.939875,9.94 10.939875,11.46 C10.939875,13.48 9.599875,15.34 8.139875,15.34 C7.479875,15.34 7.019875,14.96 6.899875,14.34 C6.799875,13.76 6.799875,13.76 6.679875,13.64 C6.539875,13.44 6.279875,13.32 5.979875,13.32 C5.199875,13.32 4.599875,13.86 4.599875,14.56 C4.599875,15.52 5.839875,16.22 7.579875,16.22 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 321.000000)" fill="#888888">
+            <path d="M11.439875,16 L12.179875,12.54 L13.819875,12.54 L14.159875,11 L12.499875,11 L14.259875,2.7 L11.779875,3.42 L5.239875,10.96 L4.699875,12.54 L9.899875,12.54 L9.179875,16 L11.439875,16 Z M10.239875,11 L6.419875,11 L11.559875,5.02 L10.239875,11 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 281.000000)" fill="#888888">
+            <path d="M7.319875,16.22 C9.279875,16.22 11.059875,15.38 12.319875,13.84 C13.199875,12.76 13.719875,11.44 13.719875,10.26 C13.719875,8.4 12.359875,7.26 10.099875,7.26 C9.619875,7.26 9.259875,7.3 8.679875,7.4 L9.559875,5.16 L14.259875,5.16 L15.219875,3.16 L9.299875,3.16 L6.839875,9.44 L7.179875,9.76 C7.859875,9.56 8.399875,9.48 9.019875,9.48 C10.639875,9.48 11.579875,10.26 11.579875,11.58 C11.579875,13.44 9.939875,15.3 8.319875,15.3 C7.739875,15.3 7.299875,14.94 7.059875,14.3 C6.819875,13.58 6.659875,13.44 6.099875,13.44 C5.359875,13.44 4.739875,14.02 4.739875,14.72 C4.739875,15.6 5.799875,16.22 7.319875,16.22 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 241.000000)" fill="#888888">
+            <path d="M8.699875,16.22 C11.539875,16.22 14.019875,13.9 14.019875,11.24 C14.019875,9.6 12.899875,8.5 11.239875,8.5 C10.319875,8.5 9.519875,8.78 8.379875,9.48 C9.479875,6.76 11.519875,4.74 14.579875,3.34 L14.419875,2.74 C12.579875,3.32 10.859875,4.3 9.239875,5.64 C6.619875,7.84 5.179875,10.36 5.179875,12.78 C5.179875,14.92 6.519875,16.22 8.699875,16.22 Z M9.039875,15.36 C8.059875,15.36 7.479875,14.62 7.479875,13.34 C7.479875,12.38 7.639875,11.54 8.019875,10.46 C8.719875,9.92 9.339875,9.68 10.019875,9.68 C11.019875,9.68 11.619875,10.46 11.619875,11.72 C11.619875,13.74 10.459875,15.36 9.039875,15.36 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 201.000000)" fill="#888888">
+            <path d="M7.999875,16 L15.719875,3.56 L15.579875,3.16 L7.739875,3.16 L6.359875,6.34 L7.079875,6.34 C7.759875,5.24 8.259875,5.04 10.479875,5.02 L13.459875,5.02 L6.379875,14.84 C6.04756731,15.3246154 5.88780399,15.5408284 5.74794965,15.734183 L5.65598788,15.8623942 C5.62520044,15.9057988 5.59372115,15.9507692 5.559875,16 L7.999875,16 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 154.000000)" fill="#888888">
+            <path d="M8.579875,16.22 C11.359875,16.22 13.639875,14.36 13.639875,12.06 C13.639875,10.96 13.099875,10.1 11.639875,8.92 C13.639875,8.04 14.759875,6.74 14.759875,5.28 C14.759875,3.86 13.539875,2.94 11.619875,2.94 C8.979875,2.94 6.819875,4.76 6.819875,6.98 C6.819875,7.88 7.179875,8.52 8.119875,9.3 C8.359875,9.52 8.379875,9.52 8.519875,9.66 C6.139875,10.74 4.999875,12.02 4.999875,13.62 C4.999875,15.16 6.439875,16.22 8.579875,16.22 Z M11.019875,8.38 C9.539875,7.36 8.959875,6.66 8.959875,5.86 C8.959875,4.76 9.939875,3.84 11.119875,3.84 C12.099875,3.84 12.699875,4.48 12.699875,5.48 C12.699875,6.58 12.119875,7.58 11.019875,8.38 Z M8.859875,15.38 C7.819875,15.38 7.139875,14.64 7.139875,13.52 C7.139875,12.26 7.899875,11.08 9.239875,10.26 C10.759875,11.44 11.239875,12.06 11.239875,12.94 C11.239875,14.32 10.199875,15.38 8.859875,15.38 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(12.000000, 117.000000)" fill="#888888">
+            <path d="M5.719875,16.3 C7.379875,15.74 9.039875,14.88 10.519875,13.76 C13.259875,11.68 14.879875,8.96 14.879875,6.4 C14.879875,4.22 13.559875,2.94 11.359875,2.94 C8.499875,2.94 6.039875,5.26 6.039875,7.94 C6.039875,9.54 7.179875,10.66 8.799875,10.66 C9.759875,10.66 10.619875,10.38 11.659875,9.7 C10.579875,12.32 8.559875,14.26 5.539875,15.62 L5.719875,16.3 Z M10.019875,9.48 C9.039875,9.48 8.439875,8.7 8.439875,7.44 C8.439875,5.4 9.579875,3.8 11.019875,3.8 C12.059875,3.8 12.619875,4.52 12.619875,5.86 C12.619875,6.78 12.439875,7.62 12.039875,8.7 C11.359875,9.22 10.699875,9.48 10.019875,9.48 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(7.000000, 74.000000)" fill="#888888">
+            <path d="M11.49975,20.6975191 L11.65975,19.9175191 L11.39975,19.9175191 C10.39975,19.9175191 9.99975,19.6775191 9.99975,19.0975191 C9.99975,18.7575191 10.05975,18.2575191 10.17975,17.7175191 L11.57975,11.0975191 C11.95975,9.37751914 12.13975,8.61751914 12.35975,7.87751914 L11.85975,7.51751914 C10.73975,8.11751914 9.51975,8.67751914 7.61975,9.43751914 L7.81975,10.2175191 C8.89975,9.81751914 9.07975,9.75751914 9.55975,9.55751914 C9.53975,9.71751914 9.51975,9.81751914 9.47975,10.0175191 L9.33975,10.6175191 L7.83975,17.7175191 C7.41975,19.6775191 7.21975,19.8575191 5.53975,19.9175191 L5.37975,20.6975191 C6.51975,20.6375191 7.21975,20.6175191 8.45975,20.6175191 C9.69975,20.6175191 10.37975,20.6375191 11.49975,20.6975191 Z M18.78,20.9175191 C20.6,20.9175191 22.28,19.9375191 23.3,18.2775191 C24.42,16.4575191 25.14,13.8975191 25.14,11.7375191 C25.14,9.11751914 23.9,7.63751914 21.72,7.63751914 C19.38,7.63751914 17.4,9.29751914 16.34,12.1175191 C15.76,13.6575191 15.42,15.3975191 15.42,16.7775191 C15.42,19.4575191 16.62,20.9175191 18.78,20.9175191 Z M19.04,20.0775191 C18.22,20.0775191 17.7,19.3175191 17.7,18.0975191 C17.7,15.5775191 18.5,12.1375191 19.54,10.0975191 C20.08,9.03751914 20.78,8.47751914 21.54,8.47751914 C22.36,8.47751914 22.86,9.19751914 22.86,10.3375191 C22.86,13.1375191 21.98,16.8775191 20.86,18.8175191 C20.42,19.5975191 19.72,20.0775191 19.04,20.0775191 Z"></path>
+        </g>
+        <g id="Degree" transform="translate(6.000000, 34.000000)" fill="#888888">
+            <path d="M12.49975,20.6975191 L12.65975,19.9175191 L12.39975,19.9175191 C11.39975,19.9175191 10.99975,19.6775191 10.99975,19.0975191 C10.99975,18.7575191 11.05975,18.2575191 11.17975,17.7175191 L12.57975,11.0975191 C12.95975,9.37751914 13.13975,8.61751914 13.35975,7.87751914 L12.85975,7.51751914 C11.73975,8.11751914 10.51975,8.67751914 8.61975,9.43751914 L8.81975,10.2175191 C9.89975,9.81751914 10.07975,9.75751914 10.55975,9.55751914 C10.53975,9.71751914 10.51975,9.81751914 10.47975,10.0175191 L10.33975,10.6175191 L8.83975,17.7175191 C8.41975,19.6775191 8.21975,19.8575191 6.53975,19.9175191 L6.37975,20.6975191 C7.51975,20.6375191 8.21975,20.6175191 9.45975,20.6175191 C10.69975,20.6175191 11.37975,20.6375191 12.49975,20.6975191 Z M23.14,20.6975191 L23.3,19.9175191 L23.04,19.9175191 C22.04,19.9175191 21.64,19.6775191 21.64,19.0975191 C21.64,18.7575191 21.7,18.2575191 21.82,17.7175191 L23.22,11.0975191 C23.6,9.37751914 23.78,8.61751914 24,7.87751914 L23.5,7.51751914 C22.38,8.11751914 21.16,8.67751914 19.26,9.43751914 L19.46,10.2175191 C20.54,9.81751914 20.72,9.75751914 21.2,9.55751914 C21.18,9.71751914 21.16,9.81751914 21.12,10.0175191 L20.98,10.6175191 L19.48,17.7175191 C19.06,19.6775191 18.86,19.8575191 17.18,19.9175191 L17.02,20.6975191 C18.16,20.6375191 18.86,20.6175191 20.1,20.6175191 C21.34,20.6175191 22.02,20.6375191 23.14,20.6975191 Z"></path>
+        </g>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="67" y="584" width="290" height="40"></rect>
+        <text id="長3度(メジャー三人衆)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="93.236" y="613">大3度（大和弦三人组）</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="67" y="534" width="185" height="40"></rect>
+        <text id="長7度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="131.168" y="563">長7度</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="382" y="584" width="280" height="40"></rect>
+        <text id="短3度(マイナー三人衆)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="405.236" y="613">小3度（小和弦三人组）</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="282" y="534" width="380" height="40"></rect>
+        <text id="短7度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="445.168" y="563">短7度</tspan>
+        </text>
+        <g id="Group-3" transform="translate(356.500000, 61.500000) rotate(-345.000000) translate(-356.500000, -61.500000) translate(323.000000, 44.000000)">
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="0" y="0" width="67" height="35" rx="17.5"></rect>
+            <text id="特別" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+                <tspan x="12.241181" y="25.0340742">特別</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

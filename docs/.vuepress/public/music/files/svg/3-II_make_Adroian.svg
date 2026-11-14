@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="270px" viewBox="0 0 530 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3-II_make_Adroian</title>
+    <defs>
+        <circle id="path-1" cx="355.5" cy="196.5" r="12.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="25" height="25" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="3-II_make_Adroian" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="36.9410086 135.831235 36.973828 23 8 23 8 217 49 217 49 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="87.8977636 135.623199 87.9300958 23 64 23 64 135.623199 53 135.623199 53 217 97 217 97 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="136.119361 135.623199 136.151693 23 114.666198 23 114.666198 135.623199 100 135.623199 100 217 144 217 144 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(169.000000, 120.000000) scale(-1, 1) translate(-169.000000, -120.000000) " points="175.628711 135.831235 175.662925 23 147 23 147 217 191 217 191 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="223.799919 135.831235 223.832578 23 195 23 195 217 237 217 237 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="275.94125 135.623199 275.973422 23 250.945757 23 250.945757 135.623199 240 135.623199 240 217 285 217 285 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(310.000000, 120.000000) scale(-1, 1) translate(-310.000000, -120.000000) " points="315.400162 135.831235 315.432822 23 289 23 289 217 331 217 331 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(449.000000, 120.000000) scale(-1, 1) translate(-449.000000, -120.000000) " points="454.400162 135.831235 454.432822 23 428 23 428 217 470 217 470 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="35" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="85" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="135" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="223" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="275" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="363.941009 135.831235 363.973828 23 335 23 335 217 376 217 376 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="414.897764 135.623199 414.930096 23 391 23 391 135.623199 380 135.623199 380 217 424 217 424 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="362" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="412" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(495.000000, 120.000000) scale(-1, 1) translate(-495.000000, -120.000000) " points="500.400162 135.831235 500.432822 23 474 23 474 217 516 217 516 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="458" y="22" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FFBF00" cx="216.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="170.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="263.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="309.5" cy="196.5" r="12.5"></circle>
+        <use id="Circle" stroke="#FFBF00" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="4,4" xlink:href="#path-1"></use>
+        <circle id="Circle" fill="#FFBF00" cx="401.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="448.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="123.5" cy="198.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FF6633" cx="377.5" cy="118.5" r="12.5"></circle>
+        <path id="Line" d="M371.5,133.5 L373.9412,148.960936 L368.222,147.147 L359.453231,174.802244 L359.150987,175.755474 L357.244526,175.150987 L357.546769,174.197756 L366.314,146.542 L360.595971,144.729522 L371.5,133.5 Z" fill="#FF6633" fill-rule="nonzero"></path>
+        <text id="A" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="113.92" y="245">A</tspan>
+        </text>
+        <text id="B" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="162.46" y="245">B</tspan>
+        </text>
+        <text id="C" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="208.07" y="245">C</tspan>
+        </text>
+        <text id="D" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="253.94" y="245">D</tspan>
+        </text>
+        <text id="E" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="302.15" y="245">E</tspan>
+        </text>
+        <text id="F" opacity="0.246582031" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-4.16666667" fill="#000000">
+            <tspan x="351.643333" y="245">F</tspan>
+        </text>
+        <text id="F" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-4.16666667" fill="#FF6633">
+            <tspan x="387.643333" y="154">F</tspan>
+        </text>
+        <g id="sharp" transform="translate(402.000000, 134.000000)" fill="#FF5500">
+            <path d="M1.95687885,12.7941873 L1.95687885,7.84078345 L4.01026694,7.25951666 L4.01026694,12.1876481 L1.95687885,12.7941873 Z M6,11.5958511 L4.58829569,12.0107408 L4.58829569,7.08260938 L6,6.67824988 L6,4.63117991 L4.58829569,5.03553941 L4.58829569,0 L4.01026694,0 L4.01026694,5.18822724 L1.95687885,5.79371347 L1.95687885,0.897172643 L1.41170431,0.897172643 L1.41170431,5.98009793 L0,6.38551045 L0,8.4367925 L1.41170431,8.032433 L1.41170431,12.9510872 L0,13.3543937 L0,15.3972516 L1.41170431,14.9928921 L1.41170431,20 L1.95687885,20 L1.95687885,14.8138788 L4.01026694,14.2347181 L4.01026694,19.1059864 L4.58829569,19.1059864 L4.58829569,14.0514927 L6,13.6460801 L6,11.5958511 Z"></path>
+        </g>
+        <text id="G" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="395.1" y="245">G</tspan>
+        </text>
+        <text id="A" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="441.92" y="245">A</tspan>
+        </text>
+    </g>
+</svg>

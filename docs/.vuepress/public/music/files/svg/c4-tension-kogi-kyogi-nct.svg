@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520px" height="250px" viewBox="0 0 520 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c4-tension-kogi-kyogi-nct</title>
+    <defs>
+        <path d="M145.464286,-97.3785714 C145.464286,-111.521429 150.919388,-117.784694 163.041837,-117.784694 L176.17449,-117.784694 L176.17449,-121.82551 L163.041837,-121.82551 C148.494898,-121.82551 141.019388,-113.541837 141.019388,-97.3785714 L141.019388,6.1622449 C141.019388,18.8908163 135.564286,24.75 123.845918,24.75 L121.82551,24.75 L121.82551,29.3969388 L123.845918,29.3969388 C135.564286,29.3969388 141.019388,35.4581633 141.019388,47.9846939 L141.019388,151.52551 C141.019388,167.688776 148.696939,176.17449 163.041837,176.17449 L176.17449,176.17449 L176.17449,172.133673 L163.041837,172.133673 C151.323469,172.133673 145.464286,165.264286 145.464286,151.52551 L145.464286,47.9846939 C145.464286,35.8622449 141.019388,29.3969388 131.523469,27.1744898 C141.019388,24.9520408 145.464286,18.4867347 145.464286,6.1622449 L145.464286,-97.3785714 Z" id="path-1"></path>
+    </defs>
+    <g id="c4-tension-kogi-kyogi-nct" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#5C3DF5" fill-rule="nonzero" x="320" y="165" width="165" height="50" rx="6"></rect>
+        <g id="Group" transform="translate(43.000000, 165.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="162" height="50" rx="6"></rect>
+            <text id="テンション" fill="#FFFFFF" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+                <tspan x="12" y="35">引申音 (Tension)</tspan>
+            </text>
+        </g>
+        <g id="{" transform="translate(122.330667, 87.185510)" fill-rule="nonzero">
+            <g id="Path" transform="translate(149.000000, 27.174490) rotate(-270.000000) translate(-149.000000, -27.174490) ">
+                <use fill="#AAAAAA" xlink:href="#path-1"></use>
+                <use fill="#000000" xlink:href="#path-1"></use>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#FF8000" fill-rule="nonzero" x="145" y="29" width="252" height="50" rx="6"></rect>
+        <text id="ノンコードトーン" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="158" y="65">和弦外音</tspan>
+        </text>
+        <text id="アヴォイド" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500">
+            <tspan x="330.5" y="199">避用音 (Avoid)</tspan>
+        </text>
+    </g>
+</svg>

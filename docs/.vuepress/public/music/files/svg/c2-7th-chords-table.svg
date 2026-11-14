@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="660px" height="430px" viewBox="0 0 660 430" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c2-7th-chords-table</title>
+    <g id="c2-7th-chords-table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" x="36" y="82" width="600" height="330"></rect>
+        <text id="Δ7" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="271.032" y="220">Δ7</tspan>
+        </text>
+        <text id="Δ7" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="290.032" y="339">Δ7</tspan>
+        </text>
+        <text id="7" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="514.032" y="223">7</tspan>
+        </text>
+        <text id="m7" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="499.892" y="339">m7</tspan>
+        </text>
+        <text id="m" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="260.86" y="339">m</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="477" y="99" width="95" height="40"></rect>
+        <text id="短7度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="496.168" y="128">短7度</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="59" y="206" width="95" height="40"></rect>
+        <text id="長3度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="78.168" y="235">長3度</tspan>
+        </text>
+        <text id="何もつけない" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="71" y="265">什么都不加</tspan>
+        </text>
+        <text id="“m”をつける" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="71.276" y="377">加上“m”</tspan>
+        </text>
+        <text id="“Δ7”をつける" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="255.064" y="155">加上“Δ7”</tspan>
+        </text>
+        <text id="“メジャーセブンス”" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="241.336" y="245">“大七和弦”</tspan>
+        </text>
+        <text id="“マイナー・メジャーセブンス”" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="211.336" y="366">“小大七和弦”</tspan>
+        </text>
+        <text id="(該当なし)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500">
+            <tspan x="266.128" y="394">(不适用)</tspan>
+        </text>
+        <text id="“マイナー・セブンス”" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="463.336" y="362">“小七和弦”</tspan>
+        </text>
+        <text id="“セブンス”" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="493.336" y="240">“七和弦”</tspan>
+        </text>
+        <text id="4種のセブンスコード" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="219.456" y="50">4种七和弦</tspan>
+        </text>
+        <text id="“7”をつける" font-family="HiraginoSans-W6, Hiragino Sans" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="489.064" y="157">加上“7”</tspan>
+        </text>
+        <rect id="Rectangle" fill="#3DB8F5" fill-rule="nonzero" x="248" y="96" width="95" height="40"></rect>
+        <text id="長7度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="267.168" y="125">長7度</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="59" y="318" width="95" height="40"></rect>
+        <text id="短3度" font-family="HiraginoSans-W6, Hiragino Sans" font-size="22" font-weight="500" fill="#FFFFFF">
+            <tspan x="78.168" y="347">短3度</tspan>
+        </text>
+        <line x1="36" y1="173" x2="636.5" y2="173.5" id="Path-45" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="36" y1="294" x2="636.5" y2="294.5" id="Path-45" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="182.5" y1="412.5" x2="182.5" y2="82.5" id="Path-45" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="406.5" y1="412.5" x2="406.5" y2="82.5" id="Path-45" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="36" y1="83" x2="183" y2="174" id="Path-46" stroke="#000000" stroke-linecap="square" fill-rule="nonzero"></line>
+        <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="255" y="258" width="33" height="27" rx="2.88"></rect>
+        <text id="I" font-family="Javiera-Bold, Javiera" font-size="16.5" font-weight="bold" fill="#FFFFFF">
+            <tspan x="269.23125" y="278">I</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="297" y="258" width="33" height="27" rx="2.88"></rect>
+        <text id="IV" font-family="Javiera-Bold, Javiera" font-size="16.5" font-weight="bold" fill="#FFFFFF">
+            <tspan x="306.06675" y="277">IV</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="509" y="255" width="33" height="27" rx="2.88"></rect>
+        <text id="V" font-family="Javiera-Bold, Javiera" font-size="16.5" font-weight="bold" fill="#FFFFFF">
+            <tspan x="520.3355" y="274">V</tspan>
+        </text>
+        <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="462" y="374" width="33" height="27" rx="2.88"></rect>
+        <text id="VIm" font-family="Javiera-Bold, Javiera" font-size="16.5" font-weight="bold" fill="#FFFFFF">
+            <tspan x="465.32975" y="393">VIm</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="503" y="374" width="33" height="27" rx="2.88"></rect>
+        <text id="IIm" font-family="Javiera-Bold, Javiera" font-size="16.5" font-weight="bold" fill="#FFFFFF">
+            <tspan x="509.2255" y="393">IIm</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF6633" fill-rule="nonzero" x="544" y="374" width="33" height="27" rx="2.88"></rect>
+        <text id="IIIm" font-family="Javiera-Bold, Javiera" font-size="16.5" font-weight="bold" fill="#FFFFFF">
+            <tspan x="547.45675" y="393">IIIm</tspan>
+        </text>
+    </g>
+</svg>

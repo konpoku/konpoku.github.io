@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="755px" viewBox="0 0 850 755" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>M1-rap-flow-chart</title>
+    <g id="M1-rap-flow-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <line x1="138.375" y1="219.125" x2="138.375" y2="284.125" id="Path-13" stroke="#222222"></line>
+        <polygon id="Path-14" fill="#222222" points="24 171.856419 138.751925 116 257 169.96596 138.751925 221"></polygon>
+        <polygon id="Path-14" fill="#222222" points="24 506.388385 138.751925 450 257 504.479922 138.751925 556"></polygon>
+        <text id="鍵盤上の12音のどれかに-照準を合わせる" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="66.744" y="166">键盘上的12个音之一</tspan>
+            <tspan x="91.4895" y="183">对准具体音高吗？</tspan>
+        </text>
+        <line x1="248.5" y1="504.5" x2="324.5" y2="504.5" id="Path-13" stroke="#222222"></line>
+        <text id="それは-キーにとって安定音?" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="121.5" y="495">那是</tspan>
+            <tspan x="78.4895" y="512">对该调而言是稳定音？</tspan>
+        </text>
+        <polygon id="Path-14" fill="#222222" points="324 504.388385 438.751925 448 557 502.479922 438.751925 554"></polygon>
+        <text id="その不安定音-最終的には着地する?" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="402" y="495">该不稳定音</tspan>
+            <tspan x="378.4895" y="512">最终会着陆解决吗？</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#222222" x="38" y="638" width="200" height="60"></rect>
+        <text id="非常に安定した音響" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="66.5" y="675">极其稳定的音响</tspan>
+        </text>
+        <text id="NO" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="274.228" y="163">NO</tspan>
+        </text>
+        <text id="Q1" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="47.1" y="136">Q1</tspan>
+        </text>
+        <text id="Q3" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="47.1" y="472">Q3</tspan>
+        </text>
+        <text id="Q4" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="347.1" y="472">Q4</tspan>
+        </text>
+        <text id="NO" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="274.228" y="497">NO</tspan>
+        </text>
+        <polygon id="Path-14" fill="#222222" points="24 340.388385 138.751925 284 257 338.479922 138.751925 390"></polygon>
+        <rect id="Rectangle" stroke="#222222" x="339" y="306" width="200" height="60"></rect>
+        <line x1="248.5" y1="338.5" x2="324.5" y2="338.5" id="Path-13" stroke="#222222"></line>
+        <text id="その照準は-キーの音階に含まれる音?" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="13" font-weight="500">
+            <tspan x="108.5" y="329">其对准的目标是</tspan>
+            <tspan x="65.4895" y="346">包含在该调音阶内的音？</tspan>
+        </text>
+        <text id="トラックと衝突しうる-リスキーな音響" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="359.5" y="333">可能与伴奏冲突</tspan>
+            <tspan x="383.5" y="353">有风险的音响</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#222222" x="339" y="139" width="200" height="60"></rect>
+        <text id="12音音楽を意識させない-アナーキーな音" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="348.108" y="166">淡化十二音音乐的感觉</tspan>
+            <tspan x="375.5" y="186">失序狂放的音响</tspan>
+        </text>
+        <text id="Q2" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="47.1" y="306">Q2</tspan>
+        </text>
+        <text id="NO" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="274.228" y="331">NO</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#222222" x="630" y="470" width="200" height="60"></rect>
+        <line x1="544.5" y1="502.5" x2="620.5" y2="502.5" id="Path-13" stroke="#222222"></line>
+        <text id="不安定を維持する-独特な音響" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="666.5" y="498">维持不稳定状态</tspan>
+            <tspan x="690.5" y="518">独特的音响</tspan>
+        </text>
+        <text id="NO" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="573.228" y="495">NO</tspan>
+        </text>
+        <text id="YES" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="145.236" y="259">YES</tspan>
+        </text>
+        <line x1="138.375" y1="385.125" x2="138.375" y2="450.125" id="Path-13" stroke="#222222"></line>
+        <text id="YES" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="145.236" y="425">YES</tspan>
+        </text>
+        <text id="YES" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="145.236" y="595">YES</tspan>
+        </text>
+        <line x1="252" y1="170.5" x2="325" y2="170.5" id="Path-13" stroke="#222222"></line>
+        <line x1="138.375" y1="53.125" x2="138.375" y2="118.125" id="Path-13" stroke="#222222"></line>
+        <polygon id="Triangle" fill="#222222" transform="translate(325.500000, 170.500000) rotate(-270.000000) translate(-325.500000, -170.500000) " points="325.5 162 334 179 317 179"></polygon>
+        <polygon id="Triangle" fill="#222222" transform="translate(325.500000, 337.500000) rotate(-270.000000) translate(-325.500000, -337.500000) " points="325.5 329 334 346 317 346"></polygon>
+        <polygon id="Triangle" fill="#222222" transform="translate(620.500000, 502.500000) rotate(-270.000000) translate(-620.500000, -502.500000) " points="620.5 494 629 511 612 511"></polygon>
+        <polygon id="Triangle" fill="#222222" transform="translate(138.500000, 626.500000) rotate(-180.000000) translate(-138.500000, -626.500000) " points="138.5 618 147 635 130 635"></polygon>
+        <line x1="138.375" y1="555.125" x2="138.375" y2="620.125" id="Path-13" stroke="#222222"></line>
+        <rect id="Rectangle" stroke="#222222" x="319" y="638" width="240" height="60"></rect>
+        <text id="「緊張と弛緩」の波を持つ-歌曲的な音響" fill="#222222" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="341.5" y="665">具有“张弛起伏”的波浪</tspan>
+            <tspan x="389.5" y="685">歌曲化音响</tspan>
+        </text>
+        <text id="YES" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="446.236" y="595">YES</tspan>
+        </text>
+        <polygon id="Triangle" fill="#222222" transform="translate(438.500000, 626.500000) rotate(-180.000000) translate(-438.500000, -626.500000) " points="438.5 618 447 635 430 635"></polygon>
+        <line x1="438.5" y1="548.5" x2="438.375" y2="620.125" id="Path-13" stroke="#222222"></line>
+        <text id="スタート" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#000000">
+            <tspan x="109" y="43">开始</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="300px" viewBox="0 0 680 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pre-key-octave</title>
+    <g id="pre-key-octave" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="186.941009 145.831235 186.973828 33 158 33 158 227 199 227 199 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="237.897764 145.623199 237.930096 33 214 33 214 145.623199 203 145.623199 203 227 247 227 247 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="286.119361 145.623199 286.151693 33 264.666198 33 264.666198 145.623199 250 145.623199 250 227 294 227 294 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(319.000000, 130.000000) scale(-1, 1) translate(-319.000000, -130.000000) " points="325.628711 145.831235 325.662925 33 297 33 297 227 341 227 341 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="373.799919 145.831235 373.832578 33 345 33 345 227 387 227 387 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="425.94125 145.623199 425.973422 33 400.945757 33 400.945757 145.623199 390 145.623199 390 227 435 227 435 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(460.000000, 130.000000) scale(-1, 1) translate(-460.000000, -130.000000) " points="465.400162 145.831235 465.432822 33 439 33 439 227 481 227 481 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(599.000000, 130.000000) scale(-1, 1) translate(-599.000000, -130.000000) " points="604.400162 145.831235 604.432822 33 578 33 578 227 620 227 620 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="185" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="235" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="285" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="373" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="425" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="47.7999189 145.831235 47.8325783 33 19 33 19 227 61 227 61 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="99.9412496 145.623199 99.9734224 33 74.9457569 33 74.9457569 145.623199 64 145.623199 64 227 109 227 109 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(134.000000, 130.000000) scale(-1, 1) translate(-134.000000, -130.000000) " points="139.400162 145.831235 139.432822 33 113 33 113 227 155 227 155 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="47" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="99" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="513.941009 145.831235 513.973828 33 485 33 485 227 526 227 526 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="564.897764 145.623199 564.930096 33 541 33 541 145.623199 530 145.623199 530 227 574 227 574 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="512" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="562" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(645.000000, 130.000000) scale(-1, 1) translate(-645.000000, -130.000000) " points="650.400162 145.831235 650.432822 33 624 33 624 227 666 227 666 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="608" y="32" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FF8000" cx="42" cy="205" r="15"></circle>
+        <circle id="Circle" fill="#FF8000" cx="365" cy="205" r="15"></circle>
+        <polyline id="Path-4" stroke="#474747" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero" points="42 232.37939 42 251.483488 366 251.483488 366 232.37939"></polyline>
+        <text id="この2音の距離を「オクターブ」という" fill="#474747" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="46.592" y="278">这两个音之间的距离称为“八度”</tspan>
+        </text>
+    </g>
+</svg>

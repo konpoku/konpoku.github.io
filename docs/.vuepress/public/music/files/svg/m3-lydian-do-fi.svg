@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="240px" viewBox="0 0 360 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m3-lydian-do-fi</title>
+    <g id="m3-lydian-do-fi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="189.941009 124.831235 189.973828 12 161 12 161 206 202 206 202 124.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="240.897764 124.623199 240.930096 12 217 12 217 124.623199 206 124.623199 206 206 250 206 250 124.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="289.119361 124.623199 289.151693 12 267.666198 12 267.666198 124.623199 253 124.623199 253 206 297 206 297 124.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(322.000000, 109.000000) scale(-1, 1) translate(-322.000000, -109.000000) " points="328.628711 124.831235 328.662925 12 300 12 300 206 344 206 344 124.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="188" y="11" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="238" y="11" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="288" y="11" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="50.7999189 124.831235 50.8325783 12 22 12 22 206 64 206 64 124.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="102.94125 124.623199 102.973422 12 77.9457569 12 77.9457569 124.623199 67 124.623199 67 206 112 206 112 124.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(137.000000, 109.000000) scale(-1, 1) translate(-137.000000, -109.000000) " points="142.400162 124.831235 142.432822 12 116 12 116 206 158 206 158 124.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="50" y="11" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="102" y="11" width="31" height="115"></rect>
+        <circle id="Circle" fill="#FF6633" fill-rule="nonzero" cx="43.5" cy="188.5" r="15"></circle>
+        <circle id="Circle" fill="#FF6633" fill-rule="nonzero" cx="203.5" cy="108.5" r="15"></circle>
+    </g>
+</svg>

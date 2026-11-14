@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1113px" height="190px" viewBox="0 0 1113 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R1-Stress-Strong</title>
+    <g id="R1-Stress-Strong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="31" y="86" width="401" height="70" rx="5"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="142" y="90" width="2" height="64"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="234" y="90" width="2" height="64"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="326" y="90" width="2" height="64"></rect>
+        <circle id="Oval" fill="#5CB300" fill-rule="nonzero" cx="70" cy="120" r="24"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="169" cy="120" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="261" cy="120" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="353" cy="120" r="16"></circle>
+        <text id="1" font-family="Arial-Black, Arial Black" font-size="38" font-weight="700" fill="#FFFFFF">
+            <tspan x="56" y="134">1</tspan>
+        </text>
+        <text id="2" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="160" y="130">2</tspan>
+        </text>
+        <text id="3" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="252" y="130">3</tspan>
+        </text>
+        <text id="4" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="343" y="130">4</tspan>
+        </text>
+        <rect id="Rectangle" fill="#CCCCCC" fill-rule="nonzero" x="437" y="86" width="401" height="70" rx="5"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="548" y="90" width="2" height="64"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="640" y="90" width="2" height="64"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="732" y="90" width="2" height="64"></rect>
+        <circle id="Oval" fill="#5CB300" fill-rule="nonzero" cx="476" cy="120" r="24"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="575" cy="120" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="667" cy="120" r="16"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="759" cy="120" r="16"></circle>
+        <text id="1" font-family="Arial-Black, Arial Black" font-size="38" font-weight="700" fill="#FFFFFF">
+            <tspan x="462" y="134">1</tspan>
+        </text>
+        <text id="2" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="566" y="130">2</tspan>
+        </text>
+        <text id="3" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="658" y="130">3</tspan>
+        </text>
+        <text id="4" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+            <tspan x="749" y="130">4</tspan>
+        </text>
+        <g id="Group" transform="translate(843.000000, 86.000000)">
+            <path d="M5,0 L172.486548,0 C175.247972,1.77635684e-15 177.486548,2.23857625 177.486548,5 C177.486548,5.85248442 177.268585,6.69081247 176.853367,7.43534157 L173.75,13 L173.75,13 L181,23.75 L173.75,34 L181,46.25 L173.75,57 L176.853367,62.5646584 C178.198369,64.9763862 177.333617,68.0218174 174.921889,69.3668194 C174.17736,69.7820375 173.339032,70 172.486548,70 L5,70 C2.23857625,70 -2.66453526e-15,67.7614237 0,65 L0,5 C0,2.23857625 2.23857625,-1.77635684e-15 5,0 Z" id="Rectangle" fill="#CCCCCC" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="111" y="4" width="2" height="64"></rect>
+            <circle id="Oval" fill="#5CB300" fill-rule="nonzero" cx="39" cy="34" r="24"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="138" cy="34" r="16"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="230" cy="34" r="16"></circle>
+            <text id="1" font-family="Arial-Black, Arial Black" font-size="38" font-weight="700" fill="#FFFFFF">
+                <tspan x="25" y="48">1</tspan>
+            </text>
+            <text id="2" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-Black, Arial Black" font-size="28" font-weight="700">
+                <tspan x="129" y="44">2</tspan>
+            </text>
+        </g>
+        <text id="…" fill="#BBBBBB" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="39" font-weight="bold">
+            <tspan x="1035" y="126">…</tspan>
+        </text>
+        <path d="M88.4931818,17.3393333 C82.6397727,17.3393333 77.4647727,18.1408333 73.1096591,19.7216667 C69.2539773,21.124 64.0210227,21.8333333 57.5573864,21.8333333 C48.5096591,21.8333333 39.5880682,20.4193333 36.4090909,19.8581667 L36.4090909,17.1666667 C36.4090909,16.5215 35.6471591,16 34.7045455,16 C33.7619318,16 33,16.5215 33,17.1666667 L33,20.6666667 L33.0136364,20.7133333 L33,20.753 L33,84.8333333 C33,85.4785 33.7619318,86 34.7045455,86 C35.6471591,86 36.4090909,85.4785 36.4090909,84.8333333 L36.4090909,68.9351667 C40.2835227,69.5931667 48.7551136,70.8333333 57.5573864,70.8333333 C64.5835227,70.8333333 70.3534091,70.0318333 74.7085227,68.451 C78.5642045,67.0498333 83.2022727,66.3393333 88.4931818,66.3393333 C97.6244318,66.3393333 105.584659,68.4813333 105.663068,68.5035 C106.189773,68.6481667 106.782955,68.6038333 107.25,68.3845 C107.71875,68.1686667 108,67.807 108,67.4196667 L108,20.753 C108,20.2758333 107.575568,19.8476667 106.927841,19.6703333 C106.581818,19.5746667 98.3045455,17.3393333 88.4931818,17.3393333 Z" id="Fill-267" fill="#5CB300" fill-rule="nonzero"></path>
+        <text id="強" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="32" font-weight="500">
+            <tspan x="54" y="56">強</tspan>
+        </text>
+        <path d="M498.493182,17.3393333 C492.639773,17.3393333 487.464773,18.1408333 483.109659,19.7216667 C479.253977,21.124 474.021023,21.8333333 467.557386,21.8333333 C458.509659,21.8333333 449.588068,20.4193333 446.409091,19.8581667 L446.409091,17.1666667 C446.409091,16.5215 445.647159,16 444.704545,16 C443.761932,16 443,16.5215 443,17.1666667 L443,20.6666667 L443.013636,20.7133333 L443,20.753 L443,84.8333333 C443,85.4785 443.761932,86 444.704545,86 C445.647159,86 446.409091,85.4785 446.409091,84.8333333 L446.409091,68.9351667 C450.283523,69.5931667 458.755114,70.8333333 467.557386,70.8333333 C474.583523,70.8333333 480.353409,70.0318333 484.708523,68.451 C488.564205,67.0498333 493.202273,66.3393333 498.493182,66.3393333 C507.624432,66.3393333 515.584659,68.4813333 515.663068,68.5035 C516.189773,68.6481667 516.782955,68.6038333 517.25,68.3845 C517.71875,68.1686667 518,67.807 518,67.4196667 L518,20.753 C518,20.2758333 517.575568,19.8476667 516.927841,19.6703333 C516.581818,19.5746667 508.304545,17.3393333 498.493182,17.3393333 Z" id="Fill-267" fill="#5CB300" fill-rule="nonzero"></path>
+        <text id="強" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="32" font-weight="500">
+            <tspan x="464" y="56">強</tspan>
+        </text>
+        <path d="M902.493182,17.3393333 C896.639773,17.3393333 891.464773,18.1408333 887.109659,19.7216667 C883.253977,21.124 878.021023,21.8333333 871.557386,21.8333333 C862.509659,21.8333333 853.588068,20.4193333 850.409091,19.8581667 L850.409091,17.1666667 C850.409091,16.5215 849.647159,16 848.704545,16 C847.761932,16 847,16.5215 847,17.1666667 L847,20.6666667 L847.013636,20.7133333 L847,20.753 L847,84.8333333 C847,85.4785 847.761932,86 848.704545,86 C849.647159,86 850.409091,85.4785 850.409091,84.8333333 L850.409091,68.9351667 C854.283523,69.5931667 862.755114,70.8333333 871.557386,70.8333333 C878.583523,70.8333333 884.353409,70.0318333 888.708523,68.451 C892.564205,67.0498333 897.202273,66.3393333 902.493182,66.3393333 C911.624432,66.3393333 919.584659,68.4813333 919.663068,68.5035 C920.189773,68.6481667 920.782955,68.6038333 921.25,68.3845 C921.71875,68.1686667 922,67.807 922,67.4196667 L922,20.753 C922,20.2758333 921.575568,19.8476667 920.927841,19.6703333 C920.581818,19.5746667 912.304545,17.3393333 902.493182,17.3393333 Z" id="Fill-267" fill="#5CB300" fill-rule="nonzero"></path>
+        <text id="強" fill="#FFFFFF" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="32" font-weight="500">
+            <tspan x="868" y="56">強</tspan>
+        </text>
+    </g>
+</svg>

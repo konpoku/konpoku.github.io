@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="685px" height="529px" viewBox="0 0 685 529" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-major-minor-relation</title>
+    <g id="c1-major-minor-relation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="191.941009 135.831235 191.973828 23 163 23 163 217 204 217 204 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="242.897764 135.623199 242.930096 23 219 23 219 135.623199 208 135.623199 208 217 252 217 252 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="291.119361 135.623199 291.151693 23 269.666198 23 269.666198 135.623199 255 135.623199 255 217 299 217 299 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(324.000000, 120.000000) scale(-1, 1) translate(-324.000000, -120.000000) " points="330.628711 135.831235 330.662925 23 302 23 302 217 346 217 346 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="378.799919 135.831235 378.832578 23 350 23 350 217 392 217 392 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="430.94125 135.623199 430.973422 23 405.945757 23 405.945757 135.623199 395 135.623199 395 217 440 217 440 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(465.000000, 120.000000) scale(-1, 1) translate(-465.000000, -120.000000) " points="470.400162 135.831235 470.432822 23 444 23 444 217 486 217 486 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(604.000000, 120.000000) scale(-1, 1) translate(-604.000000, -120.000000) " points="609.400162 135.831235 609.432822 23 583 23 583 217 625 217 625 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="190" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="240" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="290" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="378" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="430" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="52.7999189 135.831235 52.8325783 23 24 23 24 217 66 217 66 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="104.94125 135.623199 104.973422 23 79.9457569 23 79.9457569 135.623199 69 135.623199 69 217 114 217 114 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(139.000000, 120.000000) scale(-1, 1) translate(-139.000000, -120.000000) " points="144.400162 135.831235 144.432822 23 118 23 118 217 160 217 160 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="52" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="104" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="518.941009 135.831235 518.973828 23 490 23 490 217 531 217 531 135.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="569.897764 135.623199 569.930096 23 546 23 546 135.623199 535 135.623199 535 217 579 217 579 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="517" y="22" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="567" y="22" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(650.000000, 120.000000) scale(-1, 1) translate(-650.000000, -120.000000) " points="655.400162 135.831235 655.432822 23 629 23 629 217 671 217 671 135.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="613" y="22" width="31" height="115"></rect>
+        <circle id="Circle" fill="#58C322" cx="371.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FF6633" cx="556.5" cy="196.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="183.5" cy="198.5" r="12.5"></circle>
+        <text id="ド" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="361" y="245">Do</tspan>
+        </text>
+        <text id="ファ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-4.16666667" fill="#000000">
+            <tspan x="167.166667" y="245">Fa</tspan>
+        </text>
+        <text id="ソ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="548" y="245">Sol</tspan>
+        </text>
+        <path d="M371,177 C385.025963,166.02061 400.134804,166.542939 416.178994,177 C435.304084,163.747162 451.059698,166.840796 465.358895,177 C486.35362,162.883927 499.126866,168.436196 510.641275,177 C522.602589,169.398577 534.299283,161.271264 558,177" id="Path-3" stroke="#FF6633" stroke-width="2"></path>
+        <path d="M183,177 C197.025963,166.02061 212.134804,166.542939 228.178994,177 C247.304084,163.747162 263.059698,166.840796 277.358895,177 C298.35362,162.883927 311.126866,168.436196 322.641275,177 C334.602589,169.398577 346.299283,161.271264 370,177" id="Path-3" stroke="#FFBF00" stroke-width="2"></path>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="191.941009 390.831235 191.973828 278 163 278 163 472 204 472 204 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="242.897764 390.623199 242.930096 278 219 278 219 390.623199 208 390.623199 208 472 252 472 252 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="291.119361 390.623199 291.151693 278 269.666198 278 269.666198 390.623199 255 390.623199 255 472 299 472 299 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(324.000000, 375.000000) scale(-1, 1) translate(-324.000000, -375.000000) " points="330.628711 390.831235 330.662925 278 302 278 302 472 346 472 346 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="378.799919 390.831235 378.832578 278 350 278 350 472 392 472 392 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="430.94125 390.623199 430.973422 278 405.945757 278 405.945757 390.623199 395 390.623199 395 472 440 472 440 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(465.000000, 375.000000) scale(-1, 1) translate(-465.000000, -375.000000) " points="470.400162 390.831235 470.432822 278 444 278 444 472 486 472 486 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(604.000000, 375.000000) scale(-1, 1) translate(-604.000000, -375.000000) " points="609.400162 390.831235 609.432822 278 583 278 583 472 625 472 625 390.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="190" y="277" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="240" y="277" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="290" y="277" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="378" y="277" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="430" y="277" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="52.7999189 390.831235 52.8325783 278 24 278 24 472 66 472 66 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="104.94125 390.623199 104.973422 278 79.9457569 278 79.9457569 390.623199 69 390.623199 69 472 114 472 114 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(139.000000, 375.000000) scale(-1, 1) translate(-139.000000, -375.000000) " points="144.400162 390.831235 144.432822 278 118 278 118 472 160 472 160 390.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="52" y="277" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="104" y="277" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="518.941009 390.831235 518.973828 278 490 278 490 472 531 472 531 390.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="569.897764 390.623199 569.930096 278 546 278 546 390.623199 535 390.623199 535 472 579 472 579 390.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="517" y="277" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="567" y="277" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(650.000000, 375.000000) scale(-1, 1) translate(-650.000000, -375.000000) " points="655.400162 390.831235 655.432822 278 629 278 629 472 671 472 671 390.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="613" y="277" width="31" height="115"></rect>
+        <circle id="Circle" fill="#58C322" cx="277.5" cy="451.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FF6633" cx="465.5" cy="451.5" r="12.5"></circle>
+        <circle id="Circle" fill="#FFBF00" cx="90.5" cy="453.5" r="12.5"></circle>
+        <text id="ラ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="267" y="500">La</tspan>
+        </text>
+        <text id="レ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="-4.16666667" fill="#000000">
+            <tspan x="81.0833333" y="500">Re</tspan>
+        </text>
+        <text id="ミ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="454" y="500">Mi</tspan>
+        </text>
+        <path d="M277,432 C291.025963,421.02061 306.134804,421.542939 322.178994,432 C341.304084,418.747162 357.059698,421.840796 371.358895,432 C392.35362,417.883927 405.126866,423.436196 416.641275,432 C428.602589,424.398577 440.299283,416.271264 464,432" id="Path-3" stroke="#FF6633" stroke-width="2"></path>
+        <path d="M89,432 C103.025963,421.02061 118.134804,421.542939 134.178994,432 C153.304084,418.747162 169.059698,421.840796 183.358895,432 C204.35362,417.883927 217.126866,423.436196 228.641275,432 C240.602589,424.398577 252.299283,416.271264 276,432" id="Path-3" stroke="#FFBF00" stroke-width="2"></path>
+    </g>
+</svg>

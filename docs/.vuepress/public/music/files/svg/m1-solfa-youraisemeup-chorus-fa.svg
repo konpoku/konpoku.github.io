@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1255px" height="530px" viewBox="0 0 1255 530" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-solfa-youraisemeup-chorus-fa</title>
+    <g id="m1-solfa-youraisemeup-chorus-fa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1255" height="530"></rect>
+        <line x1="43.7837934" y1="206" x2="1210.04302" y2="206" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="246" x2="1210.04302" y2="246" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="286" x2="1210.04302" y2="286" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="306" x2="1210.04302" y2="306" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="346" x2="1210.04302" y2="346" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="166" x2="1210.04302" y2="166" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="424.5" x2="1210.04302" y2="424.5" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="464.5" x2="1210.04302" y2="464.5" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="404.5" x2="1210.04302" y2="404.5" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <path id="X-Axis" d="M1217.25,372.75 L1244.25,386 L1217.25,399.25 L1217.25,388.25 L40.5,388.25 L40.5,383.75 L1217.25,383.75 L1217.25,372.75 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <line x1="43.6966321" y1="146" x2="1209.69295" y2="146" id="do" stroke="#AAAAAA" stroke-width="3" stroke-linecap="square" fill-rule="nonzero"></line>
+        <polyline id="Path-72" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero" points="89 245 110 205 129 165 149 145 176.5 145 199 165 219 165 239 206 259 246 279 286 299 245 321 245 339 306 353.5 305"></polyline>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="79" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="99" y="195" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="119" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="139" y="135" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="209" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="189" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="229" y="195" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="249" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#FF6633" fill-rule="nonzero" x="269" y="275" width="20" height="20" rx="10"></rect>
+        <path id="Line" d="M304.5,258.5 L304.733593,274.150733 L299.327,271.547 L292.401002,285.933816 L291.967186,286.834817 L290.165183,285.967186 L290.598998,285.066184 L297.525,270.68 L292.11957,268.077314 L304.5,258.5 Z" fill="#FF6633" fill-rule="nonzero"></path>
+        <path id="Line" d="M600.5,258.5 L600.733593,274.150733 L595.327,271.547 L588.401002,285.933816 L587.967186,286.834817 L586.165183,285.967186 L586.598998,285.066184 L593.525,270.68 L588.11957,268.077314 L600.5,258.5 Z" fill="#FF6633" fill-rule="nonzero"></path>
+        <path id="Line" d="M895.5,258.5 L895.733593,274.150733 L890.327,271.547 L883.401002,285.933816 L882.967186,286.834817 L881.165183,285.967186 L881.598998,285.066184 L888.525,270.68 L883.11957,268.077314 L895.5,258.5 Z" fill="#FF6633" fill-rule="nonzero"></path>
+        <path id="Line" d="M1001.53534,274.086228 L1002.22456,274.810786 L1012.075,285.166 L1016.42291,281.031691 L1021,296 L1006.2791,290.680683 L1010.626,286.545 L1000.77544,276.189214 L1000.08623,275.464656 L1001.53534,274.086228 Z" fill="#58C322" fill-rule="nonzero"></path>
+        <path id="Line" d="M1073.53534,274.086228 L1074.22456,274.810786 L1084.075,285.166 L1088.42291,281.031691 L1093,296 L1078.2791,290.680683 L1082.626,286.545 L1072.77544,276.189214 L1072.08623,275.464656 L1073.53534,274.086228 Z" fill="#58C322" fill-rule="nonzero"></path>
+        <rect id="Solfa-note" fill="#FF6633" fill-rule="nonzero" x="289" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="329" y="295" width="20" height="20" rx="10"></rect>
+        <polyline id="Path-72" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero" points="383.5 245 404.5 205 423.5 165 443.5 145 471 145 493.5 165 513.5 165 533.5 206 553.5 246 573.5 286 593.5 245 642.5 245"></polyline>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="373.5" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="393.5" y="195" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="413.5" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="433.5" y="135" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="503.5" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="483.5" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="523.5" y="195" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="543.5" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#FF6633" fill-rule="nonzero" x="563.5" y="275" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#FF6633" fill-rule="nonzero" x="583.5" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="603.5" y="235" width="20" height="20" rx="10"></rect>
+        <polyline id="Path-72" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero" points="692.5 246 712.5 165 732.5 145 760 145 782.5 165 802.5 165 822.5 206 842.5 246 862.5 286 882.5 245 902.5 146"></polyline>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="682.5" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="702.5" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="722.5" y="135" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="792.5" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="772.5" y="155" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="812.5" y="195" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="832.5" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#FF6633" fill-rule="nonzero" x="852.5" y="275" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#FF6633" fill-rule="nonzero" x="872.5" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="892.5" y="135" width="20" height="20" rx="10"></rect>
+        <text id="Celtic-Woman.&quot;You-Ra" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-ItalicMT, Arial" font-size="16" font-style="italic" font-weight="normal">
+            <tspan x="918" y="516">Celtic Woman."You Raise Me Up" (2002)</tspan>
+        </text>
+        <text id="Key-:-C" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="20.25" font-weight="bold">
+            <tspan x="16.5" y="33.5">Key : C</tspan>
+        </text>
+        <g id="solfa-syllable" transform="translate(15.285520, 376.839155)" fill="#AAAAAA" fill-rule="nonzero">
+            <path d="M2.65518,12.93732 C3.97386,12.93732 4.84704,12.15324 5.41728,11.0484 L5.54202,11.0484 C5.54202,12.18888 6.21918,12.79476 7.25274,12.79476 C7.46658,12.79476 7.6626,12.77694 7.85862,12.72348 L8.05464,11.4048 C7.46658,11.4048 7.128,11.08404 7.128,10.53162 C7.128,10.38906 7.16364,10.2465 7.18146,10.10394 L8.58924,-3.55271368e-15 L5.4351,-3.55271368e-15 L5.23908,1.31868 L6.43302,1.31868 L5.98752,4.47282 C5.75586,4.40154 5.47074,4.3659 5.13216,4.3659 C2.1384,4.3659 4.4408921e-16,6.82506 4.4408921e-16,9.74754 C4.4408921e-16,11.7612 1.03356,12.93732 2.65518,12.93732 Z M3.2967,11.26224 C2.53044,11.26224 2.08494,10.65636 2.08494,9.48024 C2.08494,7.55568 3.18978,5.86278 4.95396,5.86278 C5.29254,5.86278 5.55984,5.93406 5.77368,6.02316 L5.41728,8.53578 C5.20344,10.08612 4.38372,11.26224 3.2967,11.26224 Z M12.95811,12.93732 C15.66675,12.93732 17.21709,10.74546 17.21709,8.12592 C17.21709,5.7024 15.80931,4.24116 13.61745,4.24116 C10.90881,4.24116 9.35847,6.4152 9.35847,9.01692 C9.35847,11.42262 10.71279,12.93732 12.95811,12.93732 Z M12.99375,11.47608 C11.85327,11.47608 11.44341,10.49598 11.44341,9.14166 C11.44341,7.55568 12.01365,5.7024 13.56399,5.7024 C14.70447,5.7024 15.13215,6.6825 15.13215,8.019 C15.13215,9.60498 14.54409,11.47608 12.99375,11.47608 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="solfa-syllable" transform="translate(15.285520, 137.839155)" fill="#AAAAAA" fill-rule="nonzero">
+            <path d="M2.65518,12.93732 C3.97386,12.93732 4.84704,12.15324 5.41728,11.0484 L5.54202,11.0484 C5.54202,12.18888 6.21918,12.79476 7.25274,12.79476 C7.46658,12.79476 7.6626,12.77694 7.85862,12.72348 L8.05464,11.4048 C7.46658,11.4048 7.128,11.08404 7.128,10.53162 C7.128,10.38906 7.16364,10.2465 7.18146,10.10394 L8.58924,-3.55271368e-15 L5.4351,-3.55271368e-15 L5.23908,1.31868 L6.43302,1.31868 L5.98752,4.47282 C5.75586,4.40154 5.47074,4.3659 5.13216,4.3659 C2.1384,4.3659 4.4408921e-16,6.82506 4.4408921e-16,9.74754 C4.4408921e-16,11.7612 1.03356,12.93732 2.65518,12.93732 Z M3.2967,11.26224 C2.53044,11.26224 2.08494,10.65636 2.08494,9.48024 C2.08494,7.55568 3.18978,5.86278 4.95396,5.86278 C5.29254,5.86278 5.55984,5.93406 5.77368,6.02316 L5.41728,8.53578 C5.20344,10.08612 4.38372,11.26224 3.2967,11.26224 Z M12.95811,12.93732 C15.66675,12.93732 17.21709,10.74546 17.21709,8.12592 C17.21709,5.7024 15.80931,4.24116 13.61745,4.24116 C10.90881,4.24116 9.35847,6.4152 9.35847,9.01692 C9.35847,11.42262 10.71279,12.93732 12.95811,12.93732 Z M12.99375,11.47608 C11.85327,11.47608 11.44341,10.49598 11.44341,9.14166 C11.44341,7.55568 12.01365,5.7024 13.56399,5.7024 C14.70447,5.7024 15.13215,6.6825 15.13215,8.019 C15.13215,9.60498 14.54409,11.47608 12.99375,11.47608 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="solfa-syllable" transform="translate(13.325320, 277.125315)" fill="#AAAAAA" fill-rule="nonzero">
+            <path d="M1.3365,17.17848 C3.24324,17.17848 4.33026,15.75288 4.66884,13.2759 L5.7024,5.98752 L7.60914,5.98752 L7.78734,4.66884 L5.8806,4.66884 L6.04098,3.4749 C6.20136,2.17404 6.78942,1.49688 7.9299,1.49688 C8.23284,1.49688 8.57142,1.55034 8.83872,1.65726 L9.03474,0.30294 C8.60706,0.0891 8.07246,0 7.59132,0 C5.77368,0 4.40154,1.08702 4.0986,3.2967 L3.90258,4.66884 L2.69082,4.66884 L2.4948,5.98752 L3.72438,5.98752 L2.69082,13.40064 C2.47698,14.86188 2.0493,15.71724 1.01574,15.71724 C0.74844,15.71724 0.42768,15.64596 0.19602,15.52122 L8.8817842e-16,16.929 C0.42768,17.1072 0.87318,17.17848 1.3365,17.17848 Z M10.42767,13.04424 C11.63943,13.04424 12.72645,12.36708 13.17195,11.20878 L13.31451,11.20878 L13.31451,11.4048 C13.31451,12.42054 13.93821,13.0086 15.02523,13.0086 C15.23907,13.0086 15.43509,12.99078 15.64893,12.93732 L15.84495,11.61864 C15.23907,11.61864 14.93613,11.29788 14.93613,10.72764 C14.93613,10.58508 14.95395,10.4247 14.97177,10.26432 L15.72021,4.9896 C14.90049,4.57974 14.00949,4.455 13.20759,4.455 C9.85743,4.455 7.82595,6.93198 7.82595,9.801 C7.82595,11.72556 8.77041,13.04424 10.42767,13.04424 Z M11.14047,11.35134 C10.30293,11.35134 9.91089,10.62072 9.91089,9.51588 C9.91089,7.60914 11.03355,5.89842 12.77991,5.89842 C13.10067,5.89842 13.36797,5.95188 13.59963,6.0588 L13.27887,8.21502 C13.06503,9.74754 12.35223,11.35134 11.14047,11.35134 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="solfa-syllable" transform="translate(15.053860, 242.080315)" fill="#AAAAAA" fill-rule="nonzero">
+            <path d="M2.79774,8.69616 C4.75794,8.69616 6.34392,7.98336 6.34392,6.20136 C6.34392,5.0787 5.7024,4.455 4.65102,3.97386 L3.40362,3.40362 C2.79774,3.13632 2.47698,2.81556 2.47698,2.33442 C2.47698,1.63944 3.10068,1.31868 3.97386,1.31868 C4.34808,1.31868 4.70448,1.38996 4.95396,1.47906 L4.77576,2.77992 L6.4152,2.77992 L6.73596,0.51678 C6.1479,0.2673 5.23908,1.59872116e-14 4.04514,1.59872116e-14 C1.9602,1.59872116e-14 0.49896,0.81972 0.49896,2.60172 C0.49896,3.67092 1.05138,4.40154 2.06712,4.86486 L3.31452,5.41728 C3.84912,5.66676 4.16988,5.93406 4.16988,6.37956 C4.16988,7.00326 3.564,7.27056 2.72646,7.27056 C1.72854,7.27056 0.81972,6.93198 0.21384,6.57558 L-1.66533454e-15,8.1081 C0.58806,8.4645 1.6929,8.69616 2.79774,8.69616 Z M11.33649,8.69616 C14.04513,8.69616 15.59547,6.5043 15.59547,3.88476 C15.59547,1.46124 14.18769,1.59872116e-14 11.99583,1.59872116e-14 C9.28719,1.59872116e-14 7.73685,2.17404 7.73685,4.77576 C7.73685,7.18146 9.09117,8.69616 11.33649,8.69616 Z M11.37213,7.23492 C10.23165,7.23492 9.82179,6.25482 9.82179,4.9005 C9.82179,3.31452 10.39203,1.46124 11.94237,1.46124 C13.08285,1.46124 13.51053,2.44134 13.51053,3.77784 C13.51053,5.36382 12.92247,7.23492 11.37213,7.23492 Z" id="Combined-Shape"></path>
+        </g>
+        <line x1="43.7837934" y1="103" x2="1210.04302" y2="103" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="43.7837934" y1="63" x2="1210.04302" y2="63" id="X-lines" stroke="#CCCCCC" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></line>
+        <polyline id="Path-73" stroke="#000000" stroke-width="3" stroke-linecap="square" fill-rule="nonzero" points="948 245 968 245 988 286 1008 305 1039 305.5 1057.5 286 1078 306 1098 345 1118 386 1138 405 1148 385 1193.5 385"></polyline>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="958" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="938" y="235" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#58C322" fill-rule="nonzero" x="978" y="275" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#58C322" fill-rule="nonzero" x="998" y="295" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#58C322" fill-rule="nonzero" x="1048" y="276" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#58C322" fill-rule="nonzero" x="1068" y="295" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="1088" y="335" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="1108" y="375" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="1128" y="395" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="1138" y="375" width="20" height="20" rx="10"></rect>
+        <rect id="Solfa-note" fill="#000000" fill-rule="nonzero" x="1158" y="375" width="20" height="20" rx="10"></rect>
+    </g>
+</svg>

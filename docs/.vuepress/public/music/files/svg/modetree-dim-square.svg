@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 260 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-17844,-3767)">
+        <g id="modetree-dim-square" transform="matrix(0.628877,0,0,0.625521,6622.33,1410.46)">
+            <rect x="17844" y="3767.32" width="413.436" height="415.654" style="fill:none;"/>
+            <g transform="matrix(1.32905,0,0,2.76294,9868.01,-12508.6)">
+                <path d="M6309.95,5928.99C6309.95,5908.56 6275.64,5891.96 6233.38,5891.96L6080.23,5891.96C6037.97,5891.96 6003.66,5908.56 6003.66,5928.99L6003.66,6003.06C6003.66,6023.49 6037.97,6040.09 6080.23,6040.09L6233.38,6040.09C6275.64,6040.09 6309.95,6023.49 6309.95,6003.06L6309.95,5928.99Z" style="fill:rgb(246,34,49);"/>
+            </g>
+            <g transform="matrix(2.94566,0,0,2.96146,-23244.9,-52869.1)">
+                <g transform="matrix(138.195,0,0,138.195,13989.7,19222.3)">
+                    <path d="M0.212,-0.061C0.144,-0.061 0.115,-0.12 0.115,-0.201C0.115,-0.282 0.144,-0.332 0.212,-0.332C0.282,-0.332 0.311,-0.282 0.311,-0.201C0.311,-0.12 0.282,-0.061 0.212,-0.061ZM0.213,0.005C0.326,0.005 0.391,-0.088 0.391,-0.202C0.391,-0.313 0.326,-0.405 0.213,-0.405C0.1,-0.405 0.035,-0.313 0.035,-0.202C0.035,-0.088 0.1,0.005 0.213,0.005Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

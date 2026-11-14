@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1799px" height="800px" viewBox="0 0 1799 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>P-synth-waves-jp</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5C3DF5" offset="0%"></stop>
+            <stop stop-color="#FF5500" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="P-synth-waves-jp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1799" height="800"></rect>
+        <rect id="bg" fill="#FAFAFA" fill-rule="nonzero" x="0" y="-52" width="360" height="952"></rect>
+        <rect id="bg" fill="#F3F3F3" fill-rule="nonzero" x="360" y="-52" width="360" height="952"></rect>
+        <rect id="bg" fill="#FAFAFA" fill-rule="nonzero" x="720" y="-52" width="360" height="952"></rect>
+        <rect id="bg" fill="#FAFAFA" fill-rule="nonzero" x="1439" y="-52" width="360" height="952"></rect>
+        <rect id="bg" fill="#F3F3F3" fill-rule="nonzero" x="1080" y="-52" width="360" height="952"></rect>
+        <g id="Group-4" transform="translate(400.000000, 31.000000)">
+            <text id="Triangle" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="93.3242188" y="72">Triangle</tspan>
+            </text>
+            <text id="三角波" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#000000">
+                <tspan x="86" y="32">三角波</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 405.000000)">
+                <line x1="4" y1="232" x2="280" y2="232" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="208" x2="280" y2="208" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="184" x2="280" y2="184" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="160" x2="280" y2="160" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="136" x2="280" y2="136" id="amplitude" stroke="#AAAAAA" opacity="0.400000006" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="112" x2="280" y2="112" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="88" x2="280" y2="88" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="64" x2="280" y2="64" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="40" x2="280" y2="40" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+                <line x1="4" y1="16" x2="280" y2="16" id="amplitude" stroke="#AAAAAA" opacity="0.25" stroke-linecap="square" fill-rule="nonzero"></line>
+                <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="18" y="16" width="6" height="240"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="38" y="196" width="6" height="60"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="58" y="229.333333" width="6" height="26.6666667"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="78" y="241" width="6" height="15"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="98" y="246.4" width="6" height="9.6"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="118" y="249.333333" width="6" height="6.66666667"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="138" y="251.102857" width="6" height="4.89714286"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="158" y="252.25" width="6" height="3.75"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="178" y="253.037778" width="6" height="2.96222222"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="198" y="253.6" width="6" height="2.4"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="218" y="254.016364" width="6" height="1.98363636"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="238" y="254.333333" width="6" height="1.66666667"></rect>
+                <rect id="axis" fill="#000000" fill-rule="nonzero" x="0" y="0" width="4" height="256"></rect>
+                <rect id="axis" fill="#000000" fill-rule="nonzero" x="0" y="256" width="280" height="4"></rect>
+                <text id="1" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="17.1069336" y="13">1</tspan>
+                </text>
+                <text id="3" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="57.1069336" y="225">3</tspan>
+                </text>
+                <text id="5" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="97.1069336" y="243">5</tspan>
+                </text>
+                <text id="7" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="137.106934" y="247">7</tspan>
+                </text>
+                <text id="9" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="177.106934" y="249">9</tspan>
+                </text>
+                <text id="11" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-1.60000002">
+                    <tspan x="213.200098" y="251">11</tspan>
+                </text>
+                <text id="…" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+                    <tspan x="256" y="259">…</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(1120.000000, 31.000000)">
+            <text id="Sawtooth" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="85.0058594" y="72">Sawtooth</tspan>
+            </text>
+            <text id="ノコギリ波" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#000000">
+                <tspan x="49" y="32">锯齿波</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 403.000000)" fill-rule="nonzero">
+                <line x1="4" y1="234" x2="280" y2="234" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="210" x2="280" y2="210" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="186" x2="280" y2="186" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="162" x2="280" y2="162" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="138" x2="280" y2="138" id="amplitude" stroke="#AAAAAA" opacity="0.400000006" stroke-linecap="square"></line>
+                <line x1="4" y1="114" x2="280" y2="114" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="90" x2="280" y2="90" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="66" x2="280" y2="66" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="42" x2="280" y2="42" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="18" x2="280" y2="18" id="amplitude" stroke="#AAAAAA" opacity="0.25" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#58C322" x="18" y="18" width="6" height="240"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="38" y="138" width="6" height="120"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="58" y="178" width="6" height="80"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="78" y="198" width="6" height="60"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="98" y="210" width="6" height="48"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="118" y="218" width="6" height="40"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="138" y="223.714286" width="6" height="34.2857143"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="158" y="228" width="6" height="30"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="178" y="231.333333" width="6" height="26.6666667"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="198" y="234" width="6" height="24"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="218" y="236.181818" width="6" height="21.8181818"></rect>
+                <rect id="Rectangle" fill="#FFBF00" x="238" y="238" width="6" height="20"></rect>
+                <rect id="axis" fill="#000000" x="0" y="2" width="4" height="256"></rect>
+                <rect id="axis" fill="#000000" x="0" y="258" width="280" height="4"></rect>
+                <text id="1" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="17.1069336" y="13">1</tspan>
+                </text>
+                <text id="2" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="37.1069336" y="133">2</tspan>
+                </text>
+                <text id="3" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="57.1069336" y="173">3</tspan>
+                </text>
+                <text id="4" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="77.1069336" y="193">4</tspan>
+                </text>
+                <text id="5" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="97.1069336" y="207">5</tspan>
+                </text>
+                <text id="6" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="117.106934" y="215">6</tspan>
+                </text>
+                <text id="7" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="137.106934" y="221">7</tspan>
+                </text>
+                <text id="8" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="157.106934" y="227">8</tspan>
+                </text>
+                <text id="9" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="177.106934" y="229">9</tspan>
+                </text>
+                <text id="10" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-1.60000002">
+                    <tspan x="192.813867" y="231">10</tspan>
+                </text>
+                <text id="11" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-1.60000002">
+                    <tspan x="213.200098" y="233">11</tspan>
+                </text>
+                <text id="12" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-1.60000002">
+                    <tspan x="232.813867" y="235">12</tspan>
+                </text>
+            </g>
+            <text id="…" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+                <tspan x="256" y="660">…</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(40.000000, 31.000000)">
+            <text id="Sine" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="114.658203" y="72">Sine</tspan>
+            </text>
+            <text id="正弦波" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#000000">
+                <tspan x="86" y="32">正弦波</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 405.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#58C322" x="18" y="16" width="6" height="240"></rect>
+                <line x1="4" y1="232" x2="280" y2="232" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="208" x2="280" y2="208" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="184" x2="280" y2="184" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="160" x2="280" y2="160" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="136" x2="280" y2="136" id="amplitude" stroke="#AAAAAA" opacity="0.400000006" stroke-linecap="square"></line>
+                <line x1="4" y1="112" x2="280" y2="112" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="88" x2="280" y2="88" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="64" x2="280" y2="64" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="40" x2="280" y2="40" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="16" x2="280" y2="16" id="amplitude" stroke="#AAAAAA" opacity="0.25" stroke-linecap="square"></line>
+                <text id="1" fill="#AAAAAA" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="16.1069336" y="13">1</tspan>
+                </text>
+                <rect id="axis" fill="#000000" x="0" y="0" width="4" height="256"></rect>
+                <rect id="axis" fill="#000000" x="0" y="256" width="280" height="4"></rect>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(760.000000, 31.000000)">
+            <text id="Square" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="100.318359" y="72">Square</tspan>
+            </text>
+            <text id="矩形波" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#000000">
+                <tspan x="87" y="32">矩形波</tspan>
+            </text>
+            <line x1="4" y1="637" x2="280" y2="637" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="613" x2="280" y2="613" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="589" x2="280" y2="589" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="565" x2="280" y2="565" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="541" x2="280" y2="541" id="amplitude" stroke="#AAAAAA" opacity="0.400000006" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="517" x2="280" y2="517" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="493" x2="280" y2="493" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="469" x2="280" y2="469" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="445" x2="280" y2="445" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square" fill-rule="nonzero"></line>
+            <line x1="4" y1="421" x2="280" y2="421" id="amplitude" stroke="#AAAAAA" opacity="0.25" stroke-linecap="square" fill-rule="nonzero"></line>
+            <g id="Group" transform="translate(0.000000, 401.000000)">
+                <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="18" y="20" width="6" height="240"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="38" y="140" width="6" height="120"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="58" y="180" width="6" height="80"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="78" y="200" width="6" height="60"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="98" y="212" width="6" height="48"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="118" y="220" width="6" height="40"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="138" y="225.714286" width="6" height="34.2857143"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="158" y="230" width="6" height="30"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="178" y="233.333333" width="6" height="26.6666667"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="198" y="236" width="6" height="24"></rect>
+                <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="218" y="238.181818" width="6" height="21.8181818"></rect>
+                <rect id="Rectangle" fill="#7D7D7D" fill-rule="nonzero" opacity="0.0958208357" x="238" y="240" width="6" height="20"></rect>
+                <rect id="axis" fill="#000000" fill-rule="nonzero" x="0" y="4" width="4" height="256"></rect>
+                <rect id="axis" fill="#000000" fill-rule="nonzero" x="0" y="260" width="280" height="4"></rect>
+                <text id="1" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="17.1069336" y="13">1</tspan>
+                </text>
+                <text id="3" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="57.1069336" y="173">3</tspan>
+                </text>
+                <text id="5" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="97.1069336" y="207">5</tspan>
+                </text>
+                <text id="7" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="137.106934" y="221">7</tspan>
+                </text>
+                <text id="9" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold">
+                    <tspan x="177.106934" y="229">9</tspan>
+                </text>
+                <text id="11" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-1.60000002">
+                    <tspan x="213.200098" y="233">11</tspan>
+                </text>
+                <text id="…" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+                    <tspan x="256" y="259">…</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-6" transform="translate(40.162162, 410.000000)">
+            <rect id="Rectangle" fill="#58C322" fill-rule="nonzero" x="0" y="0" width="4.54054054" height="18"></rect>
+            <text id="基音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+                <tspan x="12.2702703" y="16">基音</tspan>
+            </text>
+            <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="163.567568" y="0" width="4.54054054" height="18"></rect>
+            <text id="倍音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+                <tspan x="175.837838" y="16">倍音</tspan>
+            </text>
+        </g>
+        <text id="奇数次の倍音のみ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="449" y="741">仅含奇次倍音</tspan>
+        </text>
+        <text id="上音全くなし" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="108" y="741">完全没有泛音</tspan>
+        </text>
+        <text id="(第n倍音の振幅=基音の1/n²)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="418.518" y="774">(第n次泛音的振幅=基音的1/n²)</tspan>
+        </text>
+        <text id="(第n倍音の振幅=基音の1/n)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="782.325" y="774">(第n次泛音的振幅=基音的1/n)</tspan>
+        </text>
+        <text id="(第n倍音の振幅=基音の1/n)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="1138.325" y="774">(第n次泛音的振幅=基音的1/n)</tspan>
+        </text>
+        <text id="(ランダムに揺れる)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="1536.692" y="774">(随机晃动)</tspan>
+        </text>
+        <text id="奇数次の倍音のみ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="805.5" y="741">仅含奇次倍音</tspan>
+        </text>
+        <text id="全ての整数次の倍音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="1151.5" y="741">包含所有整数次泛音</tspan>
+        </text>
+        <g id="Group-2" transform="translate(1480.000000, 31.000000)">
+            <text id="White-Noise" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="70.328125" y="72">White Noise</tspan>
+            </text>
+            <text id="ホワイトノイズ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#000000">
+                <tspan x="13" y="32">白噪声</tspan>
+            </text>
+            <g id="Group" transform="translate(0.000000, 405.000000)" fill-rule="nonzero">
+                <rect id="axis" fill="#000000" x="0" y="0" width="4" height="256"></rect>
+                <rect id="axis" fill="#000000" x="0" y="256" width="280" height="4"></rect>
+                <line x1="4" y1="232" x2="280" y2="232" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="208" x2="280" y2="208" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="184" x2="280" y2="184" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="160" x2="280" y2="160" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="136" x2="280" y2="136" id="amplitude" stroke="#AAAAAA" opacity="0.400000006" stroke-linecap="square"></line>
+                <line x1="4" y1="112" x2="280" y2="112" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="88" x2="280" y2="88" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="64" x2="280" y2="64" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="40" x2="280" y2="40" id="amplitude" stroke="#AAAAAA" opacity="0.200000003" stroke-linecap="square"></line>
+                <line x1="4" y1="16" x2="280" y2="16" id="amplitude" stroke="#AAAAAA" opacity="0.25" stroke-linecap="square"></line>
+            </g>
+            <text id="…" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+                <tspan x="256" y="660">…</tspan>
+            </text>
+            <path d="M4,496.5 C17.3333333,496.5 24,496.5 24,496.5 L42.25,498.5 L54.75,496.5 L71.25,497.5 L101,493.75 L132,498.5 L164,493.75 L205.5,498.5 L225,496.25 L259,498.5 L280,493.75" id="Path" stroke="#5C3DF5" stroke-width="3" stroke-linecap="square" fill-rule="nonzero"></path>
+            <path d="M4,496.5 C17.3333333,496.5 24,496.5 24,496.5 L42.25,498.5 L54.75,496.5 L71.25,497.5 L101,493.75 L132,498.5 L164,493.75 L205.5,498.5 L225,496.25 L259,498.5 L280,493.75 L280,663 L4,663" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.408220564"></path>
+        </g>
+        <text id="全ての周波数帯を含む" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="1503" y="741">包含所有频段</tspan>
+        </text>
+        <polyline id="tri" stroke="#000000" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" points="450 191 472.5 156 495 191 517.5 226 540 191"></polyline>
+        <g id="Group-7" transform="translate(1260.000000, 191.000000) scale(-1, 1) translate(-1260.000000, -191.000000) translate(1170.000000, 156.000000)" fill-rule="nonzero" stroke="#000000" stroke-linecap="square" stroke-width="8">
+            <polyline id="saw" points="0 35 -3.19744231e-13 0 45 35 90 70 90 35"></polyline>
+            <polyline id="saw" points="90 35 90 0 135 35 180 70 180 35"></polyline>
+        </g>
+        <path d="M90,191 C98.0625,168.6875 104.4375,156 112.5,156 C121.875,156 127.875,172.1875 135,191 C142.125,208.5 145.3125,226 157.5,226 C168.9375,226 174.5625,205.4375 180,191" id="sine" stroke="#000000" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></path>
+        <polyline id="pul" stroke="#000000" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" points="810 191 810 156 855 156 855 226 900 226 900 191"></polyline>
+        <polyline id="saw" stroke="#000000" stroke-width="6" stroke-linecap="square" stroke-linejoin="round" fill-rule="nonzero" points="1530 190.680949 1536.1165 162.125708 1547.91262 226.375 1557.08738 142.375 1571.06796 208.052054 1588.54369 175.213527 1588.54369 214.476983 1610.38835 179.972734 1618.25243 208.052054 1635.50971 151.417493 1647.08738 226.375 1654.51456 179.972734 1665.87379 208.052054 1679.41748 162.125708 1689.46602 219.23619 1710 190.680949"></polyline>
+        <text id="(ランダム)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="1584.504" y="258">(随机)</tspan>
+        </text>
+        <polyline id="tri" stroke="#000000" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" points="540 191 562.5 156 585 191 607.5 226 630 191"></polyline>
+        <path d="M180,191 C188.0625,168.6875 194.4375,156 202.5,156 C211.875,156 217.875,172.1875 225,191 C232.125,208.5 235.3125,226 247.5,226 C258.9375,226 264.5625,205.4375 270,191" id="sine" stroke="#000000" stroke-width="8" stroke-linecap="square" fill-rule="nonzero"></path>
+        <polyline id="pul" stroke="#000000" stroke-width="8" stroke-linecap="square" fill-rule="nonzero" points="900 191 900 156 945 156 945 226 990 226 990 191"></polyline>
+        <text id="ちょっとこもり気味" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="437" y="311">音色稍显发闷</tspan>
+        </text>
+        <text id="静かで透き通ってる" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="72" y="311">安静且清澈通透</tspan>
+        </text>
+        <text id="明るいけど抜け感もある" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="769.5" y="311">明亮且兼具通透感</tspan>
+        </text>
+        <text id="ギラギラしてリッチ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="1151.5" y="311">华丽闪耀且饱满</tspan>
+        </text>
+        <text id="ザーザーしてうるさい" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="1503" y="311">沙沙作响很吵闹</tspan>
+        </text>
+        <text id="(※個人の感想です)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="1639.504" y="349">(※仅代表个人感想)</tspan>
+        </text>
+        <line x1="0" y1="374.5" x2="1799" y2="374.5" id="Path-42" stroke="#888888" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+    </g>
+</svg>

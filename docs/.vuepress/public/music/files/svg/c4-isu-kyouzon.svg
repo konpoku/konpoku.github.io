@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="410px" viewBox="0 0 400 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c4-isu-kyouzon</title>
+    <g id="c4-isu-kyouzon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(25.000000, 277.866612)">
+            <g id="BG" transform="translate(0.000000, 27.133388)" fill="#0A0A0A" fill-opacity="0.05">
+                <ellipse id="Oval" cx="174" cy="33.5" rx="174" ry="33.5"></ellipse>
+            </g>
+            <g id="しっぽ" transform="translate(247.783785, 29.209286) rotate(-90.000000) translate(-247.783785, -29.209286) translate(244.437298, 17.068588)" fill="#E05426">
+                <rect id="Rectangle" x="-0.270588938" y="0.356913159" width="7" height="24"></rect>
+            </g>
+            <g id="しっぽ1" transform="translate(181.626151, 11.335939)">
+                <image id="_Image1" x="0.373848722" y="-0.202550677" width="50" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA1CAYAAAAd84i6AAAABGdBTUEAALGOfPtRkwAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAADygAwAEAAAAAQAAADUAAAAAWh1T3QAAAAlwSFlzAAAOxAAADsQBlSsOGwAABUdJREFUaAXlmUF2HDcMRCU/b33EXCQH8EVyRO+dTFHzqWINyOb0tLwJ39NUoVAAAXXLceT3ty84v/75+/2Ktj/++vnvFX28xyWDXbWgD1bxK74Bpxf+U0tWi0s7u/zTCz+x6NO9Y7mt1/nZxbeH2lg0e2Uc+xyGuXDGQ4PdxbeGOljWezgfBooA33IJq3Gfc7PsveZcPBR6sFjWa51TXmnkdrBazDXnvd/Rk54OdXLRWb+Z3ge9k3KJWy51j533frPFv3fHHmFwkKqMpaOBeFcoLwuA8tMDzWOvWfVuOQoH4+Tp4gWp8RgO4hFWmudZptI851xeYrDXV0/5YYgnlvVaOKhLnTNEpSn3MGxo5MGsQQeVbyeX3nmlGRJUo+QZf9z26fM8OUfyDCx0Da4aPNKSuybvw/FGb4un677kxKAuEc/44fJCYAGlxDNe6VVO2vC3sj7UYlnV4APRiB2dy6eDllxxtZTrvjhe19LrsXg7vNqrV5ohE9VAmusZt0vCJ40a8mgsojzLuBddfuXJZR0+UP7hrBaWkcZeJA0d7jF1qaF7rxlXrS/uS6rGY5amF7XEA7ahitc5h/U4+SrWZcrjGS4vApZUikXQjuKs8Vi8/SyvnnA1JFqF0lzPuF268aE6X46eKpVOPlF5DjnijquFMXHhCpXjS3XJU1Psh6eoOpbyvHPyK3T/wN+feJ2/3StZBpS8yrlPXsV+NDhHnBgOyvP7bkQDM6dYOR2wBTtPWMYcshXfP8ixGEid570OTl6DVRwf+WEBkvfaWa7beDJduBMuBskTg9JXnJyjuO7Vl7jnbuGgEQt18Dp3baUr11/FFmx+cIFwxtXKc8ReU2lVjfsqLm37zJ7wdoOJsRocrSrxbwQ+sPKf1q5c2AdMXsXSKp1lMof+Eu4u7Jf7haln7F7xKl9pXpf5jPHOdPINdxceijaDrQEmvV6pnbT8kL9y4cP/RCwme6V20Xb/T+nZAKlnnJdX+UrzusxnjHemk2+4+xePoWgS6EJexeQq8VzVQjU+9IxXtdvaV73SDOsIr4ZTjnxi5T+tnVnYB5pxDeQ5YmnolUauQtecq8/2mS08a1jpaLo0ObGjuP4nQF/inruFg0Ys1MHr3LWVrtzb7s+wmvIz2Artg1xeLD9acivvHmnyUwMHyQurQ12V69o3frnVlc8LTWrUGzIEGiij5+A8zSqPhocaUHkdxTroxGgtGR/uOfyNB7Uq4gnNEG9i+ocB0nyLyQv5kg3uefQKpZVn9UqruQb2g1YhPpZUjI/cEcqvLx3Hme6+VnT/oNa1xvtCk9989PzNDRcm91iN0yNNB99H9PnpA8JnS6bufjq6p2n86K6esIwqzCG5QDpcXmKwqpWvOt5HPGPVoJMjzn7kU2/xamEVMryjCmmKjqaYQ44+0p3joxf51JXH4wj3OjSQXh19wP/Xvy3xLZj8LCvt35zkGdMOHUSfIU8GlC95xvRCB5vOzy6m1SuNRw00MCg9uTQdfMkZYrY4+dbk/uEaHJSl4q55r87LAYqnrAK8IE08hoN4vN4159WwaKD8zj1OffhnUi6qBmu5F5bO3tM7MAYyOOjp1IjB7s1XmcTOK41XqMZagAtYJmO8ID7Fq0Of9KTusfOse4gPB5k8aTXyWudcUmnkdrBaxDXnvd/syWLYGmqxtPp4D+fcUSG+cuiiwH3OB+vRsjJz8VBYBQdLV722e1f33bRcLOOhbGfZasihSRVsLE7Z1QvTd8DdRSk6PdQTi3PXpfjsolx+emEaCP/U8meX9FkvWdgbXvkNuGLBnO0/tFLqTUON2MYAAAAASUVORK5CYII="></image>
+            </g>
+            <g id="しっぽ2" transform="translate(206.626050, 33.221103) rotate(-90.000000) translate(-206.626050, -33.221103) translate(203.959395, 24.887803)" fill="#F6F7D4">
+                <rect id="Rectangle" x="0.421058814" y="-0.292750753" width="5" height="17"></rect>
+            </g>
+            <g id="しっぽ3" transform="translate(181.626151, 0.000000)">
+                <image id="_Image1" x="0.373848722" y="0.133388158" width="50" height="44" xlink:href="data:image/png;base64,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"></image>
+            </g>
+        </g>
+        <g id="しっぽ4" transform="translate(231.626050, 299.747227) rotate(-90.000000) translate(-231.626050, -299.747227) translate(228.969928, 291.413927)" fill="#F6F7D4">
+            <rect id="Rectangle" x="0.0911044909" y="-0.292750753" width="5" height="17"></rect>
+        </g>
+        <g id="しっぽ5" transform="translate(250.625974, 305.421071) rotate(-90.000000) translate(-250.625974, -305.421071) translate(242.292674, 294.754447)" fill="#E15B2E">
+            <rect id="Rectangle" x="0.087771171" y="0.0406497725" width="17" height="21"></rect>
+        </g>
+        <g id="Group" transform="translate(259.935103, 282.938745) rotate(-180.000000) translate(-259.935103, -282.938745) translate(234.926871, 255.456489)">
+            <g id="しっぽ6" transform="translate(44.183155, 21.666246)" fill="#D14B1E">
+                <rect id="Rectangle" x="-0.0731294839" y="0.456489009" width="6" height="33"></rect>
+            </g>
+            <g id="しっぽ7" transform="translate(0.000000, 21.666246)" fill="#E3673E">
+                <rect id="Rectangle" x="-0.139807976" y="0.123048168" width="47" height="7"></rect>
+            </g>
+            <g id="しっぽ8" transform="translate(0.012833, 0.000000)" fill="#E05629">
+                <rect id="Rectangle" x="-0.00664047243" y="0.122714836" width="6" height="28"></rect>
+            </g>
+        </g>
+        <g id="椅子" transform="translate(193.499698, 259.500000) scale(-1, 1) translate(-193.499698, -259.500000) translate(134.999698, 180.000000)">
+            <g id="脚1" transform="translate(42.075226, 92.088122)" fill="#424D54">
+                <rect id="Rectangle" x="-0.408828424" y="-0.0881219578" width="8" height="67"></rect>
+            </g>
+            <g id="脚2" transform="translate(108.666398, 92.000000)" fill="#424D54">
+                <rect id="Rectangle" x="0.333299737" y="0" width="8" height="67"></rect>
+            </g>
+            <g id="脚3" transform="translate(0.408728, 92.175972)" fill="#424D54">
+                <rect id="Rectangle" x="0.257670264" y="-0.175971604" width="8" height="67"></rect>
+            </g>
+            <g id="座るところ" transform="translate(42.000000, 84.000000)" fill="#424D54">
+                <rect id="Rectangle" x="0" y="0" width="75" height="8"></rect>
+            </g>
+            <g id="座るところ1" fill="#424D54">
+                <rect id="Rectangle" x="0" y="0" width="75" height="67"></rect>
+            </g>
+            <g id="座るところ-右" transform="translate(0.333199, 84.000000)" fill="#323A40">
+                <rect id="Rectangle" x="-0.333501313" y="0" width="42" height="8"></rect>
+            </g>
+            <g id="背もたれ-右" transform="translate(0.408828, 0.421675)" fill="#323A40">
+                <rect id="Rectangle" x="-0.0930697188" y="-0.421674847" width="7" height="92"></rect>
+            </g>
+        </g>
+        <g id="Group" transform="translate(137.000000, 55.000000)">
+            <rect id="Rectangle" fill="#9AAB9F" transform="translate(54.500000, 248.000000) scale(-1, 1) translate(-54.500000, -248.000000) " x="48" y="225" width="13" height="46"></rect>
+            <rect id="Rectangle" fill="#9AAB9F" transform="translate(22.481116, 248.000000) scale(-1, 1) translate(-22.481116, -248.000000) " x="16.4811163" y="225" width="12" height="46"></rect>
+            <rect id="Rectangle" fill="#232D30" transform="translate(53.499940, 275.000000) scale(-1, 1) translate(-53.499940, -275.000000) " x="45.9999395" y="271" width="15" height="8"></rect>
+            <rect id="Rectangle" fill="#232D30" transform="translate(52.499940, 282.500000) scale(-1, 1) translate(-52.499940, -282.500000) " x="44.9999395" y="279" width="15" height="7"></rect>
+            <rect id="Rectangle" fill="#232D30" transform="translate(23.166599, 277.000000) scale(-1, 1) translate(-23.166599, -277.000000) " x="14.6665995" y="271" width="17" height="12"></rect>
+            <path d="M9,92 L76,92 L76,175 L80,175 L80,180 L90,180 L90,188 L99,188 L99,216.666859 L90.532967,216.666859 L90.532967,224.934047 L83.5384615,224.934047 L83.5384615,229 L32,229 L32,221 L15.000262,221 L15.000262,209 L6,209 L6,188 L9,188 L9,92 Z" id="Combined-Shape" fill="#401E1E" transform="translate(52.500000, 160.500000) scale(-1, 1) translate(-52.500000, -160.500000) "></path>
+            <g id="ワンピース" transform="translate(62.500000, 133.500000) scale(-1, 1) translate(-62.500000, -133.500000) translate(29.000000, 92.000000)"></g>
+            <g id="シワ" transform="translate(14.037326, 212.000000) scale(-1, 1) translate(-14.037326, -212.000000) translate(9.037326, 211.000000)" fill="#FFFFFF" fill-opacity="0.66">
+                <rect id="Rectangle" x="0.0373262009" y="0" width="10" height="2"></rect>
+            </g>
+            <g id="シワ1" transform="translate(81.037326, 212.000000) scale(-1, 1) translate(-81.037326, -212.000000) translate(76.037326, 211.000000)" fill="#FFFFFF" fill-opacity="0.66">
+                <rect id="Rectangle" x="0.0373262009" y="0" width="10" height="2"></rect>
+            </g>
+            <g id="シワ2" transform="translate(31.511305, 218.834115) scale(-1, 1) translate(-31.511305, -218.834115) translate(19.011355, 217.792452)" fill="#FFFFFF" fill-opacity="0.66">
+                <rect id="Rectangle" x="0.0113553327" y="0.207547548" width="25" height="2"></rect>
+            </g>
+            <g id="シワ3" transform="translate(57.743583, 223.000765) scale(-1, 1) translate(-57.743583, -223.000765) translate(44.014588, 221.959102)" fill="#FFFFFF" fill-opacity="0.66">
+                <rect id="Rectangle" x="0.0145878649" y="0.0408976797" width="27" height="2"></rect>
+            </g>
+            <g id="シワ4" transform="translate(73.164104, 217.167455) scale(-1, 1) translate(-73.164104, -217.167455) translate(71.492810, 216.125793)" fill="#FFFFFF" fill-opacity="0.66">
+                <rect id="Rectangle" x="0.492810419" y="-0.125792504" width="3" height="2"></rect>
+            </g>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" transform="translate(58.685382, 227.000000) scale(-1, 1) translate(-58.685382, -227.000000) " x="44.1853823" y="225" width="29" height="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" transform="translate(12.000000, 211.000000) scale(-1, 1) translate(-12.000000, -211.000000) " x="6" y="209" width="12" height="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.15" fill="#3E4251" transform="translate(31.500000, 186.000000) scale(-1, 1) translate(-31.500000, -186.000000) " x="23" y="184" width="17" height="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" transform="translate(44.000000, 132.000000) scale(-1, 1) translate(-44.000000, -132.000000) " x="38" y="130" width="12" height="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.05" fill="#000000" transform="translate(43.000000, 167.500000) scale(-1, 1) translate(-43.000000, -167.500000) " x="41" y="159" width="4" height="17"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" transform="translate(81.000000, 192.500000) scale(-1, 1) translate(-81.000000, -192.500000) " x="79" y="184" width="4" height="17"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" transform="translate(77.000000, 171.500000) scale(-1, 1) translate(-77.000000, -171.500000) " x="75" y="159" width="4" height="25"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" transform="translate(31.481066, 219.000000) scale(-1, 1) translate(-31.481066, -219.000000) " x="18.981066" y="217" width="25" height="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.15" fill="#3E4251" transform="translate(56.500000, 194.000000) scale(-1, 1) translate(-56.500000, -194.000000) " x="40" y="192" width="33" height="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.05" fill="#393C48" transform="translate(22.500000, 192.000000) scale(-1, 1) translate(-22.500000, -192.000000) " x="6" y="188" width="33" height="8"></rect>
+            <rect id="Rectangle" fill-opacity="0.05" fill="#333750" transform="translate(46.000000, 179.000000) scale(-1, 1) translate(-46.000000, -179.000000) " x="25" y="175" width="42" height="8"></rect>
+            <rect id="Rectangle" fill-opacity="0" fill="#2999C1" transform="translate(28.500000, 173.000000) scale(-1, 1) translate(-28.500000, -173.000000) " x="25" y="166" width="7" height="14"></rect>
+            <rect id="Rectangle" fill="#F6F7F8" transform="translate(93.500000, 108.500000) scale(-1, 1) translate(-93.500000, -108.500000) " x="87" y="92" width="13" height="33"></rect>
+            <rect id="Rectangle" fill="#F0F1F1" transform="translate(27.000000, 106.500000) scale(-1, 1) translate(-27.000000, -106.500000) " x="23" y="92" width="8" height="29"></rect>
+            <rect id="Rectangle" fill="#F0F1F1" transform="translate(19.999960, 125.500000) scale(-1, 1) translate(-19.999960, -125.500000) " x="14.9999597" y="113" width="10" height="25"></rect>
+            <rect id="Rectangle" fill="#F0F1F1" transform="translate(13.000000, 136.000000) scale(-1, 1) translate(-13.000000, -136.000000) " x="7" y="130" width="12" height="12"></rect>
+            <rect id="Rectangle" fill="#F0F1F1" transform="translate(4.000000, 143.500000) scale(-1, 1) translate(-4.000000, -143.500000) " x="0" y="139" width="8" height="9"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" x="91" y="125" width="4" height="42"></rect>
+            <rect id="Rectangle" fill="#F6F7F8" transform="translate(93.500000, 129.500000) scale(-1, 1) translate(-93.500000, -129.500000) " x="87" y="118" width="13" height="23"></rect>
+            <rect id="Rectangle" fill="#E7A376" x="50" y="40" width="25" height="52"></rect>
+            <rect id="Rectangle" fill="#EDEFF1" x="62" y="84" width="8" height="17"></rect>
+            <rect id="Rectangle" fill="#EDEFF1" x="45" y="84" width="8" height="17"></rect>
+            <rect id="Rectangle" fill="#EDEFF1" x="54" y="92" width="8" height="17"></rect>
+            <rect id="Rectangle" fill="#C05633" x="36" y="25" width="7" height="58"></rect>
+            <rect id="Rectangle" fill="#C05633" x="43" y="25" width="13" height="62"></rect>
+            <path d="M86,43 L43,43 L43,74.35 C43,75.2575 43.73745,76 44.6469,76 L86,76 L86,43 Z" id="Path" fill="#FFC59D"></path>
+            <rect id="Rectangle" fill-opacity="0.7" fill="#131010" x="67" y="44" width="7" height="8"></rect>
+            <rect id="Rectangle" fill-opacity="0.7" fill="#131010" x="46" y="44" width="7" height="8"></rect>
+            <rect id="Rectangle" fill-opacity="0.6" fill="#DA5E48" x="28" y="48" width="8" height="21"></rect>
+            <rect id="Rectangle" fill="#E7683E" x="72" y="76" width="25" height="16"></rect>
+            <rect id="Rectangle" fill="#E7683E" x="77" y="24" width="28" height="59"></rect>
+            <rect id="Rectangle" fill="#E7683E" x="42" y="30" width="38" height="14"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(60.000000, 42.000000) scale(-1, 1) translate(-60.000000, -42.000000) " x="53" y="36" width="14" height="12"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(50.500000, 38.500000) scale(-1, 1) translate(-50.500000, -38.500000) " x="47" y="31" width="7" height="15"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(71.500000, 44.500000) scale(-1, 1) translate(-71.500000, -44.500000) " x="68" y="40" width="7" height="9"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(65.500000, 25.500000) scale(-1, 1) translate(-65.500000, -25.500000) " x="47" y="12" width="37" height="27"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(49.500000, 21.000000) scale(-1, 1) translate(-49.500000, -21.000000) " x="46" y="0" width="7" height="42"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(43.000000, 25.000000) scale(-1, 1) translate(-43.000000, -25.000000) " x="40" y="5" width="6" height="40"></rect>
+            <rect id="Rectangle" fill="#E7683E" x="36" y="12" width="18" height="28"></rect>
+            <rect id="Rectangle" fill="#E7683E" transform="translate(90.500000, 12.500000) scale(-1, 1) translate(-90.500000, -12.500000) " x="84" y="0" width="13" height="25"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#000000" x="97" y="33" width="8" height="50"></rect>
+            <rect id="Rectangle" fill="#2999C1" x="81" y="51" width="14" height="5"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#2999C1" x="81" y="54" width="14" height="5"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#2999C1" x="32" y="55" width="11" height="5"></rect>
+            <path d="M54,68.1807045 C54.7534466,69.9351095 54.9188843,69.9751788 60.6245592,69.9995346 C65.0298172,70.0191764 65.506252,69.4181375 66,68" id="Path" stroke-opacity="0.9" stroke="#E38474" stroke-width="2" transform="translate(60.000000, 69.000000) scale(-1, 1) translate(-60.000000, -69.000000) "></path>
+        </g>
+        <g id="Group" transform="translate(180.000000, 147.500000) scale(-1, 1) translate(-180.000000, -147.500000) translate(126.000000, 29.000000)">
+            <g id="脚" transform="translate(84.500000, 223.500000) scale(-1, 1) translate(-84.500000, -223.500000) translate(64.000000, 217.000000)" fill="#463D38">
+                <rect id="Rectangle" x="0" y="0" width="41" height="13"></rect>
+            </g>
+            <g id="脚1" transform="translate(77.715685, 211.819162) scale(-1, 1) translate(-77.715685, -211.819162) translate(58.173113, 206.815465)" fill="#7F9183">
+                <rect id="Rectangle" x="0.258257189" y="0.184534606" width="39" height="10"></rect>
+            </g>
+            <g id="靴" transform="translate(100.500000, 227.000000) scale(-1, 1) translate(-100.500000, -227.000000) translate(93.000000, 223.000000)" fill="#137199">
+                <rect id="Rectangle" x="0" y="0" width="15" height="8"></rect>
+            </g>
+            <g id="靴1" transform="translate(98.500000, 234.000000) scale(-1, 1) translate(-98.500000, -234.000000) translate(91.000000, 231.000000)" fill="#137199">
+                <rect id="Rectangle" x="0" y="0" width="15" height="6"></rect>
+            </g>
+            <g id="靴2" transform="translate(96.500000, 212.000000) scale(-1, 1) translate(-96.500000, -212.000000) translate(91.000000, 207.000000)" fill="#85756E">
+                <rect id="Rectangle" x="0" y="0" width="11" height="10"></rect>
+            </g>
+            <g transform="translate(50.000000, 161.000000) scale(-1, 1) translate(-50.000000, -161.000000) translate(0.000000, 92.000000)">
+                <path d="M75,87 L85,87 L85,96 L93,96 L93,100 L100,100 L100,133.824156 L78.1,133.824156 L78.1,138 L27,138 L27,129 L4,129 L4,117 L0,117 L0,96 L4,96 L4,82 L5,82 L5,0 L72,0 L72,82 L75,82 L75,87 Z" id="Combined-Shape" fill="#1C234C"></path>
+                <rect id="Rectangle" fill-opacity="0.66" fill="#FFFFFF" x="87" y="122" width="10" height="3"></rect>
+                <rect id="Rectangle" fill-opacity="0.66" fill="#FFFFFF" x="62" y="125" width="25" height="3"></rect>
+                <rect id="Rectangle" fill-opacity="0.66" fill="#FFFFFF" x="35" y="127" width="27" height="3"></rect>
+                <rect id="Rectangle" fill-opacity="0.5" fill="#FFFFFF" x="29" y="122" width="3" height="3"></rect>
+                <rect id="Rectangle" fill-opacity="0.3" fill="#FFFFFF" x="27" y="122" width="3" height="3"></rect>
+                <rect id="Rectangle" fill-opacity="0.66" fill="#FFFFFF" x="32" y="125" width="3" height="3"></rect>
+            </g>
+            <g id="シワ6" transform="translate(58.681712, 226.412861) scale(-1, 1) translate(-58.681712, -226.412861) translate(44.112392, 224.327987)" fill="#000000" fill-opacity="0.1">
+                <rect id="Rectangle" x="0.251031966" y="-0.327987272" width="29" height="4"></rect>
+            </g>
+            <g id="シワ7" transform="translate(10.849219, 210.567821) scale(-1, 1) translate(-10.849219, -210.567821) translate(2.529266, 208.482947)" fill="#000000" fill-opacity="0.2">
+                <rect id="Rectangle" x="0.169172384" y="-0.482947358" width="17" height="4"></rect>
+            </g>
+            <g id="シワ8" transform="translate(31.649102, 185.549337) scale(-1, 1) translate(-31.649102, -185.549337) translate(23.329149, 183.464463)" fill="#3E4251" fill-opacity="0.15">
+                <rect id="Rectangle" x="-0.0309443877" y="-0.464463283" width="17" height="4"></rect>
+            </g>
+            <g id="シワ9" transform="translate(44.528390, 131.342621) scale(-1, 1) translate(-44.528390, -131.342621) translate(38.288425, 129.257748)" fill="#000000" fill-opacity="0.1">
+                <rect id="Rectangle" x="-0.231645015" y="-0.257747788" width="12" height="4"></rect>
+            </g>
+            <g id="シワ10" transform="translate(43.696395, 166.785891) scale(-1, 1) translate(-43.696395, -166.785891) translate(41.616406, 158.446396)" fill="#000000" fill-opacity="0.05">
+                <rect id="Rectangle" x="-0.22361699" y="-0.446396183" width="4" height="17"></rect>
+            </g>
+            <g id="シワ11" transform="translate(81.136184, 191.804375) scale(-1, 1) translate(-81.136184, -191.804375) translate(79.056196, 183.464880)" fill="#000000" fill-opacity="0.1">
+                <rect id="Rectangle" x="0.216172821" y="-0.464880258" width="4" height="17"></rect>
+            </g>
+            <g id="シワ12" transform="translate(76.976208, 170.955638) scale(-1, 1) translate(-76.976208, -170.955638) translate(74.896220, 158.446396)" fill="#000000" fill-opacity="0.1">
+                <rect id="Rectangle" x="0.0561961757" y="-0.446396183" width="4" height="25"></rect>
+            </g>
+            <g id="シワ13" transform="translate(31.639701, 218.907316) scale(-1, 1) translate(-31.639701, -218.907316) translate(19.169172, 216.822442)" fill="#000000" fill-opacity="0.2">
+                <rect id="Rectangle" x="0.110229164" y="0.17755795" width="25" height="4"></rect>
+            </g>
+            <g id="シワ14" transform="translate(56.575682, 193.888832) scale(-1, 1) translate(-56.575682, -193.888832) translate(39.935776, 191.803958)" fill="#3E4251" fill-opacity="0.15">
+                <rect id="Rectangle" x="0.215588965" y="0.196042025" width="33" height="4"></rect>
+            </g>
+            <g id="シワ15" transform="translate(23.374143, 191.912788) scale(-1, 1) translate(-23.374143, -191.912788) translate(6.865625, 187.743041)" fill="#393C48" fill-opacity="0.05">
+                <rect id="Rectangle" x="-0.117338783" y="0.256958965" width="33" height="8"></rect>
+            </g>
+            <g id="シワ16" transform="translate(46.000000, 179.000000) scale(-1, 1) translate(-46.000000, -179.000000) translate(25.000000, 175.000000)"></g>
+            <g transform="translate(28.652172, 172.974263) scale(-1, 1) translate(-28.652172, -172.974263) translate(25.109619, 165.720477)" fill="#2999C1" fill-opacity="0" id="Rectangle">
+                <rect x="0.194724858" y="0.279522938" width="7" height="15"></rect>
+            </g>
+            <g id="腕" transform="translate(96.112676, 112.579175) scale(-1, 1) translate(-96.112676, -112.579175) translate(89.868235, 100.069933)" fill="#F0F1F1">
+                <rect id="Rectangle" x="0.357117268" y="-0.0699333418" width="12" height="25"></rect>
+            </g>
+            <g id="腕1" transform="translate(97.772763, 108.409428) scale(-1, 1) translate(-97.772763, -108.409428) translate(95.692775, 91.730439)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.147248577" y="0.26956135" width="4" height="33"></rect>
+            </g>
+            <g id="腕2" transform="translate(27.485798, 106.327757) scale(-1, 1) translate(-27.485798, -106.327757) translate(23.325821, 91.733441)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.35422566" y="0.266559132" width="8" height="29"></rect>
+            </g>
+            <g id="腕3" transform="translate(77.388878, 152.446396)" fill="#F0F1F1">
+                <rect id="Rectangle" x="0.131192527" y="-0.446396183" width="12" height="13"></rect>
+            </g>
+            <g id="腕4" transform="translate(24.185272, 133.427912) scale(-1, 1) translate(-24.185272, -133.427912) translate(19.193300, 120.918670)" fill="#F0F1F1">
+                <rect id="Rectangle" x="0.177244198" y="0.0813299292" width="10" height="25"></rect>
+            </g>
+            <g id="腕5" transform="translate(28.000000, 152.500000) scale(-1, 1) translate(-28.000000, -152.500000) translate(23.000000, 146.000000)" fill="#F0F1F1">
+                <rect id="Rectangle" x="0" y="0" width="10" height="13"></rect>
+            </g>
+            <g id="腕6" transform="translate(33.000000, 158.500000) scale(-1, 1) translate(-33.000000, -158.500000) translate(27.000000, 154.000000)" fill="#F0F1F1">
+                <rect id="Rectangle" x="0" y="0" width="12" height="9"></rect>
+            </g>
+            <g id="アウター-暗-" transform="translate(91.163502, 125.088417)" fill="#000000" fill-opacity="0.1">
+                <rect id="Rectangle" x="0.491868282" y="-0.0884174166" width="4" height="42"></rect>
+            </g>
+            <g id="腕7" transform="translate(89.459957, 150.106901) scale(-1, 1) translate(-89.459957, -150.106901) translate(83.214709, 141.767407)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.294795212" y="0.2325932" width="12" height="17"></rect>
+            </g>
+            <g id="腕8" transform="translate(93.619933, 135.512786) scale(-1, 1) translate(-93.619933, -135.512786) translate(87.374685, 125.088417)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.134818567" y="-0.0884174166" width="12" height="21"></rect>
+            </g>
+            <g id="首" transform="translate(45.773055, 39.862117)" fill="#E7A376">
+                <rect id="Rectangle" x="0.267085097" y="0.137882534" width="25" height="52"></rect>
+            </g>
+            <g id="えり" transform="translate(62.412962, 83.390944)" fill="#F0F1F1">
+                <rect id="Rectangle" x="0.267085097" y="-0.390943959" width="8" height="17"></rect>
+            </g>
+            <g id="えり1" transform="translate(45.773055, 83.390944)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.09300832" y="-0.390943959" width="8" height="17"></rect>
+            </g>
+            <g id="えり2" transform="translate(54.093008, 91.730439)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.412961611" y="0.26956135" width="8" height="17"></rect>
+            </g>
+            <g id="えり3" transform="translate(54.093008, 91.909905)" fill="#F0F1F1">
+                <rect id="Rectangle" x="-0.412961611" y="0.090095424" width="8" height="8"></rect>
+            </g>
+            <rect id="Rectangle" fill="#BB952E" x="31.8353204" y="25" width="19" height="67"></rect>
+            <g id="肌" transform="translate(69.688075, 165.000000)" fill="#F9C19C">
+                <rect id="Rectangle" x="0" y="0" width="13" height="13"></rect>
+            </g>
+            <g id="肌1" transform="translate(19.585170, 177.210259) scale(-1, 1) translate(-19.585170, -177.210259) translate(12.513210, 170.955638)"></g>
+            <g id="肌2" transform="translate(38.685653, 42.982089)" fill="#FFC59D">
+                <path d="M42.8037122,0.0179107797 L-0.196287841,0.0179107797 L-0.196287841,31.3679108 C-0.196287841,32.2754108 0.541162159,33.0179108 1.45061216,33.0179108 L42.8037122,33.0179108 L42.8037122,0.0179107797 Z" id="Path"></path>
+            </g>
+            <g id="肌3" transform="translate(13.757875, 177.210259) scale(-1, 1) translate(-13.757875, -177.210259) translate(12.509882, 170.955638)"></g>
+            <g id="め" transform="translate(60.767498, 43.206588)" fill="#131010" fill-opacity="0.7">
+                <rect id="Rectangle" x="0.342698934" y="-0.206588417" width="7" height="8"></rect>
+            </g>
+            <g id="め1" transform="translate(39.135396, 43.206588)" fill="#131010" fill-opacity="0.7">
+                <rect id="Rectangle" x="0.208641074" y="-0.206588417" width="7" height="8"></rect>
+            </g>
+            <rect id="Rectangle" fill="#E1AB12" x="23.6800467" y="48" width="8" height="21"></rect>
+            <rect id="Rectangle" fill="#E1AB12" x="67.0401401" y="76" width="25" height="16"></rect>
+            <rect id="Rectangle" fill="#E1AB12" x="71.0481682" y="23" width="30" height="59"></rect>
+            <rect id="Rectangle" fill="#E1AB12" x="37.4793402" y="29" width="38" height="14"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(55.558009, 41.000000) scale(-1, 1) translate(-55.558009, -41.000000) " x="48.5580088" y="35" width="14" height="12"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(46.393645, 37.500000) scale(-1, 1) translate(-46.393645, -37.500000) " x="42.893645" y="30" width="7" height="15"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(69.393645, 43.500000) scale(-1, 1) translate(-69.393645, -43.500000) " x="65.893645" y="39" width="7" height="9"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(61.392509, 25.500000) scale(-1, 1) translate(-61.392509, -25.500000) " x="42.8925091" y="12" width="37" height="27"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(42.876314, 23.000000) scale(-1, 1) translate(-42.876314, -23.000000) " x="35.8763135" y="4" width="14" height="38"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(39.176033, 22.500000) scale(-1, 1) translate(-39.176033, -22.500000) " x="36.1760327" y="0" width="6" height="45"></rect>
+            <rect id="Rectangle" fill="#E1AB12" x="31.1916392" y="12" width="18" height="28"></rect>
+            <rect id="Rectangle" fill="#E1AB12" transform="translate(85.159271, 12.500000) scale(-1, 1) translate(-85.159271, -12.500000) " x="78.6592711" y="0" width="13" height="25"></rect>
+            <rect id="Rectangle" fill="#BB952E" x="92.6800467" y="33" width="8" height="50"></rect>
+            <g id="ほっぺ" transform="translate(76.529456, 50.285318)" fill="#2999C1">
+                <rect id="Rectangle" x="-0.485861801" y="-0.285318302" width="14" height="5"></rect>
+            </g>
+            <g id="ほっぺ1" transform="translate(76.529456, 53.836275)" fill="#2999C1" fill-opacity="0.5">
+                <rect id="Rectangle" x="-0.485861801" y="0.163724859" width="14" height="5"></rect>
+            </g>
+            <g id="ほっぺ2" transform="translate(27.868442, 55.072188)" fill="#2999C1" fill-opacity="0.5">
+                <rect id="Rectangle" x="-0.353280747" y="-0.0721882545" width="10" height="5"></rect>
+            </g>
+            <g transform="translate(53.000000, 67.000000) scale(-1, 1) translate(-53.000000, -67.000000) translate(47.000000, 66.000000)" id="Path" stroke="#E38474" stroke-opacity="0.9" stroke-width="2.4">
+                <path d="M0,0.180704502 C0.753446618,1.93510951 0.918884258,1.97517877 6.62455915,1.99953459 C11.0298172,2.01917639 11.506252,1.4181375 12,0"></path>
+            </g>
+        </g>
+        <g id="腕" transform="translate(138.000000, 196.000000)">
+            <rect id="Rectangle" fill="#F6F7F8" transform="translate(84.500000, 6.000000) scale(-1, 1) translate(-84.500000, -6.000000) " x="78" y="0" width="13" height="12"></rect>
+            <rect id="Rectangle" fill="#F6F7F8" transform="translate(71.500000, 11.000000) scale(-1, 1) translate(-71.500000, -11.000000) " x="65" y="5" width="13" height="12"></rect>
+            <rect id="Rectangle" fill="#F0B58D" x="53" y="5" width="13" height="12"></rect>
+            <rect id="Rectangle" fill="#E7B898" x="0" y="7" width="11" height="12"></rect>
+        </g>
+        <rect id="Rectangle" fill="#F9C19C" x="197" y="192" width="13" height="13"></rect>
+    </g>
+</svg>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 720 560" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="BG" transform="matrix(0.416739,0,0,0.533333,-34.6059,231.333)">
+        <ellipse cx="898.898" cy="485" rx="707.877" ry="75" style="fill:rgb(10,10,10);fill-opacity:0.05;"/>
+    </g>
+    <g id="しっぽ" transform="matrix(1.22948e-16,-2.0079,0.455278,2.78777e-17,179.948,2857.45)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(224,84,38);"/>
+    </g>
+    <use id="しっぽ1" serif:id="しっぽ" xlink:href="#_Image1" x="398.042" y="431.428" width="66px" height="58.472px" transform="matrix(1,0,0,0.991045,0,0)"/>
+    <g id="しっぽ2" serif:id="しっぽ" transform="matrix(9.79717e-17,-1.6,0.3125,1.91351e-17,224.792,2373.6)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(246,247,212);"/>
+    </g>
+    <use id="しっぽ3" serif:id="しっぽ" xlink:href="#_Image2" x="398.042" y="417.862" width="66px" height="58.449px" transform="matrix(1,0,0,0.990668,0,0)"/>
+    <g id="しっぽ4" serif:id="しっぽ" transform="matrix(9.75849e-17,-1.59368,0.3125,1.91351e-17,224.792,2352.42)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(246,247,212);"/>
+    </g>
+    <g id="しっぽ5" serif:id="しっぽ" transform="matrix(3.06162e-16,-5,0.4,2.44929e-17,189.842,6440)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(225,91,46);"/>
+    </g>
+    <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,573.023,691)">
+        <g id="しっぽ6" serif:id="しっぽ" transform="matrix(1.75,5.83248e-31,9.94569e-32,0.624345,-1961.98,-131.089)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(209,75,30);"/>
+        </g>
+        <g id="しっぽ7" serif:id="しっぽ" transform="matrix(14.125,1.45446e-30,1.06237e-32,0.124345,-16815.5,182.911)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(227,103,62);"/>
+        </g>
+        <g id="しっぽ8" serif:id="しっぽ" transform="matrix(1.78115,4.63918e-31,1.07868e-31,0.530595,-2052.24,-98.2136)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(224,86,41);"/>
+        </g>
+    </g>
+    <g id="椅子" transform="matrix(-1,0,0,1,875,-410)">
+        <g id="脚" transform="matrix(1,0,0,0.615385,-350,340)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(156,161,169);"/>
+        </g>
+        <g id="脚1" serif:id="脚" transform="matrix(1,0,0,0.615385,-400,340)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(66,77,84);"/>
+        </g>
+        <g id="脚2" serif:id="脚" transform="matrix(1,0,0,0.615385,-320,340)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(66,77,84);"/>
+        </g>
+        <g id="脚3" serif:id="脚" transform="matrix(1,0,0,0.614574,-450,340.738)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(66,77,84);"/>
+        </g>
+        <g id="座るところ" transform="matrix(9,0,0,0.0769231,-7360,750)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(66,77,84);"/>
+        </g>
+        <g id="座るところ1" serif:id="座るところ" transform="matrix(9,0,0,0.615385,-7410,230)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(66,77,84);"/>
+        </g>
+        <g id="座るところ-右" serif:id="座るところ 右" transform="matrix(5,0,0,0.0769231,-3930,750)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(50,58,64);"/>
+        </g>
+        <g id="背もたれ-右" serif:id="背もたれ 右" transform="matrix(0.802076,0,0,0.846154,-277.806,50)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(50,58,64);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-523.036,-30)">
+        <g id="脚4" serif:id="脚" transform="matrix(-3.75,4.24577e-31,-9.7701e-32,0.859375,5405.04,-89.6875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(154,171,159);"/>
+        </g>
+        <g id="脚5" serif:id="脚" transform="matrix(-3.74435,4.23938e-31,-9.7701e-32,0.859375,5359.26,-89.6875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(154,171,159);"/>
+        </g>
+        <g id="靴" transform="matrix(-0.9,-8.33715e-32,3.47381e-31,2.5,1060.42,-195)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="靴1" serif:id="靴" transform="matrix(-0.9,-8.33715e-32,2.43167e-31,1.75,1058.39,25)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="靴2" serif:id="靴" transform="matrix(-1,-9.2635e-32,5.21072e-31,3.75,1041.02,-545)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,1161.04,106)">
+            <g id="スカート" transform="matrix(21.2556,1.96902e-30,4.55938e-32,0.328125,-25215.8,76.9375)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(16,24,30);"/>
+            </g>
+            <g id="スカート1" serif:id="スカート" transform="matrix(27.9912,2.59297e-30,5.42783e-32,0.390625,-33276.5,53.6875)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(16,24,30);"/>
+            </g>
+            <g id="スカート2" serif:id="スカート" transform="matrix(19.2448,1.78274e-30,3.2567e-32,0.234375,-22790.8,141.812)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(16,24,30);"/>
+            </g>
+            <g id="スカート3" serif:id="スカート" transform="matrix(19.5,1.80638e-30,3.2567e-32,0.234375,-23109,176.812)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(16,24,30);"/>
+            </g>
+            <g id="スカート4" serif:id="スカート" transform="matrix(22.0052,2.0749e-30,9.59849e-32,0.703125,-26085.2,-137.562)">
+                <path d="M1199.64,628L1196,628L1196,692L1198.8,692L1198.8,684.967L1199.18,684.967L1199.18,670.667L1199.64,670.667L1199.64,659.748L1199.64,656.444L1199.64,628Z" style="fill:rgb(16,24,30);"/>
+            </g>
+            <g id="ワンピース" transform="matrix(19.9845,1.85126e-30,2.17499e-31,1.56527,-23695.2,-798.991)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:rgb(16,24,30);"/>
+            </g>
+            <g id="シワ" transform="matrix(3.01121,2.78943e-31,6.5134e-33,0.046875,-3303.7,297.408)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.66;"/>
+            </g>
+            <g id="シワ1" serif:id="シワ" transform="matrix(3.01121,2.78943e-31,6.5134e-33,0.046875,-3383.7,297.408)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.66;"/>
+            </g>
+            <g id="シワ2" serif:id="シワ" transform="matrix(7.5,6.94763e-31,6.5134e-33,0.046875,-8702.3,305.408)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.66;"/>
+            </g>
+            <g id="シワ3" serif:id="シワ" transform="matrix(8.23743,7.63075e-31,6.5134e-33,0.046875,-9617.22,310.408)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.66;"/>
+            </g>
+            <g id="シワ4" serif:id="シワ" transform="matrix(1.00278,9.28929e-32,6.5134e-33,0.046875,-968.614,303.408)">
+                <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.66;"/>
+            </g>
+        </g>
+        <g id="シワ5" serif:id="シワ" transform="matrix(-8.75565,8.1108e-31,-1.08557e-32,0.078125,11399.8,399.937)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="シワ6" serif:id="シワ" transform="matrix(-3.75,3.47381e-31,-1.08557e-32,0.078125,5348.04,380.937)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="シワ7" serif:id="シワ" transform="matrix(-5,2.31588e-31,-2.17113e-32,0.078125,6868.04,350.937)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(62,66,81);fill-opacity:0.15;"/>
+        </g>
+        <g id="シワ8" serif:id="シワ" transform="matrix(-3.75,3.47381e-31,-1.08557e-32,0.078125,5386.02,285.937)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="シワ9" serif:id="シワ" transform="matrix(-1.25,1.15794e-31,-4.34227e-32,0.3125,2390.02,173.75)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+        </g>
+        <g id="シワ10" serif:id="シワ" transform="matrix(-1.25,1.15794e-31,-4.34227e-32,0.3125,2435.02,203.75)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="シワ11" serif:id="シワ" transform="matrix(-1.25,1.15794e-31,-6.5134e-32,0.46875,2430.02,75.625)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="シワ12" serif:id="シワ" transform="matrix(-7.49435,6.94239e-31,-1.08557e-32,0.078125,9856.26,390.937)">
+            <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="シワ13" serif:id="シワ" transform="matrix(-10,1.15794e-30,-8.68453e-33,0.078125,12888,360.937)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(62,66,81);fill-opacity:0.15;"/>
+        </g>
+        <g id="シワ14" serif:id="シワ" transform="matrix(-9.92104,1.14879e-30,-1.73691e-32,0.15625,12753.5,307.005)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(57,60,72);fill-opacity:0.05;"/>
+        </g>
+        <g id="シワ15" serif:id="シワ" transform="matrix(-12.5,1.44742e-30,-1.73691e-32,0.15625,15870.3,291.875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(51,55,80);fill-opacity:0.05;"/>
+        </g>
+        <g transform="matrix(-2.12895,1.97215e-31,-3.77695e-32,0.271816,3424.92,208.022)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:none;"/>
+        </g>
+        <g id="腕" transform="matrix(-0.750635,6.95351e-32,-1.38953e-30,10,1077.13,-2510)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(246,247,248);"/>
+        </g>
+        <g id="腕1" serif:id="腕" transform="matrix(-0.5,4.63175e-32,-1.21585e-30,8.75012,956.036,-2160.03)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(240,241,241);"/>
+        </g>
+        <g id="腕2" serif:id="腕" transform="matrix(-0.6,5.5581e-32,-1.04214e-30,7.5,964.636,-1785)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(240,241,241);"/>
+        </g>
+        <g id="腕3" serif:id="腕" transform="matrix(-0.75,6.94763e-32,-5.21072e-31,3.75,981.036,-715)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(240,241,241);"/>
+        </g>
+        <g id="腕4" serif:id="腕" transform="matrix(-1.6,1.18573e-31,-6.5134e-31,3.75,1098.64,-710)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(240,241,241);"/>
+        </g>
+        <g id="ノート" transform="matrix(-5.19763,3.85186e-31,-8.93938e-32,0.514672,1725.82,223.833)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(53,38,29);"/>
+        </g>
+        <g id="肌" transform="matrix(-0.75,5.5581e-32,-6.5134e-31,3.75,940.036,-710)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(248,186,145);"/>
+        </g>
+        <g id="えんぴつ" transform="matrix(-0.2,-1.48216e-32,-1.21583e-30,-7,848.236,2322)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,106,47);"/>
+        </g>
+        <g id="えんぴつ1" serif:id="えんぴつ" transform="matrix(-0.2,-1.48216e-32,-2.17113e-31,-1.25,848.236,717)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(222,216,154);"/>
+        </g>
+        <g id="えんぴつ2" serif:id="えんぴつ" transform="matrix(-0.2,-1.48216e-32,-8.68453e-32,-0.5,848.236,509)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(40,38,13);"/>
+        </g>
+        <g id="肌1" serif:id="肌" transform="matrix(-0.15,1.11162e-32,-6.5134e-31,3.75,834.436,-710)">
+            <rect x="156" y="280" width="20" height="4" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="腕5" serif:id="腕" transform="matrix(1,0,0,1,-739.964,-778)">
+            <clipPath id="_clip3">
+                <rect x="1659" y="1133" width="16" height="15"/>
+            </clipPath>
+            <g clip-path="url(#_clip3)">
+                <g transform="matrix(1,-0,-0,1,1263,808)">
+                    <use xlink:href="#_Image4" x="396" y="325" width="16px" height="15px"/>
+                </g>
+            </g>
+        </g>
+        <g id="アウター-暗-" serif:id="アウター(暗)" transform="matrix(0.261097,-1.97891e-32,-2.12289e-30,12.5,908.841,-3170)">
+            <rect x="156" y="280" width="20" height="4" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="腕6" serif:id="腕" transform="matrix(-0.750635,6.95351e-32,-6.60025e-31,4.75,1077.13,-1000)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(246,247,248);"/>
+        </g>
+        <g id="腕7" serif:id="腕" transform="matrix(-0.750635,6.95351e-32,-5.21072e-31,3.75,1067.13,-701)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(246,247,248);"/>
+        </g>
+        <g id="首" transform="matrix(1.5,-1.38953e-31,-2.16825e-30,15.6043,661.016,-4141.4)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,163,118);"/>
+        </g>
+        <g id="えり" transform="matrix(0.5,-4.63175e-32,-6.94763e-31,5,837.016,-1120)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(237,239,241);"/>
+        </g>
+        <g id="えり1" serif:id="えり" transform="matrix(0.5,-4.63175e-32,-6.94763e-31,5,817.016,-1120)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(237,239,241);"/>
+        </g>
+        <g id="えり2" serif:id="えり" transform="matrix(0.5,-4.63175e-32,-6.94763e-31,5,827.016,-1110)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(237,239,241);"/>
+        </g>
+        <g id="ヘアー" transform="matrix(0.4,-3.7054e-32,-2.43167e-30,17.5,815.581,-4690)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(192,86,51);"/>
+        </g>
+        <g id="ヘアー1" serif:id="ヘアー" transform="matrix(0.751731,-6.96366e-32,-2.60536e-30,18.75,768.711,-5040)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(192,86,51);"/>
+        </g>
+        <g id="肌2" serif:id="肌" transform="matrix(0.8,7.4108e-32,5.21072e-31,3.75,779.216,-695)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,197,157);"/>
+        </g>
+        <g id="肌3" serif:id="肌" transform="matrix(2.55474,-2.36658e-31,-1.36046e-30,9.79084,487.958,-2509.89)">
+            <path d="M176,280L156,280L156,283.8C156,283.91 156.343,284 156.766,284L176,284L176,280Z" style="fill:rgb(255,197,157);"/>
+        </g>
+        <g id="め" transform="matrix(0.414053,7.29891e-17,1.60166e-15,2.54663,848.446,-481.242)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+        </g>
+        <g id="め1" serif:id="め" transform="matrix(0.4,7.05119e-17,1.60166e-15,2.54663,824.638,-481.242)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+        </g>
+        <g id="ヘアー2" serif:id="ヘアー" transform="matrix(0.5,-4.63175e-32,-8.68453e-31,6.25,790.016,-1513)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(218,94,72);fill-opacity:0.6;"/>
+        </g>
+        <g id="ヘアー3" serif:id="ヘアー" transform="matrix(1.5,-1.38953e-31,-6.60025e-31,4.75,687.038,-1059)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー4" serif:id="ヘアー" transform="matrix(1.8,-1.66743e-31,-2.46641e-30,17.75,644.216,-4762)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー5" serif:id="ヘアー" transform="matrix(2.25486,-2.08879e-31,-5.77737e-31,4.1578,533.347,-949.273)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー6" serif:id="ヘアー" transform="matrix(-0.867913,-8.03992e-32,4.7988e-31,3.45355,1051.18,-744.167)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー7" serif:id="ヘアー" transform="matrix(-0.427067,-3.95613e-32,6.24282e-31,4.49277,966.175,-1041.65)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー8" serif:id="ヘアー" transform="matrix(-0.427067,-3.95613e-32,3.83849e-31,2.76245,991.696,-545.688)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー9" serif:id="ヘアー" transform="matrix(-2.23003,-2.06579e-31,1.12992e-30,8.13172,1283.93,-2082.82)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー10" serif:id="ヘアー" transform="matrix(-0.400978,-3.71446e-32,1.77164e-30,12.75,960.589,-3390)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー11" serif:id="ヘアー" transform="matrix(-0.35,-3.24223e-32,1.67997e-30,12.0903,944.617,-3200.27)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー12" serif:id="ヘアー" transform="matrix(1.07022,-9.91397e-32,-1.17188e-30,8.43369,711.027,-2167.37)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー13" serif:id="ヘアー" transform="matrix(-0.801731,-7.42684e-32,1.05349e-30,7.58166,1076.12,-1942.86)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,104,62);"/>
+        </g>
+        <g id="ヘアー14" serif:id="ヘアー" transform="matrix(0.5,-4.58086e-32,-2.10744e-30,15,873.016,-3981)">
+            <rect x="156" y="280" width="20" height="4" style="fill-opacity:0.1;"/>
+        </g>
+        <g id="ほっぺ" transform="matrix(0.838731,-7.76959e-32,-1.99407e-31,1.43507,801.141,-161.517)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(41,153,193);"/>
+        </g>
+        <g id="ほっぺ1" serif:id="ほっぺ" transform="matrix(0.838731,-7.76959e-32,-1.99407e-31,1.43507,801.141,-157.259)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(41,153,193);fill-opacity:0.5;"/>
+        </g>
+        <g id="ほっぺ2" serif:id="ほっぺ" transform="matrix(0.630102,-5.83696e-32,-1.99407e-31,1.43507,775.2,-155.777)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(41,153,193);fill-opacity:0.5;"/>
+        </g>
+        <g transform="matrix(-0.776006,0,0,1,1101.9,106)">
+            <path d="M245.72,155.739C246.895,157.972 247.153,158.023 256.051,158.054C262.921,158.079 263.664,157.314 264.434,155.509" style="fill:none;stroke:rgb(227,132,116);stroke-opacity:0.9;stroke-width:2.23px;"/>
+        </g>
+    </g>
+    <g id="机" transform="matrix(-1,0,0,1,785,-400)">
+        <g id="脚6" serif:id="脚" transform="matrix(1,0,0,1.08462,-370,-87)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(179,182,189);"/>
+        </g>
+        <g id="脚7" serif:id="脚" transform="matrix(1,0,0,1.07692,-320,-80)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(191,194,199);"/>
+        </g>
+        <g id="タナ-わき-" serif:id="タナ(わき)" transform="matrix(4.5,0,0,0.153846,-3410,690)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(100,88,83);"/>
+        </g>
+        <g id="脚8" serif:id="脚" transform="matrix(1,0,0,1.07692,-520,-80)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(191,194,199);"/>
+        </g>
+        <g id="脚9" serif:id="脚" transform="matrix(1,0,0,1.07692,-570,-80)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(174,178,184);"/>
+        </g>
+        <g id="タナ-左わき-" serif:id="タナ(左わき)" transform="matrix(4.5,0,0,0.153846,-3610,690)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(138,122,115);"/>
+            <clipPath id="_clip5">
+                <rect x="870" y="780" width="10" height="130"/>
+            </clipPath>
+            <g clip-path="url(#_clip5)">
+                <g id="木目" transform="matrix(0.2,0,0,1.3,826,-7.27596e-12)">
+                    <g opacity="0.1">
+                        <g id="木目1" serif:id="木目" transform="matrix(0.301617,0,0,0.769231,-2.40636,150)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目2" serif:id="木目" transform="matrix(0.2,0,0,1.69231,61,-780)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目3" serif:id="木目" transform="matrix(0.2,0,0,1.69231,69,-760)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目4" serif:id="木目" transform="matrix(0.19526,0,0,0.423077,80.1238,480)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目5" serif:id="木目" transform="matrix(0.213138,0,0,0.615385,49.5695,285)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目6" serif:id="木目" transform="matrix(0.301617,0,0,1.38462,-2.40636,-540)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目7" serif:id="木目" transform="matrix(0.19526,0,0,1.69231,80.1238,-740)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                        <g id="木目8" serif:id="木目" transform="matrix(0.19526,0,0,0.331394,80.1238,268.432)">
+                            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,49,53);fill-opacity:0.5;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="天板-わき-" serif:id="天板(わき)" transform="matrix(5,0,0,0.153846,-4050,620)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(123,109,103);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,80,0)">
+            <g opacity="0.1">
+                <g id="木目9" serif:id="木目" transform="matrix(3.10012,0,0,0.0153846,-2462.1,733)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(42,44,48);"/>
+                </g>
+                <g id="木目10" serif:id="木目" transform="matrix(3.8049,0,0,0.0153846,-3080.26,743)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(42,44,48);"/>
+                </g>
+                <g id="木目11" serif:id="木目" transform="matrix(2,0,0,0.0153846,-1495,737)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(42,44,48);"/>
+                </g>
+                <g id="木目12" serif:id="木目" transform="matrix(1.5,0,0,0.0153846,-1080,737)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(42,44,48);"/>
+                </g>
+            </g>
+        </g>
+        <g id="天板" transform="matrix(21,0,0,0.153846,-17920,620)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(151,136,130);"/>
+        </g>
+        <g id="木目群-天板" serif:id="木目群 天板" transform="matrix(0.746269,0,0,1,141.582,610)">
+            <g opacity="0.1">
+                <g id="木目13" serif:id="木目" transform="matrix(13,0,0,0.0153846,-11020,127)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(53,56,60);"/>
+                </g>
+                <g id="木目14" serif:id="木目" transform="matrix(8,0,0,0.0153846,-6550,122)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(53,56,60);"/>
+                </g>
+                <g id="木目15" serif:id="木目" transform="matrix(5.5,0,0,0.0153846,-4290,122)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(53,56,60);"/>
+                </g>
+                <g id="木目16" serif:id="木目" transform="matrix(9,0,0,0.0153846,-7402,127)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(48,51,55);"/>
+                </g>
+                <g id="木目17" serif:id="木目" transform="matrix(16,0,0,0.0153846,-13622,132)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(54,53,50);"/>
+                </g>
+                <g id="木目18" serif:id="木目" transform="matrix(3,0,0,0.0153846,-2082,127)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(48,51,55);"/>
+                </g>
+                <g id="木目19" serif:id="木目" transform="matrix(8,0,0,0.0153846,-6492,132)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(48,51,55);"/>
+                </g>
+                <g id="木目20" serif:id="木目" transform="matrix(9,0,0,0.0153846,-7522,122)">
+                    <rect x="870" y="780" width="10" height="130" style="fill:rgb(48,51,55);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.76804,0.322499,-0.322499,0.76804,173.557,-35.3489)">
+        <g transform="matrix(1.10686,-0.464769,0.464769,1.10686,-175.674,119.79)">
+            <use xlink:href="#_Image6" x="129" y="120" width="471px" height="351px"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-125.774,19.0645)">
+        <text x="274.086px" y="49.581px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:32px;fill:rgb(30,28,27);">这是……</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-204.636,105.83)">
+        <text x="274.086px" y="49.581px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:20px;fill:rgb(118,111,108);">“导音的限定进行”</text>
+    </g>
+    <g transform="matrix(1,0,0,1,210.449,144.912)">
+        <text x="274.086px" y="49.581px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:18px;fill:rgb(118,111,108);">“不跃过其他声部”</text>
+    </g>
+    <g transform="matrix(1,0,0,1,183.919,252.83)">
+        <text x="274.086px" y="49.581px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:24px;fill:rgb(75,70,69);">「</text>
+        <text x="298.086px" y="49.581px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:rgb(75,70,69);">3rd</text>
+        <text x="335.433px" y="49.581px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:24px;fill:rgb(75,70,69);">避免重复」</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-247.804,229.442)">
+        <text x="274.086px" y="49.581px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:28px;fill:rgb(75,70,69);">“增四度的解决”</text>
+    </g>
+    <g transform="matrix(3.57958,0,0,1.65517,-674.447,-485.052)">
+        <path d="M319.5,300L326.869,307.151L336.323,305.849L339.631,313.005L351.11,314.5L347,323.146L353.146,329L347,334.854L351.11,343.5L339.631,344.995L336.323,352.151L326.869,350.849L319.5,358L312.131,350.849L302.677,352.151L299.369,344.995L287.89,343.5L292,334.854L285.854,329L292,323.146L287.89,314.5L299.369,313.005L302.677,305.849L312.131,307.151L319.5,300Z" style="fill:rgb(255,102,51);"/>
+    </g>
+    <g transform="matrix(1.44,0,0,1.44,49.3887,-234.466)">
+        <path d="M237.783,213.938L237.783,208.961L235.294,208.961L235.294,213.938L237.783,213.938ZM242.761,203.983L242.761,201.494L245.25,201.494L245.25,199.005L242.761,199.005L242.761,194.027L240.272,194.027L240.272,199.005L235.294,199.005L235.294,201.494L240.272,201.494L240.272,203.983L242.761,203.983ZM245.25,213.938L245.25,211.45L242.761,211.45L242.761,213.938L245.25,213.938ZM247.739,211.45L247.739,201.494L245.25,201.494L245.25,211.45L247.739,211.45ZM252.717,203.983L252.717,199.005L250.228,199.005L250.228,203.983L252.717,203.983ZM250.228,194.027L250.228,191.538L247.739,191.538L247.739,194.027L250.228,194.027ZM255.205,191.538L255.205,189.05L252.717,189.05L252.717,191.538L255.205,191.538ZM237.783,203.983L237.783,208.961L240.272,208.961L240.272,203.983L237.783,203.983ZM242.761,208.961L240.272,208.961L240.272,211.45L242.761,211.45L242.761,208.961ZM250.228,196.516L247.739,196.516L247.739,199.005L250.228,199.005L250.228,196.516ZM247.739,189.05L245.25,189.05L245.25,191.538L247.739,191.538L247.739,189.05ZM252.717,186.561L250.228,186.561L250.228,189.05L252.717,189.05L252.717,186.561Z" style="fill:white;fill-rule:nonzero;"/>
+        <path d="M256.917,213.938L256.917,208.961L254.428,208.961L254.428,213.938L256.917,213.938ZM259.405,208.961L259.405,206.472L261.894,206.472L261.894,211.45L264.383,211.45L264.383,203.983L261.894,203.983L261.894,199.005L259.405,199.005L259.405,203.983L256.917,203.983L256.917,208.961L259.405,208.961ZM264.383,199.005L264.383,194.027L261.894,194.027L261.894,199.005L264.383,199.005ZM269.361,213.938L269.361,211.45L264.383,211.45L264.383,213.938L269.361,213.938Z" style="fill:white;fill-rule:nonzero;"/>
+        <path d="M288.494,194.027L288.494,191.538L286.005,191.538L286.005,194.027L288.494,194.027ZM293.472,191.538L293.472,189.05L290.983,189.05L290.983,191.538L293.472,191.538ZM286.005,213.938L286.005,211.45L278.539,211.45L278.539,213.938L286.005,213.938ZM288.494,211.45L288.494,206.472L286.005,206.472L286.005,211.45L288.494,211.45ZM286.005,189.05L283.517,189.05L283.517,191.538L286.005,191.538L286.005,189.05ZM290.983,186.561L288.494,186.561L288.494,189.05L290.983,189.05L290.983,186.561ZM276.05,211.45L278.539,211.45L278.539,194.027L276.05,194.027L276.05,211.45Z" style="fill:white;fill-rule:nonzero;"/>
+        <path d="M295.183,213.938L295.183,208.961L292.694,208.961L292.694,213.938L295.183,213.938ZM300.161,203.983L300.161,201.494L302.65,201.494L302.65,199.005L300.161,199.005L300.161,194.027L297.672,194.027L297.672,199.005L292.694,199.005L292.694,201.494L297.672,201.494L297.672,203.983L300.161,203.983ZM302.65,213.938L302.65,211.45L300.161,211.45L300.161,213.938L302.65,213.938ZM305.139,211.45L305.139,201.494L302.65,201.494L302.65,211.45L305.139,211.45ZM310.117,203.983L310.117,199.005L307.628,199.005L307.628,203.983L310.117,203.983ZM307.628,194.027L307.628,191.538L305.139,191.538L305.139,194.027L307.628,194.027ZM312.605,191.538L312.605,189.05L310.117,189.05L310.117,191.538L312.605,191.538ZM295.183,203.983L295.183,208.961L297.672,208.961L297.672,203.983L295.183,203.983ZM300.161,208.961L297.672,208.961L297.672,211.45L300.161,211.45L300.161,208.961ZM307.628,196.516L305.139,196.516L305.139,199.005L307.628,199.005L307.628,196.516ZM305.139,189.05L302.65,189.05L302.65,191.538L305.139,191.538L305.139,189.05ZM310.117,186.561L307.628,186.561L307.628,189.05L310.117,189.05L310.117,186.561Z" style="fill:white;fill-rule:nonzero;"/>
+        <path d="M319.294,206.472L319.294,203.983L316.805,203.983L316.805,199.005L314.317,199.005L314.317,206.472L319.294,206.472ZM324.272,213.938L324.272,211.45L319.294,211.45L319.294,213.938L324.272,213.938ZM324.272,199.005L324.272,196.516L321.783,196.516L321.783,199.005L324.272,199.005ZM326.761,211.45L326.761,208.961L324.272,208.961L324.272,211.45L326.761,211.45ZM329.25,208.961L329.25,203.983L326.761,203.983L326.761,208.961L329.25,208.961ZM316.805,194.027L316.805,196.516L321.783,196.516L321.783,194.027L316.805,194.027ZM319.294,201.494L319.294,203.983L326.761,203.983L326.761,201.494L319.294,201.494Z" style="fill:white;fill-rule:nonzero;"/>
+        <path d="M338.428,213.938L338.428,211.45L333.45,211.45L333.45,213.938L338.428,213.938ZM338.428,203.983L338.428,201.494L335.939,201.494L335.939,196.516L333.45,196.516L333.45,203.983L330.961,203.983L330.961,211.45L333.45,211.45L333.45,206.472L335.939,206.472L335.939,203.983L338.428,203.983ZM340.917,211.45L340.917,206.472L335.939,206.472L335.939,208.961L338.428,208.961L338.428,211.45L340.917,211.45ZM343.405,206.472L343.405,203.983L345.894,203.983L345.894,201.494L343.405,201.494L343.405,194.027L340.917,194.027L340.917,199.005L338.428,199.005L338.428,201.494L340.917,201.494L340.917,206.472L343.405,206.472ZM345.894,213.938L345.894,211.45L343.405,211.45L343.405,213.938L345.894,213.938ZM348.383,211.45L348.383,203.983L345.894,203.983L345.894,211.45L348.383,211.45Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+    <defs>
+        <image id="_Image1" width="66px" height="59px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAA7CAYAAADPeVzhAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADpklEQVRoge1bW5LjMAjEqf2dI85F9gBzkTni/sf7JRfGNDRI40pVpn9sPYE2IEuJN7kZ/77/bky/j8+v/ad10aCUYsEauQoryZpS/G7DM8wQ0zLk1Qiw6BBSMmghAdk8S1y+Qghl2AQBqz2nRRBDSKhok4C7wqZMSkTInzldDmTGz5LjGbAl7SW4ChY9AfW19V0yrJHIaJoMzzNmPCIjoOslVslqv5Z3XISQ3uD1iQj4idDYiTYI6xUnBZskIAIYQmyZCQPUhw2hA5qMamgwJLBEsfNbQ20IjD66rx2bokJElYQtGMNiGDjG7nIlQN+3yTgUS8KiQgK6enNFoZGFgBcS5TAZ4bGJULmBMXjcZ/VoXhGcE5CxEQkRqSd8fH7tTGiwK4RHgiWgGirD3XVY6DAYfcTUe0trSEZGhKc4IsYSUfEMTx56m2RWEu+dIiRjVbLMSEDEMDIjT7DEtZNld/mMXD8iSKRGhJ5Xx74XFroNhQgWECTKLEEio1kikNxoddhBOeqjr/b+QCc02KV0RYh4ITHqRfDTL3tFd9OFVoOKZ9h7kavBKCRsf/TWSeMB6pmnjupZz3jIlbgH6BstwxXdvLKIYCLSgUBgtnIMmdGSOgjxxmYyMh0hGCJaE5t+UR6JymjsCt1O6BKBBGcuzBjlPfGKnBZmiIgUqbRlOWBGFo0OEUhYlpSYpLVijqgeYkVoMJhx3Wm3Z3AXETPH7bf8Kt4hgj1Or5ZXzRHVQ8x4BHOaxLTZ/cHsfC2sCA3PsKwtUjg7gcraWugSwQrOdoGMcQx5Hd1OYIjIJvaeYLQVfkpOwBOMzWRkOkIgIlAcMvUoB9j+T9Ou62zfLEw6Op/Q3YZ7215v7x9to9FZQeZViFw7poQKEdEhia2fOSRBIRV5BusNEJtI+LtGtmnKDmCi7XiGjAhU9sbYOU9gf9ewynlP2HpCFBIVWePKGNhdZUSkFxq27IWBvh/XKiFRGEReYeegkBHhGS9yNQglPc9wS1w0D/PUkewSKYxHeAZFCRJ5ApMsGaOy+I9WIojDwN9fwxUWkjHu2YMUBM8gRFabBJF1ydK+WI17XWbfIzy5+mrr2T4husunLaNcocterqkky6xPmwRPkd9/1WlMkKHrszlQO7uyoH5lEkTm/nBaeaeo9ENysnGd/HMgfGqFvyJ3nz6LzvvHBXf8KT16W7Ttq7B0TupJvf33GhZv/wWPxdt/02XxaoTc/pUfwtt+99nBq34J/B/rDeOdZqHHagAAAABJRU5ErkJggg=="/>
+        <image id="_Image2" width="66px" height="59px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAA7CAYAAADPeVzhAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADoUlEQVRoge1bW5LjMAjEqf2dI85F9gBzkT3iHMDzs3IRTEODFFdqkv6xXkbQAmQ58SYX4/vf340Z9/H5tT9aFw1KKRaskauwkqwpxa82PMMMMS1Dno0Aiw4hJYMWEpDJWeLyFUIowyYIWO05LYIYQkJFmwRcFTZlUiJC/szpcoAxvksQUn4jxtBwlSt6Ahpr21cRgYymyfA8Y8YjMgIyw1G/VbI6ruUdp0lIb/DGRATM5g3PuJ3og7BecadgkwREAEOIrTNhgMawIXRAk1ENDYYElihWvjXUhsAYo8fae1NUiKiSsAX3sBgGjnt3OROgy20yDsWSsKiQgK6erCg0shDwQqIcJiM8NhEqNzAGj3LWjuSK4JyAjI1IiEi9w8fn186EBrtDeCRYAqqhMtxdh4UOgzFGTLu3tYZkZER4iiNiLBHIi9gQtCuqCbFgnilCMlYlS0RC1MbO6RFiy7reSpbd7TNa+YggkRoRWq6OfS8sdB8KETxBkCizBJkZjYgQOROokSXHHbShur7a8oFOaGRbaURCljyZ5GjHRiHxsNDQiJIhEyK2jObwQkJMm/eQVcItUCBT0Lt6ZeQZNzkTdwNjI0+q5iC3HxFhb4wmQTsDUpDZQpl7O3pBdEODzfydbdTbIivx3goPxiOYiXU5CxPbjuSxsjJ5FGaIiBSp9GU5YGYuGh0i0GSRgkx9lYyoHWJFaPwKvIn4jw4R7Ov0an2VjKgdYsYjmLdJTJ89H8zKa2FFaHiGZX2RwtkbqKyvhe4DlffcH42rngmyE2Q2ZxmMR2Qr6a1gZIhdTWY+do5MLwjkEdmKeyttH4utgnY8Ok3acpZDqp4z/T7CE+idCTSyY7QnU5eRRyBvaOeKChHoJUl2MEKegPIEWv2IBLST0MRsIuHvGtmhyTsWR3UrM0LkDVHdu8fKvAP7u4ZVDu0CYuqVkEBzjStjYHeXEZFeaNi6lxBt2bufmQ/lgcgrrAwKGRGe8SJng1Cse7nAEhfJYZOnN3eJFMYj0DbnbZsi59DJkmOmbJY8vXZG7h0OA9+/hissJGOU2RcpCJ5BiKw2CSLrkiV6qtT11ktV4Qx8eLL0lGLIEKfu5ZpKsszGtEnwFHn/q05jggzdnslA/ezOgsaVSRCZP3SJcM8UlXFonuy+Tv45EK5a4a/IMx6UgTGQIuGKP6VHT4vemNVzToNapZf/XsPi5b/gsXj5b7osno2Qy7/yQ3jZ7z47eNYvgX8AlN/fs0V+DQwAAAAASUVORK5CYII="/>
+        <image id="_Image4" width="16px" height="15px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAI0lEQVQokWP89v0HKwMDwy8G8sAfJjI1wsGoAaMGjBpAJQMAgm4E/vN7emIAAAAASUVORK5CYII="/>
+        <image id="_Image6" width="471px" height="351px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>

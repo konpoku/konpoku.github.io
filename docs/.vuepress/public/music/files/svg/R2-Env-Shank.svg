@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="455px" height="190px" viewBox="0 0 455 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R2-Env-Shank</title>
+    <g id="R2-Env-Shank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" stroke="#34323A" stroke-width="5.59012876" points="316.542918 104.022532 167.520386 133.827253 18.4978541 104.022532 167.520386 74.2178112"></polygon>
+        <line x1="27.1587983" y1="104.022532" x2="307.883047" y2="104.022532" id="Path" stroke="#34323A" stroke-width="5.59012876"></line>
+        <line x1="167.520386" y1="137.030043" x2="167.520386" y2="167.69206" id="Path" stroke="#34323A" stroke-width="5.59012876"></line>
+        <line x1="167.520386" y1="40.1652361" x2="167.520386" y2="70.8283262" id="Path" stroke="#34323A" stroke-width="5.59012876"></line>
+        <path d="M340.5,-10 C346.022847,-10 350.5,-5.5228475 350.5,-1.57047708e-11 L350.5,10 C350.5,12.4508168 349.618347,14.6957125 348.154905,16.4348249 C354.271725,58.6418006 351.954077,165.344593 347.939842,200 L333.061403,200 C328.873791,167.292821 327.128395,54.7940251 332.840432,16.424006 C331.379613,14.6905157 330.5,12.4479802 330.5,10 L330.5,-1.57047708e-11 C330.5,-5.5228475 334.977153,-10 340.5,-10 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero" transform="translate(340.553390, 95.000000) rotate(-76.000000) translate(-340.553390, -95.000000) "></path>
+        <text id="Shank" fill="#34323A" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="37.2553648" font-style="italic" font-weight="bold">
+            <tspan x="211" y="40">Shank</tspan>
+        </text>
+        <line x1="290.5" y1="97.5" x2="316.5" y2="102.25" id="Path-11" stroke="#FA6400" stroke-width="7.5" stroke-linecap="square" fill-rule="nonzero"></line>
+    </g>
+</svg>

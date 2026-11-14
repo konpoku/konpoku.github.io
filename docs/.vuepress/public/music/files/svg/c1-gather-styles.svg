@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="740px" height="350px" viewBox="0 0 740 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c1-gather-styles</title>
+    <defs>
+        <circle id="path-1" cx="35.8472814" cy="35.8474502" r="35.6756757"></circle>
+        <polygon id="path-3" points="23.2091256 12.5166105 23.2091256 14.6027122 21.0992051 14.6027122 21.0949852 16.688814 17.7233323 16.688814 17.7233323 18.7749157 12.6595231 18.7749157 12.6595231 20.8610175 0 20.8610175 0 16.688814 2.95388871 16.688814 2.95388871 4.1722035 8.43968203 4.1722035 8.43968203 2.08610175 12.6595231 2.08610175 12.7088952 0 16.9135448 0 16.8793641 2.08610175 18.9892846 2.08610175 18.9892846 5.0066442 21.0992051 5.0066442 21.1241021 8.344407 25.3093405 8.344407 25.3190461 12.5166105"></polygon>
+        <circle id="path-5" cx="36" cy="36" r="36"></circle>
+        <circle id="path-7" cx="30" cy="30" r="30"></circle>
+        <rect id="path-9" x="0" y="0" width="71.4283929" height="71.4283929"></rect>
+        <circle id="path-11" cx="35.7143036" cy="35.7143036" r="35.7143036"></circle>
+        <rect id="path-13" x="0" y="0" width="59.5236607" height="59.5236607"></rect>
+        <circle id="path-15" cx="29.7619196" cy="29.7619196" r="29.7619196"></circle>
+        <rect id="path-17" x="0" y="0" width="71.4283929" height="71.4283929"></rect>
+        <circle id="path-19" cx="35.7143036" cy="35.7143036" r="35.7143036"></circle>
+        <path d="M0.0526607143,0.0469285714 L15.3228214,0.0469285714 C17.4297857,0.0469285714 19.140375,1.75751786 19.140375,3.86448214 L19.140375,17.1485357 C19.140375,19.2555 17.4297857,20.9660893 15.3228214,20.9660893 L4.82458929,20.9660893 C2.19085714,20.9660893 0.0526607143,18.8278393 0.0526607143,16.1941607 L0.0526607143,0.0469285714 L0.0526607143,0.0469285714 Z" id="path-21"></path>
+        <rect id="path-23" x="0" y="0" width="59.5236607" height="59.5236607"></rect>
+        <circle id="path-25" cx="29.7619196" cy="29.7619196" r="29.7619196"></circle>
+        <path d="M0.0438839286,0.0391071429 L12.7690179,0.0391071429 C14.5248214,0.0391071429 15.9503125,1.46459821 15.9503125,3.22040179 L15.9503125,14.2904464 C15.9503125,16.04625 14.5248214,17.4717411 12.7690179,17.4717411 L4.02049107,17.4717411 C1.82571429,17.4717411 0.0438839286,15.6898661 0.0438839286,13.4951339 L0.0438839286,0.0391071429 L0.0438839286,0.0391071429 Z" id="path-27"></path>
+    </defs>
+    <g id="c1-gather-styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F8F8FA" x="73" y="55" width="210" height="62" rx="1"></rect>
+        <rect id="Rectangle" fill="#F8F8FA" x="400" y="85" width="322" height="210" rx="3"></rect>
+        <text id="これが基本です" font-family="HiraginoSans-W3, Hiragino Sans" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="122" y="95">这是基本形态</tspan>
+        </text>
+        <rect id="Rectangle" fill="#F8F8FA" x="73" y="160" width="210" height="62" rx="1"></rect>
+        <rect id="Rectangle" fill="#F8F8FA" x="73" y="257" width="210" height="62" rx="1"></rect>
+        <text id="色々な様式があります。-目的に応じて使い" font-family="HiraginoSans-W3, Hiragino Sans" font-size="16" font-weight="300" line-spacing="22" fill="#000000">
+            <tspan x="447" y="143">存在着各种各样的体系模式。</tspan>
+            <tspan x="447" y="165">请根据目的区分使用吧！</tspan>
+        </text>
+        <text id="クラシック理論" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+            <tspan x="102" y="62">古典乐理</tspan>
+        </text>
+        <text id="自由派音楽理論" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+            <tspan x="508" y="92">自由派音楽理論</tspan>
+        </text>
+        <g id="reiwa-avatar" transform="translate(428.000000, 48.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#D5D8CF" xlink:href="#path-1"></use>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(13.849374, 8.792270)">
+                    <g id="Group" transform="translate(6.022016, 48.150128)">
+                        <rect id="ワンピース" fill="#0D1419" x="0" y="0" width="33.7325151" height="41.7960496"></rect>
+                    </g>
+                    <g id="腕" transform="translate(2.521763, 52.293482)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="6.35929412" height="12.5914149"></rect>
+                    </g>
+                    <g id="腕1" transform="translate(3.792343, 48.153386)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="2.10992051" height="16.688814"></rect>
+                    </g>
+                    <g id="腕2" transform="translate(38.386302, 48.153005)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="4.21984102" height="14.6029126"></rect>
+                    </g>
+                    <g id="首" transform="translate(24.299024, 35.702099) scale(-1, 1) translate(-24.299024, -35.702099) translate(17.799024, 22.202099)">
+                        <rect id="Rectangle" fill="#E7A376" x="0" y="0" width="12.237539" height="26.0416789"></rect>
+                    </g>
+                    <g id="えり" transform="translate(20.281647, 48.477806) scale(-1, 1) translate(-20.281647, -48.477806) translate(17.781647, 43.977806)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="4.21984102" height="8.344407"></rect>
+                    </g>
+                    <g id="えり1" transform="translate(28.721329, 48.477806) scale(-1, 1) translate(-28.721329, -48.477806) translate(26.221329, 43.977806)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="4.21984102" height="8.344407"></rect>
+                    </g>
+                    <g id="えり2" transform="translate(24.501488, 52.650143) scale(-1, 1) translate(-24.501488, -52.650143) translate(22.001488, 48.150143)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="4.21984102" height="8.344407"></rect>
+                    </g>
+                    <g id="えり3" transform="translate(24.501488, 50.739428) scale(-1, 1) translate(-24.501488, -50.739428) translate(22.001488, 48.239428)">
+                        <rect id="Rectangle" fill="#F0F1F1" x="0" y="0" width="4.21984102" height="4.08248013"></rect>
+                    </g>
+                    <g id="ヘアー" transform="translate(33.909215, 31.456598) scale(-1, 1) translate(-33.909215, -31.456598) translate(29.409215, 16.456598)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="8.87627981" height="29.122035"></rect>
+                    </g>
+                    <g id="ヘアー1" transform="translate(40.114843, 33.445119) scale(-1, 1) translate(-40.114843, -33.445119) translate(37.614843, 27.945119)" fill-opacity="0.6">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="4.21984102" height="10.4304992"></rect>
+                    </g>
+                    <g id="ヘアー2" transform="translate(13.739822, 44.222321) scale(-1, 1) translate(-13.739822, -44.222321) translate(7.239822, 40.222321)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="12.6595231" height="7.16405723"></rect>
+                    </g>
+                    <g id="ヘアー3" transform="translate(10.561554, 28.934499) scale(-1, 1) translate(-10.561554, -28.934499) translate(2.561554, 13.934499)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="15.1914277" height="29.6226391"></rect>
+                    </g>
+                    <g id="ヘアー4" transform="translate(25.403072, 22.228585) scale(-1, 1) translate(-25.403072, -22.228585) translate(15.403072, 18.728585)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="19.0303021" height="6.93886169"></rect>
+                    </g>
+                    <g id="ヘアー5" transform="translate(22.266380, 22.033259)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="7.3249221" height="5.76358665"></rect>
+                    </g>
+                    <g id="ヘアー6" transform="translate(29.306667, 19.317901)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="3.60431161" height="7.49788235"></rect>
+                    </g>
+                    <g id="ヘアー7" transform="translate(18.537249, 24.106645)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="3.60431161" height="4.61021304"></rect>
+                    </g>
+                    <g id="ヘアー8" transform="translate(13.909305, 10.031161)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="18.8207886" height="13.5708744"></rect>
+                    </g>
+                    <g id="ヘアー9" transform="translate(29.136210, 6.251065)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="7.16346582" height="19.1921399"></rect>
+                    </g>
+                    <g id="ヘアー10" transform="translate(32.908758, 4.163943)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="2.95388871" height="22.2633005"></rect>
+                    </g>
+                    <g id="ヘアー11" transform="translate(33.409436, 17.533450) scale(-1, 1) translate(-33.409436, -17.533450) translate(28.409436, 10.033450)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="9.03229889" height="14.0748362"></rect>
+                    </g>
+                    <g id="ヘアー12" transform="translate(8.012238, 4.164515)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="5.91731638" height="12.6528839"></rect>
+                    </g>
+                    <g id="肌" transform="translate(23.648789, 33.688776) scale(-1, 1) translate(-23.648789, -33.688776) translate(12.648789, 25.688776)">
+                        <path d="M21.5612719,0 L0,0 L0,15.0707638 C0,15.5070227 0.355760986,15.8639618 0.793454804,15.8639618 L21.5612719,15.8639618 L21.5612719,0 Z" id="Path" fill="#FFC59D"></path>
+                    </g>
+                    <g id="め" transform="translate(21.431508, 28.490588) scale(-1, 1) translate(-21.431508, -28.490588) translate(19.931508, 25.990588)" fill-opacity="0.7">
+                        <rect id="Rectangle" fill="#131010" x="0" y="0" width="2.65051192" height="4.25002226"></rect>
+                    </g>
+                    <g id="め1" transform="translate(31.341070, 28.201367) scale(-1, 1) translate(-31.341070, -28.201367) translate(29.841070, 25.701367)" fill-opacity="0.7">
+                        <rect id="Rectangle" fill="#131010" x="0" y="0" width="2.50496661" height="4.442938"></rect>
+                    </g>
+                    <g id="ヘアー13" transform="translate(10.394623, 31.058601) scale(-1, 1) translate(-10.394623, -31.058601) translate(2.394623, 18.558601)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="15.1914277" height="24.9253545"></rect>
+                    </g>
+                    <g id="ヘアー14" transform="translate(24.039224, 24.000954) scale(-1, 1) translate(-24.039224, -24.000954) translate(19.539224, 21.000954)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="8.52982512" height="5.95593005"></rect>
+                    </g>
+                    <g id="ヘアー15" transform="translate(16.031873, 24.436407) scale(-1, 1) translate(-16.031873, -24.436407) translate(12.031873, 19.936407)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="7.5590461" height="8.48966614"></rect>
+                    </g>
+                    <g id="ヘアー16" transform="translate(34.732443, 22.904579) scale(-1, 1) translate(-34.732443, -22.904579) translate(32.732443, 20.404579)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="3.60431161" height="4.61021304"></rect>
+                    </g>
+                    <g id="ヘアー17" transform="translate(23.678074, 21.643987) scale(-1, 1) translate(-23.678074, -21.643987) translate(19.678074, 20.643987)">
+                        <rect id="Rectangle" fill="#AF9295" x="0" y="0" width="7.59571383" height="1.6688814"></rect>
+                    </g>
+                    <g id="ほっぺ" transform="translate(11.454600, 31.032286) scale(-1, 1) translate(-11.454600, -31.032286) translate(7.454600, 29.532286)">
+                        <rect id="Rectangle" fill="#FF6633" x="0" y="0" width="7.07862639" height="2.39496725"></rect>
+                    </g>
+                    <g id="ほっぺ1" transform="translate(11.454600, 32.808439) scale(-1, 1) translate(-11.454600, -32.808439) translate(7.454600, 31.308439)" fill-opacity="0.5">
+                        <rect id="Rectangle" fill="#FF6633" x="0" y="0" width="7.07862639" height="2.39496725"></rect>
+                    </g>
+                    <g id="ほっぺ2" transform="translate(37.134925, 33.427517) scale(-1, 1) translate(-37.134925, -33.427517) translate(34.134925, 31.927517)" fill-opacity="0.5">
+                        <rect id="Rectangle" fill="#FF6633" x="0" y="0" width="5.31786963" height="2.39496725"></rect>
+                    </g>
+                    <g id="ヘアー18" transform="translate(5.090200, 31.938537) scale(-1, 1) translate(-5.090200, -31.938537) translate(2.590200, 20.438537)" fill-opacity="0.1">
+                        <rect id="Rectangle" fill="#000000" x="0" y="0" width="4.21984102" height="22.8472369"></rect>
+                    </g>
+                    <g id="ハッと" transform="translate(0.075377, 0.075825)">
+                        <polygon id="Path" fill="#232D30" points="23.2091256 12.5166105 23.2091256 14.6027122 21.0992051 14.6027122 21.0949852 16.688814 17.7233323 16.688814 17.7233323 18.7749157 12.6595231 18.7749157 12.6595231 20.8610175 0 20.8610175 0 16.688814 2.95388871 16.688814 2.95388871 4.1722035 8.43968203 4.1722035 8.43968203 2.08610175 12.6595231 2.08610175 12.7088952 0 16.9135448 0 16.8793641 2.08610175 18.9892846 2.08610175 18.9892846 5.0066442 21.0992051 5.0066442 21.1241021 8.344407 25.3093405 8.344407 25.3190461 12.5166105"></polygon>
+                        <g id="Clipped">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Path"></g>
+                            <g id="Group" mask="url(#mask-4)">
+                                <g transform="translate(-0.421984, 1.668881)">
+                                    <g id="ハットの影" transform="translate(0.412447, 0.000000)" fill-opacity="0.1">
+                                        <g id="Group" transform="translate(2.963632, 2.291207)" fill="#000000">
+                                            <rect id="Rectangle" x="0" y="0.212146117" width="2.10992473" height="12.5166209"></rect>
+                                        </g>
+                                        <g id="Group" transform="translate(17.732869, 0.367713)" fill="#000000">
+                                            <rect id="Rectangle" x="0" y="0.0495006912" width="1.26595231" height="2.92054078"></rect>
+                                        </g>
+                                        <g id="Group" transform="translate(19.842958, 3.281179)" fill="#000000">
+                                            <rect id="Rectangle" x="0" y="0.0565721589" width="1.26595231" height="3.33775737"></rect>
+                                        </g>
+                                        <g id="Group" transform="translate(24.062799, 6.604803)" fill="#000000">
+                                            <rect id="Rectangle" x="0" y="0.0707153029" width="1.26595231" height="4.17220287"></rect>
+                                        </g>
+                                        <g id="Group" transform="translate(0.009744, 14.949210)" fill="#000000">
+                                            <rect id="Rectangle" x="0" y="0.0707153029" width="2.10992473" height="4.17220287"></rect>
+                                        </g>
+                                    </g>
+                                    <g id="ハットのライン" transform="translate(4.641825, 6.675526)">
+                                        <g id="帽子のライン" transform="translate(0.000000, 5.423865)" fill="#E1E1E1">
+                                            <rect id="Rectangle" x="0" y="0" width="8.43968203" height="2.08610175"></rect>
+                                        </g>
+                                        <g id="帽子のライン1" transform="translate(8.439682, 3.337763)" fill="#E1E1E1">
+                                            <rect id="Rectangle" x="0" y="0" width="4.21984102" height="2.08610175"></rect>
+                                        </g>
+                                        <g id="帽子のライン2" transform="translate(12.659523, 1.251661)" fill="#E1E1E1">
+                                            <rect id="Rectangle" x="0" y="0" width="2.10992051" height="2.08610175"></rect>
+                                        </g>
+                                        <g id="帽子のライン3" transform="translate(14.769444, 0.000000)" fill="#E1E1E1">
+                                            <rect id="Rectangle" x="0" y="0" width="2.10992051" height="2.08610175"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="ほっぺ3" transform="translate(11.621722, 30.823383) scale(-1, 1) translate(-11.621722, -30.823383) translate(7.621722, 29.323383)">
+                        <rect id="Rectangle" fill="#F1AB31" x="0" y="0" width="7.07862639" height="2.39496725"></rect>
+                    </g>
+                    <g id="ほっぺ4" transform="translate(11.621722, 32.600490) scale(-1, 1) translate(-11.621722, -32.600490) translate(7.621722, 31.100490)" fill-opacity="0.5">
+                        <rect id="Rectangle" fill="#F1AB31" x="0" y="0" width="7.07862639" height="2.39496725"></rect>
+                    </g>
+                    <g id="ほっぺ5" transform="translate(37.302811, 33.218614) scale(-1, 1) translate(-37.302811, -33.218614) translate(34.302811, 31.718614)" fill-opacity="0.5">
+                        <rect id="Rectangle" fill="#F1AB31" x="0" y="0" width="5.31786963" height="2.39496725"></rect>
+                    </g>
+                    <g id="Group" transform="translate(23.764965, 37.484480)" stroke-opacity="0.9">
+                        <path d="M0.235772413,0.308325838 C0.620539893,1.23997888 0.705025008,1.26125712 3.61877908,1.27419095 C5.86844086,1.28462146 6.11174489,0.965447889 6.36389039,0.212365158" id="Path" stroke="#E38474" stroke-width="0.866333118"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="ジャズ理論" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+            <tspan x="102" y="166">爵士乐理</tspan>
+        </text>
+        <text id="ポピュラー界" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500" fill="#000000">
+            <tspan x="102" y="262">流行乐界</tspan>
+        </text>
+        <text id="これが基本です" font-family="HiraginoSans-W3, Hiragino Sans" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="122" y="200">这是基本形态</tspan>
+        </text>
+        <text id="現実はこうです" font-family="HiraginoSans-W3, Hiragino Sans" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="122" y="297">现实中则是这样的</tspan>
+        </text>
+        <g id="sonny" transform="translate(18.000000, 252.000000)">
+            <rect id="avatar_circle-sonny" x="0" y="0" width="72" height="72"></rect>
+            <circle id="Oval" fill="#30E795" cx="36" cy="36" r="36"></circle>
+            <g id="Clipped">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Oval"></g>
+                <g id="Group" mask="url(#mask-6)">
+                    <g transform="translate(37.207314, 73.637600) scale(-1, 1) translate(-37.207314, -73.637600) translate(3.207314, 10.137600)">
+                        <rect id="シャツ" stroke="none" fill="#232323" fill-rule="evenodd" x="9.7227648" y="43.8513408" width="47.6400384" height="82.651392"></rect>
+                        <rect id="首" stroke="none" fill="#EDB691" fill-rule="evenodd" x="29.7363456" y="33.7214592" width="10.8951552" height="10.5014016"></rect>
+                        <rect id="首1" stroke="none" fill="#EDB691" fill-rule="evenodd" x="28.0346112" y="43.7721984" width="14.298624" height="5.2507008"></rect>
+                        <rect id="後ろ髪" stroke="none" fill="#141518" fill-rule="evenodd" x="26.2315008" y="31.41792" width="3.5085312" height="9.8987904"></rect>
+                        <rect id="腕" stroke="none" fill="#1D1D1D" fill-rule="evenodd" x="57.3628032" y="46.617984" width="9.7224192" height="25.04448"></rect>
+                        <rect id="腕1" stroke="none" fill="#1D1D1D" fill-rule="evenodd" x="0.0239616" y="48.5947008" width="9.7224192" height="77.7896064"></rect>
+                        <rect id="シャツ1" stroke="none" fill="#232323" fill-rule="evenodd" x="29.0644992" y="49.0228992" width="11.6684928" height="18.6406272"></rect>
+                        <rect id="シャツ2" stroke="none" fill="#232323" fill-rule="evenodd" x="27.95328" y="47.5828992" width="4.7943936" height="3.7605888"></rect>
+                        <rect id="シャツ3" stroke="none" fill="#232323" fill-rule="evenodd" x="27.95328" y="45.1828224" width="2.380608" height="3.7605888"></rect>
+                        <rect id="シャツ4" stroke="none" fill="#232323" fill-rule="evenodd" x="36.59328" y="47.5828992" width="4.7943936" height="3.7605888"></rect>
+                        <rect id="シャツ5" stroke="none" fill="#232323" fill-rule="evenodd" x="39.0070656" y="45.1828224" width="2.380608" height="3.7605888"></rect>
+                        <rect id="後ろ髪1" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="45.4333824" y="7.8973056" width="2.4106752" height="33.0204672"></rect>
+                        <rect id="後ろ髪2" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="43.0334208" y="12.684096" width="2.4106752" height="33.933888"></rect>
+                        <rect id="後ろ髪3" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="40.6334592" y="12.684096" width="2.4106752" height="36.6925824"></rect>
+                        <rect id="後ろ髪4" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="47.8334592" y="7.8973056" width="2.4106752" height="40.6973952"></rect>
+                        <rect id="ヘアー" stroke="none" fill="#181A1E" fill-rule="evenodd" x="22.6979712" y="2.2778496" width="2.9625984" height="30.6774144"></rect>
+                        <rect id="ヘアー1" stroke="none" fill="#181A1E" fill-rule="evenodd" x="25.0848" y="0.0723456" width="19.1539584" height="9.9880704"></rect>
+                        <rect id="ヘアー2" stroke="none" fill="#16181B" fill-rule="evenodd" x="22.7241216" y="26.9601408" width="3.8518272" height="14.8605696"></rect>
+                        <rect id="後ろ髪5" stroke="none" fill="#181A1E" fill-rule="evenodd" x="18.6588288" y="44.9462016" width="2.9453184" height="8.059968"></rect>
+                        <rect id="ヘアー3" stroke="none" fill="#181A1E" fill-rule="evenodd" x="18.6588288" y="7.7698944" width="2.9576448" height="37.1763072"></rect>
+                        <rect id="ヘアー4" stroke="none" fill="#181A1E" fill-rule="evenodd" x="20.5788672" y="4.6832256" width="2.9576448" height="40.262976"></rect>
+                        <rect id="ヘアー5" stroke="none" fill="#181A1E" fill-rule="evenodd" x="16.9178112" y="10.060416" width="1.8139392" height="15.9297408"></rect>
+                        <rect id="ヘアー6" stroke="none" fill="#181A1E" fill-rule="evenodd" x="25.6605696" y="3.5465472" width="1.983744" height="20.7047808"></rect>
+                        <path d="M46.7659008,3.1170816 L23.053248,3.1170816 L23.053248,30.9138048 C23.053248,33.5313792 25.1783424,35.6563584 27.7958016,35.6563584 L39.6520704,35.6563584 C43.5783168,35.6563584 46.7659008,32.4687744 46.7659008,28.542528 L46.7659008,3.1170816 Z" id="肌-whole" stroke="none" fill="#EEBF9F" fill-rule="evenodd"></path>
+                        <path d="M39.1686912,27.6529536 L26.3267712,27.6529536 L26.3267712,35.3538432 C26.3267712,36.7705728 27.4770432,37.9208448 28.8937728,37.9208448 L36.6016896,37.9208448 C38.0184192,37.9208448 39.1686912,36.7705728 39.1686912,35.3538432 L39.1686912,27.6529536 Z" id="あご" stroke="none" fill="#EEBF9F" fill-rule="evenodd"></path>
+                        <path d="M36.813312,15.8396544 C38.9408256,15.6489984 39.5612928,15.7735296 41.6383488,16.0517376" id="まゆ" stroke="#AE917B" stroke-width="1.44" fill="none"></path>
+                        <path d="M30.8139264,15.8396544 C28.6864128,15.6489984 28.0659456,15.7735296 25.9888896,16.0517376" id="まゆ1" stroke="#AE917B" stroke-width="1.44" fill="none"></path>
+                        <path d="M34.8780672,18.1340928 C34.8780672,17.1326592 35.6957568,16.5356928 36.8705664,16.3196928 C38.99808,15.9284736 41.1610752,16.0154496 43.3401984,16.3196928 C43.5601152,16.3196928 43.7386752,16.48224 43.7386752,16.6825728 L43.7386752,20.9425536 C43.7386752,21.5434368 43.2029952,23.5775232 42.5431296,23.5775232 L38.066112,23.5775232 C36.3065472,23.5775232 34.8780672,22.2766848 34.8780672,20.674368 L34.8780672,18.1340928 Z" id="耳" stroke="#393E46" stroke-width="0.959616" fill="none"></path>
+                        <path d="M32.0742144,18.1340928 C32.0742144,17.1326592 31.261248,16.3196928 30.2598144,16.3196928 L24.024384,16.3196928 C23.8240512,16.3196928 23.661504,16.48224 23.661504,16.6825728 L23.661504,22.4888832 C23.661504,23.0897664 24.1492608,23.5775232 24.750144,23.5775232 L29.1710592,23.5775232 C30.773376,23.5775232 32.0742144,22.2766848 32.0742144,20.674368 L32.0742144,18.1340928 Z" id="耳1" stroke="#393E46" stroke-width="0.959616" fill="none"></path>
+                        <rect id="目" stroke="none" fill-opacity="0.7" fill="#E9ECEE" fill-rule="evenodd" x="26.744832" y="17.7679872" width="4.269312" height="2.546496"></rect>
+                        <rect id="目1" stroke="none" fill-opacity="0.9" fill="#85756E" fill-rule="evenodd" x="27.897984" y="17.7679872" width="1.963008" height="2.546496"></rect>
+                        <rect id="目2" stroke="none" fill-opacity="0.7" fill="#E9ECEE" fill-rule="evenodd" x="36.4868352" y="17.7679872" width="4.269312" height="2.546496"></rect>
+                        <rect id="目3" stroke="none" fill-opacity="0.9" fill="#85756E" fill-rule="evenodd" x="37.6399872" y="17.7679872" width="1.963008" height="2.546496"></rect>
+                        <line x1="34.4382336" y1="17.5392" x2="31.9838976" y2="17.5392" id="メガネパーツ" stroke="#393E46" stroke-width="0.959616" fill="none"></line>
+                        <line x1="46.6134912" y1="17.6011776" x2="44.3659392" y2="17.6011776" id="メガネパーツ1" stroke="#393E46" stroke-width="0.959616" fill="none"></line>
+                        <line x1="23.5085184" y1="17.6011776" x2="23.2956288" y2="17.6011776" id="メガネパーツ2" stroke="#393E46" stroke-width="0.959616" fill="none"></line>
+                        <path d="M37.845504,30.2640768 C37.5685632,30.4636032 35.949312,30.9820032 34.1876736,30.1306752 C33.9714432,30.0261888 33.7968,30.3827328 33.5294208,30.2477184 C33.2898048,30.3806592 32.93568,30.0448512 32.727168,30.1281408 C31.2830208,30.7049472 29.8476288,30.4311168 29.340288,30.2640768" id="Path" stroke="#D48A5C" stroke-width="0.959616" fill="none"></path>
+                        <g id="Group" opacity="0.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(31.910400, 30.182400)">
+                            <g id="_Image2-link" transform="translate(0.053013, 0.113333)">
+                                <image id="_Image2" x="0" y="0" width="4.36684861" height="1.99971971" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAASCAYAAAA31qwVAAAABGdBTUEAALGOfPtRkwAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAACagAwAEAAAAAQAAABIAAAAADIHm7QAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAU9JREFUSA2tltFxwkAQQ+MM9aSXNJGiaIJe0hAgw7uRxd5h3+AfrXa1WhnnI8vf789XPEvwHr32BtGf8jtNmmht78E40aXyay/rwfJQ8sqxGVXDe++oRwtHMDfo1XlboVybc/hI4x68pPRXglUmGIJohG7o/V498tgEwiCD0ccokflRxIc9XsyRmXBRsFyCJ24WnUzU8vZQ8GbV+8UQEE7ca+YzWH66NPrORod/KpTsd3kpGG9AJufUIBpw1xHET8QLVNvrlecv5gLqxKf/Csy8N6rRJ77sZDAEuehcNRz9CNGz8w5XL/74JeazUDvmYWk5kLOKu7aqX3oEk5mGVTjNjgbRjj9+WH04iLZxD8aCh1MvQyXHdITtoImyt+EZTHsIMqBmM6G0x4M3XFj1Hp+u+J/MFwnovU/UZSAZny//j2BceRMQ2WzQbhCMFYjnBrXYWgQ+hPaWAAAAAElFTkSuQmCC"></image>
+                            </g>
+                        </g>
+                        <g id="Group" opacity="0.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(30.182400, 28.224000)">
+                            <g id="_Image3-link" transform="translate(0.096300, 0.047981)">
+                                <image id="_Image3" x="0" y="0" width="7.48396397" height="4.94370271" xlink:href="data:image/png;base64,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"></image>
+                            </g>
+                        </g>
+                        <path d="M51.12864,19.1987712 C51.1112448,18.04608 50.2232832,17.3029248 49.6122624,17.3029248 C48.5599104,17.2397952 47.596032,17.5344768 46.7005824,18.1051776 L46.7005824,25.1800704 L48.0289536,25.1800704 C49.7397888,25.1800704 51.12864,23.8081536 51.12864,22.1181696 L51.12864,19.1987712 Z" id="耳2" stroke="none" fill="#EEBF9F" fill-rule="evenodd"></path>
+                        <rect id="ヘアー7" stroke="none" fill="#181A1E" fill-rule="evenodd" x="27.6637824" y="2.8971648" width="19.1841408" height="5.0001408"></rect>
+                        <rect id="ヘアー8" stroke="none" fill="#181A1E" fill-rule="evenodd" x="22.6979712" y="2.2778496" width="5.4974592" height="7.7825664"></rect>
+                        <rect id="ヘアー9" stroke="none" fill="#181A1E" fill-rule="evenodd" x="22.9640832" y="6.1691904" width="1.9170432" height="7.7298048"></rect>
+                        <rect id="ヘアー10" stroke="none" fill="#181A1E" fill-rule="evenodd" x="22.7435904" y="2.2778496" width="2.8806912" height="6.7969152"></rect>
+                        <rect id="ヘアー11" stroke="none" fill-opacity="0.5" fill="#181A1E" fill-rule="evenodd" x="44.2187136" y="7.7698944" width="2.566656" height="4.9142016"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="sonny" transform="translate(614.000000, 196.000000)">
+            <rect id="avatar_circle-sonny" x="0" y="0" width="60" height="60"></rect>
+            <circle id="Oval" fill="#30E795" cx="30" cy="30" r="30"></circle>
+            <g id="Clipped">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="Oval"></g>
+                <g id="Group" mask="url(#mask-8)">
+                    <g transform="translate(31.339429, 61.448000) scale(-1, 1) translate(-31.339429, -61.448000) translate(3.339429, 8.448000)">
+                        <rect id="シャツ" stroke="none" fill="#232323" fill-rule="evenodd" x="8.102304" y="36.542784" width="39.700032" height="68.87616"></rect>
+                        <rect id="首" stroke="none" fill="#EDB691" fill-rule="evenodd" x="24.780288" y="28.101216" width="9.079296" height="8.751168"></rect>
+                        <rect id="首1" stroke="none" fill="#EDB691" fill-rule="evenodd" x="23.362176" y="36.476832" width="11.91552" height="4.375584"></rect>
+                        <rect id="後ろ髪" stroke="none" fill="#141518" fill-rule="evenodd" x="21.859584" y="26.1816" width="2.923776" height="8.248992"></rect>
+                        <rect id="腕" stroke="none" fill="#1D1D1D" fill-rule="evenodd" x="47.802336" y="38.84832" width="8.102016" height="20.8704"></rect>
+                        <rect id="腕1" stroke="none" fill="#1D1D1D" fill-rule="evenodd" x="0.019968" y="40.495584" width="8.102016" height="64.824672"></rect>
+                        <rect id="シャツ1" stroke="none" fill="#232323" fill-rule="evenodd" x="24.220416" y="40.852416" width="9.723744" height="15.533856"></rect>
+                        <rect id="シャツ2" stroke="none" fill="#232323" fill-rule="evenodd" x="23.2944" y="39.652416" width="3.995328" height="3.133824"></rect>
+                        <rect id="シャツ3" stroke="none" fill="#232323" fill-rule="evenodd" x="23.2944" y="37.652352" width="1.98384" height="3.133824"></rect>
+                        <rect id="シャツ4" stroke="none" fill="#232323" fill-rule="evenodd" x="30.4944" y="39.652416" width="3.995328" height="3.133824"></rect>
+                        <rect id="シャツ5" stroke="none" fill="#232323" fill-rule="evenodd" x="32.505888" y="37.652352" width="1.98384" height="3.133824"></rect>
+                        <rect id="後ろ髪1" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="37.861152" y="6.581088" width="2.008896" height="27.517056"></rect>
+                        <rect id="後ろ髪2" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="35.861184" y="10.57008" width="2.008896" height="28.27824"></rect>
+                        <rect id="後ろ髪3" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="33.861216" y="10.57008" width="2.008896" height="30.577152"></rect>
+                        <rect id="後ろ髪4" stroke="none" fill="#0D0E10" fill-rule="evenodd" x="39.861216" y="6.581088" width="2.008896" height="33.914496"></rect>
+                        <rect id="ヘアー" stroke="none" fill="#181A1E" fill-rule="evenodd" x="18.914976" y="1.898208" width="2.468832" height="25.564512"></rect>
+                        <rect id="ヘアー1" stroke="none" fill="#181A1E" fill-rule="evenodd" x="20.904" y="0.060288" width="15.961632" height="8.323392"></rect>
+                        <rect id="ヘアー2" stroke="none" fill="#16181B" fill-rule="evenodd" x="18.936768" y="22.466784" width="3.209856" height="12.383808"></rect>
+                        <rect id="後ろ髪5" stroke="none" fill="#181A1E" fill-rule="evenodd" x="15.549024" y="37.455168" width="2.454432" height="6.71664"></rect>
+                        <rect id="ヘアー3" stroke="none" fill="#181A1E" fill-rule="evenodd" x="15.549024" y="6.474912" width="2.464704" height="30.980256"></rect>
+                        <rect id="ヘアー4" stroke="none" fill="#181A1E" fill-rule="evenodd" x="17.149056" y="3.902688" width="2.464704" height="33.55248"></rect>
+                        <rect id="ヘアー5" stroke="none" fill="#181A1E" fill-rule="evenodd" x="14.098176" y="8.38368" width="1.511616" height="13.274784"></rect>
+                        <rect id="ヘアー6" stroke="none" fill="#181A1E" fill-rule="evenodd" x="21.383808" y="2.955456" width="1.65312" height="17.253984"></rect>
+                        <path d="M38.971584,2.597568 L19.21104,2.597568 L19.21104,25.761504 C19.21104,27.942816 20.981952,29.713632 23.163168,29.713632 L33.043392,29.713632 C36.315264,29.713632 38.971584,27.057312 38.971584,23.78544 L38.971584,2.597568 Z" id="肌-whole" stroke="none" fill="#EEBF9F" fill-rule="evenodd"></path>
+                        <path d="M32.640576,23.044128 L21.938976,23.044128 L21.938976,29.461536 C21.938976,30.642144 22.897536,31.600704 24.078144,31.600704 L30.501408,31.600704 C31.682016,31.600704 32.640576,30.642144 32.640576,29.461536 L32.640576,23.044128 Z" id="あご" stroke="none" fill="#EEBF9F" fill-rule="evenodd"></path>
+                        <path d="M30.67776,13.199712 C32.450688,13.040832 32.967744,13.144608 34.698624,13.376448" id="まゆ" stroke="#AE917B" stroke-width="1.2" fill="none"></path>
+                        <path d="M25.678272,13.199712 C23.905344,13.040832 23.388288,13.144608 21.657408,13.376448" id="まゆ1" stroke="#AE917B" stroke-width="1.2" fill="none"></path>
+                        <path d="M29.065056,15.111744 C29.065056,14.277216 29.746464,13.779744 30.725472,13.599744 C32.4984,13.273728 34.300896,13.346208 36.116832,13.599744 C36.300096,13.599744 36.448896,13.7352 36.448896,13.902144 L36.448896,17.452128 C36.448896,17.952864 36.002496,19.647936 35.452608,19.647936 L31.72176,19.647936 C30.255456,19.647936 29.065056,18.563904 29.065056,17.22864 L29.065056,15.111744 Z" id="耳" stroke="#393E46" stroke-width="0.79968" fill="none"></path>
+                        <path d="M26.728512,15.111744 C26.728512,14.277216 26.05104,13.599744 25.216512,13.599744 L20.02032,13.599744 C19.853376,13.599744 19.71792,13.7352 19.71792,13.902144 L19.71792,18.740736 C19.71792,19.241472 20.124384,19.647936 20.62512,19.647936 L24.309216,19.647936 C25.64448,19.647936 26.728512,18.563904 26.728512,17.22864 L26.728512,15.111744 Z" id="耳1" stroke="#393E46" stroke-width="0.79968" fill="none"></path>
+                        <rect id="目" stroke="none" fill-opacity="0.7" fill="#E9ECEE" fill-rule="evenodd" x="22.28736" y="14.806656" width="3.55776" height="2.12208"></rect>
+                        <rect id="目1" stroke="none" fill-opacity="0.9" fill="#85756E" fill-rule="evenodd" x="23.24832" y="14.806656" width="1.63584" height="2.12208"></rect>
+                        <rect id="目2" stroke="none" fill-opacity="0.7" fill="#E9ECEE" fill-rule="evenodd" x="30.405696" y="14.806656" width="3.55776" height="2.12208"></rect>
+                        <rect id="目3" stroke="none" fill-opacity="0.9" fill="#85756E" fill-rule="evenodd" x="31.366656" y="14.806656" width="1.63584" height="2.12208"></rect>
+                        <line x1="28.698528" y1="14.618" x2="26.653248" y2="14.618" id="メガネパーツ" stroke="#393E46" stroke-width="0.79968" fill="none"></line>
+                        <line x1="38.844576" y1="14.669648" x2="36.971616" y2="14.669648" id="メガネパーツ1" stroke="#393E46" stroke-width="0.79968" fill="none"></line>
+                        <line x1="19.590432" y1="14.669648" x2="19.413024" y2="14.669648" id="メガネパーツ2" stroke="#393E46" stroke-width="0.79968" fill="none"></line>
+                        <path d="M31.53792,25.220064 C31.307136,25.386336 29.95776,25.818336 28.489728,25.108896 C28.309536,25.021824 28.164,25.318944 27.941184,25.206432 C27.741504,25.317216 27.4464,25.037376 27.27264,25.106784 C26.069184,25.587456 24.873024,25.359264 24.45024,25.220064" id="Path" stroke="#D48A5C" stroke-width="0.79968" fill="none"></path>
+                        <g id="Group" opacity="0.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(26.592000, 25.152000)">
+                            <g id="_Image2-link" transform="translate(0.044178, 0.094444)">
+                                <image id="_Image2" x="0" y="0" width="3.63904051" height="1.66643309" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAASCAYAAAA31qwVAAAABGdBTUEAALGOfPtRkwAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAACagAwAEAAAAAQAAABIAAAAADIHm7QAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAU9JREFUSA2tltFxwkAQQ+MM9aSXNJGiaIJe0hAgw7uRxd5h3+AfrXa1WhnnI8vf789XPEvwHr32BtGf8jtNmmht78E40aXyay/rwfJQ8sqxGVXDe++oRwtHMDfo1XlboVybc/hI4x68pPRXglUmGIJohG7o/V498tgEwiCD0ccokflRxIc9XsyRmXBRsFyCJ24WnUzU8vZQ8GbV+8UQEE7ca+YzWH66NPrORod/KpTsd3kpGG9AJufUIBpw1xHET8QLVNvrlecv5gLqxKf/Csy8N6rRJ77sZDAEuehcNRz9CNGz8w5XL/74JeazUDvmYWk5kLOKu7aqX3oEk5mGVTjNjgbRjj9+WH04iLZxD8aCh1MvQyXHdITtoImyt+EZTHsIMqBmM6G0x4M3XFj1Hp+u+J/MFwnovU/UZSAZny//j2BceRMQ2WzQbhCMFYjnBrXYWgQ+hPaWAAAAAElFTkSuQmCC"></image>
+                            </g>
+                        </g>
+                        <g id="Group" opacity="0.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(25.152000, 23.520000)">
+                            <g id="_Image3-link" transform="translate(0.080250, 0.039984)">
+                                <image id="_Image3" x="0" y="0" width="6.23663664" height="4.11975226" xlink:href="data:image/png;base64,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"></image>
+                            </g>
+                        </g>
+                        <path d="M42.6072,15.998976 C42.592704,15.0384 41.852736,14.419104 41.343552,14.419104 C40.466592,14.366496 39.66336,14.612064 38.917152,15.087648 L38.917152,20.983392 L40.024128,20.983392 C41.449824,20.983392 42.6072,19.840128 42.6072,18.431808 L42.6072,15.998976 Z" id="耳2" stroke="none" fill="#EEBF9F" fill-rule="evenodd"></path>
+                        <rect id="ヘアー7" stroke="none" fill="#181A1E" fill-rule="evenodd" x="23.053152" y="2.414304" width="15.986784" height="4.166784"></rect>
+                        <rect id="ヘアー8" stroke="none" fill="#181A1E" fill-rule="evenodd" x="18.914976" y="1.898208" width="4.581216" height="6.485472"></rect>
+                        <rect id="ヘアー9" stroke="none" fill="#181A1E" fill-rule="evenodd" x="19.136736" y="5.140992" width="1.597536" height="6.441504"></rect>
+                        <rect id="ヘアー10" stroke="none" fill="#181A1E" fill-rule="evenodd" x="18.952992" y="1.898208" width="2.400576" height="5.664096"></rect>
+                        <rect id="ヘアー11" stroke="none" fill-opacity="0.5" fill="#181A1E" fill-rule="evenodd" x="36.848928" y="6.474912" width="2.13888" height="4.095168"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="mozart" transform="translate(18.000000, 48.000000)">
+            <rect id="round_mozart" x="0" y="0" width="71.4283929" height="71.4283929"></rect>
+            <g id="Clipped">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <g id="Group" mask="url(#mask-10)">
+                    <circle id="Oval" fill="#39B9D4" cx="35.7143036" cy="35.7143036" r="35.7143036"></circle>
+                    <g id="Clipped">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="Oval"></g>
+                        <g id="Group" mask="url(#mask-12)">
+                            <g transform="translate(10.178571, 5.142857)">
+                                <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(6.803571, 25.982143)">
+                                    <rect id="シャツ" fill="#FC3628" x="0.0305892857" y="10.2411964" width="13.6752857" height="54.7842857"></rect>
+                                    <rect id="シャツ1" fill="#FC3628" x="8.34798214" y="6.84675" width="5.35789286" height="15.67725"></rect>
+                                    <rect id="シャツ2" fill="#FC3628" x="3.96471429" y="8.544" width="7.00607143" height="49.6440536"></rect>
+                                    <rect id="ベルト" fill="#988A64" x="17.1246964" y="34.6066071" width="3.41882143" height="3.41882143"></rect>
+                                    <rect id="首" fill="#DE9667" x="13.783125" y="0.0526607143" width="8.05275" height="7.19496429"></rect>
+                                    <rect id="シャツ3" fill="#EEEADC" x="16.36575" y="5.47923214" width="4.10260714" height="16.0928571"></rect>
+                                    <rect id="シャツ4" fill="#EEEADC" x="13.705875" y="6.84675" width="8.17816071" height="53.3448214"></rect>
+                                    <polygon id="シャツ5" fill="#FC3628" points="20.5435179 10.2411964 33.5350179 10.2411964 33.5350179 65.0254821 21.2205 65.0254821 21.22725 46.0198929 21.22725 33.1294286 20.5435179 33.157125 20.5435179 10.2409821"></polygon>
+                                    <rect id="シャツ6" fill="#F6A439" x="22.8615" y="22.2314464" width="1" height="42.7108393"></rect>
+                                    <rect id="シャツ7" fill="#F6A439" x="24.5709107" y="11.6087143" width="1" height="8.20516071"></rect>
+                                    <rect id="首1" fill="#BDC280" x="15.0621429" y="8.17317857" width="5.481375" height="11.2337143"></rect>
+                                    <rect id="首2" fill="#BDC280" x="14.0477679" y="23.8896429" width="3.57723214" height="4.44723214"></rect>
+                                    <rect id="首3" fill="#CFD3A3" x="18.4170536" y="10.2411964" width="3.41882143" height="3.44319643"></rect>
+                                    <rect id="首4" fill="#B8BE76" x="21.835875" y="11.6087143" width="2.05130357" height="2.07567857"></rect>
+                                    <rect id="首5" fill="#B8BE76" x="22.5196071" y="13.6600179" width="1.36751786" height="3.41764286"></rect>
+                                    <rect id="首6" fill="#B8BE76" x="21.1520893" y="17.1032143" width="1.36751786" height="3.41764286"></rect>
+                                    <rect id="首7" fill="#B8BE76" x="21.1520893" y="20.5220357" width="1.36751786" height="3.41764286"></rect>
+                                    <rect id="首8" fill="#D9DCB6" x="17.7332679" y="13.6600179" width="1.36751786" height="3.41764286"></rect>
+                                    <rect id="首9" fill="#D7DBB3" x="15.7366071" y="13.6600179" width="2.07283929" height="4.79855357"></rect>
+                                    <rect id="首10" fill="#A7AF57" x="22.5196071" y="19.8632679" width="1.36751786" height="3.41764286"></rect>
+                                    <rect id="首11" fill="#B2B86A" x="20.4886071" y="24.9498214" width="1.01185714" height="2.73385714"></rect>
+                                    <rect id="首12" fill="#D6DAB1" x="19.1007857" y="13.6600179" width="3.41882143" height="3.44319643"></rect>
+                                    <rect id="首13" fill="#CFD3A3" x="17.7332679" y="17.1032143" width="3.41882143" height="3.39326786"></rect>
+                                    <rect id="首14" fill="#D5D9AF" x="18.5653929" y="20.4964821" width="3.41882143" height="5.089875"></rect>
+                                    <rect id="首15" fill="#B2B96C" x="21.1520893" y="13.6843929" width="1.36751786" height="1"></rect>
+                                    <rect id="首16" fill="#C4C98E" x="19.1368929" y="13.6600179" width="1" height="3.41764286"></rect>
+                                    <rect id="首17" fill="#C4C98E" x="18.4170536" y="18.1172679" width="1.36751786" height="1"></rect>
+                                    <rect id="首18" fill="#C4C98E" x="19.4426786" y="19.813875" width="1.36751786" height="1"></rect>
+                                    <rect id="首19" fill="#C4C98E" x="18.5653929" y="22.5830357" width="1.36751786" height="1"></rect>
+                                    <rect id="首20" fill="#CDD19F" x="17.0697857" y="23.8896429" width="3.41882143" height="3.39326786"></rect>
+                                    <rect id="首21" fill="#C6CB92" x="15.0733929" y="20.4964821" width="3.41882143" height="3.39326786"></rect>
+                                    <rect id="首22" fill="#CFD3A3" x="16.4409107" y="27.2828571" width="3.41882143" height="3.39326786"></rect>
+                                    <rect id="首23" fill="#C4C98E" x="17.0697857" y="25.97625" width="1.36751786" height="1"></rect>
+                                    <rect id="シャツ8" fill="#FC3628" x="10.9708393" y="20.9567679" width="5.35789286" height="44.0689286"></rect>
+                                    <rect id="シャツ9" fill="#FC3628" x="21.835875" y="6.84675" width="3.08694643" height="4.42007143"></rect>
+                                    <rect id="シャツ10" fill="#F6A439" x="23.8871786" y="6.90573214" width="1" height="4.10260714"></rect>
+                                    <rect id="シャツ11" fill="#F6A439" x="8.84432143" y="8.22648214" width="1" height="2.03908929"></rect>
+                                    <rect id="シャツ12" fill="#F6A439" x="9.52810714" y="10.2655714" width="1" height="3.41882143"></rect>
+                                    <rect id="シャツ13" fill="#F6A439" x="10.9375714" y="13.5766071" width="1" height="7.38016071"></rect>
+                                    <rect id="シャツ14" fill="#F6A439" x="13.6307143" y="22.2314464" width="1" height="42.7108393"></rect>
+                                    <g transform="translate(1.285714, 30.750000)">
+                                        <rect id="Chordex" fill="#202C35" x="0.387428571" y="0.0283928571" width="15.3807321" height="18.8035179"></rect>
+                                        <rect id="Chordex1" fill="#B2ADAB" x="0.725357143" y="0.541607143" width="14.3590179" height="18.8035179"></rect>
+                                        <rect id="Chordex2" fill="#26333E" x="0.0415714286" y="1.22517857" width="14.5299643" height="18.8035179"></rect>
+                                        <rect id="Chordex3" fill="#212D36" x="0.0415714286" y="0.372321429" width="1" height="19.6581964"></rect>
+                                        <g id="ルート" transform="translate(3.213350, 5.155314)">
+                                            <image id="_Image3" x="0" y="0" width="8.88925554" height="4.39834934" xlink:href="data:image/png;base64,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"></image>
+                                        </g>
+                                    </g>
+                                </g>
+                                <rect id="腕" stroke="none" fill="#D52319" fill-rule="evenodd" x="2.06448214" y="39.55875" width="4.78633929" height="14.7603214"></rect>
+                                <rect id="腕1" stroke="none" fill="#D52319" fill-rule="evenodd" x="0.0131785714" y="49.9216071" width="6.83764286" height="21.8655536"></rect>
+                                <rect id="腕2" stroke="none" fill="#EE3026" fill-rule="evenodd" x="6.85082143" y="64.9644643" width="9.78948214" height="6.82275"></rect>
+                                <rect id="ベルト1" stroke="none" fill="#D52319" fill-rule="evenodd" x="40.2214821" y="39.55875" width="6.66669643" height="37.3483929"></rect>
+                                <rect id="メット" stroke="none" fill="#959595" fill-rule="evenodd" x="30.5074286" y="17.9965714" width="8.03839286" height="2.68183929"></rect>
+                                <rect id="メット1" stroke="none" fill="#959595" fill-rule="evenodd" x="29.8236429" y="13.8939643" width="7.35460714" height="2.68183929"></rect>
+                                <rect id="メット2" stroke="none" fill="#A59F9C" fill-rule="evenodd" x="30.5074286" y="7.93885714" width="5.98708929" height="15.3609107"></rect>
+                                <polygon id="肌" stroke="none" fill="#FFC59D" fill-rule="evenodd" points="16.6403571 71.8939286 16.6403571 64.9644107 23.5698214 64.9644107 23.5698214 71.8939286"></polygon>
+                                <polygon id="シャツ15" stroke="none" fill="#EEEADC" fill-rule="evenodd" points="16.694625 71.8939286 16.694625 64.981125 18.7292143 64.981125 18.7292143 71.8939286"></polygon>
+                                <rect id="ベルト2" stroke="none" fill="#FC3628" fill-rule="evenodd" x="17.090625" y="29.453625" width="3.41882143" height="3.43425"></rect>
+                                <rect id="ヘアー" stroke="none" fill="#CAC6C5" fill-rule="evenodd" x="15.0061071" y="18.3126964" width="3.79392857" height="12.08325"></rect>
+                                <rect id="ヘアー1" stroke="none" fill="#B5B0AE" fill-rule="evenodd" x="17.0574107" y="18.3126964" width="3.79392857" height="12.08325"></rect>
+                                <path d="M33.4804286,7.39226786 L17.090625,7.39226786 L17.090625,24.4009821 C17.090625,27.567 19.6610357,30.1374107 22.8270536,30.1374107 L27.744,30.1374107 C30.9100179,30.1374107 33.4804286,27.567 33.4804286,24.4009821 L33.4804286,7.39226786 L33.4804286,7.39226786 Z" id="肌-whole" stroke="none" fill="#FFC49D" fill-rule="evenodd"></path>
+                                <polygon id="目" stroke="none" fill-opacity="0.7" fill="#0E1517" fill-rule="evenodd" points="20.8011964 17.1804643 21.1272321 17.1789643 21.1248214 17.0244107 21.4553571 17.0251607 21.4553571 16.7779821 24.6130714 16.7772321 24.6130714 18.4504821 20.8034464 18.4504821 20.8011964 17.1804643"></polygon>
+                                <polygon id="目1" stroke="none" fill-opacity="0.7" fill="#0E1517" fill-rule="evenodd" points="32.1344464 17.1804643 31.8084643 17.1789643 31.810875 17.0244107 31.4803393 17.0251607 31.4803393 16.7779821 28.322625 16.7772321 28.322625 18.4504821 32.1321964 18.4504821"></polygon>
+                                <rect id="目2" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="20.8034464" y="16.30575" width="1.07351786" height="1"></rect>
+                                <rect id="目3" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="21.8657143" y="16.0356429" width="1.97769643" height="1"></rect>
+                                <rect id="目4" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="23.8438393" y="16.2903214" width="1" height="1"></rect>
+                                <rect id="目5" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="28.3518214" y="16.3508571" width="1.07351786" height="1"></rect>
+                                <rect id="目6" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="29.4140357" y="16.0808036" width="1.97769643" height="1"></rect>
+                                <rect id="目7" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="31.3922143" y="16.3354821" width="1" height="1"></rect>
+                                <rect id="目8" stroke="none" fill-opacity="0.7" fill="#CBC7C6" fill-rule="evenodd" x="22.0019464" y="17.0619107" width="1.56235714" height="1.16014286"></rect>
+                                <rect id="目9" stroke="none" fill-opacity="0.7" fill="#CBC7C6" fill-rule="evenodd" x="29.5233214" y="17.0619107" width="1.56235714" height="1.16014286"></rect>
+                                <path d="M24.5570893,25.2252857 C24.8072679,25.4914286 24.9179464,25.0625357 26.2230536,25.4436964 C26.4236786,25.50225 26.5404107,25.7097321 26.7574821,25.5671786 C26.9519464,25.7075893 27.2251607,25.5177321 27.4086964,25.4410179 C28.2199286,25.10175 28.3307143,25.40175 28.7425179,25.2252857" id="Path" stroke="#D18B5F" stroke-width="0.5" fill="none"></path>
+                                <g id="_Image4-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(22.860512, 23.039639)">
+                                    <image id="_Image4" x="0" y="0" width="7.81330211" height="4.94275902" xlink:href="data:image/png;base64,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"></image>
+                                </g>
+                                <path d="M25.3689643,16.1427321 C24.7701429,15.4055357 23.8909821,15.3302679 23.410875,15.3183214 C21.2731607,15.2652857 20.8369286,14.3885893 20.5094464,15.1033929" id="まゆ" stroke-opacity="0.5" stroke="#85786E" stroke-width="0.5" fill="none"></path>
+                                <path d="M28.0308214,16.1427321 C28.6296429,15.4055357 29.5145893,15.2097857 30.3181607,15.1274464 C31.9693393,14.9582143 32.0855357,15.1614107 32.51775,15.4067143" id="まゆ1" stroke-opacity="0.5" stroke="#85786E" stroke-width="0.5" fill="none"></path>
+                                <rect id="ヘアー2" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="11.8539643" y="4.97132143" width="3.79392857" height="17.1711964"></rect>
+                                <rect id="ヘアー3" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="10.1862857" y="11.82075" width="3.33541071" height="5.79701786"></rect>
+                                <rect id="ヘアー4" stroke="none" fill="#D3D0CF" fill-rule="evenodd" x="15.6478929" y="2.15930357" width="3.41882143" height="19.0103571"></rect>
+                                <rect id="ヘアー5" stroke="none" fill="#DFDDDC" fill-rule="evenodd" x="22.5401786" y="0.140571429" width="2.07283929" height="9.6615"></rect>
+                                <rect id="ヘアー6" stroke="none" fill="#E6E4E3" fill-rule="evenodd" x="19.0667143" y="1.14996429" width="3.47346429" height="10.3893214"></rect>
+                                <rect id="ヘアー7" stroke="none" fill="#DEDCDB" fill-rule="evenodd" x="19.0667143" y="1.14996429" width="3.47346429" height="4.87516071"></rect>
+                                <rect id="ヘアー8" stroke="none" fill="#DBD8D7" fill-rule="evenodd" x="26.5881429" y="0.00825" width="2.05130357" height="10.8028393"></rect>
+                                <rect id="ヘアー9" stroke="none" fill="#E2E0DF" fill-rule="evenodd" x="26.6633036" y="1.57323214" width="1.97614286" height="3.83646429"></rect>
+                                <rect id="ヘアー10" stroke="none" fill="#D8D5D4" fill-rule="evenodd" x="24.6130714" y="0.00825" width="2.05023214" height="12.8541429"></rect>
+                                <rect id="ヘアー11" stroke="none" fill="#D1CECD" fill-rule="evenodd" x="30.5074286" y="2.15930357" width="1.55083929" height="7.64282143"></rect>
+                                <rect id="ヘアー12" stroke="none" fill="#D7D4D3" fill-rule="evenodd" x="30.4964464" y="5.40969643" width="1.56182143" height="4.39242857"></rect>
+                                <rect id="ヘアー13" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="32.0582679" y="3.02785714" width="1.36751786" height="8.92858929"></rect>
+                                <rect id="ヘアー14" stroke="none" fill="#CECAC9" fill-rule="evenodd" x="28.6394464" y="1.14996429" width="1.86798214" height="7.64282143"></rect>
+                                <rect id="ヘアー15" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="33.4257857" y="6.02485714" width="1.70941071" height="12.6555"></rect>
+                                <path d="M14.5715893,19.3100893 C14.5715893,18.9625179 14.85375,18.6803036 15.2013214,18.6803036 L17.090625,18.6803036 L17.090625,22.099125 L15.5792143,22.099125 C15.0230893,22.099125 14.5715893,21.647625 14.5715893,21.0915 L14.5715893,19.3100893 L14.5715893,19.3100893 Z" id="耳" stroke="none" fill="#F9C29D" fill-rule="evenodd"></path>
+                                <rect id="まきヘアー" stroke="none" fill="#DCDAD9" fill-rule="evenodd" x="9.916125" y="10.9663929" width="7.1745" height="3.29560714"></rect>
+                                <rect id="まきヘアー1" stroke="none" fill="#A0A0A0" fill-rule="evenodd" x="15.8393571" y="10.9663929" width="1.25126786" height="2.08076786"></rect>
+                                <rect id="まきヘアー2" stroke="none" fill="#DCDAD9" fill-rule="evenodd" x="8.17092857" y="15.0666964" width="8.91969643" height="4.10485714"></rect>
+                                <rect id="まきヘアー3" stroke="none" fill="#A0A0A0" fill-rule="evenodd" x="15.1515536" y="15.0666964" width="1.93907143" height="2.64669643"></rect>
+                                <polygon id="Path" stroke="none" fill-opacity="0.4" fill="#E69A60" fill-rule="evenodd" points="26.5427679 18.51 26.3000357 18.5431607 26.24625 19.7059821 25.717125 22.419 24.612 22.1952857 24.2994107 22.9809643 26.4252857 23.3502321 27.1418036 23.2441607 26.5427679 18.51"></polygon>
+                                <polygon id="Path" stroke="none" fill-opacity="0.5" fill="#FCD5B8" fill-rule="evenodd" points="27.1418036 18.4463036 26.5448571 18.5230714 27.1521429 23.2449643 27.7490893 23.1681964 27.1418036 18.4463036"></polygon>
+                                <polygon id="Path" stroke="none" fill-opacity="0.5" fill="#F2AA72" fill-rule="evenodd" points="27.44025 18.3785357 27.1418036 18.4169464 27.7528393 23.1681964 28.0513393 23.1298393 27.44025 18.3785357"></polygon>
+                                <polygon id="Path" stroke="none" fill-opacity="0.5" fill="#F2AA72" fill-rule="evenodd" points="28.6040357 22.1650714 27.9402857 22.2504643 28.052625 23.1238393 28.716375 23.0385 28.6040357 22.1650714"></polygon>
+                                <rect id="シャツ16" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="15.1515536" y="29.4100714" width="8.01776786" height="3.41882143"></rect>
+                                <rect id="シャツ17" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="26.6633036" y="29.3702679" width="5.1135" height="3.51766071"></rect>
+                                <rect id="シャツ18" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="27.2719286" y="32.8288929" width="1.36751786" height="3.39444643"></rect>
+                                <rect id="シャツ19" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="19.0870179" y="32.8288929" width="1.71423214" height="6.72985714"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="mozart" transform="translate(458.000000, 196.000000)">
+            <rect id="round_mozart" x="0" y="0" width="59.5236607" height="59.5236607"></rect>
+            <g id="Clipped">
+                <mask id="mask-14" fill="white">
+                    <use xlink:href="#path-13"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <g id="Group" mask="url(#mask-14)">
+                    <circle id="Oval" fill="#39B9D4" cx="29.7619196" cy="29.7619196" r="29.7619196"></circle>
+                    <g id="Clipped">
+                        <mask id="mask-16" fill="white">
+                            <use xlink:href="#path-15"></use>
+                        </mask>
+                        <g id="Oval"></g>
+                        <g id="Group" mask="url(#mask-16)">
+                            <g transform="translate(8.482143, 4.285714)">
+                                <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(5.669643, 21.651786)">
+                                    <rect id="シャツ" fill="#FC3628" x="0.0254910714" y="8.53433036" width="11.3960714" height="45.6535714"></rect>
+                                    <rect id="シャツ1" fill="#FC3628" x="6.95665179" y="5.705625" width="4.46491071" height="13.064375"></rect>
+                                    <rect id="シャツ2" fill="#FC3628" x="3.30392857" y="7.12" width="5.83839286" height="41.3700446"></rect>
+                                    <rect id="ベルト" fill="#988A64" x="14.2705804" y="28.8388393" width="2.84901786" height="2.84901786"></rect>
+                                    <rect id="首" fill="#DE9667" x="11.4859375" y="0.0438839286" width="6.710625" height="5.99580357"></rect>
+                                    <rect id="シャツ3" fill="#EEEADC" x="13.638125" y="4.56602679" width="3.41883929" height="13.4107143"></rect>
+                                    <rect id="シャツ4" fill="#EEEADC" x="11.4215625" y="5.705625" width="6.81513393" height="44.4540179"></rect>
+                                    <polygon id="シャツ5" fill="#FC3628" points="17.1195982 8.53433036 27.9458482 8.53433036 27.9458482 54.1879018 17.68375 54.1879018 17.689375 38.3499107 17.689375 27.6078571 17.1195982 27.6309375 17.1195982 8.53415179"></polygon>
+                                    <rect id="シャツ6" fill="#F6A439" x="19.05125" y="18.5262054" width="1" height="35.5923661"></rect>
+                                    <rect id="シャツ7" fill="#F6A439" x="20.4757589" y="9.67392857" width="1" height="6.83763393"></rect>
+                                    <rect id="首1" fill="#BDC280" x="12.5517857" y="6.81098214" width="4.5678125" height="9.36142857"></rect>
+                                    <rect id="首2" fill="#BDC280" x="11.7064732" y="19.9080357" width="2.98102679" height="3.70602679"></rect>
+                                    <rect id="首3" fill="#CFD3A3" x="15.3475446" y="8.53433036" width="2.84901786" height="2.86933036"></rect>
+                                    <rect id="首4" fill="#B8BE76" x="18.1965625" y="9.67392857" width="1.70941964" height="1.72973214"></rect>
+                                    <rect id="首5" fill="#B8BE76" x="18.7663393" y="11.3833482" width="1.13959821" height="2.84803571"></rect>
+                                    <rect id="首6" fill="#B8BE76" x="17.6267411" y="14.2526786" width="1.13959821" height="2.84803571"></rect>
+                                    <rect id="首7" fill="#B8BE76" x="17.6267411" y="17.1016964" width="1.13959821" height="2.84803571"></rect>
+                                    <rect id="首8" fill="#D9DCB6" x="14.7777232" y="11.3833482" width="1.13959821" height="2.84803571"></rect>
+                                    <rect id="首9" fill="#D7DBB3" x="13.1138393" y="11.3833482" width="1.72736607" height="3.99879464"></rect>
+                                    <rect id="首10" fill="#A7AF57" x="18.7663393" y="16.5527232" width="1.13959821" height="2.84803571"></rect>
+                                    <rect id="首11" fill="#B2B86A" x="17.0738393" y="20.7915179" width="1" height="2.27821429"></rect>
+                                    <rect id="首12" fill="#D6DAB1" x="15.9173214" y="11.3833482" width="2.84901786" height="2.86933036"></rect>
+                                    <rect id="首13" fill="#CFD3A3" x="14.7777232" y="14.2526786" width="2.84901786" height="2.82772321"></rect>
+                                    <rect id="首14" fill="#D5D9AF" x="15.4711607" y="17.0804018" width="2.84901786" height="4.2415625"></rect>
+                                    <rect id="首15" fill="#B2B96C" x="17.6267411" y="11.4036607" width="1.13959821" height="1"></rect>
+                                    <rect id="首16" fill="#C4C98E" x="15.9474107" y="11.3833482" width="1" height="2.84803571"></rect>
+                                    <rect id="首17" fill="#C4C98E" x="15.3475446" y="15.0977232" width="1.13959821" height="1"></rect>
+                                    <rect id="首18" fill="#C4C98E" x="16.2022321" y="16.5115625" width="1.13959821" height="1"></rect>
+                                    <rect id="首19" fill="#C4C98E" x="15.4711607" y="18.8191964" width="1.13959821" height="1"></rect>
+                                    <rect id="首20" fill="#CDD19F" x="14.2248214" y="19.9080357" width="2.84901786" height="2.82772321"></rect>
+                                    <rect id="首21" fill="#C6CB92" x="12.5611607" y="17.0804018" width="2.84901786" height="2.82772321"></rect>
+                                    <rect id="首22" fill="#CFD3A3" x="13.7007589" y="22.7357143" width="2.84901786" height="2.82772321"></rect>
+                                    <rect id="首23" fill="#C4C98E" x="14.2248214" y="21.646875" width="1.13959821" height="1"></rect>
+                                    <rect id="シャツ8" fill="#FC3628" x="9.14236607" y="17.4639732" width="4.46491071" height="36.7241071"></rect>
+                                    <rect id="シャツ9" fill="#FC3628" x="18.1965625" y="5.705625" width="2.57245536" height="3.68339286"></rect>
+                                    <rect id="シャツ10" fill="#F6A439" x="19.9059821" y="5.75477679" width="1" height="3.41883929"></rect>
+                                    <rect id="シャツ11" fill="#F6A439" x="7.37026786" y="6.85540179" width="1" height="1.69924107"></rect>
+                                    <rect id="シャツ12" fill="#F6A439" x="7.94008929" y="8.55464286" width="1" height="2.84901786"></rect>
+                                    <rect id="シャツ13" fill="#F6A439" x="9.11464286" y="11.3138393" width="1" height="6.15013393"></rect>
+                                    <rect id="シャツ14" fill="#F6A439" x="11.3589286" y="18.5262054" width="1" height="35.5923661"></rect>
+                                    <g transform="translate(1.071429, 25.625000)">
+                                        <rect id="Chordex" fill="#202C35" x="0.322857143" y="0.0236607143" width="12.8172768" height="15.6695982"></rect>
+                                        <rect id="Chordex1" fill="#B2ADAB" x="0.604464286" y="0.451339286" width="11.9658482" height="15.6695982"></rect>
+                                        <rect id="Chordex2" fill="#26333E" x="0.0346428571" y="1.02098214" width="12.1083036" height="15.6695982"></rect>
+                                        <rect id="Chordex3" fill="#212D36" x="0.0346428571" y="0.310267857" width="1" height="16.3818304"></rect>
+                                        <g id="ルート" transform="translate(2.677792, 4.296095)">
+                                            <image id="_Image3" x="0" y="0" width="7.40771295" height="3.66529112" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKYAAABTCAYAAAAV13zdAAAABGdBTUEAALGOfPtRkwAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAKagAwAEAAAAAQAAAFMAAAAA055c/AAAAAlwSFlzAAAOxAAADsQBlSsOGwAADxlJREFUeAHtXQlsFscVXh+xwRw2hzmMAXMf5qgQtGnTJlUlqraOiBJFldoogNJDTWNsbt/nb3wQAk1LD0KJhFSlTWnUFlVtKYVCK0UVR8N9hrMcNYc5jDlswP0erPmX2dl/9v93999//t2VLO+8mZ333szbNzvvvXl/guLSlZ+fvx+ox7qEntAOXr16dYuL+IWoMUY/RKNVwobONajBGNU7171xz8nGVc7WJCYmpvTu3TsF/51FZND7w4cPEwyqYgackJCQ3K1bt5Tu3bu7QlNnZ6dr8uEaYhrsvLw8BcLpyqC3tbUpdXV1ruA2izQ5OVnJzc1VZsyYYfYRW9u1t7crgUDA1j7NduaaYBKBSUlJilsaE9rI7Bi52o7Gx4tj5M466upU+8hlGAFfMGWYJQ/S6AumByddBpZ9wZRhljxIoy+YHpx0GVj2BVOGWfIgjb5genDSZWDZF0wZZsmDNPqC6cFJl4FlXzBlmCUP0ugLpgcnXQaWfcGUYZY8SKMvmB6cdBlY9gVThlnyII2+YHpw0mVg2RdMGWbJgzT6gunBSZeBZV8wZZglD9LoC6YHJ10Gln3BlGGWPEijL5genHQZWPYFU4ZZco9G146SuimY7hwod2+SZcTsWqYUVwQTqU9SMEv9ZJwpL9GMs/cz161bl+QGz64IJhh9E0w/g8sNnn2cJkcACSky+/TpM9tkc1ubRV0woS17QyjL09LSlJQUUpz+FasjQBlABgwYULto0aKoJ0+KumBiEpakpqb2Hz9+vGupT2JVEGKNLkqj07Nnz+wxY8bkR5u2qAomtOUgvIULMjIylHHjxkWbVx9fBCNAqxoSe5UuXbq0TwSPR/xItJNqVUFb9pg8eTJvGf8YXLDp16ZxYGaZXYSGh0M0vhmiLlaq/ghCjodJDOXUfNHEM99g2pBpaBn+PqOFk9ZERr6MCRMmFANepK1z8j5qdipoyzHQloeGDBmSTOkHKdOb5nqA+1wwf1QDU3bs2PFVbJA2IUekFmzqHrkd/3X79u0Xpk+f3mnqgThphDFbjfF6S7SxxFjr5n7nzp3TkR5yJzM3CsZSuXHjxr2NGzeOaWho+G80hiqaS3k9mE6eMmUKK5TE5/usUBJw69atyoEDB+g27Kujo+NL+/fvzwv7Qckf2L59u3Lx4sWIuEAezl149kP2YdKaPXr0SMVKV83WOVWOimBCW34W2vLVQYMGKcOHD2d5uY03ksswDfD169fZ9qbK9NZnZWU1Lliw4CnVbOphiRs1NzcrWCki5mD37t3leKnvsx2QBh49evTcysrKXLbOiXJUBBOEN+GNU6ZOnarQ28dc706cOPECA7NcJMGEqSM3JyfndcudeaiD4uLiT0+cOLGGxzJWvETMYT2vzm6Y44IJbfl1CMmXhw4dqgwePJil/ypyoTexQLvKtKPE8hNwww5nFw9u9IPPp8Ddu3dvsbgp9TZe9FlIEf5Fts7usqOCCaFMhIZshC1MoW9LzlUPU8QNDtwWEBmI+/bt64odzhYGXOqkoqKi+ciRIyto08NesKrQyre8sLBQt/Sxba2UHRVMEPYa3rIpI0eOVPr107nGz0Bb/tQK8WaedcsOZ4a2WG5z+PDhlfgBhUssjfSJlJ2d/Xn8vcTW2Vl2TDChLVOhLQO9evWi5ZRHcyW05T1ehZ0w+qbV2OHs7Dqu+6qtrW09ePBgLU9r0kYIK2ADNpaO2cEdE0zMGtnSho8dO1Yh4WSufQ8ePPgVA3OsSAMJF2hhSUnJUMeQxGHHx44dWwv75QmWNXVjOX7EiBFz2Tq7yo4IJrRlOjRVaXp6uoIdN4/WkkmTJj3kVTgBI60ZbTucE3xEu8/6+vr2ffv2leGTS4da3VjWLF68OE1XaQPAEcEEXUX4SO5HQkk/NMVc22BM/zMDs1o8JOog2nY4ET2y1J86dWrD1atXd7P00sYSIXFZCPAoYOvsKNsumNCWWSC6EEQrtIxzLif8revxacBB9TQomna4pzHLW2psbHy4d+/eIt74qhvL4qKiIt3O1irHtgsmCKqGtkwzCNT4CNpyh1Wi2ecxaEfwVv+ehbPlaNrhWNwyl+fNm7cFXri/sTzQJxL2D+mY0xK2zmrZVsGEthwHbflGZmamQiYi5rqPHV4pA7OlCBeacvr06VL8138MMRhUO1yT03Y4Bq30RXxrFt+/r/NUKurGcl5paanO12yFaVsFE4Q0YLlMMgjU+CW+OY9ZIdboWTJpzJkz58jJkyfXGbXpgqt2uC/ADjerC+b/F48AvGefnDlz5gO2JWlNnEZIwQpZw9ZZKdsmmNCWz2LSXya347Bhw1ia2iA8thLOIqAyXGk1cKXd4dVpYfSWO22H0+KLl3tEa1XgF3k7WH7UjeXsqqoqrsGabW+mbJtgAlkTneMxCNRYBW35PzMEWWlTXl5+Hra3H4n6UO1wE2CHmyNq69cHRwB24JMI8Ph5EBK8QwxoAua+IQixdmeLYEJbvoiNxfMUqEGhbcx1BXaw5QzMseKhQ4eaEPbVIkLgtB1OhF/WeqxKdViVWln61Y1l3rJly15g6yIpWxZMCCUFajRQWJtBoEYdXI86RiIh1swzNTU1N+BKq+O50rTPq3a4IbDDzdPC/fvQI4B4zMvwo7/NG1962aE1m+bPn285wMOyYIKN2XhbJo0aNYoXqHEK2pKr+kOzb6326NGjP2ttbT0j6kW1w5U4YYcT4Za5HpFHqxDg0czyQJ9IODrzOWwsX2Hrwi1bEkxoy27QlrXkC4eLkYe7AtqynVfhJAzLyT2YNyp4rjQtXiftcFo88XaPAI9bWNKreeOrbizrFy5caCmbhSXBxIDnQ+sMNQjU2APDt868EK1Jwkf6B9euXdsnwueUHU6EV/b648ePr0OAh+4EJ2lN2LHHwo79hhUeIxZMaMsMaJxHgRrQijwaiqFF9ZGmvJYOwOBKewBXWjHPlaZFR1rTCTucFkc83iPAowPmo1Le+KqfSNUI8OgRKe8RCyYQlsCL0ocCNTjHa7fATbUpUqLseg4G4b9eunRpm6g/J+xwIpzxUA+HxkdwBetczOrGchBW0vmR8hmRYEJbZgN5AY4t8AI1SEvS4XjXr+XLl3fu2bOniOdKY4mz2w7H9h+P5aamps5QAR5QWthXFvWPhPeIBBOIaqAtu1GgBmkb5toAbbmLgblWxEf4jnPnzv1ORIDddjgRvnipLygo2HbhwoW/sPyoG8teEM4yts5MOWzBhLacCG05B0djFXhOWBwdsG9FRAjbkZ1lCnZFgIcwLs5OO5yd9Md6XxjfEqxKuv0EjSdODrxVVlamExQRT2ELJjpswGbBKFBjLd6QT0VIo12P5eQYdulrRXg1driXRW39+uAIYJOzF9/z3KMykJVnsLLWBlubuwtLMKEtn8PkzaJADXI/MtctaMuwCWD6cKwIu1stXGnCFBWqHc7Rg1aOMelix9CalQjw0Nms6RMJzpfXqqurn0rWJSI1LMFEZ48CNcj1SN8QzLUS2lLnDWDauFbEWemL8Ait5LnStETZZYfT9umFe8RjnoZtk3scG6GQYQd4mBZMaMuXIP3PUe4hTqDGJXgBVsT6BCDA420EeFwV0UnfRrDBWrLDiXDEYz1iFOrv3LmjS+9ILzvk5muwfX7FLN+mBBNCmQQNWU+BGrQT51yBaAZqcPCbAsGVdhODFxBpTdUONxh2uEJTHfuNHo0A4jGvIMCjiTe+9LJjpTUd4GFKMIF1LrTlRGT7opQr7DScgLZcwwJjtYx4zV/cvHnztIg+GkgrdjhR//FajwCPd2/duqXLg6huLKdjb/KqGd6Fgglt2R3aspoCNQxcj+WAd5hBFgtt1ACPcl4AgpY+1Q7XG8LpyDklLa54ug8EAm1YlbgBHqrWNBXgIRRMDFoBOsymZP6cjBq74Sv9ULaBhSvt1y0tLXtEdNNAIlc82eFyRG39+uAIYFV6H3lNjwYhj+/oE6l///6jEeDxPbaOLYcUTGjLvtAcxZRRA94c9lkqF7kZqMEjyAws1Flp9nl8V9NBqwAL98vGI4B02PcR4FFiFOABmamC7bOncQ+KElIw8WApXI8ZtIRzAjU2Q1i3hOo8luvOnj27Gdl3hfRHaoeLZd6jQRsyePzhypUr/2ZxkdbEr5YMwEq0kK3Tlg0FE9pyGDrJp80Ojh9on6F7cj8VsUCZyhTgQWFxZgI8IrHDyTQWTtAqCvCAUluC7MUDjHAbCiYeqIWWTCVjOidQ4zfo+BOjTmWBI8BjFzSn8Bs5EjucLGPgJJ1IKvHP8+fP/4nFQRtLpIbsiY1lOVvXVeYKJrTlJGjL1w0CNdphp4q5QI0uhsL9j2+hcnjS9CkmmI7UHaVpOxzzuGeLFOCBABpdgAcpOyznP8CR61G8weEKJho2wvmeSNqSvgmYaw0k/RQDk7YYKhm+lqlw7XDaZ718v2TJkgNI37OeNwZqgAd3Y6mTOmjL5zEJefgpEl6gRiu0JbcjHmJZYOQNQoBHm4jecOxwor68VI9VqeoeLpZn2ljCdPQtHLmextbpBBMNngRqsI1RXgFteZkDlxoUKhm+ljFaPVQ73He1cP8+9AjADnwWAR4/4bXCxpJclY1s3VOCCW35CqT42ZycHGXgwIFs22Z4S95hgfFSho/3HZyVFr50pDXN2OHiZVzs4gMBNA0I8ND9Qom6sZwJ2+dMLa4nggmhfBSoQT99YhCoUQt7pnC503Yu032oZPhaPkhrwg43EB/uC7Rw/z70CCDAo4WE0yjAAxk8GpHB44k8PrlBt9+BthxHgRqUDZi5jkNbvsfA4q4IV9p7OCt9UsQYaU2Yy5Zi45QpauvXB0cA8bA/RoDH+SDk8R1pTQSfT0OWwG921T0STGjLNNiWqgSBGkKTSlensv4PlQxfy5MZO5y2vX//eAQQ4HEHJwmqeAE06sZyGWzLKdS6S2POR0UWtIBCSzlz7YTPcwMDi9siXGm/xVnp/4gYVO1wb8ION1LU1q8PjgA2QeuRIeVwEPL4Tt1YjsQxjO8TJBHash+AS/HdRCfa2PZUljJQg8eIGVg4AR6h7HBmcHmxjYkAj0oEePQijVkGbZluEKixCVr0H14bQCTD/zuS4W8W8a3a4b7Ns8OJnvVyPQzuGy9fvvwxOwb0iQQFmQkFufj/eMWIng7SAiIAAAAASUVORK5CYII="></image>
+                                        </g>
+                                    </g>
+                                </g>
+                                <rect id="腕" stroke="none" fill="#D52319" fill-rule="evenodd" x="1.72040179" y="32.965625" width="3.98861607" height="12.3002679"></rect>
+                                <rect id="腕1" stroke="none" fill="#D52319" fill-rule="evenodd" x="0.0109821429" y="41.6013393" width="5.69803571" height="18.2212946"></rect>
+                                <rect id="腕2" stroke="none" fill="#EE3026" fill-rule="evenodd" x="5.70901786" y="54.1370536" width="8.15790179" height="5.685625"></rect>
+                                <rect id="ベルト1" stroke="none" fill="#D52319" fill-rule="evenodd" x="33.5179018" y="32.965625" width="5.55558036" height="31.1236607"></rect>
+                                <rect id="メット" stroke="none" fill="#959595" fill-rule="evenodd" x="25.4228571" y="14.9971429" width="6.69866071" height="2.23486607"></rect>
+                                <rect id="メット1" stroke="none" fill="#959595" fill-rule="evenodd" x="24.8530357" y="11.5783036" width="6.12883929" height="2.23486607"></rect>
+                                <rect id="メット2" stroke="none" fill="#A59F9C" fill-rule="evenodd" x="25.4228571" y="6.61571429" width="4.98924107" height="12.8007589"></rect>
+                                <polygon id="肌" stroke="none" fill="#FFC59D" fill-rule="evenodd" points="13.8669643 59.9116071 13.8669643 54.1370089 19.6415179 54.1370089 19.6415179 59.9116071"></polygon>
+                                <polygon id="シャツ15" stroke="none" fill="#EEEADC" fill-rule="evenodd" points="13.9121875 59.9116071 13.9121875 54.1509375 15.6076786 54.1509375 15.6076786 59.9116071"></polygon>
+                                <rect id="ベルト2" stroke="none" fill="#FC3628" fill-rule="evenodd" x="14.2421875" y="24.5446875" width="2.84901786" height="2.861875"></rect>
+                                <rect id="ヘアー" stroke="none" fill="#CAC6C5" fill-rule="evenodd" x="12.5050893" y="15.2605804" width="3.16160714" height="10.069375"></rect>
+                                <rect id="ヘアー1" stroke="none" fill="#B5B0AE" fill-rule="evenodd" x="14.2145089" y="15.2605804" width="3.16160714" height="10.069375"></rect>
+                                <path d="M27.9003571,6.16022321 L14.2421875,6.16022321 L14.2421875,20.3341518 C14.2421875,22.9725 16.3841964,25.1145089 19.0225446,25.1145089 L23.12,25.1145089 C25.7583482,25.1145089 27.9003571,22.9725 27.9003571,20.3341518 L27.9003571,6.16022321 L27.9003571,6.16022321 Z" id="肌-whole" stroke="none" fill="#FFC49D" fill-rule="evenodd"></path>
+                                <polygon id="目" stroke="none" fill-opacity="0.7" fill="#0E1517" fill-rule="evenodd" points="17.3343304 14.3170536 17.6060268 14.3158036 17.6040179 14.1870089 17.8794643 14.1876339 17.8794643 13.9816518 20.5108929 13.9810268 20.5108929 15.3754018 17.3362054 15.3754018 17.3343304 14.3170536"></polygon>
+                                <polygon id="目1" stroke="none" fill-opacity="0.7" fill="#0E1517" fill-rule="evenodd" points="26.7787054 14.3170536 26.5070536 14.3158036 26.5090625 14.1870089 26.2336161 14.1876339 26.2336161 13.9816518 23.6021875 13.9810268 23.6021875 15.3754018 26.7768304 15.3754018"></polygon>
+                                <rect id="目2" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="17.3362054" y="13.588125" width="1" height="1"></rect>
+                                <rect id="目3" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="18.2214286" y="13.3630357" width="1.64808036" height="1"></rect>
+                                <rect id="目4" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="19.8698661" y="13.5752679" width="1" height="1"></rect>
+                                <rect id="目5" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="23.6265179" y="13.6257143" width="1" height="1"></rect>
+                                <rect id="目6" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="24.5116964" y="13.4006696" width="1.64808036" height="1"></rect>
+                                <rect id="目7" stroke="none" fill-opacity="0.1" fill="#0E1517" fill-rule="evenodd" x="26.1601786" y="13.6129018" width="1" height="1"></rect>
+                                <rect id="目8" stroke="none" fill-opacity="0.7" fill="#CBC7C6" fill-rule="evenodd" x="18.3349554" y="14.2182589" width="1.30196429" height="1"></rect>
+                                <rect id="目9" stroke="none" fill-opacity="0.7" fill="#CBC7C6" fill-rule="evenodd" x="24.6027679" y="14.2182589" width="1.30196429" height="1"></rect>
+                                <path d="M20.4642411,21.0210714 C20.6727232,21.2428571 20.7649554,20.8854464 21.8525446,21.2030804 C22.0197321,21.251875 22.1170089,21.4247768 22.2979018,21.3059821 C22.4599554,21.4229911 22.6876339,21.2647768 22.8405804,21.2008482 C23.5166071,20.918125 23.6089286,21.168125 23.9520982,21.0210714" id="Path" stroke="#D18B5F" stroke-width="0.5" fill="none"></path>
+                                <g id="_Image4-link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(19.050426, 19.199699)">
+                                    <image id="_Image4" x="0" y="0" width="6.51108509" height="4.11896585" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAABdCAYAAABOxT/vAAAABGdBTUEAALGOfPtRkwAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAJKgAwAEAAAAAQAAAF0AAAAAJlRu1QAAAAlwSFlzAAAOxAAADsQBlSsOGwAAGWBJREFUeAHlnduWGzlyRYtVUkttj5f9q37yN/jJv2ovj1e3VBc6dgAHjAwCmUgyqyT1oJsZEScuuB0ik2T1zOnhL97+/p//fvoZpvi3//iv888wjvcaw0+xyLdO7mchya3jz3m/Mtl+CSL91QiTCbRl/woE++mI9I9Omi1Syf+zkeuHE+mDiPOj5/nuz0c/mlgfvsDvRJwPn4dOhoPk4UT7aGJ9yAYcSJ6jx3t0vaMJcUi9jyDV0Qu5eIMeQKBbx3dr3mL872jcSpBb83wq70mowxf8TvLsGc+e2MyJe3JzrZ59z4bvyd0Tuxjn0aQ6dEFvJNHsGI6OWyzsDzBmSXB0XJvqkWSa3ZzWeU+5gUAz/W7FbPk11Nk4xb+XPIoQM3VmYto8jyDU3Yu8k0Rb/a3513wsypZ/NqYt8AHKzIZuxaz513wMf8vfpngvmWYWv3UWlQ8i0Gh8I5whrvk0hZkYxd4iZzZwLWbk24tr7KM8+Zu8lVA3LehBJBr1vQffE9sWqyqj3By3157ZtFFMD+9hjOko/Gp+t5Bp92LuINGo9h48x2abRehha7gWbpQn/61ytMGqN/L38Ixlm5o97BZc43O5l0y7FvOdSJTHsGUz0Vti4kLl/Og7Qh9tLrV7voxlu5eXY7LdywGj9WKLJ1z3kGl6Qe8kUa+fjO2xt2JZjhyjJRrh8h8lR5vVwzMW7agztr12L2eEgS/aLJmmFnWSRKNaGd9jx9ioM9loR10LMYspPteM+EjPm5rjev4tLPujPdLpN/pmbI015wlvcoZMn1r0fUpv06iY8WhHPcdG31491+rZYGqxvrBZGXN7GyJ/9IFFe60v4mKNkU6N6JMd+xn1O8KpMd3U+TBh4jQa1Yh41Okr2lv6ln+tXvZh02LNglxfRzFxc66zCtKLyVi09+h7YjW+UY78yBgTcde3TqXRYnnyBImIyzXW7Ojb0nv+HpbHMIrJcdhqMUfYHjnahIxHe4/ei+1hjHkGz3E9G2zR1sh0761tawOif0uXX5JJSM+y54vYmp592Lmpv4zLjpsFluPlFx7tLV199CS5qim/sK265ClGuVFu+WPslZ4H1QImTqNebsS29J5f2KxkvDk2Yms6Ppryi3X7tbdJEdvSe35hs5LR59iIren4aMovVrqOTqVbT6Te4kdsS5f/aMm0c82IZR2bppxi7b+y+LlGxHq6Now8+YXtH0HJiHVUF8+Mrj5jrLBN2SXSxGmUC9O52pYu/5pc89HPXn/M6Y1zDZOvJ7XxGg8xGdPmykesMMXi29tijVwz29QWtqbvHUOLf2zavMKAYsu2fBGX3pNg+UWNjMlmzOh7ZIxF79nCVFtxPRnHEv05N9rS90hi88ugK0wx8vVkxNBjIz+2bDff6JC5ShgFtkplEsH0SclWPUlw6T25hUV/1FW3h8nXkxFDp6lGscq1h0V/7yTJWLSlz8heTMRGOuPDF/3Cooy6YiOGTou+goRrflbq3tpCfFbzAkc76soTFmXUicOO2D266q3J6Ms6dmwaizAtbsbxyyddMeDoM5JcxaLvaaofc4RFGf2xr6gTk+2Yd6XvIRKFY4t2TxeWJTUilvUtW/k5rocLQ9JiTkHKVXjEevooThulHGxaxCMmn/zyUX9LJzc21QCTnmuobpbkCMt6zwbrNoq0tnFbW8RaUrSlz8gYk/We3cMYM7he0Za+JqMv69h7mzaOvJ4urCcjhj5jb8VoHDFO2JqMPnSaahQrXOPtbfZE0maqTLSjLn+U8iPX9J5/D0afOV5YT0Ys69izjYXWvHq6sJ6kD3LxqWVb+JZUfeJ6euwj14p9Rp24bOdctwny9s6nkfpB6kW/0iV72JYv58iWJF96Vb3fjPVsxY9k3hzZkuRJR0ZdvozLlsxxwpE9X8aiLX1NRh86TX0VK1x1Ks2eSCG1bQKYNin6Ix79kRCKEaa4aI/0mdwYI70nI4aupvHIzlILG+PAZMsvLMqoqy55yslYxuVHqlbGsPNY1IdkzFG8+hrF5JxmzxBJA2pJHUUxkjEELOKyI0Z8xLf0UXzEe7qwKLOOTcvjK+h48xSvze1J1c0bJlt9UCtj8mUZ4zQGYoQLk6189SEpvCc3Y2aI1Cu8hmngSOnEZzti8u2VoxoRl74mow99rcU5EccGCZO+JqMPPTbqgGU8xqzpMS+OiZxoq5+1Wrt89xBJA8syD0B+4dhHvqjbqxdx6T0ZMXRaHnNBL9e8YbLJQx9JKsiHHtsIjzF7dI2JnFFt4Vnu6cdjKfCw40Hb42sv0nsyYujxRXq01/T4s8VaHD5ajomY9J6MGPqeFjdMek9GDF0v+pK+Jd92xI7qRlx6T0Ys69it8cC9dSJpg1rShhLjox7T8mav2XvziI/1op112VGi00ZjL97lrYdYCBBbD4t+6TNxsfbWuFQXGfOEx/6iLv+aXI3fItKocJ5QtLMe7VG9iBPfe23F4B/lCVdMlGs6vl6j3tZGkRfjoq6a1ADPLdbu+YmPMTk/26qhnDiWqJOX7Vyra99KJBXTAGWPJHF6ESO9J2ONnh+s19Zi5SNP+VlGX69+xsjvbUyO27JVI8ZpbBFDj7GjGMVFf8zLNWXH+QiblvcSabqjEBgnGOCm4tergQGTb0aSH+NkRxl1Ym9pbNRW7kxMr+9IgthHxHMecWv+HH+3vYdIcRJbHe+JVS1ycp6wNTzGSM81lb8lY570ntQmqZ5iwMGyjH70nCe/pOrn2B4eMeWvSY1vLUa+6dg9RFLxkcyLk+21vF5sxrD1GtUSrjhJ8KwLiznSsy/iIomwbAuX7Pm3Np+xqsVY8GgTo9iMKz/KnJ/tGLtLP5JIvY41yZGv5wfLeLZVT7FZyi8Z86VLEiNdUnk9GWPYPGxtonRJ8qOOTQPrNdWJvpyv3Bw7wlUr1xF+iDwd+B2SJoLsvRiw8NH3Qz3csefza/OdzqemU/PTI2arrT4koy/rsqNEp5Hfa3kDZUuSgy57ob+c+Sqo+s8tzmNsHvqeSFK5yIxlexR76U/9XmT0SY9yTcfX2tqJNFrIllyV2TjC4+bmOgv7+9vbyYILYYw5wRl1h18s1pST/1P7+ORcc3eMjzpO2ZKeEHDZURLLpqnJlmx4JQ129MVcxbqs83g4n87M++3z6SnGxhrEZ9tr1As+WswvSP+6VitmDOPWiBQLfJgOgawzLcTN/domqs7JSDW7oDf3R+LruRC+HDRe6q5+7RT2dUiEumuM75X8UxHp2+vrydrhc42korgdXaen0+muTaaOiINe2901VSjKZ3tzfX78mDdD7HePvkYkFmVmV2fjGJcW+qru97fy7kuDb7Vf3/zd7nlGAaTxoWEQ8GTVHX9ckrHVqP17jUACt73esnPhS7TMIfo0J0nFN9vGDuY5y6FZsXMLe3i6nJwXsFYzMj0YmVQbeRUTnPjW/CHU1dnYYdyj/sItVz7Q7k1qMaBAogXOGF7eXh9eXhfPSMC9muDe3mxzeLGBlYDgrbbdepoe8IgpXv1EiU9NOZKcUtb3w4l+c/9O9TAOFZGs8TKj9Pr1th/xnt7GUp3YGevl3YzN/Gh7c/GayATiuzfW88l9e32xA+QSYu/QM7YR6NFQOVqdF38OsRBOH0Nbqm2gferxmrlPNqhip6dHv6XZhUKX7OpXvuKRucUYfOdwurmPOYSkqDv8aqdLBP02a0/YyoGE6D7WgFc/cS22YogRrpBejnx3y7Vb297iDFQbT262r+p9e7HbmdGBdfdbU40wElGn5b/w0Mm2F78HXxUzgE89FuNhT0YqjLqlYL6QlVSe3mgUxl2fnVo8gYEomAtftAOBvC/zNWl9oZ8hUW7UZw3ChwKPtZPY3hx019qZU+m3yxsGh8e2iHVF41FUtoXvlnuIRKeLWa30tidWZXzjn1/f2iOOFTlzAlmnuZ6fS7yHIUoghAI1zh6Z8Hk9bXw4EU+JNG1sUpKkTnknXByOAVfo/MZ3R8Xyvk3Fai+bg+vP/lXRw8OnsMzc2j89PjFNYmJTfsRm9FxnLWc6dg+R1jrc42Nw2uirPDt4fFkhhz1ghtve+fxs9PnMA2llDzeAEZnsnU8f3g+nEymDxmng3kCoQegSVl5FvQbPZsvmtkC86O1lgOs+b3Aram8ePXjji40uz/bp9uHL01PEs57zsv9w+14iMWDfrI2RxYkR7zYHun/w8ieW84N/CVmPF9ctztpDeS6yjoxkz/b9EM82pNa+uSuWG4cDpSs+AWlglVR1iAU1hmpMSAe9s7n5UMtOmtaFajnOhaHrdIvOOnVbgNPDk78NSnS8WryRyU6i8inu/FxPpRhDBysvQqMfe6sth7kVnfy3EolOtU+UjHbW8cdY7HFjNyGT7RKSxAIB1lZjBJipZyw0+8c+rZUvJG0sLe/8yVWG5+Xt2nyO1Uscf8SjXoqUeYPbtnOmWPehmaEHIlObjzES5zlMhRMTu+ajt0aiGf4iFt1GjdzTVEM5MT/q+LOtnFW5RSSKar9WC1VnjI96zPWB/vHy4ucIH0p0KtkcWGSzbU1tsazjU/0ykXxfRrYexxsP5G5AB0BfZFMKPXTePD2yMA7rZPO6xFmSX+0B2zacIq0VRzMvihPmYqpfEHI8zy7tNPJQH5prPnaGWh/q1U8jkZ24dhIVoqleySyVbJTej33atdvbJ9drXNZDWlPVH0DUW8CKshrfFm/lx9sWUzuRPSOJiXGyT0YkHqrdNiLBnpN9n2TfuJ1O5dnIFGOVEYnnJJYP4fF2WFmcn1uldvKrT6pSI47b3v3VbDiKYq58ApJcLCrPNKEVoxAb2G3eGBamQOQZApviJOKrC0gEbkTiqyiXNd9iyw+6vhIWQzMikeC1NqS5F3GyZyQxNI29WPWq7yG3TqRFUjIozAZkmcKaX3gdEEtRDxV2m5WuV2r63nj18izsXDGwcMYzKcy/9sWfPTfBBp6vyQG0SKvy8GgbAKEcs/T68dttL+bhlzGmk8K9etYpoVfXOh/Dy6gJWNzqfJx2sbEQ6/HM/sVUnpOYupGo4lbF6E/zt0Gparq/czzffaWO6vUk41Dz2jKCFJ5lCJlT7yHSqAcGVTaqRJStrQtYfQ+/f/p8/uPlmVVjy22V7I3JRx723x6Q2HuzTC+k0e9NrC+RdiGkcKStLLEsPwcRtYxbQKTALbtwIr3Zdzn2DjeLHry5D81IUxFG1ZriYk5z2u2u6appSH0+sqFYYzxG4rM/5DMixse1fEFapuXVmYwPgjw0n4EvS/WDD04julLzfBkmo41+aJshEp3GRe0NQDGSMUaDVg3ZxAhDB/c1/Pz49GafVOyrOOdAibcFhUzE+NbYm9tPMShTNs1vY16EtYdkhUOFcuQZpC8k7ZZJnwzAa7phl0e7xVhJWFz6NWzluUhpzolm2MjQ4QBXFLd5+GOsQjmN7F2DzxpzLz1XEppV3waeV/xezetTy+t6drkIi7iwEOaqYiSzP9qbMTNEigXRKSoCRD3GCZdUHrLlmrNuNVvsq2oEqHvIslkki8m+2EHy+mJv6MfCj7LUfqfwEHtfW16pXJ7ffRO8HKhh9ZQqI/BI51qZD6g1v0264ublwjw6rRBGDrp0HULUZh1DjjIPo5A93Zmv5Nnp5M84TNXDbQr+LATAMpSTlwQQYgyygoWQJQds+ao9Nzza6MoTLhnxqMu/KsvS15AbHrjJjDWkRznU/+/5Gd7Yv9Q4nfjdzQsa6g/cUKPoHgORiIdMPuTChNPrw1vJIzj4vJZvo4/ScwjwXCDOLbWAC5qStrWKqxvsJiwoSpEQg++FDG54JRKzr0TxB+xCIgu0X/uNaCX+NzulI4m+9j+x0SX1NaY1XbFImnKy3rPBHvSgjT57ItHJZdFLp7Kzj7qxya+Bktd0X3BDbC35OPv259uLvxdZRCeTL72F257b705vkMluNVDAv3LkFHp8eHy197gTio1yMpmCtEyo5H0S4/0xOsO0qZVcGlMc+7ZulVtNKlhRJUGe0rN/QtOp4nzgC1PzcbvmJxHLOdnz28meokoFkYghf+F7pnASGYna7dB7vKxnGUEZQNY1rJ5sY671Ykz0RXyhs8CL9k6nEn2oL6Trf3/+znOQ62ymKfx7gkxsOg0ykezPTBw41uzH2UVePKHsGaiealCMgiVnoRuIrUZf0m+RTpiYWMlkwk8hXDqt+Jjw6ck+6vPjrQXwsZ+4Eut/Wmsnkd/yYOH5y8lOoku+B/7+6er7Iw8hDMVaj0TRpxgPrvE9PccpZnEaAc6eSCoYF5yBye7pwrJstf72+bc3kcnf1VaNN7HppbIp9g21MelkfyH49PYdgpnOH8kbsVzn3NEJRWr9+G75hUCRWLWybc+SXNYdPV63RDjqXwcZ4gV81O7mZClxJ/uEWPDQx9l+mOaJm1uX8erNyFYIxPj4ZR8C0Sh8xqzjM+1sJMqnEV21GMUCWgOnjWT0Zb1ng3XbHiJRgAGJPNnOvuiXTxPCRzuJTG5xiNi/X5+ezn++2peTpv9m+nfTea7mb5c5pSCUPW+g2olVCMUiQ7JIKghoxHq1OqUwHdou6bc7H4B/+eS9twt13LCaDQyKwX6S8Gcr+hso+0WmxfKBsJ1SVKKOeSEPZbhFMznjmJGJX/YLzpsFrO67fcSvBPNsMj1O/SCj7gEDTD5kbMoHi3rPjnlXelmwBK/c3ojMOSM74tJ70jFOplK8bKJdT04mOnQiPDw4oeom1/88CY54Pt+AL/Irrlx8EAvZWq3b7Kps3eoaSXJi2/DiEHGwYMvnJ06asmG2a34imcM30P5UJJ40/LrPWVY3t8TYd2/EaMN7sod591xqyzEZH9nCr25rOJYL20J3/W8m5TqxZk8XdiX/9/kb++4vL2rGH6/ldibb/wOBOm4RY4tUZYBLEtEJeGyqF7E1PRJFcZfNLwinT/Ml8nAL4/Zmft9c49T5qz3/XGoUApnz/E/2Ba7iqvSchJk5JFr0renZh91a/KTWQFP23tpibtSZlDZmS5e/K+1NCF6avfW/Pn7yT2gQivuFfQx2G0LZRnqc3fJ8s77bX1LaIPx2BiFVhtNKdYVfNouBl1hui8rZI1WbnEoMRua1uEAQ/VVj6demAmYP3eSgI/nUWrR6VY1yMnkp4qx5/A4Zc9Z0fDe1W4nERNpG1Z4jtqXLj2ztXz5/cULYyeS3qeaohLJPcwWvhMLPyaJTSn+qyskCqdxfiVX0C7mw7ZOTH3+RCOAzjWebS1whBnZlgrt45nHFRlKefXjms6dniGNDQdhUzuU7IchTSkrB/c+fr04iSqrvLHu+iK3p+GiqWazJaybDIm3jWYnYXn7E9uiKdfk/37/Z43SprxND0m93yeeDMQxS1YGpXns2iuQiZtTUz8jfI95vdnIq3okiw2T5TqgAEEeuryKaAQY6DnnkNxLptihMkhDpWUbfrE4cTbWKla6j2xpht55I6oKO24YJDDL6t/TFJP71ty8PRiYvVX7XvFTlU502O5KKTbBbXxtP+bMU/63Ma/NJ71Llou19NrpkFo1nJfuaYgF/4dNYJY0m5iQx43cbvwle3hyXbrB9km2uBlfFRPbhETarE5dbrJF9m3Z3YWPWjacSJWLtqK/5Ypz0E6cTSTqhSoHLbapHKmJo8hWrXEWwiGXdOlT/C5et9mLB60f0ZUw4VeQw8i+YlsmjOL4OkW4y9iVdkrAZfS0On1qsJazJtdOIoO5iteyqHESm3F/uO9pDfYtUpZNCMn9Ar3MwJNasaJ9ozblDybe738tvYRw7VxuUYyfIw0hinZG+Fpd92GqxnrAmt0hE4L23NnXGQHoblfFoa/DKi/ZQt1ue+4xQ7YE83/rYKE4iboEaIBIskgssbuqIbMT1mkgi0sQY8y1qy6f+7INFHNtIJ23ki3iOm7GJoeU6Bd151SZupk2cSqrRqzmD5Zg1+8qnk0qDiLdBYcjerS76j9JFmFivkqe3cRmLdtQpt9fu5Yww8EWbOY1IyBuyKJKNO8k06i+PYcvu1ck5PKi3EyvPY0SyHHer7b/gW7JOz1QnEwF3xrI9EzOTo6H0YuVrcpZEJFxtQKsyUN6JTKOx5PFle5R3hf/3tz8XufxON5jizXAlztYmjfw9PGPZZqw97BZ8Me89JCLxpsXcQaa1PkZ978H3xC4WajT3TDiS/u3L19Fm5ZrYM7GjmB7ew9b62Rt/NYe9JKLAaCOuimfgIDKp7Ggce3HqjXLU12xMjN+rjzYz1lmLGfn24upvlCd/k7eQiOSZRW+d9JQPItTMWGfmMhPTm+at2MwGbsWs+dd8jHnL3+Z1K4FU4JCF3Ukm+p7pdytmy3/oHFXsDjm7qVtxW36GOBPTpnIviSg0uxmt0zXlBkLtGcPsWGfj1qbyEb7ZzT46rs3tCAKp2OGLfiOZbhnPPWO/J1djXZOzm9+rsSd3T+yiryNJROF3XdA7SXXP+N51Xosduc24lQC35vkojyZPnPqHLPgBhNKYjx7v0fXu2mhNMshD6r0ngTTWoxdSdYfyQFLFPj58HrHzA/RDCBPH8RHkif398A14J2LFOaL/6HkeTpQ8wY8mTu7/Ry9wHs/W/1HzVfw/KvCjiZPX/acjUh4g9gedWr2ufwrsZyNNb1F+CSL1Bg72VyPYr0CY0V780kQaTSriPwvZfmWSxPUc6f8PuBm94Wu5z+wAAAAASUVORK5CYII="></image>
+                                </g>
+                                <path d="M21.1408036,13.4522768 C20.6417857,12.8379464 19.9091518,12.7752232 19.5090625,12.7652679 C17.7276339,12.7210714 17.3641071,11.9904911 17.0912054,12.5861607" id="まゆ" stroke-opacity="0.5" stroke="#85786E" stroke-width="0.5" fill="none"></path>
+                                <path d="M23.3590179,13.4522768 C23.8580357,12.8379464 24.5954911,12.6748214 25.2651339,12.6062054 C26.6411161,12.4651786 26.7379464,12.6345089 27.098125,12.8389286" id="まゆ1" stroke-opacity="0.5" stroke="#85786E" stroke-width="0.5" fill="none"></path>
+                                <rect id="ヘアー2" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="9.87830357" y="4.14276786" width="3.16160714" height="14.3093304"></rect>
+                                <rect id="ヘアー3" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="8.48857143" y="9.850625" width="2.77950893" height="4.83084821"></rect>
+                                <rect id="ヘアー4" stroke="none" fill="#D3D0CF" fill-rule="evenodd" x="13.0399107" y="1.79941964" width="2.84901786" height="15.8419643"></rect>
+                                <rect id="ヘアー5" stroke="none" fill="#DFDDDC" fill-rule="evenodd" x="18.7834821" y="0.117142857" width="1.72736607" height="8.05125"></rect>
+                                <rect id="ヘアー6" stroke="none" fill="#E6E4E3" fill-rule="evenodd" x="15.8889286" y="0.958303571" width="2.89455357" height="8.65776786"></rect>
+                                <rect id="ヘアー7" stroke="none" fill="#DEDCDB" fill-rule="evenodd" x="15.8889286" y="0.958303571" width="2.89455357" height="4.06263393"></rect>
+                                <rect id="ヘアー8" stroke="none" fill="#DBD8D7" fill-rule="evenodd" x="22.1567857" y="0.006875" width="1.70941964" height="9.00236607"></rect>
+                                <rect id="ヘアー9" stroke="none" fill="#E2E0DF" fill-rule="evenodd" x="22.2194196" y="1.31102679" width="1.64678571" height="3.19705357"></rect>
+                                <rect id="ヘアー10" stroke="none" fill="#D8D5D4" fill-rule="evenodd" x="20.5108929" y="0.006875" width="1.70852679" height="10.7117857"></rect>
+                                <rect id="ヘアー11" stroke="none" fill="#D1CECD" fill-rule="evenodd" x="25.4228571" y="1.79941964" width="1.29236607" height="6.36901786"></rect>
+                                <rect id="ヘアー12" stroke="none" fill="#D7D4D3" fill-rule="evenodd" x="25.4137054" y="4.50808036" width="1.30151786" height="3.66035714"></rect>
+                                <rect id="ヘアー13" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="26.7152232" y="2.52321429" width="1.13959821" height="7.44049107"></rect>
+                                <rect id="ヘアー14" stroke="none" fill="#CECAC9" fill-rule="evenodd" x="23.8662054" y="0.958303571" width="1.55665179" height="6.36901786"></rect>
+                                <rect id="ヘアー15" stroke="none" fill="#CBC7C6" fill-rule="evenodd" x="27.8548214" y="5.02071429" width="1.42450893" height="10.54625"></rect>
+                                <path d="M12.1429911,16.0917411 C12.1429911,15.8020982 12.378125,15.5669196 12.6677679,15.5669196 L14.2421875,15.5669196 L14.2421875,18.4159375 L12.9826786,18.4159375 C12.5192411,18.4159375 12.1429911,18.0396875 12.1429911,17.57625 L12.1429911,16.0917411 L12.1429911,16.0917411 Z" id="耳" stroke="none" fill="#F9C29D" fill-rule="evenodd"></path>
+                                <rect id="まきヘアー" stroke="none" fill="#DCDAD9" fill-rule="evenodd" x="8.2634375" y="9.13866071" width="5.97875" height="2.74633929"></rect>
+                                <rect id="まきヘアー1" stroke="none" fill="#A0A0A0" fill-rule="evenodd" x="13.1994643" y="9.13866071" width="1.04272321" height="1.73397321"></rect>
+                                <rect id="まきヘアー2" stroke="none" fill="#DCDAD9" fill-rule="evenodd" x="6.80910714" y="12.5555804" width="7.43308036" height="3.42071429"></rect>
+                                <rect id="まきヘアー3" stroke="none" fill="#A0A0A0" fill-rule="evenodd" x="12.6262946" y="12.5555804" width="1.61589286" height="2.20558036"></rect>
+                                <polygon id="Path" stroke="none" fill-opacity="0.4" fill="#E69A60" fill-rule="evenodd" points="22.1189732 15.425 21.9166964 15.4526339 21.871875 16.4216518 21.4309375 18.6825 20.51 18.4960714 20.2495089 19.1508036 22.0210714 19.4585268 22.6181696 19.3701339 22.1189732 15.425"></polygon>
+                                <polygon id="Path" stroke="none" fill-opacity="0.5" fill="#FCD5B8" fill-rule="evenodd" points="22.6181696 15.3719196 22.1207143 15.4358929 22.6267857 19.3708036 23.1242411 19.3068304 22.6181696 15.3719196"></polygon>
+                                <polygon id="Path" stroke="none" fill-opacity="0.5" fill="#F2AA72" fill-rule="evenodd" points="22.866875 15.3154464 22.6181696 15.3474554 23.1273661 19.3068304 23.3761161 19.2748661 22.866875 15.3154464"></polygon>
+                                <polygon id="Path" stroke="none" fill-opacity="0.5" fill="#F2AA72" fill-rule="evenodd" points="23.8366964 18.4708929 23.2835714 18.5420536 23.3771875 19.2698661 23.9303125 19.19875 23.8366964 18.4708929"></polygon>
+                                <rect id="シャツ16" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="12.6262946" y="24.5083929" width="6.68147321" height="2.84901786"></rect>
+                                <rect id="シャツ17" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="22.2194196" y="24.4752232" width="4.26125" height="2.93138393"></rect>
+                                <rect id="シャツ18" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="22.7266071" y="27.3574107" width="1.13959821" height="2.82870536"></rect>
+                                <rect id="シャツ19" stroke="none" fill="#EEEADC" fill-rule="evenodd" x="15.9058482" y="27.3574107" width="1.42852679" height="5.60821429"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="coltrane" transform="translate(18.000000, 151.000000)">
+            <rect id="round_trane" x="0" y="0" width="71.4283929" height="71.4283929"></rect>
+            <g id="Clipped">
+                <mask id="mask-18" fill="white">
+                    <use xlink:href="#path-17"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <g id="Group" mask="url(#mask-18)">
+                    <circle id="Oval" fill="#EFA93A" cx="35.7143036" cy="35.7143036" r="35.7143036"></circle>
+                    <g id="Clipped">
+                        <mask id="mask-20" fill="white">
+                            <use xlink:href="#path-19"></use>
+                        </mask>
+                        <g id="Oval"></g>
+                        <g id="Group" mask="url(#mask-20)">
+                            <g transform="translate(13.714286, 5.089286)">
+                                <rect id="シャツ" fill="#4C454C" x="6.27841071" y="27.9990536" width="30.8108036" height="53.4541071"></rect>
+                                <polygon id="シャツ1" fill-opacity="0.1" fill="#232323" points="25.1421964 27.9990536 37.0892143 27.9990536 37.0892143 81.4531607 25.1421964 81.4531607 25.1421964 62.8956429 28.2861429 62.9090893 28.2861429 50.3316429 25.1421964 50.3586964"></polygon>
+                                <rect id="ベルト" fill="#868A6E" x="21.9981964" y="53.4760714" width="3.14394643" height="3.144375"></rect>
+                                <rect id="首" fill="#71412C" x="18.9276964" y="21.7580357" width="7.40625" height="6.61735714"></rect>
+                                <rect id="シャツ2" fill="#C0AB96" x="21.3034821" y="26.4197679" width="3.77276786" height="14.8009286"></rect>
+                                <rect id="シャツ3" fill="#B9A189" x="24.4753393" y="24.8476071" width="1.85860714" height="6.38673214"></rect>
+                                <rect id="シャツ4" fill="#B3997F" x="18.7875" y="24.8476071" width="2.5155" height="6.30294643"></rect>
+                                <rect id="シャツ5" fill="#AD967C" x="18.7875" y="30.8218393" width="7.54644643" height="12.5774464"></rect>
+                                <rect id="ベルト1" fill="#AF9479" x="26.334" y="25.7908929" width="1.25775" height="3.15857143"></rect>
+                                <rect id="Rectangle" fill="#0D1419" x="27.018" y="52.8364286" width="22.0105179" height="21.3739821"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="30.1071964" y="52.8364286" width="1" height="4.39826786"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="30.7360714" y="57.2346429" width="1" height="3.14051786"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="30.7360714" y="63.5233929" width="1" height="3.14051786"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="31.3649464" y="60.375" width="1" height="3.14051786"></rect>
+                                <rect id="ベルト2" fill="#BEB097" x="31.1156786" y="61.3221429" width="2.82953571" height="1.57216071"></rect>
+                                <rect id="腕" fill="#474047" x="37.0892143" y="34.134375" width="6.28794643" height="16.1972679"></rect>
+                                <rect id="腕1" fill="#474047" x="39.9058929" y="50.3314286" width="6.28869643" height="8.80419643"></rect>
+                                <rect id="腕2" fill="#474047" x="39.9058929" y="59.1358929" width="6.28869643" height="6.896625"></rect>
+                                <rect id="ベルト3" fill="#474047" x="39.9058929" y="63.5233929" width="6.28869643" height="4.71653571"></rect>
+                                <g id="左手1" stroke-width="1" fill="none" transform="translate(0.000000, 31.017857)">
+                                    <rect id="腕3" fill="#433D43" x="0.00583928571" y="0.0488571429" width="6.28794643" height="50.3097321"></rect>
+                                </g>
+                                <rect id="ベルト4" fill="#AF9479" x="15.6431786" y="26.4197679" width="3.144375" height="1.58635714"></rect>
+                                <rect id="ベルト5" fill="#AF9479" x="15.6431786" y="28.0409464" width="1.88619643" height="1"></rect>
+                                <path d="M12.6419464,2.7255 L27.9121071,2.7255 C30.0190714,2.7255 31.7296607,4.43608929 31.7296607,6.54305357 L31.7296607,19.8271071 C31.7296607,21.9340714 30.0190714,23.6446607 27.9121071,23.6446607 L17.413875,23.6446607 C14.7801429,23.6446607 12.6419464,21.5064107 12.6419464,18.8727321 L12.6419464,2.7255 L12.6419464,2.7255 Z" id="肌-whole" fill="#834930"></path>
+                                <g id="Clipped" stroke-width="1" fill="none" transform="translate(12.589286, 2.678571)">
+                                    <mask id="mask-22" fill="white">
+                                        <use xlink:href="#path-21"></use>
+                                    </mask>
+                                    <g id="Path"></g>
+                                    <g id="Group" mask="url(#mask-22)">
+                                        <g transform="translate(6.535714, 14.357143)">
+                                            <rect id="ひげ" fill-opacity="0.3" fill="#221611" x="0.827464286" y="5.35119643" width="9.220875" height="1.26482143"></rect>
+                                            <rect id="ひげ1" fill-opacity="0.15" fill="#221611" x="0.0460714286" y="2.40508929" width="1.56273214" height="2.94257143"></rect>
+                                            <rect id="ひげ2" fill-opacity="0.15" fill="#221611" x="2.397375" y="0.033" width="7.47294643" height="1.14503571"></rect>
+                                            <rect id="ひげ3" fill-opacity="0.15" fill="#221611" x="4.85067857" y="0.033" width="3.04232143" height="1.14503571"></rect>
+                                            <rect id="ひげ4" fill-opacity="0.25" fill="#221611" x="1.60880357" y="1.26005357" width="1.78928571" height="1.14503571"></rect>
+                                            <rect id="ひげ5" fill-opacity="0.15" fill="#221611" x="9.87026786" y="0.605517857" width="1.36585714" height="1.79957143"></rect>
+                                            <rect id="ひげ6" fill-opacity="0.15" fill="#221611" x="10.3755536" y="2.40508929" width="1.5405" height="3.26410714"></rect>
+                                            <rect id="ひげ7" fill-opacity="0.3" fill="#442417" x="0.674946429" y="5.35119643" width="1.86771429" height="1.26482143"></rect>
+                                            <rect id="ひげ8" fill-opacity="0.3" fill="#442417" x="3.83817857" y="5.344125" width="1.79860714" height="1.26482143"></rect>
+                                            <rect id="ひげ9" fill-opacity="0.4" fill="#442417" x="5.63678571" y="4.14021429" width="1.25775" height="2.47585714"></rect>
+                                            <rect id="ひげ10" fill-opacity="0.2" fill="#442417" x="4.44916071" y="4.14626786" width="3.703125" height="1.21810714"></rect>
+                                            <rect id="ひげ11" fill-opacity="0.2" fill="#442417" x="7.54226786" y="5.35119643" width="1.39633929" height="1.26482143"></rect>
+                                            <rect id="ひげ12" fill-opacity="0.3" fill="#442417" x="10.0483393" y="5.66919643" width="1.86771429" height="1"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <path d="M10.6453393,10.9958036 C10.6453393,10.4843571 11.060625,10.0690714 11.5720714,10.0690714 L14.3522143,10.0690714 L14.3522143,15.1000714 L12.1280893,15.1000714 C11.3097321,15.1000714 10.6453393,14.4356786 10.6453393,13.6173214 L10.6453393,10.9958036 L10.6453393,10.9958036 Z" id="耳" fill="#814A33"></path>
+                                <rect id="黒目" fill-opacity="0.7" fill="#1B1B1B" x="20.5437321" y="9.79301786" width="3.21423214" height="2.79155357"></rect>
+                                <path d="M23.2557857,7.86803571 C23.7807321,7.96108929 24.2484643,8.47285714 24.2484643,8.8305 C24.2484643,9.18819643 23.5799464,9.44871429 23.1290893,9.16414286 C22.90425,9.02223214 23.0787857,8.58653571 22.6487679,8.47666071 C21.7586786,8.24925 19.8034821,8.28664286 19.9847143,8.1825 C20.3596071,7.96703571 22.4956071,7.73330357 23.2557857,7.86803571 Z" id="Path" fill-opacity="0.3" fill="#1B1816"></path>
+                                <path d="M27.2543571,7.86803571 C26.7294107,7.96108929 26.2616786,8.47285714 26.2616786,8.8305 C26.2616786,9.18819643 27.0105,9.56978571 27.4613571,9.28516071 C27.6861964,9.14325 27.5559107,8.60335714 27.861375,8.47666071 C28.8613929,8.06180357 30.3134464,8.03041071 30.1322143,7.92626786 C29.757375,7.71080357 28.0145357,7.73330357 27.2543571,7.86803571 L27.2543571,7.86803571 Z" id="Path" fill-opacity="0.3" fill="#1B1816"></path>
+                                <rect id="くち" fill-opacity="0.7" fill="#AFA390" x="21.4870714" y="10.0690714" width="1.43694643" height="1.92691071"></rect>
+                                <rect id="黒目1" fill-opacity="0.7" fill="#1B1B1B" x="26.5180179" y="9.79301786" width="3.21423214" height="2.79155357"></rect>
+                                <rect id="くち1" fill-opacity="0.7" fill="#AFA390" x="27.4613571" y="10.0690714" width="1.43694643" height="1.92691071"></rect>
+                                <rect id="ヘアー" fill="#231507" x="12.1843393" y="2.20821429" width="6.28869643" height="4.71653571"></rect>
+                                <rect id="ヘアー1" fill="#231507" x="12.1843393" y="2.20821429" width="3.144375" height="7.86091071"></rect>
+                                <rect id="ヘアー2" fill="#231507" x="15.0834107" y="0.007125" width="12.877875" height="4.71653571"></rect>
+                                <rect id="ヘアー3" fill="#231507" x="27.9612857" y="3.1515" width="3.144375" height="1.57216071"></rect>
+                                <rect id="ヘアー4" fill="#231507" x="27.9612857" y="1.57933929" width="1.57216071" height="3.144375"></rect>
+                                <rect id="ヘアー5" fill-opacity="0.5" fill="#231507" x="12.1843393" y="8.49691071" width="3.144375" height="4.71653571"></rect>
+                                <rect id="ヘアー6" fill-opacity="0.5" fill="#231507" x="12.1843393" y="8.49691071" width="3.144375" height="3.144375"></rect>
+                                <rect id="ヘアー7" fill-opacity="0.5" fill="#231507" x="15.3287143" y="6.92475" width="1.57216071" height="3.144375"></rect>
+                                <rect id="くち2" fill-opacity="0.7" fill="#3C3226" x="22.5761786" y="18.21375" width="5.48742857" height="1.22705357"></rect>
+                                <rect id="Rectangle" fill="#7B422B" x="24.1329107" y="15.1000714" width="3.144375" height="1"></rect>
+                                <rect id="Rectangle" fill="#7B422B" x="24.7617857" y="14.1567857" width="1.886625" height="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="coltrane" transform="translate(536.000000, 196.000000)">
+            <rect id="round_trane" x="0" y="0" width="59.5236607" height="59.5236607"></rect>
+            <g id="Clipped">
+                <mask id="mask-24" fill="white">
+                    <use xlink:href="#path-23"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <g id="Group" mask="url(#mask-24)">
+                    <circle id="Oval" fill="#EFA93A" cx="29.7619196" cy="29.7619196" r="29.7619196"></circle>
+                    <g id="Clipped">
+                        <mask id="mask-26" fill="white">
+                            <use xlink:href="#path-25"></use>
+                        </mask>
+                        <g id="Oval"></g>
+                        <g id="Group" mask="url(#mask-26)">
+                            <g transform="translate(11.428571, 4.241071)">
+                                <rect id="シャツ" fill="#4C454C" x="5.23200893" y="23.3325446" width="25.6756696" height="44.5450893"></rect>
+                                <polygon id="シャツ1" fill-opacity="0.1" fill="#232323" points="20.9518304 23.3325446 30.9076786 23.3325446 30.9076786 67.8776339 20.9518304 67.8776339 20.9518304 52.4130357 23.5717857 52.4242411 23.5717857 41.9430357 20.9518304 41.9655804"></polygon>
+                                <rect id="ベルト" fill="#868A6E" x="18.3318304" y="44.5633929" width="2.61995536" height="2.6203125"></rect>
+                                <rect id="首" fill="#71412C" x="15.7730804" y="18.1316964" width="6.171875" height="5.51446429"></rect>
+                                <rect id="シャツ2" fill="#C0AB96" x="17.7529018" y="22.0164732" width="3.14397321" height="12.3341071"></rect>
+                                <rect id="シャツ3" fill="#B9A189" x="20.3961161" y="20.7063393" width="1.54883929" height="5.32227679"></rect>
+                                <rect id="シャツ4" fill="#B3997F" x="15.65625" y="20.7063393" width="2.09625" height="5.25245536"></rect>
+                                <rect id="シャツ5" fill="#AD967C" x="15.65625" y="25.6848661" width="6.28870536" height="10.4812054"></rect>
+                                <rect id="ベルト1" fill="#AF9479" x="21.945" y="21.4924107" width="1.048125" height="2.63214286"></rect>
+                                <rect id="Rectangle" fill="#0D1419" x="22.515" y="44.0303571" width="18.3420982" height="17.8116518"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="25.0893304" y="44.0303571" width="1" height="3.66522321"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="25.6133929" y="47.6955357" width="1" height="2.61709821"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="25.6133929" y="52.9361607" width="1" height="2.61709821"></rect>
+                                <rect id="Rectangle" fill="#424D54" x="26.1374554" y="50.3125" width="1" height="2.61709821"></rect>
+                                <rect id="ベルト2" fill="#BEB097" x="25.9297321" y="51.1017857" width="2.35794643" height="1.31013393"></rect>
+                                <rect id="腕" fill="#474047" x="30.9076786" y="28.4453125" width="5.23995536" height="13.4977232"></rect>
+                                <rect id="腕1" fill="#474047" x="33.2549107" y="41.9428571" width="5.24058036" height="7.33683036"></rect>
+                                <rect id="腕2" fill="#474047" x="33.2549107" y="49.2799107" width="5.24058036" height="5.7471875"></rect>
+                                <rect id="ベルト3" fill="#474047" x="33.2549107" y="52.9361607" width="5.24058036" height="3.93044643"></rect>
+                                <g id="左手1" stroke-width="1" fill="none" transform="translate(0.000000, 25.848214)">
+                                    <rect id="腕3" fill="#433D43" x="0.00486607143" y="0.0407142857" width="5.23995536" height="41.9247768"></rect>
+                                </g>
+                                <rect id="ベルト4" fill="#AF9479" x="13.0359821" y="22.0164732" width="2.6203125" height="1.32196429"></rect>
+                                <rect id="ベルト5" fill="#AF9479" x="13.0359821" y="23.3674554" width="1.57183036" height="1"></rect>
+                                <path d="M10.5349554,2.27125 L23.2600893,2.27125 C25.0158929,2.27125 26.4413839,3.69674107 26.4413839,5.45254464 L26.4413839,16.5225893 C26.4413839,18.2783929 25.0158929,19.7038839 23.2600893,19.7038839 L14.5115625,19.7038839 C12.3167857,19.7038839 10.5349554,17.9220089 10.5349554,15.7272768 L10.5349554,2.27125 L10.5349554,2.27125 Z" id="肌-whole" fill="#834930"></path>
+                                <g id="Clipped" stroke-width="1" fill="none" transform="translate(10.491071, 2.232143)">
+                                    <mask id="mask-28" fill="white">
+                                        <use xlink:href="#path-27"></use>
+                                    </mask>
+                                    <g id="Path"></g>
+                                    <g id="Group" mask="url(#mask-28)">
+                                        <g transform="translate(5.446429, 11.964286)">
+                                            <rect id="ひげ" fill-opacity="0.3" fill="#221611" x="0.689553571" y="4.45933036" width="7.6840625" height="1.05401786"></rect>
+                                            <rect id="ひげ1" fill-opacity="0.15" fill="#221611" x="0.0383928571" y="2.00424107" width="1.30227679" height="2.45214286"></rect>
+                                            <rect id="ひげ2" fill-opacity="0.15" fill="#221611" x="1.9978125" y="0.0275" width="6.22745536" height="1"></rect>
+                                            <rect id="ひげ3" fill-opacity="0.15" fill="#221611" x="4.04223214" y="0.0275" width="2.53526786" height="1"></rect>
+                                            <rect id="ひげ4" fill-opacity="0.25" fill="#221611" x="1.34066964" y="1.05004464" width="1.49107143" height="1"></rect>
+                                            <rect id="ひげ5" fill-opacity="0.15" fill="#221611" x="8.22522321" y="0.504598214" width="1.13821429" height="1.49964286"></rect>
+                                            <rect id="ひげ6" fill-opacity="0.15" fill="#221611" x="8.64629464" y="2.00424107" width="1.28375" height="2.72008929"></rect>
+                                            <rect id="ひげ7" fill-opacity="0.3" fill="#442417" x="0.562455357" y="4.45933036" width="1.55642857" height="1.05401786"></rect>
+                                            <rect id="ひげ8" fill-opacity="0.3" fill="#442417" x="3.19848214" y="4.4534375" width="1.49883929" height="1.05401786"></rect>
+                                            <rect id="ひげ9" fill-opacity="0.4" fill="#442417" x="4.69732143" y="3.45017857" width="1.048125" height="2.06321429"></rect>
+                                            <rect id="ひげ10" fill-opacity="0.2" fill="#442417" x="3.70763393" y="3.45522321" width="3.0859375" height="1.01508929"></rect>
+                                            <rect id="ひげ11" fill-opacity="0.2" fill="#442417" x="6.28522321" y="4.45933036" width="1.16361607" height="1.05401786"></rect>
+                                            <rect id="ひげ12" fill-opacity="0.3" fill="#442417" x="8.37361607" y="4.72433036" width="1.55642857" height="1"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                                <path d="M8.87111607,9.16316964 C8.87111607,8.73696429 9.2171875,8.39089286 9.64339286,8.39089286 L11.9601786,8.39089286 L11.9601786,12.5833929 L10.1067411,12.5833929 C9.42477679,12.5833929 8.87111607,12.0297321 8.87111607,11.3477679 L8.87111607,9.16316964 L8.87111607,9.16316964 Z" id="耳" fill="#814A33"></path>
+                                <rect id="黒目" fill-opacity="0.7" fill="#1B1B1B" x="17.1197768" y="8.16084821" width="2.67852679" height="2.32629464"></rect>
+                                <path d="M19.3798214,6.55669643 C19.8172768,6.63424107 20.2070536,7.06071429 20.2070536,7.35875 C20.2070536,7.65683036 19.6499554,7.87392857 19.2742411,7.63678571 C19.086875,7.51852679 19.2323214,7.15544643 18.8739732,7.06388393 C18.1322321,6.874375 16.5029018,6.90553571 16.6539286,6.81875 C16.9663393,6.63919643 18.7463393,6.44441964 19.3798214,6.55669643 Z" id="Path" fill-opacity="0.3" fill="#1B1816"></path>
+                                <path d="M22.7119643,6.55669643 C22.2745089,6.63424107 21.8847321,7.06071429 21.8847321,7.35875 C21.8847321,7.65683036 22.50875,7.97482143 22.8844643,7.73763393 C23.0718304,7.619375 22.9632589,7.16946429 23.2178125,7.06388393 C24.0511607,6.71816964 25.2612054,6.69200893 25.1101786,6.60522321 C24.7978125,6.42566964 23.3454464,6.44441964 22.7119643,6.55669643 L22.7119643,6.55669643 Z" id="Path" fill-opacity="0.3" fill="#1B1816"></path>
+                                <rect id="くち" fill-opacity="0.7" fill="#AFA390" x="17.9058929" y="8.39089286" width="1.19745536" height="1.60575893"></rect>
+                                <rect id="黒目1" fill-opacity="0.7" fill="#1B1B1B" x="22.0983482" y="8.16084821" width="2.67852679" height="2.32629464"></rect>
+                                <rect id="くち1" fill-opacity="0.7" fill="#AFA390" x="22.8844643" y="8.39089286" width="1.19745536" height="1.60575893"></rect>
+                                <rect id="ヘアー" fill="#231507" x="10.1536161" y="1.84017857" width="5.24058036" height="3.93044643"></rect>
+                                <rect id="ヘアー1" fill="#231507" x="10.1536161" y="1.84017857" width="2.6203125" height="6.55075893"></rect>
+                                <rect id="ヘアー2" fill="#231507" x="12.5695089" y="0.0059375" width="10.7315625" height="3.93044643"></rect>
+                                <rect id="ヘアー3" fill="#231507" x="23.3010714" y="2.62625" width="2.6203125" height="1.31013393"></rect>
+                                <rect id="ヘアー4" fill="#231507" x="23.3010714" y="1.31611607" width="1.31013393" height="2.6203125"></rect>
+                                <rect id="ヘアー5" fill-opacity="0.5" fill="#231507" x="10.1536161" y="7.08075893" width="2.6203125" height="3.93044643"></rect>
+                                <rect id="ヘアー6" fill-opacity="0.5" fill="#231507" x="10.1536161" y="7.08075893" width="2.6203125" height="2.6203125"></rect>
+                                <rect id="ヘアー7" fill-opacity="0.5" fill="#231507" x="12.7739286" y="5.770625" width="1.31013393" height="2.6203125"></rect>
+                                <rect id="くち2" fill-opacity="0.7" fill="#3C3226" x="18.8134821" y="15.178125" width="4.57285714" height="1.02254464"></rect>
+                                <rect id="Rectangle" fill="#7B422B" x="20.1107589" y="12.5833929" width="2.6203125" height="1"></rect>
+                                <rect id="Rectangle" fill="#7B422B" x="20.6348214" y="11.7973214" width="1.5721875" height="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path id="Path-3" d="M300.402023,85.0085677 L372.271,157.57 L376.533987,153.3485 L381.412414,168.221326 L366.587097,163.200372 L370.85,158.978 L298.981038,86.415978 L300.402023,85.0085677 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M381.412414,213.221326 L375.781428,227.825846 L371.739,223.391 L300.365189,288.451315 L299.017872,286.97323 L370.392,221.913 L366.350206,217.47925 L381.412414,213.221326 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Path-3" d="M367.431423,183.183436 L381.412414,190.221326 L367.393507,197.183384 L367.409,191.183 L299.688822,190.999996 L299.694239,189.000004 L367.415,189.183 L367.431423,183.183436 Z" fill="#979797" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1010px" height="400px" viewBox="0 0 1010 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>P-Env-ADSR-Q</title>
+    <g id="P-Env-ADSR-Q" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1010" height="400"></rect>
+        <g id="Group" opacity="0.100000001" transform="translate(45.000000, 66.000000)" stroke="#000000" stroke-width="2">
+            <line x1="0" y1="54" x2="870" y2="54" id="Path"></line>
+            <line x1="0" y1="2" x2="870" y2="2" id="Path"></line>
+            <line x1="0" y1="106" x2="870" y2="106" id="Path"></line>
+            <line x1="0" y1="158" x2="870" y2="158" id="Path"></line>
+            <line x1="0" y1="210" x2="870" y2="210" id="Path"></line>
+            <line x1="0" y1="262" x2="870" y2="262" id="Path"></line>
+            <line x1="59.5" y1="0" x2="59.5" y2="257" id="Path"></line>
+            <line x1="211.5" y1="0" x2="211.5" y2="257" id="Path"></line>
+            <line x1="417.5" y1="0" x2="417.5" y2="257" id="Path"></line>
+            <line x1="605.5" y1="0" x2="605.5" y2="257" id="Path"></line>
+            <line x1="853.5" y1="0" x2="853.5" y2="257" id="Path"></line>
+        </g>
+        <path d="M102.25,326.75 C106.75,152.916667 111.333333,66 116,66 C123,66 138.128686,193.195859 166.5,196 C252.5,204.5 795.5,246 805.5,246 C815.5,246 820.5,326 835.5,326" id="curve" stroke="#B7E921" stroke-width="5" fill-opacity="0.402534965" fill="#B7E921" fill-rule="nonzero" stroke-linecap="square"></path>
+        <text id="Volume" fill="#615855" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="22.5287916" font-weight="bold">
+            <tspan x="14.3243825" y="44.3285076">Volume</tspan>
+        </text>
+        <text id="Start!" fill="#615855" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+            <tspan x="68.3243825" y="383.328508">Start!</tspan>
+        </text>
+        <text id="Time" fill="#615855" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="22.5287916" font-weight="bold">
+            <tspan x="933.669132" y="333.293258">Time</tspan>
+        </text>
+        <polygon id="Path" fill="#615855" points="43.1074998 329.431212 43.1074998 66.631712 38.4284717 66.631712 45.3341128 56.7299859 52.2397539 66.631712 47.5607258 66.631712 47.5607258 329.431212"></polygon>
+        <polygon id="Path" fill="#615855" points="44.0691761 325.268482 917.029583 325.268482 917.029583 320.59239 927.934413 327.494116 917.029583 334.395842 917.029583 329.71975 44.0691761 329.71975"></polygon>
+        <path d="M101.677758,338.275137 L110.855636,353.922313 C111.414482,354.87508 111.095147,356.100484 110.142381,356.659331 C109.835534,356.839313 109.486235,356.934195 109.130499,356.934195 L90.7747433,356.934195 C89.6701738,356.934195 88.7747433,356.038764 88.7747433,354.934195 C88.7747433,354.578459 88.8696255,354.22916 89.0496069,353.922313 L98.2274849,338.275137 C98.7863318,337.322371 100.011736,337.003036 100.964503,337.561882 C101.259289,337.73479 101.50485,337.980351 101.677758,338.275137 Z" id="Path" fill="#615855"></path>
+        <text id="End." fill="#615855" fill-rule="nonzero" font-family="Arial-BoldItalicMT, Arial" font-size="24" font-style="italic" font-weight="bold">
+            <tspan x="781.324383" y="383.328508">End.</tspan>
+        </text>
+        <path d="M808.677758,338.275137 L817.855636,353.922313 C818.414482,354.87508 818.095147,356.100484 817.142381,356.659331 C816.835534,356.839313 816.486235,356.934195 816.130499,356.934195 L797.774743,356.934195 C796.670174,356.934195 795.774743,356.038764 795.774743,354.934195 C795.774743,354.578459 795.869625,354.22916 796.049607,353.922313 L805.227485,338.275137 C805.786332,337.322371 807.011736,337.003036 807.964503,337.561882 C808.259289,337.73479 808.50485,337.980351 808.677758,338.275137 Z" id="Path" fill="#615855" transform="translate(806.952621, 346.134091) scale(1, -1) translate(-806.952621, -346.134091) "></path>
+        <path id="Line" d="M184.435373,257.900485 L184.05,265.89 L791.093,295.112 L791.478166,287.121489 L809.999422,297.52404 L790.564627,306.099515 L790.949,298.109 L183.906,268.887 L183.521834,276.878511 L165.000578,266.47596 L184.435373,257.900485 Z" fill="#FA6400" fill-rule="nonzero"></path>
+        <text id="Sustain…?" fill="#FF6633" fill-rule="nonzero" transform="translate(478.129061, 262.100496) rotate(3.000000) translate(-478.129061, -262.100496) " font-family="Arial-BoldItalicMT, Arial" font-size="32" font-style="italic" font-weight="bold">
+            <tspan x="394.129061" y="273.100496">Sustain…?</tspan>
+        </text>
+        <line x1="161" y1="323" x2="161" y2="195" id="Path-12" stroke="#B7E921" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        <line x1="118" y1="323" x2="118" y2="66" id="Path-12" stroke="#B7E921" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        <line x1="807" y1="323" x2="807" y2="247" id="Path-12" stroke="#B7E921" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+    </g>
+</svg>

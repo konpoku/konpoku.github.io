@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="780px" viewBox="0 0 375 780" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>M5-organizing-chords-filtering</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="64"></rect>
+        <filter x="-0.1%" y="-0.4%" width="100.1%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.698039216   0 0 0 0 0.698039216   0 0 0 0 0.698039216  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="16" y="43" width="359" height="1"></rect>
+        <filter x="-0.1%" y="-25.0%" width="100.1%" height="150.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="16" y="43" width="359" height="1"></rect>
+        <filter x="-0.1%" y="-25.0%" width="100.1%" height="150.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="16" y="43" width="359" height="1"></rect>
+        <filter x="-0.1%" y="-25.0%" width="100.1%" height="150.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="16" y="43" width="359" height="1"></rect>
+        <filter x="-0.1%" y="-25.0%" width="100.1%" height="150.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="375" height="74"></rect>
+        <filter x="-0.1%" y="-0.3%" width="100.1%" height="100.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.784313725   0 0 0 0 0.780392157   0 0 0 0 0.8  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-13" cx="14" cy="14" r="14"></circle>
+        <filter x="-23.2%" y="-12.5%" width="146.4%" height="146.4%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter3"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter3" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter3" in2="SourceAlpha" operator="out" result="shadowBlurOuter3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0510643116 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-15" cx="15" cy="14" r="14"></circle>
+        <filter x="-23.2%" y="-12.5%" width="146.4%" height="146.4%" filterUnits="objectBoundingBox" id="filter-16">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter3"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter3" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter3" in2="SourceAlpha" operator="out" result="shadowBlurOuter3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0510643116 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="M5-organizing-chords-filtering" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Navigation-Bar/Back">
+            <g id="Bar">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0.9" fill="#FAFAFA" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="脳内コード検索" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" letter-spacing="-0.409999996" fill="#030303">
+                <tspan x="129.435" y="47">脑内和弦检索</tspan>
+            </text>
+            <text id="Cancel" fill="#3D7AF5" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" letter-spacing="-0.409999996">
+                <tspan x="8" y="48">取消</tspan>
+            </text>
+        </g>
+        <g id="Status-Bar/Black/100%" fill="#030303">
+            <path d="M366.006287,5.5 C366.82662,5.5 367.5,6.17394722 367.5,7.00530324 L367.5,7.00530324 L367.5,13.4946968 C367.5,14.3319784 366.831242,15 366.006287,15 L366.006287,15 L346.493713,15 C345.67338,15 345,14.3260528 345,13.4946968 L345,13.4946968 L345,7.00530324 C345,6.16802155 345.668758,5.5 346.493713,5.5 L346.493713,5.5 Z M365.991848,6 L346.508152,6 C345.951365,6 345.5,6.45699692 345.5,7.00844055 L345.5,13.4915594 C345.5,14.0485058 345.949058,14.5 346.508152,14.5 L365.991848,14.5 C366.548635,14.5 367,14.0430031 367,13.4915594 L367,7.00844055 C367,6.45149422 366.550942,6 365.991848,6 Z M365.993256,6.5 C366.269775,6.5 366.5,6.72031886 366.5,6.99209595 L366.5,6.99209595 L366.5,13.5079041 C366.5,13.783628 366.273123,14 365.993256,14 L365.993256,14 L346.506744,14 C346.230225,14 346,13.7796811 346,13.5079041 L346,13.5079041 L346,6.99209595 C346,6.71637201 346.226877,6.5 346.506744,6.5 L346.506744,6.5 Z M368.75,8.5 C369.167101,8.5 369.5,8.83232111 369.5,9.24225998 L369.5,9.24225998 L369.5,11.25774 C369.5,11.6644053 369.164214,12 368.75,12 L368.75,12 L368,12 L368,8.5 Z" id="Battery"></path>
+            <text id="100%" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                <tspan x="311.308594" y="14.5">100%</tspan>
+            </text>
+            <text id="9:41-AM" font-family="Arial-BoldMT, Arial" font-size="12" font-weight="bold">
+                <tspan x="164.493164" y="14.5">9:41 AM</tspan>
+            </text>
+            <path d="M73.987563,11.4689119 C74.8523616,11.4689119 75.626374,11.8454456 76.1444208,12.4385043 L76.1444208,12.4385043 L74.0225391,14.5 L71.8601652,12.4053177 C72.3778594,11.8314341 73.1390073,11.4689119 73.987563,11.4689119 Z M73.987563,8.48445596 C75.7014387,8.48445596 77.2447794,9.19174563 78.3234964,10.3214425 L78.3234964,10.3214425 L77.2346215,11.3793293 C76.4356305,10.518235 75.2768836,9.97668394 73.987563,9.97668394 C72.713648,9.97668394 71.567205,10.5053708 70.7692987,11.3486 L70.7692987,11.3486 L69.6792698,10.2926936 C70.7566264,9.17975893 72.2882723,8.48445596 73.987563,8.48445596 Z M73.987563,5.5 C76.5505699,5.5 78.8629578,6.53943672 80.5,8.20687933 L80.5,8.20687933 L79.4118698,9.26404272 C78.0538809,7.86552609 76.1260026,6.99222798 73.987563,6.99222798 C71.8628921,6.99222798 69.9460798,7.85431655 68.5895579,9.23709441 L68.5895579,9.23709441 L67.5,8.18164431 C69.1355496,6.52895605 71.4375103,5.5 73.987563,5.5 Z" id="Wi-Fi"></path>
+            <text id="Carrier" font-family="ArialMT, Arial" font-size="12" font-weight="normal">
+                <tspan x="44" y="14.5">SQ</tspan>
+            </text>
+            <path d="M9.25,7.5 C10.7687831,7.5 12,8.73121694 12,10.25 C12,11.7687831 10.7687831,13 9.25,13 C7.73121694,13 6.5,11.7687831 6.5,10.25 C6.5,8.73121694 7.73121694,7.5 9.25,7.5 Z M16.25,7.5 C17.7687831,7.5 19,8.73121694 19,10.25 C19,11.7687831 17.7687831,13 16.25,13 C14.7312169,13 13.5,11.7687831 13.5,10.25 C13.5,8.73121694 14.7312169,7.5 16.25,7.5 Z M23.25,7.5 C24.7687831,7.5 26,8.73121694 26,10.25 C26,11.7687831 24.7687831,13 23.25,13 C21.7312169,13 20.5,11.7687831 20.5,10.25 C20.5,8.73121694 21.7312169,7.5 23.25,7.5 Z M30.25,7.5 C31.7687831,7.5 33,8.73121694 33,10.25 C33,11.7687831 31.7687831,13 30.25,13 C28.7312169,13 27.5,11.7687831 27.5,10.25 C27.5,8.73121694 28.7312169,7.5 30.25,7.5 Z M37.25,7.5 C38.7687831,7.5 40,8.73121694 40,10.25 C40,11.7687831 38.7687831,13 37.25,13 C35.7312169,13 34.5,11.7687831 34.5,10.25 C34.5,8.73121694 35.7312169,7.5 37.25,7.5 Z" id="Mobile-Signal"></path>
+        </g>
+        <g id="Group-13" transform="translate(0.000000, 360.000000)">
+            <g id="Group-10" transform="translate(0.000000, 147.000000)" fill="#FFFFFF">
+                <rect id="Background" x="0" y="0" width="375" height="50"></rect>
+            </g>
+            <g id="Group-3" transform="translate(15.000000, 163.000000)" fill="#030303" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" letter-spacing="-0.239999995">
+                <text id="サブドミナント">
+                    <tspan x="0" y="13">下属和弦 (Subdominant)</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(0.000000, 96.000000)" fill="#FFFFFF">
+                <rect id="Background" x="0" y="0" width="375" height="50"></rect>
+            </g>
+            <g id="Group-3" transform="translate(15.000000, 112.000000)" fill="#030303" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" letter-spacing="-0.239999995">
+                <text id="ドミナント">
+                    <tspan x="0" y="13">属和弦</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(0.000000, 45.000000)">
+                <rect id="Background" fill="#FFFFFF" x="0" y="0" width="375" height="50"></rect>
+                <path d="M349.857143,35 L334.142857,35 C332.959375,35 332,34.040625 332,32.8571429 L332,17.1428571 C332,15.959375 332.959375,15 334.142857,15 L349.857143,15 C351.040625,15 352,15.959375 352,17.1428571 L352,32.8571429 C352,34.040625 351.040625,35 349.857143,35 Z M340.719375,30.6223661 L348.933661,22.4080804 C349.212589,22.1291518 349.212589,21.676875 348.933661,21.3979464 L347.923527,20.3878125 C347.644598,20.1088839 347.192321,20.1088393 346.913348,20.3878125 L340.214286,27.0868304 L337.086652,23.9591964 C336.807723,23.6802679 336.355446,23.6802679 336.076473,23.9591964 L335.066339,24.9693304 C334.787411,25.2482589 334.787411,25.7005357 335.066339,25.9794643 L339.709196,30.6223214 C339.98817,30.9013393 340.440402,30.9013393 340.719375,30.6223661 L340.719375,30.6223661 Z" id="Shape" fill="#3D7AF5" fill-rule="nonzero"></path>
+                <path d="M349.857143,65 C351.040625,65 352,65.959375 352,67.1428571 L352,82.8571429 C352,84.040625 351.040625,85 349.857143,85 L334.142857,85 C332.959375,85 332,84.040625 332,82.8571429 L332,67.1428571 C332,65.959375 332.959375,65 334.142857,65 L349.857143,65 Z M348.285714,67 L335.714286,67 C334.7675,67 334,67.7675 334,68.7142857 L334,68.7142857 L334,81.2857143 C334,82.2325 334.7675,83 335.714286,83 L335.714286,83 L348.285714,83 C349.2325,83 350,82.2325 350,81.2857143 L350,81.2857143 L350,68.7142857 C350,67.7675 349.2325,67 348.285714,67 L348.285714,67 Z" id="Shape" fill="#A4AAB3" fill-rule="nonzero"></path>
+                <path d="M349.857143,115 C351.040625,115 352,115.959375 352,117.142857 L352,132.857143 C352,134.040625 351.040625,135 349.857143,135 L334.142857,135 C332.959375,135 332,134.040625 332,132.857143 L332,117.142857 C332,115.959375 332.959375,115 334.142857,115 L349.857143,115 Z M348.285714,117 L335.714286,117 C334.7675,117 334,117.7675 334,118.714286 L334,118.714286 L334,131.285714 C334,132.2325 334.7675,133 335.714286,133 L335.714286,133 L348.285714,133 C349.2325,133 350,132.2325 350,131.285714 L350,131.285714 L350,118.714286 C350,117.7675 349.2325,117 348.285714,117 L348.285714,117 Z" id="Shape" fill="#A4AAB3" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-3" transform="translate(15.000000, 61.000000)" fill="#030303" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" letter-spacing="-0.239999995">
+                <text id="トニック">
+                    <tspan x="0" y="13">主和弦 (Tonic)</tspan>
+                </text>
+            </g>
+            <g id="Cell/Cell-with-Stepper-Copy-2">
+                <rect id="Cell" fill="#EFEFF4" x="0" y="0" width="375" height="44"></rect>
+                <g id="Separator" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <text id="Label" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="18" y="28">機能</tspan>
+                </text>
+                <text id="Delete-Label" font-family="ArialMT, Arial" font-size="17" font-weight="normal" letter-spacing="-0.409999996"></text>
+            </g>
+        </g>
+        <g id="Group-13" transform="translate(0.000000, 567.000000)">
+            <g id="Group-10" transform="translate(0.000000, 147.000000)" fill="#FFFFFF">
+                <rect id="Background" x="0" y="0" width="375" height="50"></rect>
+            </g>
+            <g id="Group-3" transform="translate(15.000000, 163.000000)" fill="#030303" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" letter-spacing="-0.239999995">
+                <text id="フラット系">
+                    <tspan x="0" y="13">降号系</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(0.000000, 96.000000)" fill="#FFFFFF">
+                <rect id="Background" x="0" y="0" width="375" height="50"></rect>
+            </g>
+            <g id="Group-3" transform="translate(15.000000, 112.000000)" fill="#030303" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" letter-spacing="-0.239999995">
+                <text id="シャープ系">
+                    <tspan x="0" y="13">升号系</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(0.000000, 45.000000)">
+                <rect id="Background" fill="#FFFFFF" x="0" y="0" width="375" height="50"></rect>
+                <path d="M349.857143,35 L334.142857,35 C332.959375,35 332,34.040625 332,32.8571429 L332,17.1428571 C332,15.959375 332.959375,15 334.142857,15 L349.857143,15 C351.040625,15 352,15.959375 352,17.1428571 L352,32.8571429 C352,34.040625 351.040625,35 349.857143,35 Z M340.719375,30.6223661 L348.933661,22.4080804 C349.212589,22.1291518 349.212589,21.676875 348.933661,21.3979464 L347.923527,20.3878125 C347.644598,20.1088839 347.192321,20.1088393 346.913348,20.3878125 L340.214286,27.0868304 L337.086652,23.9591964 C336.807723,23.6802679 336.355446,23.6802679 336.076473,23.9591964 L335.066339,24.9693304 C334.787411,25.2482589 334.787411,25.7005357 335.066339,25.9794643 L339.709196,30.6223214 C339.98817,30.9013393 340.440402,30.9013393 340.719375,30.6223661 L340.719375,30.6223661 Z" id="Shape" fill="#3D7AF5" fill-rule="nonzero"></path>
+                <path d="M349.857143,85 L334.142857,85 C332.959375,85 332,84.040625 332,82.8571429 L332,67.1428571 C332,65.959375 332.959375,65 334.142857,65 L349.857143,65 C351.040625,65 352,65.959375 352,67.1428571 L352,82.8571429 C352,84.040625 351.040625,85 349.857143,85 Z M340.719375,80.6223661 L348.933661,72.4080804 C349.212589,72.1291518 349.212589,71.676875 348.933661,71.3979464 L347.923527,70.3878125 C347.644598,70.1088839 347.192321,70.1088393 346.913348,70.3878125 L340.214286,77.0868304 L337.086652,73.9591964 C336.807723,73.6802679 336.355446,73.6802679 336.076473,73.9591964 L335.066339,74.9693304 C334.787411,75.2482589 334.787411,75.7005357 335.066339,75.9794643 L339.709196,80.6223214 C339.98817,80.9013393 340.440402,80.9013393 340.719375,80.6223661 L340.719375,80.6223661 Z" id="Shape" fill="#3D7AF5" fill-rule="nonzero"></path>
+                <path d="M349.857143,115 C351.040625,115 352,115.959375 352,117.142857 L352,132.857143 C352,134.040625 351.040625,135 349.857143,135 L334.142857,135 C332.959375,135 332,134.040625 332,132.857143 L332,117.142857 C332,115.959375 332.959375,115 334.142857,115 L349.857143,115 Z M348.285714,117 L335.714286,117 C334.7675,117 334,117.7675 334,118.714286 L334,118.714286 L334,131.285714 C334,132.2325 334.7675,133 335.714286,133 L335.714286,133 L348.285714,133 C349.2325,133 350,132.2325 350,131.285714 L350,131.285714 L350,118.714286 C350,117.7675 349.2325,117 348.285714,117 L348.285714,117 Z" id="Shape" fill="#A4AAB3" fill-rule="nonzero"></path>
+            </g>
+            <g id="Group-3" transform="translate(15.000000, 61.000000)" fill="#030303" font-family="HiraginoSans-W3, Hiragino Sans" font-size="15" font-weight="300" letter-spacing="-0.239999995">
+                <text id="変位なし">
+                    <tspan x="0" y="13">无变化音</tspan>
+                </text>
+            </g>
+            <g id="Cell/Cell-with-Stepper-Copy-2">
+                <rect id="Cell" fill="#EFEFF4" x="0" y="0" width="375" height="44"></rect>
+                <g id="Separator" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <text id="Label" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="18" y="28">変位</tspan>
+                </text>
+                <text id="Delete-Label" font-family="ArialMT, Arial" font-size="17" font-weight="normal" letter-spacing="-0.409999996"></text>
+            </g>
+        </g>
+        <g id="Group-13-Copy-3" transform="translate(0.000000, 72.000000)">
+            <g id="Cell/Cell-with-Stepper-Copy-2">
+                <rect id="Cell" fill="#EFEFF4" x="0" y="0" width="375" height="44"></rect>
+                <g id="Separator" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-8)" xlink:href="#path-7"></use>
+                </g>
+                <text id="Label" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="18" y="28">基本設定</tspan>
+                </text>
+                <text id="Delete-Label" font-family="ArialMT, Arial" font-size="17" font-weight="normal" letter-spacing="-0.409999996"></text>
+            </g>
+            <g id="Group-10" transform="translate(0.000000, 94.000000)" fill="#FFFFFF">
+                <rect id="Background" x="0" y="0" width="375" height="50"></rect>
+            </g>
+            <rect id="Background" fill="#FFFFFF" x="0" y="43" width="375" height="50"></rect>
+            <g id="Group-9" transform="translate(18.000000, 58.000000)" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">
+                <text id="Label" font-size="17" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="0" y="67">奇偶性</tspan>
+                </text>
+                <text id="奇数のみ" font-size="16.5" fill="#3D7AF5">
+                    <tspan x="266" y="66">仅奇数</tspan>
+                </text>
+                <text id="Label" font-size="17" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="0" y="16">旋律</tspan>
+                </text>
+                <text id="ド" font-size="16.5" fill="#3D7AF5">
+                    <tspan x="289" y="15">Do</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-13-Copy-3" transform="translate(0.000000, 234.000000)">
+            <g id="Cell/Cell-with-Stepper-Copy-2">
+                <rect id="Cell" fill="#EFEFF4" x="0" y="0" width="375" height="44"></rect>
+                <g id="Separator" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-10)" xlink:href="#path-9"></use>
+                </g>
+                <text id="Label" font-family="HiraginoSans-W3, Hiragino Sans" font-size="17" font-weight="300" letter-spacing="-0.409999996" fill="#030303">
+                    <tspan x="18" y="28">根音</tspan>
+                </text>
+                <text id="Delete-Label" font-family="ArialMT, Arial" font-size="17" font-weight="normal" letter-spacing="-0.409999996"></text>
+            </g>
+            <g id="Group-9" transform="translate(0.000000, 44.000000)">
+                <g id="Cell">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                </g>
+                <rect id="Track" fill="#B6B6B6" x="15" y="50" width="345" height="4" rx="2"></rect>
+                <g id="Group-8" transform="translate(10.000000, 37.000000)">
+                    <g id="Knob-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <circle stroke-opacity="0.1" stroke="#000000" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" cx="14" cy="14" r="14.25"></circle>
+                    </g>
+                </g>
+                <text id="I" font-family="Helvetica" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#030303">
+                    <tspan x="21" y="29">I</tspan>
+                </text>
+                <text id="VII" font-family="Helvetica" font-size="15" font-weight="normal" letter-spacing="-0.239999995" fill="#030303">
+                    <tspan x="343" y="29">VII</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.699800037" x="0" y="44" width="375" height="74"></rect>
+            <g id="Switch" transform="translate(306.000000, 8.000000)">
+                <rect id="Rectangle" fill="#B6B6B6" x="0" y="0" width="50" height="28" rx="14"></rect>
+                <g id="Knob-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                    <circle stroke-opacity="0.1" stroke="#000000" stroke-width="0.5" fill="#FFFFFF" fill-rule="evenodd" cx="15" cy="14" r="14.25"></circle>
+                </g>
+            </g>
+        </g>
+        <g id="Group" transform="translate(0.000000, 719.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="375" height="61"></rect>
+            <rect id="Button-Background" fill="#3D7AF5" x="10" y="9" width="355" height="44" rx="4"></rect>
+            <text id="Cancel" font-family="HiraginoSans-W6, Hiragino Sans" font-size="17" font-weight="500" letter-spacing="-0.409999996" fill="#FFFFFF">
+                <tspan x="154.32" y="37">细化筛选</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 744 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-6855.71,-6726.43)">
+        <g id="_2.-3_yami_mu" transform="matrix(0.580978,2.86767e-20,0,0.4972,6855.71,6726.43)">
+            <rect x="0" y="0" width="1280" height="800" style="fill:none;"/>
+            <g id="Key" transform="matrix(5.58729,6.04585e-34,0,9.94568,-123.8,-504.318)">
+                <g id="C" transform="matrix(0.662138,-2.14543e-20,0,0.469312,-552.422,18.0709)">
+                    <path d="M930.027,155.888L930.05,84.296L909.745,84.296L909.745,207.39L939.323,207.39L939.323,155.756L930.027,155.888Z" style="fill:white;stroke:rgb(35,34,34);stroke-width:0.45px;"/>
+                </g>
+                <g id="D" transform="matrix(0.643582,-2.0853e-20,0,0.469312,-514.277,18.0709)">
+                    <path d="M935.439,155.756L935.462,84.296L917.57,84.296L917.57,155.756L909.745,155.756L909.745,207.39L941.915,207.39L941.915,155.756L935.439,155.756Z" style="fill:white;stroke:rgb(35,34,34);stroke-width:0.45px;"/>
+                </g>
+                <g id="E" transform="matrix(-0.662138,2.14543e-20,0,0.469312,715.562,18.0709)">
+                    <path d="M928.337,155.888L928.36,84.296L909.745,84.296L909.745,207.39L939.323,207.39L939.323,155.756L928.337,155.888Z" style="fill:white;stroke:rgb(35,34,34);stroke-width:0.45px;"/>
+                </g>
+                <g id="F" transform="matrix(0.662138,-2.14543e-20,0,0.469312,-488.071,18.0709)">
+                    <path d="M930.872,155.888L930.895,84.296L910.59,84.296L910.59,207.39L939.323,207.39L939.323,155.756L930.872,155.888Z" style="fill:white;stroke:rgb(35,34,34);stroke-width:0.45px;"/>
+                </g>
+                <g id="B" transform="matrix(-0.693668,2.24759e-20,0,0.469312,787.048,18.0709)">
+                    <path d="M932.099,155.888L932.122,84.296L909.745,84.296L909.745,207.39L939.323,207.39L939.323,155.756L932.099,155.888Z" style="fill:white;stroke:rgb(35,34,34);stroke-width:0.44px;"/>
+                </g>
+                <g transform="matrix(0.861271,-2.79065e-20,0,0.407374,-747.881,22.6918)">
+                    <rect x="941.46" y="84.271" width="16.811" height="84.234" style="fill:rgb(71,71,71);"/>
+                </g>
+                <g transform="matrix(0.861271,-2.79065e-20,0,0.407374,-723.82,22.6918)">
+                    <rect x="941.46" y="84.271" width="16.811" height="84.234" style="fill:rgb(71,71,71);"/>
+                </g>
+                <g transform="matrix(0.861271,-2.79065e-20,0,0.407374,-683.531,22.6918)">
+                    <rect x="941.46" y="84.271" width="16.811" height="84.234" style="fill:rgb(71,71,71);"/>
+                </g>
+            </g>
+            <g transform="matrix(2.82689,-1.63045e-19,0,3.077,-2397.96,-1166.41)">
+                <g id="_.25cb.">
+                    <ellipse cx="922.511" cy="565.715" rx="11.06" ry="11.612" style="fill:rgb(66,77,84);"/>
+                </g>
+            </g>
+            <g transform="matrix(2.82689,-1.63045e-19,0,3.077,-2204.91,-1384.55)">
+                <g id="_.25cb.1">
+                    <ellipse cx="922.511" cy="565.715" rx="11.06" ry="11.612" style="fill:rgb(255,102,51);"/>
+                </g>
+            </g>
+            <g transform="matrix(2.82689,-1.63045e-19,0,3.077,-1916.22,-1166.41)">
+                <g id="_.25cb.2">
+                    <ellipse cx="922.511" cy="565.715" rx="11.06" ry="11.612" style="fill:rgb(241,171,49);"/>
+                </g>
+            </g>
+            <g id="v" transform="matrix(2.43181e-17,0.464064,-2.32434,1.66441e-16,16438.3,-418.063)">
+                <path d="M2215.39,6966.4C2346.04,6939.69 2355.22,6813.95 2215.39,6793.78" style="fill:none;stroke:rgb(241,171,49);stroke-width:2.06px;stroke-dasharray:6.19,6.19,0,0;"/>
+            </g>
+            <g id="v1" transform="matrix(-0.32742,-0.483266,0.999292,-0.924422,-5854.53,7880.4)">
+                <path d="M2255.33,6960.38C2355.51,6910.23 2333.92,6839.29 2215.39,6793.78" style="fill:none;stroke:rgb(255,102,51);stroke-width:3.53px;stroke-dasharray:10.59,10.59,0,0;"/>
+            </g>
+            <g transform="matrix(1.72123,-9.92748e-20,0,2.01126,-4591.23,-5653.42)">
+                <text x="2869.48px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:36px;fill:none;">無属性</text>
+                <text x="2869.48px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:36px;fill:rgb(241,171,49);">無属性</text>
+            </g>
+            <g transform="matrix(1.72123,-9.92748e-20,0,2.01126,-4116.54,-5993.84)">
+                <text x="2869.48px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:42px;fill:none;">⇒</text>
+                <text x="2922.1px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:42px;fill:none;">阴暗的响度</text>
+                <text x="2869.48px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:42px;">⇒</text>
+                <text x="2922.1px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:42px;">阴暗的响度</text>
+            </g>
+            <g transform="matrix(1.72123,-9.92748e-20,0,2.01126,-4911.76,-5949.42)">
+                <text x="2869.48px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:36px;fill:none;">闇属性</text>
+                <text x="2869.48px" y="3178.98px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:36px;fill:rgb(255,102,51);">闇属性</text>
+            </g>
+        </g>
+    </g>
+</svg>

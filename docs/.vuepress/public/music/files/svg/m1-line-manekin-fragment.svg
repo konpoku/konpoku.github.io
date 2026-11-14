@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="540px" height="320px" viewBox="0 0 540 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-manekin-fragment</title>
+    <g id="m1-line-manekin-fragment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(17.000000, 51.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="506" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="42" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="102" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="151" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="211" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="271" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="351" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="410" cy="59" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="42 29 101.839572 29 153.700535 39 211.545455 39 271.385027 50 351.171123 50 415 59"></polyline>
+        </g>
+        <g id="Group" transform="translate(17.000000, 161.000000)" fill-rule="nonzero">
+            <path d="M4,0 L351,0 L351,0 L344,15 L351,30 L344,53 L353,69 L344,85 L351,100 L4,100 C1.790861,100 2.705415e-16,98.209139 0,96 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FF5500"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="42" cy="59" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="102" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="151" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="211" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="271" cy="29" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="42 59 101.806452 49 153.63871 39 211.451613 39 271.258065 30 331 30"></polyline>
+        </g>
+        <line x1="57.8392157" y1="78.5" x2="57.8392157" y2="218.5" id="Path-27" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <line x1="119.596078" y1="78.5" x2="119.596078" y2="211.5" id="Path-27" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <line x1="167.407843" y1="90.5" x2="167.407843" y2="199.5" id="Path-27" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <line x1="227.172549" y1="94.2962085" x2="227.172549" y2="199.5" id="Path-27" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <line x1="286.937255" y1="94.2962085" x2="286.937255" y2="189.5" id="Path-27" stroke="#FFFFFF" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></line>
+        <text id="こ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="48" y="43">こ</tspan>
+        </text>
+        <text id="い" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="108" y="43">い</tspan>
+        </text>
+        <text id="を" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="159" y="43">把</tspan>
+        </text>
+        <text id="す" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="217" y="43">す</tspan>
+        </text>
+        <text id="る" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="275" y="43">る</tspan>
+        </text>
+        <text id="と" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="48" y="293">と</tspan>
+        </text>
+        <text id="び" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="108" y="293">び</tspan>
+        </text>
+        <text id="こ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="159" y="293">こ</tspan>
+        </text>
+        <text id="め" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="217" y="293">め</tspan>
+        </text>
+        <text id="よ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="275" y="293">よ</tspan>
+        </text>
+        <text id="の" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="356" y="43">这</tspan>
+        </text>
+        <text id="は" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="417" y="43">は</tspan>
+        </text>
+    </g>
+</svg>

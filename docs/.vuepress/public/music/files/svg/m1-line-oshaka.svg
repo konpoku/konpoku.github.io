@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="170px" viewBox="0 0 680 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-oshaka</title>
+    <g id="m1-line-oshaka" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 11.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="51" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="76" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="106" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="136" cy="49" r="10"></circle>
+            <line x1="21" y1="49" x2="138" y2="49" id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+        </g>
+        <g id="Group" transform="translate(177.000000, 11.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="51" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="76" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="106" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="136" cy="49" r="10"></circle>
+            <line x1="21" y1="49" x2="138" y2="49" id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square"></line>
+        </g>
+        <g id="Group" transform="translate(347.000000, 11.000000)">
+            <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="51" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="76" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="106" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" fill-rule="nonzero" points="21 49 106 49 136 39"></polyline>
+            <text id="★" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#FFFFFF">
+                <tspan x="127" y="46">★</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(517.000000, 11.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FF5500" x="0" y="0" width="155" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="29" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="71" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="101" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 29 71 39 101 49"></polyline>
+        </g>
+        <text id="提示" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="61" y="149">提示</tspan>
+        </text>
+        <text id="展開" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="317" y="149">展開</tspan>
+        </text>
+        <text id="解消" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="572" y="149">解消</tspan>
+        </text>
+        <polyline id="Path-19" stroke="#000000" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero" points="177 120 177 138 304 138"></polyline>
+        <polyline id="Path-20" stroke="#000000" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero" points="383 138 512 138 512 120"></polyline>
+    </g>
+</svg>

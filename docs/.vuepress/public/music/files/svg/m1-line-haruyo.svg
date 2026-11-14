@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="235px" viewBox="0 0 680 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-haruyo</title>
+    <g id="m1-line-haruyo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 66.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#58C322" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="39" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="76" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="116" cy="39" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 39 76 49 116 39 144 39"></polyline>
+        </g>
+        <g id="Group" transform="translate(177.000000, 66.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="76" cy="59" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="116" cy="49" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 49 76 59 116 49 144 49"></polyline>
+        </g>
+        <g id="Group" transform="translate(347.000000, 66.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FFBF00" x="0" y="0" width="165" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="59" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="76" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="116" cy="59" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 59 76 69 116 59 144 59"></polyline>
+        </g>
+        <g id="Group" transform="translate(517.000000, 66.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FF5500" x="0" y="0" width="155" height="100" rx="4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="21" cy="59" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="51" cy="69" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="91" cy="49" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="121" cy="59" r="10"></circle>
+            <polyline id="Path-18" stroke="#FFFFFF" stroke-width="4" stroke-linecap="square" points="21 59 51 69 91 49 121 59"></polyline>
+        </g>
+        <text id="提示" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="65" y="204">提示</tspan>
+        </text>
+        <text id="展開" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="321" y="204">展開</tspan>
+        </text>
+        <text id="解消" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#000000">
+            <tspan x="576" y="204">解消</tspan>
+        </text>
+        <polyline id="Path-19" stroke="#000000" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero" points="177 175 177 193 304 193"></polyline>
+        <polyline id="Path-20" stroke="#000000" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero" points="383 193 512 193 512 175"></polyline>
+        <text id="Aメロ全体の解消" font-family="HiraginoSans-W6, Hiragino Sans" font-size="28" font-weight="500" fill="#000000">
+            <tspan x="235.688" y="37">主歌A段整体的收束</tspan>
+        </text>
+        <polyline id="Path-19" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="7 48 7 26 220 26"></polyline>
+        <polyline id="Path-20" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="463 26 672 26 672 48"></polyline>
+        <path d="M20,93.5 L167.5,93.5 L182.5,103.5 L336,103.5 L349,113.5 L512,114" id="Path-25" stroke="#000000" stroke-linecap="square" stroke-dasharray="4,4" fill-rule="nonzero"></path>
+    </g>
+</svg>

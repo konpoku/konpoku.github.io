@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="250px" viewBox="0 0 680 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cst-E-altered-detail</title>
+    <g id="cst-E-altered-detail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="186.941009 145.831235 186.973828 33 158 33 158 227 199 227 199 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="237.897764 145.623199 237.930096 33 214 33 214 145.623199 203 145.623199 203 227 247 227 247 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="286.119361 145.623199 286.151693 33 264.666198 33 264.666198 145.623199 250 145.623199 250 227 294 227 294 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(319.000000, 130.000000) scale(-1, 1) translate(-319.000000, -130.000000) " points="325.628711 145.831235 325.662925 33 297 33 297 227 341 227 341 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="373.799919 145.831235 373.832578 33 345 33 345 227 387 227 387 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="425.94125 145.623199 425.973422 33 400.945757 33 400.945757 145.623199 390 145.623199 390 227 435 227 435 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(460.000000, 130.000000) scale(-1, 1) translate(-460.000000, -130.000000) " points="465.400162 145.831235 465.432822 33 439 33 439 227 481 227 481 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(599.000000, 130.000000) scale(-1, 1) translate(-599.000000, -130.000000) " points="604.400162 145.831235 604.432822 33 578 33 578 227 620 227 620 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="185" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="235" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="285" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="373" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="425" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="47.7999189 145.831235 47.8325783 33 19 33 19 227 61 227 61 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="99.9412496 145.623199 99.9734224 33 74.9457569 33 74.9457569 145.623199 64 145.623199 64 227 109 227 109 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(134.000000, 130.000000) scale(-1, 1) translate(-134.000000, -130.000000) " points="139.400162 145.831235 139.432822 33 113 33 113 227 155 227 155 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="47" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="99" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="513.941009 145.831235 513.973828 33 485 33 485 227 526 227 526 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="564.897764 145.623199 564.930096 33 541 33 541 145.623199 530 145.623199 530 227 574 227 574 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="512" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="562" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(645.000000, 130.000000) scale(-1, 1) translate(-645.000000, -130.000000) " points="650.400162 145.831235 650.432822 33 624 33 624 227 666 227 666 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="608" y="32" width="31" height="115"></rect>
+        <circle id="Circle" fill="#3DB8F5" cx="251" cy="131" r="15"></circle>
+        <circle id="Circle" fill="#3DB8F5" cx="413" cy="207" r="15"></circle>
+        <circle id="Circle" fill="#58C322" cx="134" cy="207" r="15"></circle>
+        <g id="CS-Root" transform="translate(130.017158, 200.389307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M2.466,12.006 L2.466,7.236 L5.76,12.006 L8.748,12.006 L5.436,7.398 C7.29,6.93 8.28,5.67 8.28,3.78 C8.28,1.314 6.678,-2.66453526e-14 3.708,-2.66453526e-14 L-1.0658141e-14,-2.66453526e-14 L-1.0658141e-14,12.006 L2.466,12.006 Z M3.582,5.796 L2.466,5.796 L2.466,2.034 L3.798,2.034 C5.022,2.034 5.778,2.754 5.778,3.906 C5.778,5.112 4.986,5.796 3.582,5.796 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="CS-Root" transform="translate(246.963158, 125.461307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M3.78,12.168 C6.084,12.168 7.776,10.44 7.776,8.1 C7.776,6.066 6.516,4.644 4.572,4.482 L7.902,1.24344979e-14 L0.594,1.24344979e-14 L0.594,1.98 L4.05,1.98 L1.314,5.634 L2.61,6.732 C2.952,6.516 3.294,6.426 3.708,6.426 C4.788,6.426 5.562,7.2 5.562,8.262 C5.562,9.306 4.752,10.098 3.726,10.098 C2.844,10.098 2.214,9.54 2.07,8.604 L3.55271368e-15,8.676 C0.108,9.576 0.252,10.044 0.612,10.584 C1.278,11.592 2.448,12.168 3.78,12.168 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="CS-Root" transform="translate(412.755158, 201.461307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M2.394,11.934 L7.11,-1.77635684e-15 L0.018,-1.77635684e-15 L0.018,2.088 L3.888,2.088 L3.55271368e-15,11.934 L2.394,11.934 Z" id="Combined-Shape"></path>
+        </g>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="411.453333 206.8 404.213333 206.8 404.213333 208.96 411.453333 208.96"></polygon>
+        <g id="Group" transform="translate(353.000000, 192.000000)">
+            <circle id="Circle" fill="#AAAAAA" cx="15" cy="15" r="15"></circle>
+            <g id="CS-Root" transform="translate(14.861263, 8.159867)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M4.5144,14.6016 C7.2576,14.6016 9.2448,12.5712 9.2448,9.72 C9.2448,7.1496 7.452,5.2056 5.0544,5.2056 C4.428,5.2056 3.9528,5.3136 3.2832,5.5944 L3.2832,2.5056 L8.1,2.5056 L8.1,0 L0.756,0 L0.756,8.532 L2.5704,8.532 C3.0888,7.8408 3.6504,7.56 4.4064,7.56 C5.616,7.56 6.5448,8.532 6.5448,9.7848 C6.5448,11.0376 5.616,11.988 4.428,11.988 C3.456,11.988 2.8296,11.4912 2.4192,10.4112 L0,11.3184 C0.3888,12.3336 0.6696,12.7656 1.188,13.3056 C2.052,14.148 3.2184,14.6016 4.5144,14.6016 Z" id="Combined-Shape"></path>
+            </g>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="13.4533333 14.8 10.0133333 14.8 10.0133333 11.34 7.67333333 11.34 7.67333333 14.8 4.21333333 14.8 4.21333333 16.96 7.67333333 16.96 7.67333333 20.4 10.0133333 20.4 10.0133333 16.96 13.4533333 16.96"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(287.000000, 115.000000)">
+            <circle id="Circle" fill="#FF6633" cx="15" cy="15" r="15"></circle>
+            <g id="CS-Root" transform="translate(13.861263, 8.159867)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M4.5144,14.6016 C7.2576,14.6016 9.2448,12.5712 9.2448,9.72 C9.2448,7.1496 7.452,5.2056 5.0544,5.2056 C4.428,5.2056 3.9528,5.3136 3.2832,5.5944 L3.2832,2.5056 L8.1,2.5056 L8.1,0 L0.756,0 L0.756,8.532 L2.5704,8.532 C3.0888,7.8408 3.6504,7.56 4.4064,7.56 C5.616,7.56 6.5448,8.532 6.5448,9.7848 C6.5448,11.0376 5.616,11.988 4.428,11.988 C3.456,11.988 2.8296,11.4912 2.4192,10.4112 L0,11.3184 C0.3888,12.3336 0.6696,12.7656 1.188,13.3056 C2.052,14.148 3.2184,14.6016 4.5144,14.6016 Z" id="Combined-Shape"></path>
+            </g>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="11.4533333 14.8 4.21333333 14.8 4.21333333 16.96 11.4533333 16.96"></polygon>
+        </g>
+        <g id="Group" transform="translate(211.000000, 192.000000)">
+            <circle id="Circle" fill="#AAAAAA" cx="15" cy="15" r="15"></circle>
+            <g id="CS-Root" transform="translate(14.818063, 7.857467)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M4.2984,14.6232 L7.8408,8.9856 C8.9424,7.236 9.396,5.9832 9.396,4.6656 C9.396,1.9872 7.4304,-8.8817842e-16 4.7736,-8.8817842e-16 C2.0736,-8.8817842e-16 1.77635684e-15,2.052 1.77635684e-15,4.752 C1.77635684e-15,7.1928 1.7928,9.0504 4.1688,9.0504 C4.3632,9.0504 4.5144,9.0288 4.8168,8.964 L1.188,14.6232 L4.2984,14.6232 Z M4.6872,6.696 C3.5424,6.696 2.6568,5.7888 2.6568,4.6224 C2.6568,3.4776 3.5856,2.5704 4.752,2.5704 C5.8536,2.5704 6.7608,3.4992 6.7608,4.644 C6.7608,5.8104 5.8536,6.696 4.6872,6.696 Z" id="Combined-Shape"></path>
+            </g>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="13.4533333 14.8 10.0133333 14.8 10.0133333 11.34 7.67333333 11.34 7.67333333 14.8 4.21333333 14.8 4.21333333 16.96 7.67333333 16.96 7.67333333 20.4 10.0133333 20.4 10.0133333 16.96 13.4533333 16.96"></polygon>
+        </g>
+        <g id="Group" transform="translate(164.000000, 192.000000)">
+            <circle id="Circle" fill="#AAAAAA" cx="15" cy="15" r="15"></circle>
+            <g id="CS-Root" transform="translate(13.818063, 7.857467)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M4.2984,14.6232 L7.8408,8.9856 C8.9424,7.236 9.396,5.9832 9.396,4.6656 C9.396,1.9872 7.4304,-8.8817842e-16 4.7736,-8.8817842e-16 C2.0736,-8.8817842e-16 1.77635684e-15,2.052 1.77635684e-15,4.752 C1.77635684e-15,7.1928 1.7928,9.0504 4.1688,9.0504 C4.3632,9.0504 4.5144,9.0288 4.8168,8.964 L1.188,14.6232 L4.2984,14.6232 Z M4.6872,6.696 C3.5424,6.696 2.6568,5.7888 2.6568,4.6224 C2.6568,3.4776 3.5856,2.5704 4.752,2.5704 C5.8536,2.5704 6.7608,3.4992 6.7608,4.644 C6.7608,5.8104 5.8536,6.696 4.6872,6.696 Z" id="Combined-Shape"></path>
+            </g>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="12.4533333 14.8 5.21333333 14.8 5.21333333 16.96 12.4533333 16.96"></polygon>
+        </g>
+    </g>
+</svg>

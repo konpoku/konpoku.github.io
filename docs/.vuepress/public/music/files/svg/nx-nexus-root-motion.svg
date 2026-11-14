@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="220px" viewBox="0 0 420 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>nx-nexus-root-motion</title>
+    <g id="nx-nexus-root-motion" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(24.000000, 110.000000)">
+            <rect id="Rectangle-Copy" fill="#58C322" x="0" y="0" width="120" height="80" rx="10"></rect>
+            <g id="Group" transform="translate(42.000000, 24.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="CS-A">
+                    <path d="M21.312,32 L21.312,-0.016 L14.736,-0.016 L14.736,32 L21.312,32 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(271.000000, 110.000000)">
+            <rect id="Rectangle-Copy" fill="#FF5500" x="0" y="0" width="120" height="80" rx="10"></rect>
+            <g id="Group" transform="translate(42.000000, 26.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="CS-A">
+                    <path d="M21.312,32 L31.392,-0.016 L24.624,-0.016 L17.856,21.44 L11.376,-0.016 L4.608,-0.016 L14.304,32 L21.312,32 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+        <path id="Line-7" d="M234,138 L258,150 L234,162 L234,152 L155,152 L155,148 L234,148 L234,138 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M199.5,145 L210.301721,119.5388 C212.38243,114.634272 212.8885,109.204572 211.75,104 C210.728261,99.3291951 206.592082,96 201.81083,96 L198.5,96 C194.081722,96 190.5,99.581722 190.5,104 L190.5,107.633938 C190.5,110.28621 192.070102,112.686919 194.5,113.75 C196.994071,114.841156 199.871243,114.593585 202.142253,113.092409 L213.25,105.75 C222.600984,99.5688414 228.74184,89.570717 230.026692,78.4353332 L231,70 L231,70" id="Path-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <text id="「5度上行」という変化は-コードとコード" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="90.88" y="38">“五度上行”这一变化</tspan>
+            <tspan x="48" y="63">仅存在于和弦与和弦之间</tspan>
+        </text>
+    </g>
+</svg>

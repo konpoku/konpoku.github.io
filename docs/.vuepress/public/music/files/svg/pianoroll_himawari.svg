@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1001px" height="310px" viewBox="0 0 1001 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pianoroll_himawari</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1000" height="258.82427"></rect>
+    </defs>
+    <g id="pianoroll_himawari" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 0.000000)">
+            <rect id="Rectangle" x="0" y="0" width="1000" height="258.82427"></rect>
+            <g id="Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Rectangle"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-0.294118, -0.002267)">
+                        <rect id="Rectangle" stroke="none" fill="#EFEEF1" fill-rule="evenodd" x="0.294117593" y="0.00172877734" width="1000" height="317.647262"></rect>
+                        <rect id="Rectangle" stroke="none" fill="#FFFFFF" fill-rule="evenodd" x="0.294117593" y="0.00172877734" width="58.8235" height="317.647262"></rect>
+                        <rect id="Rectangle" stroke="none" fill="#AAAAAA" fill-rule="evenodd" x="0.294117593" y="0.00226431851" width="1000" height="23.5294893"></rect>
+                        <g id="Group" opacity="0.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(59.117173, 47.061133)">
+                            <g id="rect5314" transform="translate(0.000000, 47.058754)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect53141" transform="translate(0.000000, 23.529377)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect53142" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect5316" transform="translate(0.000000, 82.352819)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect5318" transform="translate(0.000000, 105.882196)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect5320" transform="translate(0.000000, 141.176261)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect5322" transform="translate(0.000000, 164.705637)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                            <g id="rect5324" transform="translate(0.000000, 188.235014)" fill="#2E3A42">
+                                <rect id="Rectangle" x="0" y="0" width="941.172037" height="11.7646884"></rect>
+                            </g>
+                        </g>
+                        <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(63.235282, 0.002380)" font-family="Helvetica" font-size="1.41176471" font-weight="normal">
+                            <g id="text6009" fill="#E1E5E8" fill-rule="nonzero">
+                                <text id="1">
+                                    <tspan x="4.50001294" y="5.50001294">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(251.470542, 0.002380)" font-family="Helvetica" font-size="1.41176471" font-weight="normal">
+                            <g id="text6017" fill="#E1E5E8" fill-rule="nonzero">
+                                <text id="2">
+                                    <tspan x="4.50001294" y="5.50001294">2</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(439.705801, 0.002380)" font-family="Helvetica" font-size="1.41176471" font-weight="normal">
+                            <g id="text6033" fill="#E1E5E8" fill-rule="nonzero">
+                                <text id="3">
+                                    <tspan x="4.50001294" y="5.50001294">3</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="path5178" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 23.237639)">
+                            <line x1="0" y1="0.100000259" x2="623.52899" y2="0.100000259" id="Path" stroke="#CCCCCC" stroke-width="0.5"></line>
+                        </g>
+                        <line x1="624.029298" y1="17.6494121" x2="624.029298" y2="23.5317563" id="path6050" stroke="#E6E6E6" stroke-width="0.5" fill="none"></line>
+                        <line x1="612.264594" y1="20.5905842" x2="612.264594" y2="23.5317563" id="path6052" stroke="#E6E6E6" stroke-width="0.5" fill="none"></line>
+                        <line x1="600.49989" y1="20.5905842" x2="600.49989" y2="23.5317563" id="path6054" stroke="#E6E6E6" stroke-width="0.5" fill="none"></line>
+                        <line x1="588.735186" y1="20.5905842" x2="588.735186" y2="23.5317563" id="path6056" stroke="#E6E6E6" stroke-width="0.5" fill="none"></line>
+                        <g id="path6050-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(576.470481, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(564.705778, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(552.941074, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(541.176370, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(529.411667, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-21" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(482.352852, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(517.646963, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(505.882259, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(494.117556, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(470.588148, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-52" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(458.823444, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(447.058741, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-42" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(435.294037, 0.001203)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="23.5293768" id="Path" stroke="#C6C6C6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(627.941060, 0.002380)" font-family="Helvetica" font-size="1.41176471" font-weight="normal">
+                            <g id="text60331" fill="#E1E5E8" fill-rule="nonzero">
+                                <text id="4">
+                                    <tspan x="4.50001294" y="5.50001294">4</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="path60501" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(811.764556, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path60521" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(799.999852, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path60541" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(788.235148, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path60561" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(776.470444, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-41" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(764.705741, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(752.941037, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-91" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(741.176333, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-41" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(729.411630, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-22" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(717.646926, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-23" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(670.588111, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-41" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(705.882222, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-51" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(694.117519, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-51" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(682.352815, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(658.823407, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-521" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(647.058704, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-71" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(635.294000, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(816.176319, 0.002380)" font-family="Helvetica" font-size="1.41176471" font-weight="normal">
+                            <g id="text60332" fill="#E1E5E8" fill-rule="nonzero">
+                                <text id="5">
+                                    <tspan x="4.50001294" y="5.50001294">5</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="path60522" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(988.235111, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path60542" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(976.470407, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path60562" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(964.705704, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-43" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(952.941000, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(941.176296, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-92" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(929.411593, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-42" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(917.646889, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-24" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(905.882185, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-25" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(858.823370, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-42" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(894.117481, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-53" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(882.352778, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-52" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(870.588074, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-12" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(847.058667, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-522" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(835.293963, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-72" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(823.529259, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-421" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(623.529296, 0.001203)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="23.5293768" id="Path" stroke="#C6C6C6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-422" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(811.764556, 0.001203)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="23.5293768" id="Path" stroke="#C6C6C6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-423" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(999.999815, 0.001203)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="23.5293768" id="Path" stroke="#C6C6C6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(423.529333, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(411.764630, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(399.999926, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(388.235222, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(376.470519, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(364.705815, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(352.941111, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-79" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(341.176407, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-791" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(294.117593, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(329.411704, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(317.647000, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(305.882296, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-411" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(282.352889, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-13" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(270.588185, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-87" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(258.823481, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-793" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(247.058778, 0.001203)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="23.5293768" id="Path" stroke="#C6C6C6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-19" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(235.294074, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(223.529370, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(211.764667, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-28" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(199.999963, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-60" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(188.235259, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-24" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(176.470556, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-86" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(164.705852, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(152.941148, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6050-01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(105.882333, 17.649412)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="5.88234419" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-06" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(141.176444, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-138" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(129.411741, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(117.647037, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6052-066" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(94.117630, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6054-18" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(82.352926, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="path6056-49" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(70.588222, 20.590584)">
+                            <line x1="0.100000259" y1="0" x2="0.100000259" y2="1.73009418" id="Path" stroke="#E6E6E6" stroke-width="0.5"></line>
+                        </g>
+                        <g id="bar-Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(58.823519, 0.000000)">
+                            <g id="path5119" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="7.45038556e-15" x2="0.100000259" y2="317.645058" id="Path"></line>
+                            </g>
+                            <g id="bar" transform="translate(188.235259, 0.000246)" stroke="#A3A3A3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="1.46259252e-15" x2="0.100000259" y2="317.644998" id="Path"></line>
+                            </g>
+                            <g id="bar1" transform="translate(376.470519, 0.000246)" stroke="#A3A3A3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="1.46259252e-15" x2="0.100000259" y2="317.644998" id="Path"></line>
+                            </g>
+                            <g id="bar2" transform="translate(564.705778, 0.000246)" stroke="#A3A3A3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="1.46259252e-15" x2="0.100000259" y2="317.644998" id="Path"></line>
+                            </g>
+                        </g>
+                        <g id="beat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(105.882333, 23.529148)">
+                            <g id="path5121" transform="translate(0.000000, 0.000000)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="0" x2="0.100000259" y2="294.115346" id="Path"></line>
+                            </g>
+                            <g id="path5123" transform="translate(47.058815, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5125" transform="translate(94.117630, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5127" transform="translate(141.176444, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5129" transform="translate(188.235259, 0.000000)" stroke="#B3B3B3" stroke-width="0.5">
+                                <path d="M0.100000259,0 C0.100000259,255.753587 0.100000259,294.115346 0.100000259,294.115346" id="Path"></path>
+                            </g>
+                            <g id="path5131" transform="translate(235.294074, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5133" transform="translate(282.352889, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5135" transform="translate(329.411704, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5137" transform="translate(376.470519, 0.000000)" stroke="#B3B3B3" stroke-width="0.5">
+                                <path d="M0.100000259,0 C0.100000259,255.753587 0.100000259,294.115346 0.100000259,294.115346" id="Path"></path>
+                            </g>
+                            <g id="path5141" transform="translate(423.529333, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5143" transform="translate(470.588148, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51431" transform="translate(564.705778, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51432" transform="translate(611.764593, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51433" transform="translate(658.823407, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51434" transform="translate(705.882222, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51435" transform="translate(752.941037, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51436" transform="translate(799.999852, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51437" transform="translate(847.058667, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path51438" transform="translate(894.117481, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                            <g id="path5145" transform="translate(517.646963, 0.000425)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.115513" id="Path"></line>
+                            </g>
+                        </g>
+                        <g id="横ライン" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 35.000444)">
+                            <g id="path5180" transform="translate(0.000000, 58.823442)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51801" transform="translate(0.000000, 47.058754)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51802" transform="translate(0.000000, 35.294065)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51803" transform="translate(0.000000, 23.529377)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51804" transform="translate(0.000000, 11.764688)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51805" transform="translate(0.000000, 0.000000)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5182" transform="translate(0.000000, 70.588130)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5184" transform="translate(0.000000, 82.352819)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5186" transform="translate(0.000000, 94.117507)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5188" transform="translate(0.000000, 105.882196)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5190" transform="translate(0.000000, 117.646884)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5192" transform="translate(0.000000, 129.411572)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5194" transform="translate(0.000000, 141.176261)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5196" transform="translate(0.000000, 152.940949)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5198" transform="translate(0.000000, 164.705637)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5200" transform="translate(0.000000, 176.470326)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5202" transform="translate(0.000000, 188.235014)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5204" transform="translate(0.000000, 199.999703)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51961" transform="translate(0.000000, 152.940949)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path51981" transform="translate(0.000000, 164.705637)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path52001" transform="translate(0.000000, 176.470326)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path52021" transform="translate(0.000000, 188.235014)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path52041" transform="translate(0.000000, 199.999703)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5206" transform="translate(0.000000, 211.764391)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                            <g id="path5208" transform="translate(0.000000, 223.529079)" stroke="#B3B3B3" stroke-width="0.5">
+                                <line x1="0" y1="0.100000259" x2="999.99826" y2="0.100000259" id="Path"></line>
+                            </g>
+                        </g>
+                        <g id="rect5298" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 94.118003)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect52981" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 70.588627)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect52982" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 47.059250)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect5300" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 129.412069)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect5302" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 152.941445)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect5304" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 188.235511)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect5306" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 211.764887)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect5308" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 235.294264)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect53041" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 188.235511)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect53061" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 211.764887)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="rect53081" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.294118, 235.294264)">
+                            <rect id="Rectangle" fill="#4D4D4D" x="0" y="0" width="29.4117593" height="11.7646884"></rect>
+                        </g>
+                        <g id="grid-lines-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(70.588222, 23.531599)" opacity="0.5" stroke-dasharray="0.3935884026920094,0.3148706941043629,0,0">
+                            <g id="点線" stroke="#B3B3B3" stroke-width="0.5">
+                                <g id="Group">
+                                    <line x1="0.500001294" y1="-4.44090359e-15" x2="0.500001294" y2="294.118898" id="path5221"></line>
+                                    <line x1="12.264705" y1="-4.44090359e-15" x2="12.264705" y2="294.118898" id="path5223"></line>
+                                    <line x1="24.0294087" y1="-4.44090359e-15" x2="24.0294087" y2="294.118898" id="path5225"></line>
+                                    <line x1="47.5588161" y1="-4.44090359e-15" x2="47.5588161" y2="294.118898" id="path5227"></line>
+                                    <line x1="59.3235198" y1="-4.44090359e-15" x2="59.3235198" y2="294.118898" id="path5229"></line>
+                                    <line x1="71.0882235" y1="-4.44090359e-15" x2="71.0882235" y2="294.118898" id="path5231"></line>
+                                    <line x1="94.6176309" y1="-4.44090359e-15" x2="94.6176309" y2="294.118898" id="path5233"></line>
+                                    <line x1="106.382335" y1="-4.44090359e-15" x2="106.382335" y2="294.118898" id="path5235"></line>
+                                    <line x1="118.147038" y1="-4.44090359e-15" x2="118.147038" y2="294.118898" id="path5237"></line>
+                                    <line x1="141.676446" y1="-4.44090359e-15" x2="141.676446" y2="294.118898" id="path5239"></line>
+                                    <line x1="153.441149" y1="-4.44090359e-15" x2="153.441149" y2="294.118898" id="path5241"></line>
+                                    <line x1="165.205853" y1="-4.44090359e-15" x2="165.205853" y2="294.118898" id="path5243"></line>
+                                    <line x1="188.735261" y1="-4.44090359e-15" x2="188.735261" y2="294.118898" id="path5245"></line>
+                                    <line x1="200.499964" y1="-4.44090359e-15" x2="200.499964" y2="294.118898" id="path5247"></line>
+                                    <line x1="212.264668" y1="-4.44090359e-15" x2="212.264668" y2="294.118898" id="path5249"></line>
+                                    <line x1="235.794075" y1="-4.44090359e-15" x2="235.794075" y2="294.118898" id="path5251"></line>
+                                    <line x1="247.558779" y1="-4.44090359e-15" x2="247.558779" y2="294.118898" id="path5253"></line>
+                                    <line x1="259.323483" y1="-4.44090359e-15" x2="259.323483" y2="294.118898" id="path5255"></line>
+                                    <line x1="282.85289" y1="-4.44090359e-15" x2="282.85289" y2="294.118898" id="path5257"></line>
+                                    <line x1="294.617594" y1="-4.44090359e-15" x2="294.617594" y2="294.118898" id="path5259"></line>
+                                    <line x1="306.382298" y1="-4.44090359e-15" x2="306.382298" y2="294.118898" id="path5261"></line>
+                                    <line x1="329.911705" y1="-4.44090359e-15" x2="329.911705" y2="294.118898" id="path5263"></line>
+                                    <line x1="341.676409" y1="-4.44090359e-15" x2="341.676409" y2="294.118898" id="path5265"></line>
+                                    <line x1="353.441112" y1="-4.44090359e-15" x2="353.441112" y2="294.118898" id="path5267"></line>
+                                    <line x1="376.97052" y1="-4.44090359e-15" x2="376.97052" y2="294.118898" id="path5269"></line>
+                                    <line x1="388.735224" y1="-4.44090359e-15" x2="388.735224" y2="294.118898" id="path5271"></line>
+                                    <line x1="400.499927" y1="-4.44090359e-15" x2="400.499927" y2="294.118898" id="path5273"></line>
+                                    <line x1="424.029335" y1="-4.44090359e-15" x2="424.029335" y2="294.118898" id="path5275"></line>
+                                    <line x1="435.794038" y1="-4.44090359e-15" x2="435.794038" y2="294.118898" id="path5277"></line>
+                                    <line x1="447.558742" y1="-4.44090359e-15" x2="447.558742" y2="294.118898" id="path5279"></line>
+                                    <line x1="471.088149" y1="-4.44090359e-15" x2="471.088149" y2="294.118898" id="path5281"></line>
+                                    <line x1="482.852853" y1="-4.44090359e-15" x2="482.852853" y2="294.118898" id="path5283"></line>
+                                    <line x1="494.617557" y1="-4.44090359e-15" x2="494.617557" y2="294.118898" id="path5285"></line>
+                                    <line x1="518.146964" y1="-4.44090359e-15" x2="518.146964" y2="294.118898" id="path5287"></line>
+                                    <line x1="529.911668" y1="-4.44090359e-15" x2="529.911668" y2="294.118898" id="path5289"></line>
+                                    <line x1="541.676372" y1="-4.44090359e-15" x2="541.676372" y2="294.118898" id="path5291"></line>
+                                    <g id="path52691" transform="translate(564.705778, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52711" transform="translate(576.470481, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52731" transform="translate(588.235185, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52751" transform="translate(611.764593, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52771" transform="translate(623.529296, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52791" transform="translate(635.294000, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52811" transform="translate(658.823407, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52831" transform="translate(670.588111, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52851" transform="translate(682.352815, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52871" transform="translate(705.882222, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52891" transform="translate(717.646926, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52911" transform="translate(729.411630, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52692" transform="translate(752.941037, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52712" transform="translate(764.705741, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52732" transform="translate(776.470444, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52752" transform="translate(799.999852, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52772" transform="translate(811.764556, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52792" transform="translate(823.529259, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52812" transform="translate(847.058667, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52832" transform="translate(858.823370, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52852" transform="translate(870.588074, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52872" transform="translate(894.117481, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52892" transform="translate(905.882185, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                    <g id="path52912" transform="translate(917.646889, 0.000000)">
+                                        <line x1="0.100000259" y1="-4.44090359e-15" x2="0.100000259" y2="294.118898" id="Path"></line>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="59.1176361" y="164.707679" width="15.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="74.9999509" y="176.472424" width="15.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="90.2941176" y="164.707679" width="15.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="106.176432" y="247.060892" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="129.705877" y="223.531403" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="153.235692" y="200.001913" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="176.764395" y="164.707679" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="200.294025" y="117.648588" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="223.823655" y="164.707679" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="247.352821" y="117.648588" width="35.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="282.647358" y="141.177965" width="11.7647222" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="294.41171" y="141.177965" width="94.1177778" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="435.588006" y="176.472424" width="15.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="451.470414" y="188.237169" width="15.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="466.764858" y="176.472424" width="15.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="482.646803" y="223.531403" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="506.176432" y="200.001913" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="529.706062" y="176.472424" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="553.235692" y="141.177965" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="576.764395" y="105.8839" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="600.294025" y="141.177965" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="623.823192" y="105.8839" width="35.2941111" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="764.999581" y="105.8839" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="859.118099" y="105.8839" width="47.0588333" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="906.176432" y="200.001913" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="929.706062" y="164.707679" width="47.0588333" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F62231" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="788.52921" y="82.3545231" width="23.5293889" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F62231" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="812.05884" y="82.3545231" width="47.0588333" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="659.117729" y="117.648588" width="11.7647222" height="11.7646884"></rect>
+                        <rect id="Rectangle" stroke="#B58430" stroke-width="0.5" fill="#F1AB31" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" x="670.882081" y="117.648588" width="70.5883333" height="11.7646884"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="Mr.Children.&quot;himawar" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-BoldMT, Arial" font-size="16" font-weight="bold">
+            <tspan x="640.100937" y="294">Mr.Children."</tspan>
+            <tspan x="740.14" y="294" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">himawari</tspan>
+            <tspan x="817.5" y="294">" (2016). </tspan>
+            <tspan x="884.671875" y="294" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">作曲</tspan>
+            <tspan x="916.671875" y="294">:</tspan>
+            <tspan x="922" y="294" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">桜井和寿</tspan>
+        </text>
+    </g>
+</svg>

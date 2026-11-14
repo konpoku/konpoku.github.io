@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="250px" viewBox="0 0 680 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cst-Bb-lydian-dominant</title>
+    <g id="cst-Bb-lydian-dominant" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="186.941009 145.831235 186.973828 33 158 33 158 227 199 227 199 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="237.897764 145.623199 237.930096 33 214 33 214 145.623199 203 145.623199 203 227 247 227 247 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="286.119361 145.623199 286.151693 33 264.666198 33 264.666198 145.623199 250 145.623199 250 227 294 227 294 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(319.000000, 130.000000) scale(-1, 1) translate(-319.000000, -130.000000) " points="325.628711 145.831235 325.662925 33 297 33 297 227 341 227 341 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="373.799919 145.831235 373.832578 33 345 33 345 227 387 227 387 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="425.94125 145.623199 425.973422 33 400.945757 33 400.945757 145.623199 390 145.623199 390 227 435 227 435 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(460.000000, 130.000000) scale(-1, 1) translate(-460.000000, -130.000000) " points="465.400162 145.831235 465.432822 33 439 33 439 227 481 227 481 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(599.000000, 130.000000) scale(-1, 1) translate(-599.000000, -130.000000) " points="604.400162 145.831235 604.432822 33 578 33 578 227 620 227 620 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="185" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="235" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="285" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="373" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="425" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="47.7999189 145.831235 47.8325783 33 19 33 19 227 61 227 61 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="99.9412496 145.623199 99.9734224 33 74.9457569 33 74.9457569 145.623199 64 145.623199 64 227 109 227 109 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(134.000000, 130.000000) scale(-1, 1) translate(-134.000000, -130.000000) " points="139.400162 145.831235 139.432822 33 113 33 113 227 155 227 155 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="47" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="99" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="513.941009 145.831235 513.973828 33 485 33 485 227 526 227 526 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="564.897764 145.623199 564.930096 33 541 33 541 145.623199 530 145.623199 530 227 574 227 574 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="512" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="562" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(645.000000, 130.000000) scale(-1, 1) translate(-645.000000, -130.000000) " points="650.400162 145.831235 650.432822 33 624 33 624 227 666 227 666 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="608" y="32" width="31" height="115"></rect>
+        <circle id="Circle" fill="#3DB8F5" cx="411" cy="209" r="15"></circle>
+        <circle id="Circle" fill="#3DB8F5" cx="578" cy="130" r="15"></circle>
+        <g id="CS-Root" transform="translate(577.541825, 124.461307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M2.394,11.934 L7.11,-1.77635684e-15 L0.018,-1.77635684e-15 L0.018,2.088 L3.888,2.088 L-5.32907052e-14,11.934 L2.394,11.934 Z" id="Combined-Shape"></path>
+        </g>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="576.24 129.8 569 129.8 569 131.96 576.24 131.96"></polygon>
+        <circle id="Circle" fill="#AAAAAA" cx="506" cy="209" r="15"></circle>
+        <circle id="Circle" fill="#58C322" cx="301" cy="130" r="15"></circle>
+        <g id="CS-Root" transform="translate(297.017158, 123.389307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M2.466,12.006 L2.466,7.236 L5.76,12.006 L8.748,12.006 L5.436,7.398 C7.29,6.93 8.28,5.67 8.28,3.78 C8.28,1.314 6.678,1.77635684e-15 3.708,1.77635684e-15 L6.03961325e-14,1.77635684e-15 L6.03961325e-14,12.006 L2.466,12.006 Z M3.582,5.796 L2.466,5.796 L2.466,2.034 L3.798,2.034 C5.022,2.034 5.778,2.754 5.778,3.906 C5.778,5.112 4.986,5.796 3.582,5.796 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="CS-Root" transform="translate(406.963158, 203.461307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M3.78,12.168 C6.084,12.168 7.776,10.44 7.776,8.1 C7.776,6.066 6.516,4.644 4.572,4.482 L7.902,-1.77635684e-15 L0.594,-1.77635684e-15 L0.594,1.98 L4.05,1.98 L1.314,5.634 L2.61,6.732 C2.952,6.516 3.294,6.426 3.708,6.426 C4.788,6.426 5.562,7.2 5.562,8.262 C5.562,9.306 4.752,10.098 3.726,10.098 C2.844,10.098 2.214,9.54 2.07,8.604 L3.19744231e-14,8.676 C0.108,9.576 0.252,10.044 0.612,10.584 C1.278,11.592 2.448,12.168 3.78,12.168 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="CS-Root" transform="translate(502.143158, 203.461307)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M3.762,12.168 C6.048,12.168 7.704,10.476 7.704,8.1 C7.704,5.958 6.21,4.338 4.212,4.338 C3.69,4.338 3.294,4.428 2.736,4.662 L2.736,2.088 L6.75,2.088 L6.75,-1.77635684e-15 L0.63,-1.77635684e-15 L0.63,7.11 L2.142,7.11 C2.574,6.534 3.042,6.3 3.672,6.3 C4.68,6.3 5.454,7.11 5.454,8.154 C5.454,9.198 4.68,9.99 3.69,9.99 C2.88,9.99 2.358,9.576 2.016,8.676 L-3.01980663e-14,9.432 C0.324,10.278 0.558,10.638 0.99,11.088 C1.71,11.79 2.682,12.168 3.762,12.168 Z" id="Combined-Shape"></path>
+        </g>
+        <g id="Group" transform="translate(351.000000, 194.000000)">
+            <circle id="Circle" fill="#AAAAAA" cx="15" cy="15" r="15"></circle>
+            <g id="CS-Root" transform="translate(10.818063, 7.857467)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M4.2984,14.6232 L7.8408,8.9856 C8.9424,7.236 9.396,5.9832 9.396,4.6656 C9.396,1.9872 7.4304,-8.8817842e-16 4.7736,-8.8817842e-16 C2.0736,-8.8817842e-16 1.77635684e-15,2.052 1.77635684e-15,4.752 C1.77635684e-15,7.1928 1.7928,9.0504 4.1688,9.0504 C4.3632,9.0504 4.5144,9.0288 4.8168,8.964 L1.188,14.6232 L4.2984,14.6232 Z M4.6872,6.696 C3.5424,6.696 2.6568,5.7888 2.6568,4.6224 C2.6568,3.4776 3.5856,2.5704 4.752,2.5704 C5.8536,2.5704 6.7608,3.4992 6.7608,4.644 C6.7608,5.8104 5.8536,6.696 4.6872,6.696 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+        <g id="Group" transform="translate(446.000000, 194.000000)">
+            <circle id="Circle" fill="#2365FF" cx="15" cy="15" r="15"></circle>
+            <g id="CS-Root" transform="translate(11.567663, 7.771067)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M5.4,14.7096 L5.4,-2.66453526e-15 L0,2.808 L0,5.3784 L2.6136,3.9744 L2.6136,14.7096 L5.4,14.7096 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="CS-Root" transform="translate(18.567663, 7.771067)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M5.4,14.7096 L5.4,-2.66453526e-15 L3.55271368e-15,2.808 L3.55271368e-15,5.3784 L2.6136,3.9744 L2.6136,14.7096 L5.4,14.7096 Z" id="Combined-Shape"></path>
+            </g>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="11.4533333 14.8 8.01333333 14.8 8.01333333 11.34 5.67333333 11.34 5.67333333 14.8 2.21333333 14.8 2.21333333 16.96 5.67333333 16.96 5.67333333 20.4 8.01333333 20.4 8.01333333 16.96 11.4533333 16.96"></polygon>
+        </g>
+        <circle id="Circle" fill="#AAAAAA" cx="555" cy="208" r="15"></circle>
+        <g id="CS-Root" transform="translate(546.067663, 200.771067)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M5.4,14.7096 L5.4,2.48689958e-14 L-3.90798505e-14,2.808 L-3.90798505e-14,5.3784 L2.6136,3.9744 L2.6136,14.7096 L5.4,14.7096 Z M11.6136,14.9904 C14.3784,14.9904 16.4088,12.9168 16.4088,10.1088 C16.4088,7.668 14.8968,5.9616 12.564,5.7672 L16.56,0.3888 L7.7904,0.3888 L7.7904,2.7648 L11.9376,2.7648 L8.6544,7.1496 L10.2096,8.4672 C10.62,8.208 11.0304,8.1 11.5272,8.1 C12.8232,8.1 13.752,9.0288 13.752,10.3032 C13.752,11.556 12.78,12.5064 11.5488,12.5064 C10.4904,12.5064 9.7344,11.8368 9.5616,10.7136 L7.0776,10.8 C7.2072,11.88 7.38,12.4416 7.812,13.0896 C8.6112,14.2992 10.0152,14.9904 11.6136,14.9904 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

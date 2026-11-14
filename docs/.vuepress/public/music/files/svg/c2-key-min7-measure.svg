@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680px" height="260px" viewBox="0 0 680 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c2-key-min7-measure</title>
+    <defs>
+        <circle id="path-1" cx="224" cy="205" r="18"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="36" height="36" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="c2-key-min7-measure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="186.941009 145.831235 186.973828 33 158 33 158 227 199 227 199 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="237.897764 145.623199 237.930096 33 214 33 214 145.623199 203 145.623199 203 227 247 227 247 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="286.119361 145.623199 286.151693 33 264.666198 33 264.666198 145.623199 250 145.623199 250 227 294 227 294 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(319.000000, 130.000000) scale(-1, 1) translate(-319.000000, -130.000000) " points="325.628711 145.831235 325.662925 33 297 33 297 227 341 227 341 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="373.799919 145.831235 373.832578 33 345 33 345 227 387 227 387 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="425.94125 145.623199 425.973422 33 400.945757 33 400.945757 145.623199 390 145.623199 390 227 435 227 435 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(460.000000, 130.000000) scale(-1, 1) translate(-460.000000, -130.000000) " points="465.400162 145.831235 465.432822 33 439 33 439 227 481 227 481 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(599.000000, 130.000000) scale(-1, 1) translate(-599.000000, -130.000000) " points="604.400162 145.831235 604.432822 33 578 33 578 227 620 227 620 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="185" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="235" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="285" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="373" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="425" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="47.7999189 145.831235 47.8325783 33 19 33 19 227 61 227 61 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="99.9412496 145.623199 99.9734224 33 74.9457569 33 74.9457569 145.623199 64 145.623199 64 227 109 227 109 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(134.000000, 130.000000) scale(-1, 1) translate(-134.000000, -130.000000) " points="139.400162 145.831235 139.432822 33 113 33 113 227 155 227 155 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="47" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="99" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="513.941009 145.831235 513.973828 33 485 33 485 227 526 227 526 145.623199"></polygon>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="564.897764 145.623199 564.930096 33 541 33 541 145.623199 530 145.623199 530 227 574 227 574 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="512" y="32" width="31" height="115"></rect>
+        <rect id="Ebony" fill="#474747" x="562" y="32" width="31" height="115"></rect>
+        <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(645.000000, 130.000000) scale(-1, 1) translate(-645.000000, -130.000000) " points="650.400162 145.831235 650.432822 33 624 33 624 227 666 227 666 145.623199"></polygon>
+        <rect id="Ebony" fill="#474747" x="608" y="32" width="31" height="115"></rect>
+        <use id="Circle" stroke="#FF6633" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="4,4" xlink:href="#path-1"></use>
+        <circle id="Circle" fill="#FF6633" cx="553" cy="205" r="18"></circle>
+        <text id="短7" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" letter-spacing="-1" fill="#FFFFFF">
+            <tspan x="540.304" y="211">短7</tspan>
+        </text>
+        <circle id="Circle" fill="#000000" cx="271" cy="205" r="15"></circle>
+        <text id="Rt" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500" fill="#FFFFFF">
+            <tspan x="261.344" y="211">Rt</tspan>
+        </text>
+        <path id="Path-9" d="M551,232.5 L555.5,241.5 L551.5,241.5 L551.5,251.5 L224.5,251.5 L224.5,241.5 L220.5,241.5 L225,232.5 L229.5,241.5 L225.5,241.5 L225.5,250.5 L550.5,250.5 L550.5,241.5 L546.5,241.5 L551,232.5 Z" fill="#FF6633" fill-rule="nonzero"></path>
+        <polyline id="Path-10" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="226 186 226 177 270 177 270 186"></polyline>
+        <text id="全音" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="229" y="169">全音</tspan>
+        </text>
+    </g>
+</svg>

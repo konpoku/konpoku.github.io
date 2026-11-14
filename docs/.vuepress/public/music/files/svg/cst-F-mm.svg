@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="240px" viewBox="0 0 480 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cst-F-mm</title>
+    <g id="cst-F-mm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(9.000000, 22.000000)">
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="28.7999189 113.831235 28.8325783 1 0 1 0 195 42 195 42 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="79.9412496 113.623199 79.9734224 1 54.9457569 1 54.9457569 113.623199 44 113.623199 44 195 89 195 89 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(115.000000, 98.000000) scale(-1, 1) translate(-115.000000, -98.000000) " points="120.400162 113.831235 120.432822 1 94 1 94 195 136 195 136 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="167.941009 113.831235 167.973828 1 139 1 139 195 180 195 180 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="218.897764 113.623199 218.930096 1 195 1 195 113.623199 184 113.623199 184 195 228 195 228 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="267.119361 113.623199 267.151693 1 245.666198 1 245.666198 113.623199 231 113.623199 231 195 275 195 275 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(300.000000, 98.000000) scale(-1, 1) translate(-300.000000, -98.000000) " points="306.628711 113.831235 306.662925 1 278 1 278 195 322 195 322 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="354.799919 113.831235 354.832578 1 326 1 326 195 368 195 368 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" points="406.94125 113.623199 406.973422 1 381.945757 1 381.945757 113.623199 371 113.623199 371 195 416 195 416 113.623199"></polygon>
+            <polygon id="Ivory" stroke="#202020" stroke-width="0.75" fill="#FFFFFF" transform="translate(441.000000, 98.000000) scale(-1, 1) translate(-441.000000, -98.000000) " points="446.400162 113.831235 446.432822 1 420 1 420 195 462 195 462 113.623199"></polygon>
+            <rect id="Ebony" fill="#474747" x="28" y="0" width="31" height="115"></rect>
+            <rect id="Ebony" fill="#474747" x="79" y="0" width="31" height="115"></rect>
+            <rect id="Ebony" fill="#474747" x="166" y="0" width="31" height="115"></rect>
+            <rect id="Ebony" fill="#474747" x="216" y="0" width="31" height="115"></rect>
+            <rect id="Ebony" fill="#474747" x="266" y="0" width="31" height="115"></rect>
+            <rect id="Ebony" fill="#474747" x="354" y="0" width="31" height="115"></rect>
+            <rect id="Ebony" fill="#474747" x="406" y="0" width="31" height="115"></rect>
+        </g>
+        <circle id="Circle" fill="#AAAAAA" cx="241" cy="120" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="402" cy="196" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="309" cy="196" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="451" cy="196" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="215" cy="197" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="168" cy="197" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="291" cy="120" r="15"></circle>
+        <circle id="Circle" fill="#AAAAAA" cx="357" cy="196" r="15"></circle>
+    </g>
+</svg>

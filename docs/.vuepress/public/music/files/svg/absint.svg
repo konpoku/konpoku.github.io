@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 988 490" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3260.79,-1570.49)">
+        <g id="absint" transform="matrix(1.30438,0,0,1.02299,-863.093,-36.1027)">
+            <rect x="3161.57" y="1570.49" width="757.433" height="478.507" style="fill:none;"/>
+            <g transform="matrix(0.766649,0,0,0.977528,646.356,35.2915)">
+                <path d="M3369.99,1898C3389.65,1907.01 3398.28,1926.82 3394,1952" style="fill:none;stroke:rgb(66,77,84);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,646.356,5.96561)">
+                <path d="M3630.8,1638.39L3764.4,1982L3320,1982L3630.8,1638.39Z" style="fill:none;stroke:rgb(13,20,25);stroke-width:4px;"/>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,646.356,5.96561)">
+                <path d="M3320,1982C3328.02,1911.19 3349.14,1840.58 3394,1770.34" style="fill:none;stroke:rgb(13,20,25);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(-4.69437e-17,0.977528,0.766649,5.98564e-17,1911.33,-1636.84)">
+                <path d="M3320,1982C3328.02,1911.19 3357.97,1863.58 3402.83,1793.34" style="fill:none;stroke:rgb(13,20,25);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(-1.40831e-16,-0.977528,0.766649,-1.79569e-16,1816.77,5269.79)">
+                <path d="M3343,1996.97C3351.02,1926.16 3360.08,1838.56 3402.83,1793.34" style="fill:none;stroke:rgb(13,20,25);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1.40831e-16,-0.977528,-0.766649,-1.79569e-16,4907.19,5269.79)">
+                <path d="M3343,1964.99C3351.02,1894.18 3360.08,1838.56 3402.83,1793.34" style="fill:none;stroke:rgb(13,20,25);stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,646.356,5.96561)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:none;">a</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:rgb(13,20,25);">a</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,774.962,137.618)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:72px;fill:none;">S</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:72px;fill:rgb(13,20,25);">S</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1003.32,137.618)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:64px;fill:none;">S</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:64px;fill:rgb(13,20,25);">S</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,759.368,315.144)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:none;">b</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:rgb(13,20,25);">b</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1119,133.288)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:none;">ab</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:rgb(13,20,25);">ab</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1165.79,131.398)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:none;">sinθ</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:rgb(13,20,25);">sinθ</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1080.1,157.402)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia', serif;font-size:48px;fill:none;">2</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia', serif;font-size:48px;fill:rgb(13,20,25);">2</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1082.05,110.48)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia', serif;font-size:48px;fill:none;">1</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia', serif;font-size:48px;fill:rgb(13,20,25);">1</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1037.34,137.003)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia', serif;font-size:48px;fill:none;">=</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia', serif;font-size:48px;fill:rgb(13,20,25);">=</text>
+            </g>
+            <g transform="matrix(0.977148,0,0,0.122191,266.598,1570.29)">
+                <rect x="3486" y="2103" width="46.778" height="8" style="fill:rgb(13,20,25);"/>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,650.603,219.038)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:none;">θ</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'Georgia-Italic', 'Georgia', serif;font-style:italic;font-size:48px;fill:rgb(66,77,84);">θ</text>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,654.022,35.2915)">
+                <path d="M3887.76,1731.82L3823.76,1731.82L3823.76,1913.49L4186.02,1913.49L4186.02,1728.88L4117.02,1728.88" style="fill:none;stroke:rgb(14,21,23);stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(0.766649,0,0,0.977528,1043.62,29.8601)">
+                <text x="3398.3px" y="1743.33px" style="font-family:'HiraMinProN-W6', 'Hiragino Mincho ProN', serif;font-weight:600;font-size:24px;fill:none;">三角形面积公式</text>
+                <text x="3398.3px" y="1743.33px" style="font-family:'HiraMinProN-W6', 'Hiragino Mincho ProN', serif;font-weight:600;font-size:24px;fill:rgb(13,20,25);">三角形面积公式</text>
+            </g>
+        </g>
+    </g>
+</svg>

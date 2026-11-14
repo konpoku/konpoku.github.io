@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1243px" height="405px" viewBox="0 0 1243 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-watari</title>
+    <g id="m1-line-watari" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1243" height="405"></rect>
+        <line x1="47" y1="123" x2="1217" y2="123" id="Path-35" stroke="#888888" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        <line x1="47" y1="164" x2="1217" y2="164" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="204" x2="1217" y2="204" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="244" x2="1217" y2="244" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="284" x2="1217" y2="284" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="324" x2="1217" y2="324" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="64" cy="204" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="134" cy="184" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="204" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="264" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="324" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="374" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="434" cy="124" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="494" cy="224" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="544" cy="204" r="15"></circle>
+        <polyline id="Path-18" stroke="#0C0C0C" stroke-width="4" stroke-linecap="square" fill-rule="nonzero" points="64 204 134 184 204 164 374 164 434 124 494 224 544 204"></polyline>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="659" cy="204" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="729" cy="224" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="779" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="839" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="899" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="969" cy="124" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="1039" cy="104" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="1089" cy="124" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="1159" cy="144" r="15"></circle>
+        <polyline id="Path-18" stroke="#0C0C0C" stroke-width="4" stroke-linecap="square" fill-rule="nonzero" points="659 204 729 224 779 304 899 304 969 119 1039 104 1089 124 1159 144"></polyline>
+        <path id="Line-6" d="M449,144 L436.843397,167.921058 L430.895,159.882 L388.689517,191.107809 L387.081708,192.297326 L384.702674,189.081708 L386.310483,187.892191 L428.516,156.666 L422.569192,148.627352 L449,144 Z" fill="#FFBF00" fill-rule="nonzero"></path>
+        <path id="Line-6" d="M989,131 L991.698939,157.696736 L982.35,154.147 L925.369747,304.209962 L924.659785,306.079709 L920.920291,304.659785 L921.630253,302.790038 L978.611,152.727 L969.261975,149.177193 L989,131 Z" fill="#FF5500" fill-rule="nonzero"></path>
+        <path id="Line" d="M1199,361 L1218,370.5 L1199,380 L1199,372 L35,372 L35,369 L1199,369 L1199,361 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line" d="M36.5,21 L46,40 L38,40 L38,372 L35,372 L35,40 L27,40 L36.5,21 Z" fill="#000000" fill-rule="nonzero"></path>
+        <text id="と" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="0.000250000012" fill="#000000">
+            <tspan x="363.999875" y="85">と</tspan>
+        </text>
+        <text id="ど" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="0.000250000012" fill="#000000">
+            <tspan x="423.999875" y="85">ど</tspan>
+        </text>
+        <text id="く" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="0.000250000012" fill="#000000">
+            <tspan x="483.999875" y="85">く</tspan>
+        </text>
+        <text id="は" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="0.000250000012" fill="#000000">
+            <tspan x="956.999875" y="75">は</tspan>
+        </text>
+        <text id="ば" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="0.000250000012" fill="#000000">
+            <tspan x="1023.99987" y="75">说</tspan>
+        </text>
+        <text id="たい" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" letter-spacing="0.000250000012" fill="#000000">
+            <tspan x="1066.99975" y="75">想</tspan>
+        </text>
+    </g>
+</svg>

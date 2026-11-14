@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="300px" viewBox="0 0 840 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>p-sound-3elements</title>
+    <g id="p-sound-3elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="840" height="300"></rect>
+        <path id="axis" d="M714,129 L733,138.5 L714,148 L714,140 L75,140 L75,137 L714,137 L714,129 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <text id="時間(秒)" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500">
+            <tspan x="745.88" y="145">時間(秒)</tspan>
+        </text>
+        <path d="M80,138 C83.481428,117.370477 86.981428,103.537144 90.5,96.5 C94.018572,89.4628561 100.518572,83.2961894 110,78 L132.5,138.5 L132.5,198 C140.277778,186.333333 146.277778,180.5 150.5,180.5 C154.611111,180.5 161.111111,186.333333 170,198 C185.064058,189.086181 194.800853,168.509977 200,138" id="tri" stroke="#58C322" stroke-width="6" stroke-linecap="square" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M200,138 C203.481428,117.370477 206.981428,103.537144 210.5,96.5 C214.018572,89.4628561 220.518572,83.2961894 230,78 L252.5,138.5 L252.5,198 C260.277778,186.333333 266.277778,180.5 270.5,180.5 C274.611111,180.5 281.111111,186.333333 290,198 C305.064058,189.086181 314.800853,168.509977 320,138" id="tri" stroke="#58C322" stroke-width="6" stroke-linecap="square" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M320,138 C323.481428,117.370477 326.981428,103.537144 330.5,96.5 C334.018572,89.4628561 340.518572,83.2961894 350,78 L372.5,138.5 L372.5,198 C380.277778,186.333333 386.277778,180.5 390.5,180.5 C394.611111,180.5 401.111111,186.333333 410,198 C425.064058,189.086181 434.800853,168.509977 440,138" id="tri" stroke="#58C322" stroke-width="6" stroke-linecap="square" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M440,138 C443.481428,117.370477 446.981428,103.537144 450.5,96.5 C454.018572,89.4628561 460.518572,83.2961894 470,78 L492.5,138.5 L492.5,198 C500.277778,186.333333 506.277778,180.5 510.5,180.5 C514.611111,180.5 521.111111,186.333333 530,198 C545.064058,189.086181 554.800853,168.509977 560,138" id="tri" stroke="#58C322" stroke-width="6" stroke-linecap="square" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M560,138 C563.481428,117.370477 566.981428,103.537144 570.5,96.5 C574.018572,89.4628561 580.518572,83.2961894 590,78 L612.5,138.5 L612.5,198 C620.277778,186.333333 626.277778,180.5 630.5,180.5 C634.611111,180.5 641.111111,186.333333 650,198 C665.064058,189.086181 674.800853,168.509977 680,138" id="tri" stroke="#58C322" stroke-width="6" stroke-linecap="square" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path id="axis" d="M86,74 L86,77 L78,77 L78,198 L86,198 L86,201 L67,201 L67,198 L75,198 L75,77 L67,77 L67,74 L86,74 Z" fill="#AAAAAA" fill-rule="nonzero"></path>
+        <path id="axis" d="M580.5,138.5 L580.5,136.5 L586.5,136.5 L586.5,133.5 L588.5,133.5 L588.5,136.5 L594.5,136.5 L594.5,138.5 L580.5,138.5 Z M588.5,124.5 L588.5,129.5 L586.5,129.5 L586.5,124.5 L588.5,124.5 Z M588.5,115.5 L588.5,120.5 L586.5,120.5 L586.5,115.5 L588.5,115.5 Z M588.5,106.5 L588.5,111.5 L586.5,111.5 L586.5,106.5 L588.5,106.5 Z M588.5,97.5 L588.5,102.5 L586.5,102.5 L586.5,97.5 L588.5,97.5 Z M588.5,88.5 L588.5,93.5 L586.5,93.5 L586.5,88.5 L588.5,88.5 Z M588.5,79.5 L588.5,84.5 L586.5,84.5 L586.5,79.5 L588.5,79.5 Z M594.5,74.5 L594.5,76.5 L580.5,76.5 L580.5,74.5 L594.5,74.5 Z" fill="#000000" fill-rule="nonzero"></path>
+        <text id="振幅" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="649" y="50">振幅</tspan>
+        </text>
+        <text id="周波数" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="350" y="254">周波数</tspan>
+        </text>
+        <text id="波形" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="182" y="46">波形</tspan>
+        </text>
+        <text id="=音色" fill="#FF6633" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="226.52" y="44">=音色</tspan>
+        </text>
+        <text id="=ピッチ" fill="#FF6633" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="350.52" y="277">=音高</tspan>
+        </text>
+        <text id="=音量" fill="#FF6633" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="16" font-weight="500">
+            <tspan x="645.52" y="74">=音量</tspan>
+        </text>
+        <path id="Line" d="M175.14296,37.2403958 L175.759604,39.1429598 L174.808322,39.451282 C157.243107,45.1443846 143.896422,56.4653327 134.412492,73.2770208 L139.774848,75.7877347 L127.5,85.5 L127.095097,69.8527621 L132.595919,72.4269022 C142.324366,55.1168157 156.089106,43.4159845 174.191678,37.548718 L175.14296,37.2403958 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line" d="M644.881164,40.893858 L645.106142,42.881164 L644.112489,42.993653 C638.679273,43.608734 634.387874,46.5363063 630.625133,51.8103218 C627.605985,56.0420859 625.299454,60.9435023 621.621394,70.2218757 L621.617804,70.2310925 C621.558165,70.3825303 621.054381,71.6587394 620.517443,73.0161997 L620.262242,73.6611764 C619.866439,74.661147 619.487868,75.6157741 619.29095,76.107589 C613.984863,89.3598736 609.842898,96.9036289 603.691304,102.53897 L606.644985,108.015805 L591,108.5 L599.999635,95.693495 L602.709554,100.720715 C608.376982,95.3745497 612.345209,88.074374 617.434246,75.364183 C617.894649,74.2142985 619.356182,70.5138101 619.694133,69.6574032 L619.757805,69.4959743 L619.762,69.483 L619.993911,68.9014332 C623.597275,59.8503917 625.919057,54.9629518 628.997022,50.6487475 C633.065994,44.9455069 637.836013,41.6914223 643.887511,41.006347 L644.881164,40.893858 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M80,211 C103.4375,248 251.257403,247.800204 330,247.5" id="Path-38" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M430,211 C472.708333,248 601.257403,247.800204 680,247.5" id="Path-38" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" transform="translate(555.000000, 229.275822) scale(-1, 1) translate(-555.000000, -229.275822) "></path>
+        <text id="1" fill="#AAAAAA" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="674.592" y="116">1</tspan>
+        </text>
+        <line x1="681.5" y1="127.5" x2="681.5" y2="149.5" id="Path-34" stroke="#AAAAAA" stroke-width="4" stroke-linecap="square" fill-rule="nonzero"></line>
+    </g>
+</svg>

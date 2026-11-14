@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1300px" viewBox="0 0 1600 1300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-tonalcenter-statistics</title>
+    <g id="i-tonalcenter-statistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Variable-segments-circle" transform="translate(402.000000, 258.000000)">
+            <path d="M500.021389,0 C678.672679,0 843.723871,95.3 933.024516,250 C1022.32516,404.7 1022.32516,595.3 933.024516,750 C843.723871,904.7 678.672679,1000 500.021389,1000 C321.370099,1000 156.318907,904.7 67.0182618,750 C-22.2823831,595.3 -22.2823831,404.7 67.0182618,250 C156.318907,95.3 321.370099,0 500.021389,0 L500.021389,500 C500.021389,500 500.021389,500 500.021389,500 C500.021389,500 500.021389,500 500.021389,500 C500.021389,500 500.021389,500 500.021389,500 C500.021389,500 500.021389,500 500.021389,500 C500.021389,500 500.021389,500 500.021389,500 C500.021389,500 500.021389,500 500.021389,500 L500.021389,0 Z" id="Base-plate" fill-opacity="0.002" fill="#455A64"></path>
+            <path d="M500.646389,0.625389293 C589.63496,0.736247351 675.225656,24.5202495 749.713927,67.5270233 C824.378559,110.635622 887.888127,173.058124 932.483227,250.312459 C1021.67226,404.81911 1021.67226,595.18089 932.483227,749.687541 C887.888127,826.941876 824.378559,889.364378 749.713927,932.472977 C675.051286,975.580426 589.234178,999.375 500.021389,999.375 C410.8086,999.375 324.991493,975.580426 250.328852,932.472977 C175.66422,889.364378 112.154651,826.941876 67.5594967,749.687446 C7.73826654,646.097764 -12.9184487,524.543279 9.36494431,407.031107 L9.36494431,407.031107 L500.646389,500.755506 Z" id="Segment-78" stroke="#FFFFFF" stroke-width="1.25" fill="#58C322"></path>
+            <path d="M78.0615674,232.962851 L496.919966,498.772053 L9.5991926,405.803252 C21.3829941,344.408394 44.6444001,285.783267 78.0615674,232.962851 L78.0615674,232.962851 Z" id="Segment-6" stroke="#FFFFFF" stroke-width="1.25" fill="#FF5500"></path>
+            <path d="M499.396389,0.625389886 L499.396389,498.863144 L78.7312649,231.907387 C170.25814,88.078093 328.90467,0.838104262 499.396389,0.625389886 L499.396389,0.625389886 Z" id="Segment-16" stroke="#FFFFFF" stroke-width="1.25" fill="#FFBF00"></path>
+        </g>
+        <text id="6%" font-family="HiraginoSans-W6, Hiragino Sans" font-size="64" font-weight="500" fill="#F0F3EE">
+            <tspan x="505.796" y="653.5">6%</tspan>
+        </text>
+        <text id="16%" font-family="HiraginoSans-W6, Hiragino Sans" font-size="64" font-weight="500" fill="#F0F3EE">
+            <tspan x="656.512" y="494.5">16%</tspan>
+        </text>
+        <text id="78%" font-family="HiraginoSans-W6, Hiragino Sans" font-size="128" font-weight="500" fill="#F0F3EE">
+            <tspan x="886.524" y="938">78%</tspan>
+        </text>
+        <text id="中心に着地" font-family="HiraginoSans-W6, Hiragino Sans" font-size="64" font-weight="500" fill="#F0F3EE">
+            <tspan x="886.5" y="1036.5">着陆于中心音</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FF5500" fill-rule="nonzero" x="70" y="310.5" width="347" height="128"></rect>
+        <text id="高い位置で-高揚感を演出" font-family="HiraginoSans-W6, Hiragino Sans" font-size="48" font-weight="500" fill="#F0F3EE">
+            <tspan x="123.5" y="368.5">在高位置上</tspan>
+            <tspan x="99.5" y="416.5">烘托高昂情绪</tspan>
+        </text>
+        <rect id="Rectangle" fill="#FFBF00" fill-rule="nonzero" x="439" y="55" width="360" height="165"></rect>
+        <text id="その他" font-family="HiraginoSans-W6, Hiragino Sans" font-size="48" font-weight="500" fill="#F0F3EE">
+            <tspan x="546.5" y="124">其他</tspan>
+        </text>
+        <text id="(中心のちょい上下で-余韻を残すなど)" font-family="HiraginoSans-W6, Hiragino Sans" font-size="32" font-weight="500" fill="#F0F3EE">
+            <tspan x="468.004" y="167">(在中心稍偏上下方</tspan>
+            <tspan x="500.004" y="199">留下余韵等)</tspan>
+        </text>
+        <polyline id="Path-4" stroke="#FF5500" stroke-width="7.5" stroke-linecap="square" fill-rule="nonzero" points="237.5 438.5 322.5 531 474.5 581"></polyline>
+        <polyline id="Path-5" stroke="#FFBF00" stroke-width="7.5" stroke-linecap="square" fill-rule="nonzero" points="611.5 220 611.5 285 656.5 349"></polyline>
+    </g>
+</svg>

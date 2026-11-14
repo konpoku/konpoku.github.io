@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1160px" height="480px" viewBox="0 0 1160 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>R1-strong-beat-pops</title>
+    <g id="R1-strong-beat-pops" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="barcell1" fill="#EBEBEB" x="248.05986" y="33.7131479" width="440" height="59.9339742"></rect>
+        <g id="Group" transform="translate(248.0599, 100.3066)" fill="#EBEBEB">
+            <rect id="beatcell1" x="0" y="0" width="107" height="59.9339742"></rect>
+            <rect id="beatcell3" x="111" y="0" width="107" height="59.9339742"></rect>
+            <rect id="beatcell5" x="222" y="0" width="107" height="59.9339742"></rect>
+            <rect id="beatcell7" x="333" y="0" width="107" height="59.9339742"></rect>
+        </g>
+        <g id="column" transform="translate(250, 242)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="うっ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="263" y="294">呃</tspan>
+        </text>
+        <text id="せぇ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="368" y="294">吵</tspan>
+        </text>
+        <g id="column" transform="translate(473, 242)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="うっ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="483" y="294">呃</tspan>
+        </text>
+        <text id="せぇ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="591" y="294">吵</tspan>
+        </text>
+        <rect id="TH1" fill="#DCDCDC" x="31.6318541" y="33.7131479" width="208.10428" height="59.9339742"></rect>
+        <rect id="TH3" fill="#DCDCDC" x="31.6318541" y="100.30659" width="208.10428" height="59.9339742"></rect>
+        <text id="beat1" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="26" font-weight="500">
+            <tspan x="119" y="139">拍</tspan>
+        </text>
+        <rect id="TH6" fill="#DCDCDC" x="31.6318541" y="243.965594" width="208.10428" height="76.5823004"></rect>
+        <text id="うっせぇわ" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500">
+            <tspan x="90.3" y="290.5823">吵死了</tspan>
+        </text>
+        <rect id="TH6" fill="#DCDCDC" x="31.6318541" y="322.513489" width="208.10428" height="76.5823004"></rect>
+        <text id="スマイルあげない" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500">
+            <tspan x="61" y="370.130195">《不给你笑容》</tspan>
+        </text>
+        <text id="bar1" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="26" font-weight="500">
+            <tspan x="110" y="73">小節</tspan>
+        </text>
+        <polygon id="_13" fill="#000000" points="276.307427 120.382268 276.307427 142.868211 280.342984 142.868211 280.342984 116.693474 273.910066 116.693474 271.712485 120.382268"></polygon>
+        <path d="M379.437771,139.227857 L383.55324,134.440274 C388.188138,129.103297 389.306906,127.10193 389.306906,124.276471 C389.306906,119.802828 385.551041,116.34949 380.716363,116.34949 C377.719662,116.34949 375.282345,117.605249 373.724061,119.881313 C372.845028,121.215557 372.445468,122.392832 372.205732,124.629653 L376.201334,124.629653 C376.361158,123.177682 376.600894,122.510559 377.120322,121.764952 C377.919442,120.62692 379.317903,119.959798 380.836231,119.959798 C383.393416,119.959798 385.391217,121.843437 385.391217,124.276471 C385.391217,125.963898 384.432272,127.494355 380.676407,131.967998 L371.446568,142.955893 L389.346862,142.955893 L389.346862,139.227857 L379.437771,139.227857 Z" id="_21" fill="#000000"></path>
+        <path d="M492.161699,130.790723 C493.999675,130.829966 494.838752,130.986936 495.597916,131.418603 C496.796596,132.124968 497.515805,133.537697 497.515805,135.225124 C497.515805,137.893613 495.637872,139.777252 493.000775,139.777252 C491.602315,139.777252 490.203854,139.188615 489.364778,138.207553 C488.805394,137.579673 488.605613,137.030278 488.405833,135.853004 L484.5301,135.853004 C484.689924,137.618915 484.889704,138.48225 485.489044,139.502555 C486.887505,141.935589 489.64447,143.38756 492.880907,143.38756 C497.915365,143.38756 501.47145,140.091192 501.47145,135.342851 C501.47145,132.556635 500.352682,130.398299 498.195057,129.142539 C500.112946,127.808295 501.07189,125.963898 501.07189,123.570106 C501.07189,119.331918 497.835453,116.34949 493.160599,116.34949 C490.24381,116.34949 487.926361,117.409037 486.647769,119.371161 C485.888604,120.46995 485.568956,121.41177 485.209352,123.452379 L489.204954,123.452379 C489.484646,122.275105 489.64447,121.764952 490.004074,121.294042 C490.64337,120.430708 491.762139,119.920556 493.080687,119.920556 C495.478048,119.920556 497.1562,121.490255 497.1562,123.727076 C497.1562,125.571473 496.077388,126.984202 494.439192,127.298142 C493.839851,127.41587 493.560159,127.41587 492.161699,127.41587 L492.161699,130.790723 Z" id="_31" fill="#000000"></path>
+        <path d="M608.954742,135.656791 L608.954742,114.858275 L591.853568,139.227857 L604.919184,139.227857 L604.919184,142.955893 L608.954742,142.955893 L608.954742,139.227857 L611.791619,139.227857 L611.791619,135.656791 L608.954742,135.656791 Z M604.919184,135.656791 L598.765958,135.656791 L604.919184,126.905718 L604.919184,135.656791 Z" id="_41" fill="#000000"></path>
+        <rect id="barcell1" fill="#EBEBEB" x="698.05986" y="33.7131479" width="440" height="59.9339742"></rect>
+        <g id="Group" transform="translate(698.0599, 100.3066)" fill="#EBEBEB">
+            <rect id="beatcell1" x="0" y="0" width="107" height="59.9339742"></rect>
+            <rect id="beatcell3" x="111" y="0" width="107" height="59.9339742"></rect>
+            <rect id="beatcell5" x="222" y="0" width="107" height="59.9339742"></rect>
+            <rect id="beatcell7" x="333" y="0" width="107" height="59.9339742"></rect>
+        </g>
+        <g id="column" transform="translate(700, 242)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="うっ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="710" y="294">呃</tspan>
+        </text>
+        <text id="せぇ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="818" y="294">吵</tspan>
+        </text>
+        <g id="column" transform="translate(923, 242)" fill="#5CB300">
+            <rect id="cell34" x="0" y="0" width="104" height="76" rx="4"></rect>
+        </g>
+        <text id="わ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="943" y="294">わ</tspan>
+        </text>
+        <g id="column" transform="translate(250, 163.4521)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="ﾁﾋﾟ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="272" y="215.452105">ﾁﾋﾟ</tspan>
+        </text>
+        <text id="ﾁﾋﾟ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="377" y="215.452105">ﾁﾋﾟ</tspan>
+        </text>
+        <g id="column" transform="translate(473, 163.4521)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="ﾁｬﾊﾟ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="488" y="215.452105">ﾁｬﾊﾟ</tspan>
+        </text>
+        <text id="ﾁｬﾊﾟ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="596" y="215.452105">ﾁｬﾊﾟ</tspan>
+        </text>
+        <rect id="TH6" fill="#DCDCDC" x="31.6318541" y="165.4177" width="208.10428" height="76.5823004"></rect>
+        <text id="Dubidubidu" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500">
+            <tspan x="78.07" y="212.034406">Dubidubidu</tspan>
+        </text>
+        <g id="column" transform="translate(700, 163.4521)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="ﾄﾞｩﾋﾞ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="706" y="215.452105">ﾄﾞｩﾋﾞ</tspan>
+        </text>
+        <text id="ﾄﾞｩﾋﾞ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="819" y="215.452105">ﾄﾞｩﾋﾞ</tspan>
+        </text>
+        <g id="column" transform="translate(923, 163.4521)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="ﾀﾞﾊﾞ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="938" y="215.452105">ﾀﾞﾊﾞ</tspan>
+        </text>
+        <text id="ﾀﾞﾊﾞ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="1051" y="215.452105">ﾀﾞﾊﾞ</tspan>
+        </text>
+        <g id="column" transform="translate(250, 322)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="ニコ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="264" y="374">微笑</tspan>
+        </text>
+        <text id="っと" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="368" y="374">地</tspan>
+        </text>
+        <g id="column" transform="translate(473, 322)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="スマ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="484" y="374">笑</tspan>
+        </text>
+        <text id="イル" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="591.9" y="374">容</tspan>
+        </text>
+        <g id="column" transform="translate(700, 322)">
+            <rect id="cell34" fill="#5CB300" x="0" y="0" width="214" height="76" rx="4"></rect>
+            <line x1="106.9403" y1="9.85897393" x2="106.9403" y2="67.8589739" id="Path-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square" stroke-dasharray="8,8" fill-rule="nonzero"></line>
+        </g>
+        <text id="あげ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="710" y="374">给</tspan>
+        </text>
+        <text id="ない" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="818" y="374">不</tspan>
+        </text>
+        <g id="column" transform="translate(923, 322)" fill="#5CB300">
+            <rect id="cell34" x="0" y="0" width="104" height="76" rx="4"></rect>
+        </g>
+        <text id="ぜ" font-family="HiraginoSans-W6, Hiragino Sans" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="943" y="374">ぜ</tspan>
+        </text>
+        <text id="2" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold" fill="#000000">
+            <tspan x="715.989258" y="76">2</tspan>
+        </text>
+        <text id="1" font-family="Arial-BoldMT, Arial" font-size="36" font-weight="bold" fill="#000000">
+            <tspan x="266.989258" y="76">1</tspan>
+        </text>
+        <polygon id="_13" fill="#000000" points="726.307427 120.382268 726.307427 142.868211 730.342984 142.868211 730.342984 116.693474 723.910066 116.693474 721.712485 120.382268"></polygon>
+        <path d="M829.437771,139.227857 L833.55324,134.440274 C838.188138,129.103297 839.306906,127.10193 839.306906,124.276471 C839.306906,119.802828 835.551041,116.34949 830.716363,116.34949 C827.719662,116.34949 825.282345,117.605249 823.724061,119.881313 C822.845028,121.215557 822.445468,122.392832 822.205732,124.629653 L826.201334,124.629653 C826.361158,123.177682 826.600894,122.510559 827.120322,121.764952 C827.919442,120.62692 829.317903,119.959798 830.836231,119.959798 C833.393416,119.959798 835.391217,121.843437 835.391217,124.276471 C835.391217,125.963898 834.432272,127.494355 830.676407,131.967998 L821.446568,142.955893 L839.346862,142.955893 L839.346862,139.227857 L829.437771,139.227857 Z" id="_21" fill="#000000"></path>
+        <path d="M942.161699,130.790723 C943.999675,130.829966 944.838752,130.986936 945.597916,131.418603 C946.796596,132.124968 947.515805,133.537697 947.515805,135.225124 C947.515805,137.893613 945.637872,139.777252 943.000775,139.777252 C941.602315,139.777252 940.203854,139.188615 939.364778,138.207553 C938.805394,137.579673 938.605613,137.030278 938.405833,135.853004 L934.5301,135.853004 C934.689924,137.618915 934.889704,138.48225 935.489044,139.502555 C936.887505,141.935589 939.64447,143.38756 942.880907,143.38756 C947.915365,143.38756 951.47145,140.091192 951.47145,135.342851 C951.47145,132.556635 950.352682,130.398299 948.195057,129.142539 C950.112946,127.808295 951.07189,125.963898 951.07189,123.570106 C951.07189,119.331918 947.835453,116.34949 943.160599,116.34949 C940.24381,116.34949 937.926361,117.409037 936.647769,119.371161 C935.888604,120.46995 935.568956,121.41177 935.209352,123.452379 L939.204954,123.452379 C939.484646,122.275105 939.64447,121.764952 940.004074,121.294042 C940.64337,120.430708 941.762139,119.920556 943.080687,119.920556 C945.478048,119.920556 947.1562,121.490255 947.1562,123.727076 C947.1562,125.571473 946.077388,126.984202 944.439192,127.298142 C943.839851,127.41587 943.560159,127.41587 942.161699,127.41587 L942.161699,130.790723 Z" id="_31" fill="#000000"></path>
+        <path d="M1058.95474,135.656791 L1058.95474,114.858275 L1041.85357,139.227857 L1054.91918,139.227857 L1054.91918,142.955893 L1058.95474,142.955893 L1058.95474,139.227857 L1061.79162,139.227857 L1061.79162,135.656791 L1058.95474,135.656791 Z M1054.91918,135.656791 L1048.76596,135.656791 L1054.91918,126.905718 L1054.91918,135.656791 Z" id="_41" fill="#000000"></path>
+        <text id="Christell.-“Dubidubi" fill="#AAAAAA" fill-rule="nonzero" font-family="Arial-ItalicMT, Arial" font-size="18" font-style="italic" font-weight="normal">
+            <tspan x="197.680508" y="462">Christell. “Dubidubidu” /  Ado. “</tspan>
+            <tspan x="443.115078" y="462" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">吵死了</tspan>
+            <tspan x="533.115078" y="462">” (</tspan>
+            <tspan x="550.104336" y="462" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">作詞</tspan>
+            <tspan x="586.104336" y="462">:syudou) /  ano. “</tspan>
+            <tspan x="721.174648" y="462" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">《不给你笑容》</tspan>
+            <tspan x="863.014648" y="462">”  (</tspan>
+            <tspan x="885.004883" y="462" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">作詞</tspan>
+            <tspan x="921.004883" y="462">:</tspan>
+            <tspan x="926.005859" y="462" font-family="HiraginoSans-W3, Hiragino Sans" font-weight="300">剑持秀勋、ano</tspan>
+            <tspan x="1124.00586" y="462">)</tspan>
+        </text>
+    </g>
+</svg>

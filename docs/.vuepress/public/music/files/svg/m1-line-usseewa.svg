@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1243px" height="405px" viewBox="0 0 1243 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>m1-line-usseewa</title>
+    <g id="m1-line-usseewa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1243" height="405"></rect>
+        <line x1="47" y1="164" x2="1217" y2="164" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="204" x2="1217" y2="204" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="244" x2="1217" y2="244" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="284" x2="1217" y2="284" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="324" x2="1217" y2="324" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="124" x2="1217" y2="124" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="47" y1="83" x2="1217" y2="83" id="Path-35" stroke="#CCCCCC" stroke-linecap="square" fill-rule="nonzero"></line>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="64" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="124" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="554" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="594" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="644" cy="184" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="694" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="744" cy="144" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="794" cy="124" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="844" cy="144" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="894" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="944" cy="184" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="994" cy="224" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="1064" cy="174" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="1134" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="174" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="234" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="284" cy="304" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="344" cy="164" r="15"></circle>
+        <circle id="Oval" fill="#0C0C0C" fill-rule="nonzero" cx="394" cy="304" r="15"></circle>
+        <polyline id="Path-18" stroke="#0C0C0C" stroke-width="4" stroke-linecap="square" fill-rule="nonzero" points="64 304 124 164 174 304 234 164 284 304 344 164 394 304"></polyline>
+        <path id="Line" d="M1199,361 L1218,370.5 L1199,380 L1199,372 L35,372 L35,369 L1199,369 L1199,361 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path id="Line" d="M36.5,21 L46,40 L38,40 L38,372 L35,372 L35,40 L27,40 L36.5,21 Z" fill="#000000" fill-rule="nonzero"></path>
+        <polyline id="Path-36" stroke="#0C0C0C" stroke-width="4" stroke-linecap="square" fill-rule="nonzero" points="554 304 594 164 644 184 794 124 944 184 994 224 1064 174 1134 164"></polyline>
+    </g>
+</svg>

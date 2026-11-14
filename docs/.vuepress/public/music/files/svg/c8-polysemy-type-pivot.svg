@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="531px" height="350px" viewBox="0 0 531 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-polysemy-type-pivot</title>
+    <g id="c8-polysemy-type-pivot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
+        <rect id="背景" fill="#FAFAFA" fill-rule="nonzero" x="30" y="31" width="473" height="303" rx="9"></rect>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero" x="60" y="208" width="90" height="54" rx="3"></rect>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero" x="225" y="208" width="90" height="54" rx="3"></rect>
+        <text id="A" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#0C0C0C">
+            <tspan x="260.092" y="246">A</tspan>
+        </text>
+        <text id="前" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#0C0C0C">
+            <tspan x="92" y="246">前</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero" x="390" y="94" width="90" height="54" rx="3"></rect>
+        <text id="後" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#0C0C0C">
+            <tspan x="422" y="132">後</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero" x="225" y="94" width="90" height="54" rx="3"></rect>
+        <text id="B" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#0C0C0C">
+            <tspan x="261.321" y="132">B</tspan>
+        </text>
+        <text id="Polysemic" font-family="HiraginoSans-W6, Hiragino Sans" font-size="14" font-weight="500" fill="#0C0C0C">
+            <tspan x="234.088" y="305">Polysemic</tspan>
+        </text>
+        <line x1="150" y1="236" x2="224" y2="236" id="Path-50" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="271.25" y1="151" x2="270.5" y2="209.24359" id="Path-50" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <polygon id="Triangle" fill="#000000" fill-rule="nonzero" points="271 171 278 183 264 183"></polygon>
+        <text id="ピボット式-:-ターゲットの変更" font-family="HiraginoSans-W6, Hiragino Sans" font-size="24" font-weight="500" fill="#0C0C0C">
+            <tspan x="103.268" y="41">枢纽式：目标变更</tspan>
+        </text>
+        <line x1="315" y1="122" x2="389" y2="122" id="Path-50" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <path d="M219,71 L319,71 C325.075132,71 330,75.9248678 330,82 L330,270 C330,276.075132 325.075132,281 319,281 L219,281 C212.924868,281 208,276.075132 208,270 L208,82 C208,75.9248678 212.924868,71 219,71 Z" id="Rectangle" stroke="#000000" stroke-width="1.5" stroke-linecap="square" stroke-dasharray="4,8" fill-rule="nonzero"></path>
+    </g>
+</svg>

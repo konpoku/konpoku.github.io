@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="280px" viewBox="0 0 420 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>nx-what-is-nexus</title>
+    <g id="nx-what-is-nexus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(24.000000, 105.000000)">
+            <rect id="Rectangle-Copy" fill="#58C322" x="0" y="0" width="120" height="80" rx="10"></rect>
+            <g id="Group" transform="translate(42.000000, 24.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="CS-A">
+                    <path d="M21.312,32 L21.312,-0.016 L14.736,-0.016 L14.736,32 L21.312,32 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(271.000000, 105.000000)">
+            <rect id="Rectangle-Copy" fill="#FF5500" x="0" y="0" width="120" height="80" rx="10"></rect>
+            <g id="Group" transform="translate(42.000000, 26.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="CS-A">
+                    <path d="M21.312,32 L31.392,-0.016 L24.624,-0.016 L17.856,21.44 L11.376,-0.016 L4.608,-0.016 L14.304,32 L21.312,32 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+        <path id="Line-7" d="M234,133 L258,145 L234,157 L234,147 L155,147 L155,143 L234,143 L234,133 Z" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M198.5,145 L218.020363,103.413139 C220.276944,98.6056411 220.884893,93.1880834 219.75,88 C218.728261,83.3291951 214.592082,80 209.81083,80 L206.5,80 C202.081722,80 198.5,83.581722 198.5,88 L198.5,91.6339377 C198.5,94.2862096 200.070102,96.6869195 202.5,97.75 C204.994071,98.8411561 207.871243,98.5935848 210.142253,97.0924091 L221.25,89.75 C230.600984,83.5688414 236.74184,73.570717 238.026692,62.4353332 L239,54 L239,54" id="Path-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <text id="コードの「接続」" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="145" y="46">和弦的“连接”</tspan>
+        </text>
+        <text id="「コード進行」" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#000000">
+            <tspan x="142" y="250">“和弦进行”</tspan>
+        </text>
+        <polyline id="Path-4" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" points="24 195.5 24 223.5 391 223.5 391 195.5"></polyline>
+    </g>
+</svg>

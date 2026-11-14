@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="850px" height="670px" viewBox="0 0 850 670" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-blk-classification</title>
+    <g id="c8-blk-classification" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="850" height="670"></rect>
+        <text id="[0,2,6,10]の音程編成によるコー" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="45" y="427">由[0,2,6,10]音程构成的和弦</tspan>
+        </text>
+        <g id="Group" transform="translate(31.911085, 288.203975)">
+            <g id="Key">
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="16.458732 63.8668305 16.4773963 1.13959783 0 1.13959783 0 108.991676 24.0023851 108.991676 24.0023851 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="46.3263954 63.7511752 46.3445368 1.13959783 32.2321698 1.13959783 32.2321698 63.7511752 26.0601784 63.7511752 26.0601784 108.991676 51.4343592 108.991676 51.4343592 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" transform="translate(65.492063, 55.065637) scale(-1, 1) translate(-65.492063, -55.065637) " points="68.5781767 63.8668305 68.596841 1.13959783 53.4908705 1.13959783 53.4908705 108.991676 77.4932555 108.991676 77.4932555 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="96.010911 63.8668305 96.0295754 1.13959783 79.5521791 1.13959783 79.5521791 108.991676 102.868851 108.991676 102.868851 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="124.507435 63.7511752 124.525577 1.13959783 111.098636 1.13959783 111.098636 63.7511752 104.926645 63.7511752 104.926645 108.991676 129.61461 108.991676 129.61461 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="151.938412 63.7511752 151.956553 1.13959783 139.901254 1.13959783 139.901254 63.7511752 131.672195 63.7511752 131.672195 108.991676 156.36016 108.991676 156.36016 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" transform="translate(170.989419, 55.065637) scale(-1, 1) translate(-170.989419, -55.065637) " points="174.777628 63.8668305 174.797181 1.13959783 158.416748 1.13959783 158.416748 108.991676 183.56209 108.991676 183.56209 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="201.622306 63.8668305 201.640971 1.13959783 185.163574 1.13959783 185.163574 108.991676 209.165959 108.991676 209.165959 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" points="231.48997 63.7511752 231.508111 1.13959783 217.395744 1.13959783 217.395744 63.7511752 211.223753 63.7511752 211.223753 108.991676 236.597934 108.991676 236.597934 63.7511752"></polygon>
+                <polygon id="Path" stroke="#232222" fill="#FFFFFF" transform="translate(250.655637, 55.065637) scale(-1, 1) translate(-250.655637, -55.065637) " points="253.741751 63.8668305 253.760415 1.13959783 238.654445 1.13959783 238.654445 108.991676 262.65683 108.991676 262.65683 63.7511752"></polygon>
+                <rect id="Rectangle" fill="#474747" x="15.9525457" y="0" width="17.7447732" height="64.0635065"></rect>
+                <rect id="Rectangle" fill="#474747" x="45.4409149" y="0" width="17.7447732" height="64.0635065"></rect>
+                <rect id="Rectangle" fill="#474747" x="93.8177863" y="0" width="17.7447732" height="64.0635065"></rect>
+                <rect id="Rectangle" fill="#474747" x="122.934746" y="0" width="17.7447732" height="64.0635065"></rect>
+                <rect id="Rectangle" fill="#474747" x="151.052931" y="0" width="17.7447732" height="64.0635065"></rect>
+                <rect id="Rectangle" fill="#474747" x="201.114895" y="0" width="17.7447732" height="64.0635065"></rect>
+                <rect id="Rectangle" fill="#474747" x="230.604489" y="0" width="17.7447732" height="64.0635065"></rect>
+            </g>
+            <g transform="translate(102.353769, 53.650424) scale(-1, 1) translate(-102.353769, -53.650424) translate(95.495729, 46.943414)" fill="#F14D08" id="_-">
+                <ellipse id="Oval" cx="6.85803995" cy="6.70700995" rx="6.85803995" ry="6.70700995"></ellipse>
+            </g>
+            <g transform="translate(160.809599, 53.650424) scale(-1, 1) translate(-160.809599, -53.650424) translate(153.951560, 46.943414)" fill="#F14D08" id="_-1">
+                <ellipse id="Oval" cx="6.85803995" cy="6.70700995" rx="6.85803995" ry="6.70700995"></ellipse>
+            </g>
+            <g transform="translate(11.922054, 96.010566) scale(-1, 1) translate(-11.922054, -96.010566) translate(5.064014, 89.303556)" fill="#F14D08" id="_-2">
+                <ellipse id="Oval" cx="6.85803995" cy="6.70700995" rx="6.85803995" ry="6.70700995"></ellipse>
+            </g>
+            <g transform="translate(38.667822, 96.010566) scale(-1, 1) translate(-38.667822, -96.010566) translate(31.809782, 89.303556)" fill="#F14D08" id="_-3">
+                <ellipse id="Oval" cx="6.85803995" cy="6.70700995" rx="6.85803995" ry="6.70700995"></ellipse>
+            </g>
+        </g>
+        <g id="Group" transform="translate(601.125146, 264.614671) scale(-1, 1) rotate(-180.000000) translate(-601.125146, -264.614671) translate(589.784825, 264.114620)" stroke="#000000" stroke-linecap="square" stroke-width="5">
+            <line x1="0" y1="0.500051343" x2="22.6806434" y2="0.500051343" id="Path"></line>
+        </g>
+        <g id="Group" transform="translate(622.719249, 266.914991) scale(-1, 1) rotate(-180.000000) translate(-622.719249, -266.914991) translate(612.438497, 221.914991)" stroke="#000000" stroke-linecap="square" stroke-width="5">
+            <polyline id="Path" points="20.5615028 0 0 0.0782871217 0 90 20.5428717 90"></polyline>
+        </g>
+        <g id="Group" transform="translate(611.784825, 525.199731) scale(-1, 1) rotate(-180.000000) translate(-611.784825, -525.199731) translate(589.784825, 524.199731)" stroke="#000000" stroke-linecap="square" stroke-width="5">
+            <line x1="0" y1="0.500051343" x2="43.7151754" y2="0.699731468" id="Path"></line>
+        </g>
+        <g id="Group" transform="translate(622.500000, 527.000000) scale(-1, 1) rotate(-180.000000) translate(-622.500000, -527.000000) translate(612.000000, 437.000000)" stroke="#000000" stroke-linecap="square" stroke-width="5">
+            <polyline id="Path" points="21 0 0 0.156574243 0 180 20.9809715 180"></polyline>
+        </g>
+        <line x1="353.80975" y1="264.902267" x2="383.935057" y2="264.902267" id="Path" stroke="#000000" stroke-width="5" stroke-linecap="square"></line>
+        <polyline id="Path" stroke="#000000" stroke-width="5" stroke-linecap="square" points="316.018156 361.777762 352.485201 361.777762 352.485201 95.7777616 385 96"></polyline>
+        <polyline id="Path" stroke="#000000" stroke-width="5" stroke-linecap="square" points="383.570541 528.256266 352.570541 528.256266 352.570541 340.256266"></polyline>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="386" y="52" width="201" height="30"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="14" y="234" width="300" height="30"></rect>
+        <text id="①ホールトーン系" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="395.366206" y="73.6217593">①全音阶系</tspan>
+        </text>
+        <text id="※異名同音や他の音程の-構成は一切問わな" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="72" y="484">※完全不问等音或其他音程的</tspan>
+            <tspan x="72" y="505.000014">　完全不限内部构成</tspan>
+        </text>
+        <text id="“Blackadder-Chord”" font-family="HiraginoSans-W6, Hiragino Sans" font-size="20" font-weight="500" fill="#FFFFFF">
+            <tspan x="52" y="257">“Blackadder Chord”</tspan>
+        </text>
+        <text id="全音音階上で-何の気なしに発生" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="399" y="101">在全音音阶上</tspan>
+            <tspan x="399" y="122.000014">无意之中产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="387" y="52" width="200" height="80"></rect>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="15" y="260" width="298" height="200"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="386" y="222" width="201" height="30"></rect>
+        <text id="②スラッシュコード系" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="395.366206" y="243.621759">②斜线和弦系</tspan>
+        </text>
+        <text id="全体の親スケールに対し-独立な動きをした" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="399" y="272">相对于整体的母音阶</tspan>
+            <tspan x="399" y="293.000014">声部进行独立运动时产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="387" y="222" width="200" height="80"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="635" y="179" width="201" height="30"></rect>
+        <text id="(1)経過偶成" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="644.366206" y="200.621759">(1)経過偶成</tspan>
+        </text>
+        <text id="二声部が同時に半音階的に-動いたとき偶発" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="648" y="227">两声部同时呈半音阶进行</tspan>
+            <tspan x="648" y="248.000014">声部运动时偶然产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="636" y="179" width="200" height="80"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="635" y="269" width="201" height="30"></rect>
+        <text id="(2)aug+ベース反転" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="644.366206" y="290.621759">(2)aug+贝斯反转</tspan>
+        </text>
+        <text id="みんながaugを弾いてるとき-ベースが反" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="648" y="318">当大家都在弹奏aug时</tspan>
+            <tspan x="648" y="339.000014">贝斯反转产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="636" y="269" width="200" height="80"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="635" y="392" width="201" height="30"></rect>
+        <text id="(1)domi9由来" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="644.366206" y="413.621759">(1)domi9由来</tspan>
+        </text>
+        <text id="各種ドミナントコードの-変形として発生" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="648" y="441">各种属和弦的</tspan>
+            <tspan x="648" y="462.000014">作为变形而产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="636" y="392" width="200" height="80"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="635" y="482" width="201" height="30"></rect>
+        <text id="(2)half-dim由来" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="644.366206" y="503.621759">(2)half dim由来</tspan>
+        </text>
+        <text id="各種ハーフディミニッシュの-変形として発" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="648" y="531">各种半减七和弦的</tspan>
+            <tspan x="648" y="552.000014">作为变形而产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="636" y="482" width="200" height="80"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="635" y="572" width="201" height="30"></rect>
+        <text id="(3)aug6由来" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="644.366206" y="593.621759">(3)aug6由来</tspan>
+        </text>
+        <text id="各種「増六の諸和音」の-変形として発生" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="648" y="621">各种“增六诸和弦”的</tspan>
+            <tspan x="648" y="642.000014">作为变形而产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="636" y="572" width="200" height="80"></rect>
+        <rect id="Rectangle" fill="#000000" fill-rule="nonzero" x="386" y="482" width="201" height="30"></rect>
+        <text id="③テンションコード系" fill="#F9F9F9" fill-rule="nonzero" font-family="HiraginoSans-W6, Hiragino Sans" font-size="18" font-weight="500">
+            <tspan x="395.366206" y="503.621759">③引伸和弦系</tspan>
+        </text>
+        <text id="過激なテンションコードで-3rdを抜いた" fill="#000000" fill-rule="nonzero" font-family="HiraginoSans-W4, Hiragino Sans" font-size="14" font-weight="normal">
+            <tspan x="399" y="530">在激进的引伸和弦中</tspan>
+            <tspan x="399" y="551.000014">省略3rd时产生</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero" x="387" y="482" width="200" height="80"></rect>
+    </g>
+</svg>
