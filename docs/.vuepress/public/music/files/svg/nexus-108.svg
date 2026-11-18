@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1012 487" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-4740.37,-1289.56)">
+        <g id="nexus.-108" transform="matrix(0.985373,0,0,0.607925,3490.92,1289.56)">
+            <rect x="1268" y="0" width="1027" height="800" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="1268" y="0" width="1027" height="800"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.08682,0,0,1.32801,-12.4712,-460.59)">
+                    <path d="M1651.65,419.901C1651.65,408.917 1644.93,400 1636.65,400L1334,400C1325.72,400 1319,408.917 1319,419.901L1319,765.099C1319,776.083 1325.72,785 1334,785L1636.65,785C1644.93,785 1651.65,776.083 1651.65,765.099L1651.65,419.901Z" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1366.42,-561.963)">
+                    <text x="89.874px" y="668.244px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:26px;">コードクオリティの変化</text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1612.14,-715.065)">
+                    <text x="195.884px" y="668.244px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:108px;">×</text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1376.98,-965.095)">
+                    <text x="76.874px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">①</text>
+                    <text x="100.874px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">Δ7</text>
+                    <text x="131.553px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="155.553px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">Δ7</text>
+                    <text x="76.874px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">②</text>
+                    <text x="100.874px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">Δ7</text>
+                    <text x="131.553px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="155.553px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">m7</text>
+                    <text x="76.874px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">③</text>
+                    <text x="100.874px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">Δ7</text>
+                    <text x="131.553px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="155.553px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">7</text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1549.5,-965.095)">
+                    <text x="76.874px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑦</text>
+                    <text x="100.874px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">7</text>
+                    <text x="114.221px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="138.221px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">Δ7</text>
+                    <text x="76.874px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑧</text>
+                    <text x="100.874px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">7</text>
+                    <text x="114.221px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="138.221px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">m7</text>
+                    <text x="76.874px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑨</text>
+                    <text x="100.874px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">7</text>
+                    <text x="114.221px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="138.221px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">7</text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1376.98,-781.672)">
+                    <text x="76.874px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">④</text>
+                    <text x="100.874px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">m7</text>
+                    <text x="134.213px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="158.213px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">Δ7</text>
+                    <text x="76.874px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑤</text>
+                    <text x="100.874px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">m7</text>
+                    <text x="134.213px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="158.213px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">m7</text>
+                    <text x="76.874px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑥</text>
+                    <text x="100.874px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">m7</text>
+                    <text x="134.213px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">→</text>
+                    <text x="158.213px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">7</text>
+                </g>
+                <g transform="matrix(1.08682,0,0,1.32801,474.654,-460.59)">
+                    <path d="M1651.65,419.901C1651.65,408.917 1644.93,400 1636.65,400L1334,400C1325.72,400 1319,408.917 1319,419.901L1319,765.099C1319,776.083 1325.72,785 1334,785L1636.65,785C1644.93,785 1651.65,776.083 1651.65,765.099L1651.65,419.901Z" style="fill:rgb(236,236,236);"/>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1874.25,-965.095)">
+                    <text x="76.874px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">①</text>
+                    <text x="100.874px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">P1(</text>
+                    <text x="138.221px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">停留</text>
+                    <text x="186.221px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">)</text>
+                    <text x="76.874px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">②短</text>
+                    <text x="124.874px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">2</text>
+                    <text x="138.221px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">上行</text>
+                    <text x="76.874px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">③長</text>
+                    <text x="124.874px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">2</text>
+                    <text x="138.221px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">上行</text>
+                    <text x="76.874px" y="776.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">④短</text>
+                    <text x="124.874px" y="776.244px" style="font-family:'Helvetica';font-size:24px;">3</text>
+                    <text x="138.221px" y="776.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">上行</text>
+                    <text x="76.874px" y="812.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑤長</text>
+                    <text x="124.874px" y="812.244px" style="font-family:'Helvetica';font-size:24px;">3</text>
+                    <text x="138.221px" y="812.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">上行</text>
+                    <text x="76.874px" y="848.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑥</text>
+                    <text x="100.874px" y="848.244px" style="font-family:'Helvetica';font-size:24px;">P4</text>
+                    <text x="130.229px" y="848.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">上行</text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,2026.48,-965.095)">
+                    <text x="76.874px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑦<tspan x="101.114px " y="668.244px ">増</tspan></text>
+                    <text x="125.354px" y="668.244px" style="font-family:'Helvetica';font-size:24px;">4</text>
+                    <text x="138.941px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">移<tspan x="163.181px " y="668.244px ">動</tspan></text>
+                    <text x="76.874px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑧<tspan x="101.114px " y="704.244px ">短</tspan></text>
+                    <text x="125.354px" y="704.244px" style="font-family:'Helvetica';font-size:24px;">2</text>
+                    <text x="138.941px" y="704.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">下<tspan x="163.181px " y="704.244px ">行</tspan></text>
+                    <text x="76.874px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑨<tspan x="101.114px " y="740.244px ">長</tspan></text>
+                    <text x="125.354px" y="740.244px" style="font-family:'Helvetica';font-size:24px;">2</text>
+                    <text x="138.941px" y="740.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">下<tspan x="163.181px " y="740.244px ">行</tspan></text>
+                    <text x="76.874px" y="776.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑩<tspan x="101.114px " y="776.244px ">短</tspan></text>
+                    <text x="125.354px" y="776.244px" style="font-family:'Helvetica';font-size:24px;">3</text>
+                    <text x="138.941px" y="776.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">下<tspan x="163.181px " y="776.244px ">行</tspan></text>
+                    <text x="76.874px" y="812.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑪<tspan x="101.114px " y="812.244px ">長</tspan></text>
+                    <text x="125.354px" y="812.244px" style="font-family:'Helvetica';font-size:24px;">3</text>
+                    <text x="138.941px" y="812.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">下<tspan x="163.181px " y="812.244px ">行</tspan></text>
+                    <text x="76.874px" y="848.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">⑫</text>
+                    <text x="101.114px" y="848.244px" style="font-family:'Helvetica';font-size:24px;">P<tspan x="117.361px " y="848.244px ">4</tspan></text>
+                    <text x="130.949px" y="848.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:24px;">下<tspan x="155.189px " y="848.244px ">行</tspan></text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1853.55,-561.963)">
+                    <text x="128.874px" y="668.244px" style="font-family:'HiraKakuProN-W6', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:600;font-size:26px;">ルートの度数変化</text>
+                </g>
+                <g transform="matrix(1.01484,0,0,1.64494,1306.08,-354.299)">
+                    <text x="128.874px" y="668.244px" style="font-family:'HiraKakuProN-W3', 'Hiragino Kaku Gothic ProN', sans-serif;font-weight:300;font-size:26px;">こういう計算です</text>
+                </g>
+                <g>
+                    <g transform="matrix(1.01484,-0,-0,1.64494,1268,-0)">
+                        <use xlink:href="#_Image2" x="29.229" y="266.806" width="142.414px" height="192.476px" transform="matrix(0.995904,0,0,0.997286,0,0)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="143px" height="193px" xlink:href="data:image/png;base64,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"/>
+    </defs>
+</svg>

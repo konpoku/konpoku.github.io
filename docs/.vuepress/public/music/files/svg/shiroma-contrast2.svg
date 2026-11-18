@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 900 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="BG" transform="matrix(0.197774,0,0,0.333333,2.22092,290.333)">
+        <ellipse cx="898.898" cy="485" rx="707.877" ry="75" style="fill:rgb(10,10,10);fill-opacity:0.05;"/>
+    </g>
+    <g id="スカート-影" transform="matrix(2.5,2.31588e-31,2.17113e-32,0.15625,-2856.02,286.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(14,21,23);fill-opacity:0.5;"/>
+    </g>
+    <g id="脚" transform="matrix(3.75,3.47381e-31,1.62835e-31,1.17187,-4345.02,-365.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(89,42,34);"/>
+    </g>
+    <g id="脚1" transform="matrix(3.74435,3.46858e-31,1.62835e-31,1.17187,-4273.24,-365.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(89,42,34);"/>
+    </g>
+    <g id="靴" transform="matrix(-0.9,-8.33715e-32,1.56322e-30,11.25,361.4,-2740)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(133,117,110);"/>
+    </g>
+    <g id="靴1" transform="matrix(-0.9,-8.33715e-32,2.43167e-31,1.75,359.377,-35)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(133,117,110);"/>
+    </g>
+    <g id="靴2" transform="matrix(-1,-9.2635e-32,5.21072e-31,3.75,316,-605)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(133,117,110);"/>
+    </g>
+    <g id="靴3" transform="matrix(-0.85,-7.87398e-32,1.56322e-30,11.25,289.6,-2744)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(133,117,110);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-66.0226,6)">
+        <g id="スカート" transform="matrix(21.2556,1.96902e-30,1.51979e-31,1.09375,-25215.8,-407.875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="スカート1" transform="matrix(23.75,2.20008e-30,5.21072e-32,0.375,-28209,74.5)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="スカート2" transform="matrix(26,2.45157e-30,9.59849e-32,0.703125,-30905,-107.562)">
+            <path d="M1200,628L1196,628L1196,692L1198.8,692L1198.8,684.967L1200,684.967L1200,628Z" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="ワンピース" transform="matrix(20,1.8527e-30,2.17113e-31,1.5625,-23714,-797.25)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="ワンピース1" transform="matrix(20,1.8527e-30,1.84546e-31,1.32812,-23714,-650.062)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(234,235,224);"/>
+        </g>
+    </g>
+    <g id="シワ" transform="matrix(8.75565,8.1108e-31,1.08557e-32,0.078125,-10331.8,325.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ1" transform="matrix(2.5,1.15794e-31,2.17113e-32,0.078125,-2775.02,265.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ2" transform="matrix(5,4.63175e-31,1.08557e-32,0.078125,-5775.02,305.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ3" transform="matrix(3.24435,3.0054e-31,6.5134e-33,0.046875,-3662.24,337.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ4" transform="matrix(7.5,6.94763e-31,6.5134e-33,0.046875,-8780,340.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ5" transform="matrix(12.5,1.15794e-30,6.5134e-33,0.046875,-14810,343.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ6" transform="matrix(3,2.77905e-31,6.5134e-33,0.046875,-3460,346.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ7" transform="matrix(1.25,1.15794e-31,6.5134e-33,0.046875,-1370,343.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:white;fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ8" transform="matrix(5,2.31588e-31,2.17113e-32,0.078125,-5785.02,275.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ9" transform="matrix(3.75,3.47381e-31,1.08557e-32,0.078125,-4291,185.938)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ10" transform="matrix(1.25,1.15794e-31,4.34227e-32,0.3125,-1295,73.75)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ11" transform="matrix(1.25,1.15794e-31,4.34227e-32,0.3125,-1340,103.75)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ12" transform="matrix(1.25,1.15794e-31,6.5134e-32,0.46875,-1335,-24.375)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ13" transform="matrix(7.49435,6.94239e-31,1.08557e-32,0.078125,-8788.24,315.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ14" transform="matrix(10,1.15794e-30,8.68453e-33,0.078125,-11805,285.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g transform="matrix(2.49435,2.44739e-31,4.91956e-32,0.375,-2853.24,80.5)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g transform="matrix(1.25,1.22647e-31,9.22418e-32,0.703125,-1370,-101.563)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ15" transform="matrix(8.49435,7.86874e-31,1.51979e-32,0.109375,-9959.24,304.313)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g id="シワ16" transform="matrix(14.946,1.38453e-30,1.95402e-32,0.140625,-17735.5,287.687)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g id="シワ17" transform="matrix(4.5,4.16858e-31,1.51979e-32,0.109375,-5260,309.313)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-66.0226,6)">
+        <g id="しっぽ" transform="matrix(3.75,3.47381e-31,3.2567e-32,0.234375,-4303.98,171.812)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ1" transform="matrix(13.25,1.22741e-30,2.17113e-32,0.15625,-15709,210.875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ2" transform="matrix(2.25,2.08429e-31,3.91714e-32,0.281905,-2561.98,123.922)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ3" transform="matrix(8.25,7.64239e-31,1.7278e-32,0.124345,-9761.98,214.911)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ4" transform="matrix(2.0079,1.86002e-31,5.20853e-32,0.374842,-2296.42,36.4192)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ5" transform="matrix(6.25,5.78969e-31,6.94763e-32,0.5,-7378.98,-72)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ6" transform="matrix(2,1.8527e-31,5.42783e-32,0.390625,-2295.98,-28.3125)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(246,247,212);"/>
+        </g>
+        <g id="しっぽ7" transform="matrix(1.9921,1.84538e-31,5.42783e-32,0.390625,-2269.5,-28.3125)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(246,247,212);"/>
+        </g>
+    </g>
+    <g transform="matrix(3.75,3.67941e-31,4.5096e-32,0.34375,-4345,147.125)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(2,1.96235e-31,2.04982e-32,0.15625,-2247,254.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1.25,1.22647e-31,2.04982e-32,0.15625,-1348,244.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-3.75,3.67941e-31,-5.12455e-32,0.390625,4670,114.687)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-2,1.96235e-31,-2.04982e-32,0.15625,2574,251.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1,9.81175e-32,-2.04982e-32,0.15625,1376,241.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-3.75,3.67941e-31,-3.68967e-32,0.28125,4694,181.375)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-2,1.96235e-31,-1.63985e-32,0.125,2598,271.5)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1,9.81175e-32,-1.43487e-32,0.109375,1400,274.313)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-2,1.96235e-31,-3.48469e-32,0.265625,2626,189.188)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1.5,1.47176e-31,-1.43487e-32,0.109375,2025,280.312)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1,9.81175e-32,-1.22989e-32,0.09375,1425,284.125)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(2.12895,1.97215e-31,3.77695e-32,0.271816,-2328.56,144.409)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(41,153,193);fill-opacity:0.05;"/>
+    </g>
+    <g id="セーター" transform="matrix(1,0,0,1,-66.0226,6)">
+        <g id="腕" transform="matrix(0.5,4.63175e-32,6.60025e-31,4.75,118.023,-1106)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(207,207,191);"/>
+        </g>
+        <g id="腕1" transform="matrix(0.75,6.94763e-32,2.1885e-30,15.75,69.0226,-4216)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(221,222,210);"/>
+        </g>
+        <g id="腕2" transform="matrix(0.75,6.94763e-32,1.04214e-30,7.5,69.0226,-1906)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕3" transform="matrix(0.25,2.31588e-32,1.38953e-30,10,162.023,-2616)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕4" transform="matrix(0.25,2.31588e-32,1.38953e-30,10,247.023,-2616)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕5" transform="matrix(0.750635,6.95351e-32,5.21072e-31,3.75,63.9108,-816)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕6" transform="matrix(0.750635,6.95351e-32,2.77905e-30,20,63.9108,-5376)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(226,227,216);"/>
+        </g>
+        <g id="腕7" transform="matrix(0.750635,6.95351e-32,8.68453e-31,6.25,63.9108,-1526)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕8" transform="matrix(0.75,6.94763e-32,1.70217e-30,12.25,56.0226,-3181)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(226,226,214);"/>
+        </g>
+        <g id="腕9" transform="matrix(0.75,6.94763e-32,6.94763e-31,5,56.0226,-1151)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕10" transform="matrix(0.6,5.5581e-32,1.73691e-30,12.5,197.423,-3306)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕11" transform="matrix(0.75,6.94763e-32,1.56322e-30,11.25,181.023,-2931)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕12" transform="matrix(0.75,6.94763e-32,1.73691e-30,12.5,189.023,-3266)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕13" transform="matrix(1,9.2635e-32,5.21072e-31,3.75,160.023,-811)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+        <g id="腕14" transform="matrix(0.75,6.94763e-32,1.38953e-30,10,203.023,-2548)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+        </g>
+    </g>
+    <g transform="matrix(-2,1.96235e-31,-1.0864e-31,0.828125,2661,-275.062)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1.75,-1.71706e-31,-3.07473e-32,0.234375,-1839,135.813)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(3.5,-3.43411e-31,-2.04982e-32,0.15625,-3946,181.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(2,-1.96235e-31,-2.45978e-32,0.1875,-2160,140.25)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1.75,-1.71706e-31,-2.2548e-32,0.171875,-1868,131.062)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(3.75,-3.67941e-31,-2.04982e-32,0.15625,-4370,201.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1.99682,-1.95923e-31,-1.63985e-32,0.125,-2281.2,217.5)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1.25,-1.22647e-31,-2.04982e-32,0.15625,-1365,154.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(212,66,41);"/>
+    </g>
+    <g id="アウター.28.暗.29." transform="matrix(-0.261097,-1.97891e-32,1.69831e-30,10,185.953,-2570)">
+        <rect x="156" y="280" width="20" height="4" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="首" transform="matrix(-1.5,-1.38953e-31,2.16825e-30,15.6043,434,-4241.4)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,163,118);"/>
+    </g>
+    <g id="えり" transform="matrix(-0.5,-4.63175e-32,6.94763e-31,5,258,-1220)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,231,231);"/>
+    </g>
+    <g id="えり1" transform="matrix(-0.5,-4.63175e-32,6.94763e-31,5,278,-1220)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,231,231);"/>
+    </g>
+    <g id="えり2" transform="matrix(-0.5,-4.63175e-32,6.94763e-31,5,268,-1210)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,231,231);"/>
+    </g>
+    <g id="えり3" transform="matrix(-0.5,-4.63175e-32,3.39911e-31,2.44624,268,-494.732)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,231,231);"/>
+    </g>
+    <g id="ヘアー" transform="matrix(-1.15173,-1.06691e-31,2.79801e-30,20.1364,396.705,-5528.75)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(142,107,48);"/>
+    </g>
+    <g id="肌" transform="matrix(0.85,7.87398e-32,5.90548e-31,4.25,-18.6,-915)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,197,157);"/>
+    </g>
+    <g id="肌1" transform="matrix(1,9.2635e-32,6.94763e-31,5,113,-1155)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(248,186,145);"/>
+    </g>
+    <g id="肌2" transform="matrix(-2.55474,-2.36658e-31,1.36046e-30,9.79084,607.058,-2609.89)">
+        <path d="M176,280L156,280L156,283.8C156,283.91 156.343,284 156.766,284L176,284L176,280Z" style="fill:rgb(255,197,157);"/>
+    </g>
+    <g id="め" transform="matrix(-0.414053,7.29891e-17,-1.60166e-15,2.54663,246.57,-581.242)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+    </g>
+    <g id="め1" transform="matrix(-0.4,7.05119e-17,-1.60166e-15,2.54663,270.377,-581.242)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+    </g>
+    <g id="ヘアー1" transform="matrix(-0.5,-4.63175e-32,2.08429e-30,15,305,-4081)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(213,214,196);fill-opacity:0.9;"/>
+    </g>
+    <g id="ヘアー2" transform="matrix(-0.5,-4.63175e-32,8.68453e-31,6.25,305,-1613)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);fill-opacity:0.6;"/>
+    </g>
+    <g id="ヘアー3" transform="matrix(-1.5,-1.38953e-31,6.60025e-31,4.75,407.977,-1159)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー4" transform="matrix(-1.8,-1.66743e-31,2.25798e-30,16.25,450.8,-4436)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー5" transform="matrix(-0.867913,-8.03992e-32,4.7988e-31,3.45355,339.109,-844.167)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー6" transform="matrix(-0.427067,-3.95613e-32,6.24282e-31,4.49277,254.105,-1141.65)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー7" transform="matrix(-0.427067,-3.95613e-32,3.83849e-31,2.76245,279.626,-645.688)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー8" transform="matrix(-2.23003,-2.06579e-31,1.04214e-30,7.5,549.91,-1999)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー9" transform="matrix(-1.07022,-9.91397e-32,7.22482e-31,5.19948,383.989,-1348.86)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー10" transform="matrix(-0.9,-8.33715e-32,1.38953e-31,1,332.4,-170)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+    </g>
+    <g id="ヘアー11" transform="matrix(-0.9,-8.33715e-32,1.38953e-31,1,350.4,-166)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+    </g>
+    <g id="ヘアー12" transform="matrix(-0.75,-6.94763e-32,1.38953e-31,1,291,-160)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+    </g>
+    <g id="ヘアー13" transform="matrix(-0.801731,-7.42684e-32,7.06109e-31,5.08166,342.105,-1332.86)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(226,226,214);"/>
+    </g>
+    <g id="ほっぺ" transform="matrix(-0.838731,-7.76959e-32,1.99407e-31,1.43507,293.875,-261.517)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);"/>
+    </g>
+    <g id="ほっぺ1" transform="matrix(-0.838731,-7.76959e-32,1.99407e-31,1.43507,293.875,-257.259)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);fill-opacity:0.5;"/>
+    </g>
+    <g id="ほっぺ2" transform="matrix(-0.630102,-5.83696e-32,1.99407e-31,1.43507,319.816,-255.777)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);fill-opacity:0.5;"/>
+    </g>
+    <g id="腕15" transform="matrix(0.75,6.94763e-32,1.04214e-30,7.5,27,-2000)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕16" transform="matrix(1,9.2635e-32,1.04214e-30,7.5,-2,-2010)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕17" transform="matrix(0.9,8.33715e-32,1.04214e-30,7.5,33.6,-2020)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕18" transform="matrix(0.9,8.33715e-32,7.64239e-31,5.5,51.6,-1448)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕19" transform="matrix(0.501237,4.64321e-32,9.03191e-31,6.5,131.807,-1718)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕20" transform="matrix(0.75,6.94763e-32,5.21072e-31,3.75,27,-875)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕21" transform="matrix(0.375,3.47381e-32,3.12643e-30,22.5,85.5,-6200)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g id="腕22" transform="matrix(0.75,6.94763e-32,2.43167e-30,17.5,12,-4786)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(234,235,224);"/>
+    </g>
+    <g transform="matrix(0.776006,0,0,1,-6.88679,6)">
+        <path d="M245.72,155.739C246.895,157.972 247.153,158.023 256.051,158.054C262.921,158.079 263.664,157.314 264.434,155.509" style="fill:none;stroke:rgb(227,132,116);stroke-opacity:0.7;stroke-width:2.23px;"/>
+    </g>
+    <g id="杖" transform="matrix(1,0,0,2.3,-1125,-400)">
+        <g id="脚2" transform="matrix(-0.8,0,0,0.973244,2104,-535.652)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(203,199,198);"/>
+        </g>
+        <g id="脚3" transform="matrix(-1.2,0,0,0.0802676,2469,153.913)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(179,177,176);"/>
+        </g>
+        <g id="脚4" transform="matrix(-2.5,0,0,0.0267559,3600,202.609)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(203,199,198);"/>
+        </g>
+        <g id="脚5" transform="matrix(-1.2,0,0,0.0167224,2469,208.261)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(193,191,190);"/>
+        </g>
+        <g id="脚6" transform="matrix(2,0,0,-0.0367893,-335,241.739)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(181,178,176);"/>
+        </g>
+        <g id="脚7" transform="matrix(-1.8,0,0,0.100334,2979,130)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(203,199,198);"/>
+        </g>
+    </g>
+    <g id="肌3" transform="matrix(0.45,4.16858e-32,1.73691e-31,1.25,198.8,-105)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(248,186,145);"/>
+    </g>
+    <g id="BG1" transform="matrix(-0.197774,0,0,0.333333,897.779,290.333)">
+        <ellipse cx="898.898" cy="485" rx="707.877" ry="75" style="fill:rgb(10,10,10);fill-opacity:0.05;"/>
+    </g>
+    <g id="スカート-影1" transform="matrix(-2.5,2.31588e-31,-2.17113e-32,0.15625,3756.02,286.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(14,21,23);fill-opacity:0.5;"/>
+    </g>
+    <g id="脚8" transform="matrix(-3.75,3.47381e-31,-1.62835e-31,1.17187,5245.02,-365.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(89,42,34);"/>
+    </g>
+    <g id="脚9" transform="matrix(-3.74435,3.46858e-31,-1.62835e-31,1.17187,5173.24,-365.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(89,42,34);"/>
+    </g>
+    <g id="靴4" transform="matrix(0.9,-8.33715e-32,-1.56322e-30,11.25,538.6,-2740)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(54,74,88);"/>
+    </g>
+    <g id="靴5" transform="matrix(0.9,-8.33715e-32,-2.43167e-31,1.75,540.623,-35)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(54,74,88);"/>
+    </g>
+    <g id="靴6" transform="matrix(1,-9.2635e-32,-5.21072e-31,3.75,584,-605)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(54,74,88);"/>
+    </g>
+    <g id="靴7" transform="matrix(0.85,-7.87398e-32,-1.56322e-30,11.25,610.4,-2744)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(54,74,88);"/>
+    </g>
+    <g transform="matrix(-1,0,0,1,966.023,6)">
+        <g id="スカート3" transform="matrix(21.2556,1.96902e-30,1.51979e-31,1.09375,-25215.8,-407.875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="スカート4" transform="matrix(23.75,2.20008e-30,5.21072e-32,0.375,-28209,74.5)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="スカート5" transform="matrix(26,2.45157e-30,9.59849e-32,0.703125,-30905,-107.562)">
+            <path d="M1200,628L1196,628L1196,692L1198.8,692L1198.8,684.967L1200,684.967L1200,628Z" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="ワンピース2" transform="matrix(20,1.8527e-30,2.17113e-31,1.5625,-23714,-797.25)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="ワンピース3" transform="matrix(20,1.8527e-30,1.84546e-31,1.32812,-23714,-650.062)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(35,45,48);"/>
+        </g>
+    </g>
+    <g id="シワ18" transform="matrix(-8.75565,8.1108e-31,-1.08557e-32,0.078125,11231.8,325.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ19" transform="matrix(-2.5,1.15794e-31,-2.17113e-32,0.078125,3675.02,265.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ20" transform="matrix(-5,4.63175e-31,-1.08557e-32,0.078125,6675.02,305.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ21" transform="matrix(-3.24435,3.0054e-31,-6.5134e-33,0.046875,4562.24,337.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(64,67,73);fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ22" transform="matrix(-7.5,6.94763e-31,-6.5134e-33,0.046875,9680,340.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(64,67,73);fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ23" transform="matrix(-12.5,1.15794e-30,-6.5134e-33,0.046875,15710,343.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(64,67,73);fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ24" transform="matrix(-3,2.77905e-31,-6.5134e-33,0.046875,4360,346.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(64,67,73);fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ25" transform="matrix(-1.25,1.15794e-31,-6.5134e-33,0.046875,2270,343.562)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(64,67,73);fill-opacity:0.8;"/>
+    </g>
+    <g id="シワ26" transform="matrix(-5,2.31588e-31,-2.17113e-32,0.078125,6685.02,275.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ27" transform="matrix(-3.75,3.47381e-31,-1.08557e-32,0.078125,5191,185.938)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ28" transform="matrix(-1.25,1.15794e-31,-4.34227e-32,0.3125,2195,73.75)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ29" transform="matrix(-1.25,1.15794e-31,-4.34227e-32,0.3125,2240,103.75)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ30" transform="matrix(-1.25,1.15794e-31,-6.5134e-32,0.46875,2235,-24.375)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ31" transform="matrix(-7.49435,6.94239e-31,-1.08557e-32,0.078125,9688.24,315.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ32" transform="matrix(-10,1.15794e-30,-8.68453e-33,0.078125,12705,285.937)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g transform="matrix(-2.49435,2.44739e-31,-4.91956e-32,0.375,3753.24,80.5)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g transform="matrix(-1.25,1.22647e-31,-9.22418e-32,0.703125,2270,-101.563)">
+        <rect x="1196" y="628" width="4" height="64" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="シワ33" transform="matrix(-8.49435,7.86874e-31,-1.51979e-32,0.109375,10859.2,304.313)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g id="シワ34" transform="matrix(-14.946,1.38453e-30,-1.95402e-32,0.140625,18635.5,287.687)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g id="シワ35" transform="matrix(-4.5,4.16858e-31,-1.51979e-32,0.109375,6160,309.313)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1,0,0,1,966.023,6)">
+        <g id="しっぽ8" transform="matrix(3.75,3.47381e-31,3.2567e-32,0.234375,-4303.98,171.812)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ9" transform="matrix(13.25,1.22741e-30,2.17113e-32,0.15625,-15709,210.875)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ10" transform="matrix(2.25,2.08429e-31,3.91714e-32,0.281905,-2561.98,123.922)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ11" transform="matrix(8.25,7.64239e-31,1.7278e-32,0.124345,-9761.98,214.911)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ12" transform="matrix(2.0079,1.86002e-31,5.20853e-32,0.374842,-2296.42,36.4192)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ13" transform="matrix(6.25,5.78969e-31,6.94763e-32,0.5,-7378.98,-72)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,171,49);"/>
+        </g>
+        <g id="しっぽ14" transform="matrix(2,1.8527e-31,5.42783e-32,0.390625,-2295.98,-28.3125)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(246,247,212);"/>
+        </g>
+        <g id="しっぽ15" transform="matrix(1.9921,1.84538e-31,5.42783e-32,0.390625,-2269.5,-28.3125)">
+            <rect x="1196" y="628" width="4" height="64" style="fill:rgb(246,247,212);"/>
+        </g>
+    </g>
+    <g transform="matrix(-3.75,3.67941e-31,-4.5096e-32,0.34375,5245,147.125)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-2,1.96235e-31,-2.04982e-32,0.15625,3147,254.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1.25,1.22647e-31,-2.04982e-32,0.15625,2248,244.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(3.75,3.67941e-31,5.12455e-32,0.390625,-3770,114.687)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(2,1.96235e-31,2.04982e-32,0.15625,-1674,251.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1,9.81175e-32,2.04982e-32,0.15625,-476,241.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(3.75,3.67941e-31,3.68967e-32,0.28125,-3794,181.375)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(2,1.96235e-31,1.63985e-32,0.125,-1698,271.5)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1,9.81175e-32,1.43487e-32,0.109375,-500,274.313)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(2,1.96235e-31,3.48469e-32,0.265625,-1726,189.188)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1.5,1.47176e-31,1.43487e-32,0.109375,-1125,280.312)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(1,9.81175e-32,1.22989e-32,0.09375,-525,284.125)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-2.12895,1.97215e-31,-3.77695e-32,0.271816,3228.56,144.409)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(41,153,193);fill-opacity:0.05;"/>
+    </g>
+    <g id="セーター1" transform="matrix(-1,0,0,1,966.023,6)">
+        <g id="腕23" transform="matrix(0.5,4.63175e-32,6.60025e-31,4.75,118.023,-1106)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕24" transform="matrix(0.75,6.94763e-32,2.1885e-30,15.75,69.0226,-4216)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕25" transform="matrix(0.75,6.94763e-32,1.04214e-30,7.5,69.0226,-1906)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕26" transform="matrix(0.25,2.31588e-32,1.38953e-30,10,162.023,-2616)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕27" transform="matrix(0.25,2.31588e-32,1.38953e-30,10,247.023,-2616)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕28" transform="matrix(0.750635,6.95351e-32,5.21072e-31,3.75,63.9108,-816)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕29" transform="matrix(0.750635,6.95351e-32,2.77905e-30,20,63.9108,-5376)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕30" transform="matrix(0.750635,6.95351e-32,8.68453e-31,6.25,63.9108,-1526)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕31" transform="matrix(0.75,6.94763e-32,1.70217e-30,12.25,56.0226,-3181)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕32" transform="matrix(0.75,6.94763e-32,6.94763e-31,5,56.0226,-1151)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕33" transform="matrix(0.6,5.5581e-32,1.73691e-30,12.5,197.423,-3306)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕34" transform="matrix(0.75,6.94763e-32,1.56322e-30,11.25,181.023,-2931)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕35" transform="matrix(0.75,6.94763e-32,1.73691e-30,12.5,189.023,-3266)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕36" transform="matrix(1,9.2635e-32,5.21072e-31,3.75,160.023,-811)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+        <g id="腕37" transform="matrix(0.75,6.94763e-32,1.38953e-30,10,203.023,-2548)">
+            <rect x="156" y="280" width="20" height="4" style="fill:rgb(35,45,48);"/>
+        </g>
+    </g>
+    <g transform="matrix(2,1.96235e-31,1.0864e-31,0.828125,-1761,-275.062)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1.75,-1.71706e-31,3.07473e-32,0.234375,2739,135.813)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-3.5,-3.43411e-31,2.04982e-32,0.15625,4846,181.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-2,-1.96235e-31,2.45978e-32,0.1875,3060,140.25)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1.75,-1.71706e-31,2.2548e-32,0.171875,2768,131.062)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-3.75,-3.67941e-31,2.04982e-32,0.15625,5270,201.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1.99682,-1.95923e-31,1.63985e-32,0.125,3181.2,217.5)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(241,80,49);"/>
+    </g>
+    <g transform="matrix(-1.25,-1.22647e-31,2.04982e-32,0.15625,2265,154.875)">
+        <rect x="1196" y="628" width="4" height="64" style="fill:rgb(212,66,41);"/>
+    </g>
+    <g id="アウター.28.暗.29.1" transform="matrix(0.261097,-1.97891e-32,-1.69831e-30,10,714.047,-2570)">
+        <rect x="156" y="280" width="20" height="4" style="fill-opacity:0.05;"/>
+    </g>
+    <g id="首1" transform="matrix(1.5,-1.38953e-31,-2.16825e-30,15.6043,466,-4241.4)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(231,163,118);"/>
+    </g>
+    <g id="えり4" transform="matrix(0.5,-4.63175e-32,-6.94763e-31,5,642,-1220)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+    </g>
+    <g id="えり5" transform="matrix(0.5,-4.63175e-32,-6.94763e-31,5,622,-1220)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+    </g>
+    <g id="えり6" transform="matrix(0.5,-4.63175e-32,-6.94763e-31,5,632,-1210)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+    </g>
+    <g id="えり7" transform="matrix(0.5,-4.63175e-32,-3.39911e-31,2.44624,632,-494.732)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(64,67,73);"/>
+    </g>
+    <g id="ヘアー14" transform="matrix(1.15173,-1.06691e-31,-2.79801e-30,20.1364,503.295,-5528.75)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(142,107,48);"/>
+    </g>
+    <g id="肌4" transform="matrix(-0.85,7.87398e-32,-5.90548e-31,4.25,918.6,-915)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,197,157);"/>
+    </g>
+    <g id="肌5" transform="matrix(-1,9.2635e-32,-6.94763e-31,5,787,-1155)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(248,186,145);"/>
+    </g>
+    <g id="肌6" transform="matrix(2.55474,-2.36658e-31,-1.36046e-30,9.79084,292.942,-2609.89)">
+        <path d="M176,280L156,280L156,283.8C156,283.91 156.343,284 156.766,284L176,284L176,280Z" style="fill:rgb(255,197,157);"/>
+    </g>
+    <g id="め2" transform="matrix(0.414053,7.29891e-17,1.60166e-15,2.54663,653.43,-581.242)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+    </g>
+    <g id="め3" transform="matrix(0.4,7.05119e-17,1.60166e-15,2.54663,629.623,-581.242)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(19,16,16);fill-opacity:0.7;"/>
+    </g>
+    <g id="ヘアー15" transform="matrix(0.5,-4.63175e-32,-2.08429e-30,15,595,-4081)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(26,33,38);fill-opacity:0.9;"/>
+    </g>
+    <g id="ヘアー16" transform="matrix(0.5,-4.63175e-32,-8.68453e-31,6.25,595,-1613)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);fill-opacity:0.6;"/>
+    </g>
+    <g id="ヘアー17" transform="matrix(1.5,-1.38953e-31,-6.60025e-31,4.75,492.023,-1159)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー18" transform="matrix(1.8,-1.66743e-31,-2.25798e-30,16.25,449.2,-4436)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー19" transform="matrix(0.867913,-8.03992e-32,-4.7988e-31,3.45355,560.891,-844.167)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー20" transform="matrix(0.427067,-3.95613e-32,-6.24282e-31,4.49277,645.895,-1141.65)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー21" transform="matrix(0.427067,-3.95613e-32,-3.83849e-31,2.76245,620.374,-645.688)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー22" transform="matrix(2.23003,-2.06579e-31,-1.04214e-30,7.5,350.09,-1999)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー23" transform="matrix(1.07022,-9.91397e-32,-7.22482e-31,5.19948,516.011,-1348.86)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(184,132,42);"/>
+    </g>
+    <g id="ヘアー24" transform="matrix(0.9,-8.33715e-32,-1.38953e-31,1,567.6,-170)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+    </g>
+    <g id="ヘアー25" transform="matrix(0.9,-8.33715e-32,-1.38953e-31,1,549.6,-166)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+    </g>
+    <g id="ヘアー26" transform="matrix(0.75,-6.94763e-32,-1.38953e-31,1,609,-160)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(150,111,45);"/>
+    </g>
+    <g id="ヘアー27" transform="matrix(0.801731,-7.42684e-32,-7.06109e-31,5.08166,557.895,-1332.86)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="ほっぺ3" transform="matrix(0.838731,-7.76959e-32,-1.99407e-31,1.43507,606.125,-261.517)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);"/>
+    </g>
+    <g id="ほっぺ4" transform="matrix(0.838731,-7.76959e-32,-1.99407e-31,1.43507,606.125,-257.259)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);fill-opacity:0.5;"/>
+    </g>
+    <g id="ほっぺ5" transform="matrix(0.630102,-5.83696e-32,-1.99407e-31,1.43507,580.184,-255.777)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(255,102,51);fill-opacity:0.5;"/>
+    </g>
+    <g id="腕38" transform="matrix(-0.75,6.94763e-32,-1.04214e-30,7.5,873,-2000)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕39" transform="matrix(-1,9.2635e-32,-1.04214e-30,7.5,902,-2010)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕40" transform="matrix(-0.9,8.33715e-32,-1.04214e-30,7.5,866.4,-2020)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕41" transform="matrix(-0.9,8.33715e-32,-8.33715e-31,6,848.4,-1590)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕42" transform="matrix(-0.501237,4.64321e-32,-9.03191e-31,6.5,768.193,-1718)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕43" transform="matrix(-0.75,6.94763e-32,-5.21072e-31,3.75,873,-875)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕44" transform="matrix(-0.575,5.32651e-32,-3.12643e-30,22.5,849.7,-6200)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g id="腕45" transform="matrix(-0.75,6.94763e-32,-2.43167e-30,17.5,888,-4786)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(38,51,62);"/>
+    </g>
+    <g transform="matrix(-0.776006,0,0,1,906.887,6)">
+        <path d="M245.72,155.739C246.895,157.972 247.153,158.023 256.051,158.054C262.921,158.079 263.664,157.314 264.434,155.509" style="fill:none;stroke:rgb(227,132,116);stroke-opacity:0.7;stroke-width:2.23px;"/>
+    </g>
+    <g id="杖1" transform="matrix(-1,0,0,2.3,2025,-349)">
+        <g id="脚10" transform="matrix(-0.8,0,0,0.973244,2104,-535.652)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(73,62,44);"/>
+        </g>
+        <g id="脚11" transform="matrix(-1.2,0,0,0.0802676,2469,153.913)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(47,42,34);"/>
+        </g>
+        <g id="脚12" transform="matrix(-2.5,0,0,0.0267559,3600,202.609)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(73,62,44);"/>
+        </g>
+        <g id="脚13" transform="matrix(-1.2,0,0,0.0167224,2469,208.261)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(63,54,38);"/>
+        </g>
+        <g id="脚14" transform="matrix(2,0,0,-0.0367893,-335,241.739)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(55,49,37);"/>
+        </g>
+        <g id="脚15" transform="matrix(-1.8,0,0,0.100334,2979,130)">
+            <rect x="870" y="780" width="10" height="130" style="fill:rgb(73,62,44);"/>
+        </g>
+    </g>
+    <g id="肌7" transform="matrix(-0.45,4.16858e-32,-1.73691e-31,1.25,701.2,-105)">
+        <rect x="156" y="280" width="20" height="4" style="fill:rgb(248,186,145);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,13,-46)">
+        <path d="M382,303.65L382,329L343,290L382,251L382,276.35L514,276.35L514,251L553,290L514,329L514,303.65L382,303.65Z" style="fill:rgb(241,171,49);"/>
+    </g>
+</svg>

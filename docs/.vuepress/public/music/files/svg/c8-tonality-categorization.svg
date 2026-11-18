@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="480px" viewBox="0 0 960 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>c8-tonality-categorization</title>
+    <g id="c8-tonality-categorization" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" stroke-width="2.25" fill="#FEFEFE" fill-rule="nonzero" stroke-linecap="square" x="36" y="28.5" width="895.5" height="420"></rect>
+        <text id="する" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="380" y="149">する</tspan>
+        </text>
+        <text id="一般的な調性" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="325.5" y="253.5">一般的な調性</tspan>
+        </text>
+        <text id="マルチトニックシステム" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="266" y="390">マルチトニックシステム</tspan>
+        </text>
+        <text id="共通音調性-旋法音楽等の調性" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="705" y="238.5">共通音調性</tspan>
+            <tspan x="840" y="238.5" font-family="Arial-BoldMT, Arial" font-weight="bold"></tspan>
+            <tspan x="664.5" y="273">旋法音楽等の調性</tspan>
+        </text>
+        <text id="不定調性/無調性" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="668.249268" y="373">不定調性</tspan>
+            <tspan x="776.249268" y="373" font-family="Arial-BoldMT, Arial" font-weight="bold">/</tspan>
+            <tspan x="783.750732" y="373">無調性</tspan>
+        </text>
+        <text id="ポスト調性?" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="691.6705" y="414">ポスト調性?</tspan>
+        </text>
+        <text id="単一" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="140.92144" y="253.942659">単一</tspan>
+        </text>
+        <text id="中-心-音-の-位-置" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="58.4214399" y="233.442659">中</tspan>
+            <tspan x="85.4214399" y="233.442659" font-family="Arial-BoldMT, Arial" font-weight="bold"></tspan>
+            <tspan x="58.4214399" y="267.942659">心</tspan>
+            <tspan x="85.4214399" y="267.942659" font-family="Arial-BoldMT, Arial" font-weight="bold"></tspan>
+            <tspan x="58.4214399" y="302.442659">音</tspan>
+            <tspan x="85.4214399" y="302.442659" font-family="Arial-BoldMT, Arial" font-weight="bold"></tspan>
+            <tspan x="58.4214399" y="336.942659">の</tspan>
+            <tspan x="85.4214399" y="336.942659" font-family="Arial-BoldMT, Arial" font-weight="bold"></tspan>
+            <tspan x="58.4214399" y="371.442659">位</tspan>
+            <tspan x="85.4214399" y="371.442659" font-family="Arial-BoldMT, Arial" font-weight="bold"></tspan>
+            <tspan x="58.4214399" y="405.942659">置</tspan>
+        </text>
+        <text id="複数" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="141" y="390">複数</tspan>
+        </text>
+        <text id="音度や機能に関する西洋的調性スキーマを活" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="286.42144" y="73.4426587">音度や機能に関する西洋的調性スキーマを活用</tspan>
+        </text>
+        <text id="しない" font-family="HiraginoSans-W6, Hiragino Sans" font-size="27" font-weight="500" fill="#000000">
+            <tspan x="727" y="149">しない</tspan>
+        </text>
+        <line x1="225.75" y1="104.25" x2="931.5" y2="103.765867" id="Path-3" stroke="#000000" stroke-width="2.25" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        <line x1="36.75" y1="177.75" x2="931.5" y2="177.265867" id="Path-3" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="110.25" y1="314.25" x2="931.5" y2="313.765867" id="Path-3" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="110.25" y1="177.75" x2="110.25" y2="448.5" id="Path-4" stroke="#000000" stroke-width="2.25" stroke-linecap="square" stroke-dasharray="6,6" fill-rule="nonzero"></line>
+        <line x1="225.75" y1="29.25" x2="225.345175" y2="448.5" id="Path-5" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="36.75" y1="29.25" x2="225.75" y2="177.265867" id="Path-6" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+        <line x1="593.120862" y1="104.757933" x2="593.120862" y2="448.5" id="Path-7" stroke="#000000" stroke-width="2.25" stroke-linecap="square" fill-rule="nonzero"></line>
+    </g>
+</svg>
